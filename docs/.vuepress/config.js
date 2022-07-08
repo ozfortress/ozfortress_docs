@@ -12,6 +12,7 @@ module.exports = {
     lastUpdatedText: 'This doc page was last updated at',
     contributors: true,
     editLink: false,
+    repo: 'https://github.com/ozfortress/ozfortress_docs',
     theme: defaultTheme({
       logo: '/images/ozf-docs-logo.png',
       navbar: [
