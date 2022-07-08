@@ -2,6 +2,7 @@
 home: false
 title: Self-managed Servers
 lastUpdated: true
+sidebar: auto
 ---
 
 ## Self-Hosted Servers

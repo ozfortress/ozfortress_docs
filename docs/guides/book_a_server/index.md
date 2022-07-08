@@ -2,6 +2,7 @@
 home: false
 title: Booking a Server
 lastUpdated: true
+sidebar: auto
 ---
 
 ## How to Book

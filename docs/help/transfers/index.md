@@ -2,6 +2,7 @@
 home: false
 title: Transfers
 lastUpdated: true
+sidebar: auto
 ---
 
 ## About

@@ -2,6 +2,7 @@
 home: false
 title: Anti-Cheat & You
 lastUpdated: true
+sidebar: auto
 ---
 
 ## The Anti-Cheat process and You

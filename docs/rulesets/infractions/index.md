@@ -2,6 +2,7 @@
 home: false
 title: Infractions
 lastUpdated: true
+sidebar: auto
 ---
 
 ## General Information

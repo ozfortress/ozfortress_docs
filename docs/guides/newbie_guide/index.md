@@ -2,6 +2,7 @@
 home: false
 title: Newbie Guide
 lastUpdated: true
+sidebar: auto
 ---
 
 ## Welcome to ozfortress!

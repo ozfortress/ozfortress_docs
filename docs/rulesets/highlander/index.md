@@ -2,6 +2,7 @@
 home: false
 title: Highlander (HL) Ruleset
 lastUpdated: true
+sidebar: auto
 ---
 
 The following ruleset outlines the organisation and guidelines that players will need to follow for the ozfortress Highlander seasonal league. Please have a good working understanding of these rules before entering yourself into the competition.

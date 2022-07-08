@@ -2,6 +2,7 @@
 home: false
 title: Community Guidelines
 lastUpdated: true
+sidebar: auto
 ---
 
 ## Community Wide

@@ -2,6 +2,7 @@
 home: false
 title: Server Configs
 lastUpdated: true
+sidebar: auto
 ---
 
 ## TF2 Competitive Fixes
