@@ -51,6 +51,14 @@ module.exports = {
               text: 'Anti-Cheat & You',
               link: '/help/anticheat_and_you/',
             },
+            {
+              text: 'Bans',
+              link: '/help/bans/',
+            },
+            {
+              text: 'Staff',
+              link: '/help/staff/',
+            },
           ],
         },
         {
@@ -75,6 +83,48 @@ module.exports = {
           link: 'https://ozfortress.com',
         },
       ],
+      sidebar: {
+        '/help/bans/': [
+          {
+          // Bans category
+            collapsable: false,
+            text: 'Bans',
+            link: '/help/bans/',
+            children: [
+              {
+                // Evidence Bans category
+                  collapsable: false,
+                  text: 'Evidence Bans',
+                  link: '/help/bans/evidence_bans.md',
+              },
+              {
+                // VAC Bans category
+                  collapsable: false,
+                  text: 'VAC Bans',
+                  link: '/help/bans/vac_bans.md',
+              },
+              {
+                // Infraction Threshold Bans category
+                  collapsable: false,
+                  text: 'Infraction Threshold Bans',
+                  link: '/help/bans/infraction_bans.md',
+              },
+              {
+                // Other Bans category
+                  collapsable: false,
+                  text: 'Other Bans',
+                  link: '/help/bans/other_bans.md',
+              },
+              {
+                // Past Bans category
+                  collapsable: false,
+                  text: 'Past Bans',
+                  link: '/help/bans/past_bans.md',
+              },
+            ]
+          },
+        ],
+      }
     }),
   plugins: [
       docsearchPlugin({
