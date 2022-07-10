@@ -6,8 +6,8 @@ heroText:
 tagline: A documentation site for ozfortress competitions and services.
 lastUpdated: false
 features:
-- title: EVERYTHING IS HERE
-  details: We have moved all documentation previously found on ozfortress.com to here, be it rulesets, help docs, guides, everything.
+- title: EXCUSE THE COBWEBS...
+  details: We have relocated all of our documentation previously found on ozfortress.com to here - our new documentation website, be it rulesets, help docs, guides, everything.
 - title: GUIDES
   details: We're working on bringing new players guides covering everything a new, experienced or "boomer" could ever need!
 - title: SEARCH

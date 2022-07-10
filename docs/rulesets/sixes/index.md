@@ -91,7 +91,7 @@ League Administrators are responsible for the efficient running of ozfortress co
 
 The Head Administrator is ultimately responsible for the general running and organization of the league.
 
-### 1.10. out of region Teams and Players
+### 1.10. Out of Region Teams and Players
 ozfortress primarily caters to players from Australia and New Zealand, however, players from other areas such as Asia are welcome to compete. Foreign teams must still play on Australian servers (servers hosted in Sydney or Melbourne are available for booking through Discord) unless it is determined that using an alternative server is beneficial for both the native and foreign teams. For example, a match between teams from Singapore and Western Australia may choose to use an approved server located in Perth, which ozfortress does not provide.
 
 Teams outside of our supported regions will be subject to further scrutiny during the signups process, and will typically not be approved. Players outside of our supported regions can participate but will be subject to the same scrutiny during the signups/transfers process.
