@@ -1,7 +1,6 @@
 const { defaultTheme } = require('@vuepress/theme-default')
 const { backToTopPlugin } = require('@vuepress/plugin-back-to-top')
 const { mediumZoomPlugin } = require('@vuepress/plugin-medium-zoom')
-const { searchPlugin } = require('@vuepress/plugin-search')
 
 
 module.exports = {
@@ -17,15 +16,15 @@ module.exports = {
       logo: '/images/ozf-docs-logo.png',
       navbar: [
         {
-          text: 'Rulesets',
+          text: 'Rules',
           children: [
             {
               text: 'Sixes (6v6)',
-              link: '/rulesets/sixes/',
+              link: '/rules/sixes/',
             },
             {
               text: 'Highlander (HL)',
-              link: '/rulesets/highlander/',
+              link: '/rules/highlander/',
             },
             {
               text: 'Community Guidelines',
@@ -33,7 +32,7 @@ module.exports = {
             },
             {
               text: 'Infractions',
-              link: '/rulesets/infractions/',
+              link: '/rules/infractions/',
             },
           ],
         },
@@ -130,6 +129,5 @@ module.exports = {
     plugins: [
       backToTopPlugin(),
       mediumZoomPlugin(),
-      searchPlugin(),
     ],
 }
