@@ -10,15 +10,15 @@ sidebar: auto
 ### Team Leads/Heads
 Have an issue that isn't within the Sixes or Highlander realm? Good chance our Team Leads/Heads will have an answer for you. As always, we ask that you go through either `#sixes-support` / `#highlander-support` / `#ticket-support` within our [Discord](https://discord.gg/7E6kC2H) first before contacting one of us directly.
 
-| Role | Name | Discord | Other Contact |
-| ---- | ---- | ------- | ------------- |
-| General Head Administrator | [core](https://ozfortress.com/users/491) | [core#6440](https://discordapp.com/users/226205616773922816) | [itscoretf@gmail.com](mailto:itscoretf@gmail.com) |
-| Sixes Head Administrator | [TBD]() |  | N/A |
-| Highlander Head Administrator | [bird](https://ozfortress.com/users/139) | [bird#0246](https://discordapp.com/users/103861958339469312) | N/A |
-| Head of Anti-Cheat | [catfish](https://ozfortress.com/users/96) | [catfish#1503](https://discordapp.com/users/129062149640159232) | N/A |
-| Head of Behaviour Panel | [samson](https://ozfortress.com/users/205) | [samson#5103](https://discordapp.com/users/76537156578840576) | N/A |
-| Media Coordinator | [Sperkle](https://ozfortress.com/users/618) | [Sperkle#4456](https://discordapp.com/users/180875592923611145) | N/A |
-| Developer | [/dev/zero](https://ozfortress.com/users/2) | [/dev/zero#0231](https://discordapp.com/users/131721186869641216) | N/A |
+| Role | Name | Discord |
+| ---- | ---- | ------- |
+| General Head Administrator | [core](https://ozfortress.com/users/491) | [core#6440](https://discordapp.com/users/226205616773922816) |
+| Sixes Head Administrator | [a team of ants in their prime](https://ozfortress.com/users/1561) | [a team of ants in their prime#3881](https://discordapp.com/users/187344325938511874) |
+| Highlander Head Administrator | [bird](https://ozfortress.com/users/139) | [bird#0246](https://discordapp.com/users/103861958339469312) |
+| Head of Anti-Cheat | [catfish](https://ozfortress.com/users/96) | [catfish#1503](https://discordapp.com/users/129062149640159232) |
+| Head of Behaviour Panel | [samson](https://ozfortress.com/users/205) | [samson#5103](https://discordapp.com/users/76537156578840576) |
+| Media Coordinator | [Sperkle](https://ozfortress.com/users/618) | [Sperkle#4456](https://discordapp.com/users/180875592923611145) |
+| Developer | [/dev/zero](https://ozfortress.com/users/2) | [/dev/zero#0231](https://discordapp.com/users/131721186869641216) |
 
 ### League Administrators
 As mentioned in our competitive league rulesets, League Administrators in tandem with each league's Head Administrator and General Head Administrator, are responsible for the effective running of ozfortress seasonal competitions.
@@ -26,9 +26,8 @@ As mentioned in our competitive league rulesets, League Administrators in tandem
 | League | Name | Discord |
 | ---- | ---- | ------- |
 | Sixes | [samson](https://ozfortress.com/users/205) | [samson#5103](https://discordapp.com/users/76537156578840576) |
-| Sixes | [a team of ants in their prime](https://ozfortress.com/users/1561) | [a team of ants in their prime#3881](https://discordapp.com/users/) |
+| Sixes | [a team of ants in their prime](https://ozfortress.com/users/1561) | [a team of ants in their prime#3881](https://discordapp.com/users/187344325938511874) |
 | Sixes | [chimes](https://ozfortress.com/users/2244) | [chimes#0002](https://discordapp.com/users/198678356454014976) |
-| Sixes | [fez](https://ozfortress.com/users/13) | [fez#3662](https://discordapp.com/users/172622689180188672) |
 | Sixes | LF *- [Apply via Staff Applications thread](https://ozfortress.com/forums/topics/24)* |  |
 | Sixes | LF *- [Apply via Staff Applications thread](https://ozfortress.com/forums/topics/24)* |  |
 | Highlander | [Thyme](https://ozfortress.com/users/150) | [Thyme#1499](https://discordapp.com/users/132287870886084608) |
@@ -69,6 +68,7 @@ Brodogs,
 catfish,
 Cole,
 ferelah,
+fez,
 Fozzlm,
 gabbo,
 hatchet,
