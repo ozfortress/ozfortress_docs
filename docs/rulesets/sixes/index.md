@@ -22,10 +22,10 @@ The regular season will be played over 7 weeks, with playoffs/finals rounds runn
 
 Two maps will be played for each regular season fixture, chosen by administration prior to the commencement of the season out of a 9 map pool. Matches are expected to typically last just over an hour in a regular-season fixture. Playoff fixtures typically last longer and players should ensure to allocate and schedule accordingly.
 
-##### Top Divisions
+#### Top Divisions
 The regular season for Premier, High and Intermediate (again depending on signup numbers) will be run on a Round Robin system, where each team plays each other once. When the High division is active, Intermediate will typically use the Swiss system.
 
-##### Main and Open
+#### Main and Open
 The regular season will be run on the Swiss system, where each round is seeded based on the previous records of teams.
 [See Rule 1.4 for further details on the Swiss system](/rulesets/sixes/#_1-4-round-robin).
 
@@ -37,7 +37,7 @@ Playoff matches will each be a best of three (BO3) with the exception of the Pre
 
 Playoffs for all brackets will be played using the [Page playoff system](https://en.wikipedia.org/wiki/Page_playoff_system).
 
-##### Page Playoffs
+#### Page Playoffs
 In the Upper Page Playoff, the first and second-placed teams will play against each other. The winner advances directly to the Grand Final.
 In the Lower Page Playoff, the third and fourth-placed teams will play against each other. The loser is eliminated.
 The loser of the Upper Page Playoff will compete with the winner of the Lower Page Playoff in the Semi-Final. The loser of the Semi-Final will receive Third Place and the winner will advance to the Grand Final. There is no Bronze Match.
@@ -59,7 +59,7 @@ Each match consists of two maps; the winner of each individual map will be award
 
 Rankings will first be determined by these match points. If point draws exist, the following methods will be used to break them:
 
-##### All Divisions
+#### All Divisions
 1. Match wins vs. Tied participants.
 2. Median-Buchholz score (total).
 3. Total match wins.
@@ -72,15 +72,15 @@ It is the team captain’s responsibility to contact your bracket’s League Adm
 
 **ANY forfeit in finals rounds will result in removal from the league and additional penalties for the offending team.**
 
-##### Forfeit Types
-###### Forfeit Win
+#### Forfeit Types
+##### Forfeit Win
 A forfeit win will be awarded where the offending team has not made an effort to organise the match within the match organisation dates listed in this ruleset. Forfeit wins will also be considered as a punitive measure where serious rule breaches have been committed during a match. A forfeit win will be recorded as a match win worth 4 league points. See [Rule 4.6](/rulesets/sixes/#_4-6-submitting-forfeit-wins) on how to submit a forfeit win.
 
-###### Mutual Forfeit
+##### Mutual Forfeit
 Mutual forfeits will be applied where neither team have made an effort to organise the match within a reasonable timeframe. A mutual forfeit will be recorded as a match loss for both teams, worth 0 league points.
 Mutual forfeits contribute to the 2-forfeit league removal count.
 
-###### Technical Forfeit
+##### Technical Forfeit
 A technical forfeit will be awarded in cases where situations outside the teams’ control occur, preventing both teams from playing the match, including but not limited to, Steam outages or major weather events. A technical forfeit will be recorded as a match draw, worth 2 league points for each team.
 
 ### 1.8. Draws
@@ -122,7 +122,7 @@ Players who have played in higher divisions than their team has applied for shal
   - VAC Bans
 
 ### 2.3. Captains
-A team must nominate a player(s) to act as a captain to represent the team in organising matches and liaising with ozfortress League Administrators. This player(s) has the ultimate responsibility for their team. Match communication is expected to be clear and concise. Individuals or teams who complicate the organisation of matches, or post irrelevant content will receive captaincy penalties. Captains may be excluded from acting as team captains for future competitions if ozfortress League Administrators consider them to be unfit to lead.
+A team must nominate a player(s) to act as a captain to represent the team in organising matches and liaising with ozfortress League Administrators. This player(s) has the ultimate responsibility for their team. Captains may be excluded from acting as team captains for future competitions if ozfortress League Administrators consider them to be unfit to lead.
 
 ### 2.4. Mutiny Rule
 A simple majority of registered team members may elect to nominate a new captain or remove the captain entirely, at any point of the season with the approval of the league coordinator. This may be used when a captain is the sole reason for an imminent disbanding of a team. In this situation, the team at large will remain without penalty.
@@ -139,13 +139,13 @@ Teams will only be able to increase the size of their roster throughout the seas
 
 Week 6 is the final week for transfers. League Administrators reserve the right to deny transfer applications based on numerous factors, and judgement will adapt to each transfer request. Players serving exclusion penalties in ozfortress will not be eligible for transfers until after their exclusion penalty has finished. Transfers should be approved by League Administrators no later than Saturday at 11:59 PM.
 
-#### 2.6.1. Player Pool
+### 2.6.1. Player Pool
 The Player Pool is the area of each team where players invited to the team are listed publically. Players within the Player Pool that are not on the Active Roster are counted as Mercenaries.
 
-#### 2.6.2. Active Roster
+### 2.6.2. Active Roster
 The Active Roster contains each and every player you count as a core or substitute player and can be used throughout the season. Players need to be requested to be transferred from the Player Pool to the Active Roster prior to their usage in an official match, otherwise, they will be counted as mercenaries.
 
-#### 2.6.3. Emergency Transfers
+### 2.6.3. Emergency Transfers
 Emergency Transfers are granted by the staff team for situations where teams have an unavoidable player loss on their roster. The number of players granted and conditions are heavily case-by-case and up to the discretion of the staff team. The best way to request this process is via our support bot Alfred, as the entire staff team will immediately be able to see the request, but you can message your division or region administrator if need be.
 
 ### 2.7. Exclusions
@@ -176,6 +176,15 @@ If it is proving difficult to get in contact with the other team, or they are no
 
 Teams may request an extension for a playoff match through their bracket’s League Administrator. If an extension is granted, both teams must agree on a date within the allocated time. Opposing teams are not obligated to play within the extended period although compromise and sportsmanship between teams is encouraged.
 
+### 3.1.1. Match Communications
+Match Communications are used to discuss the essential details for official ozfortress matches. It is expected that for the duration of discussion around an official match, teams and by extension players, do not post anything non-essential to the flow of the match.
+
+The following should be present within all Match Communications:
++ Match date/day & times, or negotiation of such.
++ Any and all mercenary requests, along with approval of mercenaries.
++ logs.tf links for each map played.
++ Anything else that teams deem essential to the correct running of their official match.
+
 ### 3.2. Match Deadlines
 **Match time set**: 7:00 PM Monday
 **Results submission**: 11:59 PM Thursday
@@ -183,18 +192,18 @@ Teams may request an extension for a playoff match through their bracket’s Lea
 ### 3.3. Organisational Responsibilities
 The responsibility for these tasks falls upon the team captain of each team. If they are unable to complete these tasks or ensure these tasks are completed, they must nominate another team member to ensure their completion.
 
-###### Both teams must:
+##### Both teams must:
 + Make an appropriate effort to organise the match.
 + Ensure attendance at the match.
 + Inform, and seek approval from the other team of any mercenaries and post their ozfortress.com profile and known applications in the match thread.
 + Inform League Administrators of any potential issues with the match, or of any disputes.
 + Submit or verify the final score prior to the score submission deadline.
 
-###### The home team must:
+##### The home team must:
 + Organise the game server.
 + Appropriately administer the server during the match.
 
-###### Score Submission
+##### Score Submission
 **Teams must clearly state both the winner and match score of each map**. [logs.tf](https://logs.tf) links must also be linked.
 
 :::tip Example
@@ -297,17 +306,17 @@ The ozfortress approved casting organisations are as follows:
 
 Casting organisations cannot directly influence or affect the scheduling of an official ozfortress match in any way.
 
-#### 4.5.1. Approved ozfortress Casting Organisations
+### 4.5.1. Approved ozfortress Casting Organisations
 If your game is to be casted by an approved organisation, your team must provide to the caster(s), streamer, or organisation representative:
 + The server connect string, potentially including the RCON password (if the production team requires it, they will inform you).
 + An updated list of players and/or any mercenaries participating in the match. This must be provided at least an hour before the set match time.
 
 The above rules apply to ozfortress-approved casting organisations only.
 
-#### 4.5.2. Unapproved ozfortress Casting Organisations
+### 4.5.2. Unapproved ozfortress Casting Organisations
 Casting organisations and individuals that are not approved by ozfortress may still cast official ozfortress matches, however, approved casting organisations will have precedence. If a team captain wishes to deny such a cast, they should discuss it with an ozfortress League Administrator.
 
-#### 4.5.3. Player POV streaming
+### 4.5.3. Player POV streaming
 Broadcasts of a player’s POV outside of a casted setting where STV delay is enforced, a minimum observable delay of at least ten (10) seconds is required. We define “observable delay” as a combination of personally set stream delay (for example in OBS) and standard Twitch/YouTube streaming delay. 
 
 ### 4.6. Submitting Forfeit Wins
@@ -376,7 +385,7 @@ The in-game mechanic of weapon exchange and pick up is allowed.
 ### 5.6. Game Formats
 The following formats are used in the ozfortress seasonal league and have an associated configuration file in the ozfortress configs.
 
-#### 5 Control Points
+### 5 Control Points
 Standard 5 Control Points (5CP) maps are played for 30 minutes with a 5 point difference mercy rule. The following configuration represents this format:
 ```
 mp_windifference 5
@@ -386,7 +395,7 @@ mp_winlimit 0
 
 Load this configuration using `rcon exec ozfortress_6v6_5cp` or simply `rcon ozf` on ozfortress servers.
 
-#### King of the Hill
+### King of the Hill
 King of the Hill (KOTH) maps are played first to 3 with no time limit. The following configuration represents this format:
 ```
 mp_windifference 0
@@ -396,7 +405,7 @@ mp_winlimit 3
 
 Load this configuration using `rcon exec ozfortress_6v6_koth` or simply `rcon ozfkoth` on ozfortress servers.
 
-#### Golden Cap
+### Golden Cap
 In formats where ties are not allowed, a golden cap may be used to determine the winner of a 5CP match tied at 30 minutes. Golden Cap rounds are played till the first capture of the last point with no time limit. The following configuration represents this format:
 ```
 mp_windifference 0
@@ -419,7 +428,7 @@ Currently, ozfortress does not allow in-official coaching via any means (for exa
 ### 6.1. Exploits
 The intention of exploiting any aspect of the game for an unfair advantage, whether they are explicitly listed or not, is prohibited. We consider there to be two categories of exploits; **Game Modification exploits** and **Game Mechanic exploits**. Game Modification exploitation is the act of modifying game files (and typically bypassing sv_pure 2) to gain an unfair advantage. Game Mechanic exploitation is typically engine exploits, bugs, or abuse of unattended gameplay features that are outside the scope of competitive fairness and play.
 
-#### 6.1.1. Game Modification exploits
+### 6.1.1. Game Modification exploits
 This is commonly treated as akin to cheating when malicious, as it is direct game file manipulation to gain an unfair advantage. Any listed item not explicitly stated as allowed is prohibited.
 + Using scripts/macros that allow you to bypass movement or engine restrictions.
   - Panic scripts.
@@ -437,7 +446,7 @@ This is commonly treated as akin to cheating when malicious, as it is direct gam
 + Uber Pause bug
   - A bug where medics continue to build uber during a pause whilst healing a player. This bug should be prevented by server plugins, but in the event it does happen, both teams should be made aware and an administrator should be contacted.
 
-##### Some examples of allowed Game Modification are:
+#### Some examples of allowed Game Modification are:
 + Custom HUDs.
 + Custom Autoexec, class configs, etc.
 + Flat textures.
@@ -460,7 +469,7 @@ This is commonly treated as akin to cheating when malicious, as it is direct gam
 + Loadout changing scripts and quick respawn scripts
   - Note: Preserving ubercharge, sticky traps, or engineer buildings when forward spawning or backwards spawning is prohibited.
 
-#### 6.1.2. Game Mechanic exploits
+### 6.1.2. Game Mechanic exploits
 + Game Mechanic exploits are typically map, client or server exploits used to gain an unfair advantage.
 + Placing the Engineer’s buildings outside of the map, in indestructible locations or anywhere where it is not visible.
 + Entering areas that are “out of bounds” or not in playable space.
@@ -468,7 +477,7 @@ This is commonly treated as akin to cheating when malicious, as it is direct gam
 + Exploiting the map design to enter areas that aren’t regular gameplay, for any means or use.
 + Map-based exploits (water jump scoping, etc).
 
-##### Explicitly allowed Game Mechanic exploits:
+#### Explicitly allowed Game Mechanic exploits:
 + Wallbugs.
 + Edgebugs.
 + C-taps.

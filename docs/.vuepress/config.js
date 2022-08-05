@@ -1,7 +1,7 @@
 const { defaultTheme } = require('@vuepress/theme-default')
-const { docsearchPlugin } = require('@vuepress/plugin-docsearch')
 const { backToTopPlugin } = require('@vuepress/plugin-back-to-top')
 const { mediumZoomPlugin } = require('@vuepress/plugin-medium-zoom')
+const { searchPlugin } = require('@vuepress/plugin-search')
 
 
 module.exports = {
@@ -127,13 +127,9 @@ module.exports = {
         ],
       }
     }),
-  plugins: [
-      docsearchPlugin({
-        // options
-      }),
+    plugins: [
       backToTopPlugin(),
-      mediumZoomPlugin({
-          // options
-        }),
-  ],
-  }
+      mediumZoomPlugin(),
+      searchPlugin(),
+    ],
+}

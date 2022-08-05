@@ -22,11 +22,10 @@ That is the process. You’re done. The Anti-Cheat panel will take their time to
 ## Anti-Cheat Submission Reporting
 To make an Anti-Cheat Submission, please make a new thread [here](https://ozfortress.com/forums/threads/new?topic=17). Your submission can only be seen by the Head Administrator, the Anti-Cheat Panel and yourself.
 
-::: tip PLEASE NOTE
+::: warning PLEASE NOTE
 You will both need to have an ozfortress.com account and be signed in to make a submission.
 :::
 
-~~Alternatively, you can also submit evidence for the Anti-Cheat panel to review by making a new ticket under the “Anti-Cheat Report” option in [#ticket-support](https://discord.com/channels/82651383144120320/963801705349271553) of our [Discord](https://discord.gg/7E6kC2H).~~
 Anti-Cheat tickets are currently not in the Discord, so you will need to make a thread on ozfortress.com using the link above.
 
 When submitting evidence, use this template:

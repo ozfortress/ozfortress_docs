@@ -45,19 +45,19 @@ The 3 round match ban carries across from the offseason, so if it is received du
 
 Infraction points do **not** expire after a user is banned. If a user receives a one-year ban involving a Tier 3 infraction, the infraction will still remain for the remainder of the two-year expiry after the player’s one-year ban has been served.
 
-
 ## Infractions
 #### Tier 1 Offences - 10 points (6 months expiry)
 + Repeated delays in match organisation
 + Inappropriate or unrelated posting in match threads
 + Excessive trash talk (beyond that which can reasonably be considered banter)
-+ Failure to run proper alias / fake nicking in a cast of an official match by an approved casting organisation
 
 #### Tier 2 Offences - 20 points (1-year expiry)
 + Any attempt to deceive or mislead players, captains or administrators
 + Impersonating ozfortress players without permission
 + Interference with an ozfortress match
 + Disbanding an in-season active roster
++ Destructive server administration / abuse of server remote control
++ Failure to follow format/config limitations
 
 #### Tier 3 Offences - 30 points (2-year expiry)
 + Attempting to impersonate or imply affiliation with members of the anti-cheat panel
@@ -74,3 +74,11 @@ Infraction points do **not** expire after a user is banned. If a user receives a
   - Sexism
   - Transphobia
 + General bigotry/use of derogatory slurs against an individual or group
+
+## Ban Probations
+Players who have served their ban will automatically have a 12 month probation period applied. Within this period, offences carry higher points and more severe penalties. All typical Ban Levels are observed by these probationary changes, as such 60 points will instantly incur a 1 Year Competitive and Community Ban.
+
+The differences for those serving probations are outlined below:
++ Tier 1 infractions are doubled, and will incur 20 points. 
++ Tier 2 infractions are multiplied by 1.5x, and will incur 30 points.
++ Tier 3 infractions are doubled, and will instantly incur 60 points.
