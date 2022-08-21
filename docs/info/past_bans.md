@@ -1,11 +1,3 @@
----
-home: false
-title: Past Bans
-lastUpdated: true
----
-
-## Past Bans
-
 + Angelessme - [STEAM_0:1:5245949]
 + Clutch - [STEAM_0:0:5066204] - 27/06/2011
 + ecchi - [STEAM_0:1:25550531] - 22/07/2011 (Reduced by 1 Month)

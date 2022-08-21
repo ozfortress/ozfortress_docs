@@ -1,0 +1,114 @@
+# Navbar title
+site_name: ozfortress Docs
+# Both site_name and site_url are needed for the configuration file
+site_url: https://docs.ozfortress.com
+# Author
+site_author: ozfortress
+# Site description
+site_description: >-
+  ozfortress houses all of its documentation for league play, services, guides, FAQs and more within this docs site. 
+# Repository
+repo_name: ozfortress/ozfortress_docs
+# Repisitory URL to link
+repo_url: https://github.com/ozfortress/ozfortress_docs
+copyright: >
+  Copyright &copy; 2022 - 2023 ozfortress
+  |
+  [<a href="#__consent">Change your cookie settings here</a>]
+nav:
+    - Home: index.md
+    - Rulebook:
+      - Sixes: rules/sixes.md
+      - Highlander: rules/highlander.md
+      - Community Guidelines: rules/community_guidelines.md
+      - Infractions: rules/infractions.md
+      - Transfers: rules/transfers.md
+    - League Info:
+      - Anti-Cheat & You: info/anticheat_and_you.md
+      - Bans:
+        - Ban Types: info/ban_types.md
+        - Anti-Cheat Bans: info/anticheat_bans.md
+        - VAC Bans: info/vac_bans.md
+        - Infraction Threshold Bans: info/infraction_bans.md
+        - Other Bans: info/other_bans.md
+        - Past Bans: info/past_bans.md
+      - Staff: info/staff.md
+      - Map History: info/map_history.md
+      - Server Configs: info/server_configs.md
+    - Guides:
+      - Newbie Guide: guides/newbie_guide.md
+      - Book a Server: guides/book_a_server.md
+      - Self-managed Servers: guides/selfmanaged_servers.md
+    - FAQ: faq.md
+    - Back to ozfortress.com: 'https://ozfortress.com'
+theme:
+  name: 'material'
+  favicon: 'img/logo.svg'
+  logo: 'img/logo.svg'
+  #font: 
+    #text: Bebas Neue
+  icon:
+    repo: fontawesome/brands/github
+    admonition:
+      note: octicons/tag-16
+      abstract: octicons/checklist-16
+      info: octicons/info-16
+      tip: octicons/squirrel-16
+      success: octicons/check-16
+      question: octicons/question-16
+      warning: octicons/alert-16
+      failure: octicons/x-circle-16
+      danger: octicons/zap-16
+      bug: octicons/bug-16
+      example: octicons/beaker-16
+      quote: octicons/quote-16
+  palette:
+    # Palette toggle for Light Mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: blue grey
+      toggle:
+        icon: material/brightness-7
+        name: Switch to Dark Mode
+    # Palette toggle for Dark Mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: black
+      toggle:
+        icon: material/brightness-4
+        name: Switch to Light Mode
+  features:
+   - search.highlight
+   - search.suggest
+   - search.share
+   - navigation.instant
+   - navigation.tracking
+   - navigation.tabs
+   - navigation.expand
+   - navigation.top
+   - toc.integrate
+   - toc.follow
+   - content.tooltips
+markdown_extensions:
+  - admonition
+  - pymdownx.keys
+plugins:
+  - search
+  - glightbox
+  - git-revision-date-localized:
+      type: timeago
+      enable_creation_date: false
+      fallback_to_build_date: true # remove this prior to launch
+extra:
+  consent:
+    title: Hey, we use cookies!
+    description: >- 
+      We use cookies to recognize your repeated visits and preferences, as well
+      as to measure the effectiveness of our documentation and whether players can
+      find what they're searching for. With your consent, you're helping us to
+      make our documentation better.
+  actions:
+    - accept
+    - manage
+extra_css:
+  - stylesheets/extra.css

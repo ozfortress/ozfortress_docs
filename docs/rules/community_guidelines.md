@@ -1,10 +1,3 @@
----
-home: false
-title: Community Guidelines
-lastUpdated: true
-sidebar: auto
----
-
 ## Community Wide
 ozfortress is a community that caters to any players who want to play Team Fortress competitively and socially. The community is run by administrators who rely heavily on all members for each action they take. The administration team is made up of current and past community members who have volunteered their own time to run and oversee the community.
 
@@ -16,8 +9,8 @@ The following rules are strictly enforced throughout any media through which ozf
 + Serious or repeated abuse of a sexual, racist, or religious nature.
 + Serious or repeated abuse of ozfortress staff while carrying out their duties.
 + Serious abuse of a personal nature including but not limited to:
-  - Revealing personal details.
-  - Inappropriate use of photographs.
+    - Revealing personal details.
+    - Inappropriate use of photographs.
 + Any attempt to circumvent an enforced ban.
 + Any attempt to impersonate a member of ozfortress.
 
@@ -34,6 +27,6 @@ Breaking the following rules may result in punishment:
 + Abuse to administrators will NOT be tolerated and is treated as a serious offence.
 
 ### Punishments
-Punishments for breaches of rules are dealt with via a system of infraction points. Details of infractions that can be issued are supplied [here](https://ozfortress.com/infractions).
+Punishments for breaches of rules are dealt with via a system of infraction points. Details of infractions that can be issued are supplied [here](https://docs.ozfortress.com/rules/infractions).
 
-Some punishment levels will carry over to Community and Competitive Bans, depending on the level of infraction points reached. These bans are explained in more detail at the above link, and bans are listed [here](https://ozfortress.com/bans).
+Some punishment levels will carry over to Community and Competitive Bans, depending on the level of infraction points reached. These bans are explained in more detail at the above link, and bans are listed [here](https://docs.ozfortress.com/info/bans).

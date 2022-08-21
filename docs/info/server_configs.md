@@ -1,10 +1,3 @@
----
-home: false
-title: Server Configs
-lastUpdated: true
-sidebar: auto
----
-
 ## TF2 Competitive Fixes
 ozfortress now uses the "TF2 Comp Fixes" plugin by *twiikuu* to implement various fixes onto official match servers. [You can download the plugin here](https://github.com/ldesgoui/tf2-comp-fixes).
 
@@ -39,9 +32,8 @@ The following formats are used in the ozfortress seasonal leagues and have an as
 ### 5 Control Points
 Standard 5 Control Points (5CP) maps are played for 30 minutes with a 5 point difference mercy rule. Load this configuration using `rcon exec ozfortress_6v6_5cp` or simply `rcon ozf-6s-5cp` on ozfortress servers. 
 
-::: tip
-It is worth noting that `rcon ozf` still executes this config!
-:::
+!!! abstract "Please Note"
+    You can still execute the standard 5CP config file using `rcon ozf`.
 
 ### King of the Hill
 King of the Hill (KOTH) maps are played first to 3 with no time limit. Load this configuration using `rcon exec ozfortress_6v6_koth` or simply `rcon ozf-6s-koth` on ozfortress servers.

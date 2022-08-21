@@ -1,23 +1,87 @@
----
-home: true
-title: Home
-heroImage: /images/ozf-docs-large.png
-heroText: 
-tagline: A documentation site for ozfortress competitions and services.
-lastUpdated: false
-features:
-- title: EXCUSE THE COBWEBS...
-  details: We have relocated all of our documentation previously found on ozfortress.com to here - our new documentation website, be it rulesets, help docs, guides, everything.
-- title: GUIDES
-  details: We're working on bringing new players guides covering everything a new, experienced or "boomer" could ever need!
-- title: COMING SOON - SEARCH
-  details: The search engine being built into the docs will allow you to search for keywords anywhere on the docs website, find every reference of a specific word or phrase, and more.
-  link: /guides/sixes/test.md
-footer: Copyright © 2022-present ozfortress
----
+# Welcome to MkDocs
 
-## SOME FREQUENTLY ASKED QUESTIONS
-Below you can find some answers to questions regarding this new docs website.
+For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
-#### OK, BUT WHY?
-The previous iterations of documentation on ozfortress.com have been limited by one or more factors, and with more new players coming in every season, we felt that working on ways to make our documentation easier to use, search and reference, would benefit everyone, new players and old.
+## Commands
+
+* `mkdocs new [dir-name]` - Create a new project.
+* `mkdocs serve` - Start the live-reloading docs server.
+* `mkdocs build` - Build the documentation site.
+* `mkdocs -h` - Print help message and exit.
+
+## Project layout
+
+    mkdocs.yml    # The configuration file.
+    docs/
+        index.md  # The documentation homepage.
+        ...       # Other markdown pages, images and other files.
+
+<div class="jumbotron">
+<h2 class="display-4 text-center">Features</h2>
+
+<div class="row">
+  <div class="col-sm-6">
+    <div class="card">
+      <div class="card-body">
+        <h3 class="card-title">Great themes available</h3>
+        <p class="card-text">
+            There's a stack of good looking <a
+            href="user-guide/choosing-your-theme">themes</a> available for
+            MkDocs. Choose between the built in themes: <a
+            href="user-guide/choosing-your-theme/#mkdocs">mkdocs</a> and <a
+            href="user-guide/choosing-your-theme/#readthedocs">readthedocs</a>,
+            select one of the third-party themes listed on the <a
+            href="https://github.com/mkdocs/mkdocs/wiki/MkDocs-Themes">MkDocs
+            Themes</a> wiki page, or <a href="dev-guide/themes/">build your
+            own</a>.
+        </p>
+      </div>
+    </div>
+  </div>
+  <div class="col-sm-6">
+    <div class="card">
+      <div class="card-body">
+        <h3 class="card-title">Easy to customize</h3>
+        <p class="card-text">
+            Get your project documentation looking just the way you want it by
+            <a href="user-guide/customizing-your-theme/">customizing your
+            theme</a> and/or installing some <a
+            href="user-guide/configuration/#plugins">plugins</a>. Modify
+            Markdown's behavior with <a
+            href="user-guide/configuration/#markdown_extensions">Markdown
+            extensions</a>. Many <a
+            href="user-guide/configuration/">configuration options</a> are
+            available.
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-sm-6">
+    <div class="card">
+      <div class="card-body">
+        <h3 class="card-title">Preview your site as you work</h3>
+        <p class="card-text">
+            The built-in dev-server allows you to preview your documentation
+            as you're writing it. It will even auto-reload and refresh your
+            browser whenever you save your changes.
+        </p>
+      </div>
+    </div>
+  </div>
+  <div class="col-sm-6">
+    <div class="card">
+      <div class="card-body">
+        <h3 class="card-title">Host anywhere</h3>
+        <p class="card-text">
+            MkDocs builds completely static HTML sites that you can host on
+            GitHub pages, Amazon S3, or <a
+            href="user-guide/deploying-your-docs/">anywhere</a> else you
+            choose.
+        </p>
+      </div>
+    </div>
+  </div>
+</div>

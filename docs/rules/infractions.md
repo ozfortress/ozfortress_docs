@@ -1,12 +1,3 @@
----
-home: false
-title: Infractions
-lastUpdated: true
-sidebar: auto
----
-
-## General Information
-
 ozfortress enforces a set of Community Rules and Competitive Rules using a system of infraction points. You are issued infraction points that correspond to specific rule breaches and carry different points and expiration times. Each player starts with 0 infraction points.
 
 Bans will be issued at different point levels, and carry different ban lengths and game bans depending on how many points you have accrued. Additionally, we list the infractions that can be issued and their corresponding rule.
@@ -64,21 +55,22 @@ Infraction points do **not** expire after a user is banned. If a user receives a
 + Attempting to impersonate or imply affiliation with members of the behaviour panel
 + Attempting to deceive community members by impersonating a member of ozfortress staff
 + Serious or repeated abuse and/or harassment of any kind, including but not limited to;
-  - Witch-hunting
+    - Witch-hunting
 + Sharing personal, identifiable information without permission/consent from that individual. Sharing of personal/identifiable information sourced from outside of what is considered our community and/or the Team Fortress space;
-  - An individual’s personal social media is under assumed privacy and anonymity; and therefore is something we consider outside of our community *unless* voluntarily shared by the individual.
+    - An individual’s personal social media is under assumed privacy and anonymity; and therefore is something we consider outside of our community *unless* voluntarily shared by the individual.
 + Threats of violence/harm against an individual or group
 + Discrimination of any kind; some examples are;
-  - Homophobia
-  - Racism (ethnic or cultural)
-  - Sexism
-  - Transphobia
+    - Homophobia
+    - Racism (ethnic or cultural)
+    - Sexism
+    - Transphobia
 + General bigotry/use of derogatory slurs against an individual or group
 
 ## Ban Probations
 Players who have served their ban will automatically have a 12 month probation period applied. Within this period, offences carry higher points and more severe penalties. All typical Ban Levels are observed by these probationary changes, as such 60 points will instantly incur a 1 Year Competitive and Community Ban.
 
 The differences for those serving probations are outlined below:
+
 + Tier 1 infractions are doubled, and will incur 20 points. 
 + Tier 2 infractions are multiplied by 1.5x, and will incur 30 points.
 + Tier 3 infractions are doubled, and will instantly incur 60 points.

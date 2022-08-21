@@ -1,10 +1,3 @@
----
-home: false
-title: Booking a Server
-lastUpdated: true
-sidebar: auto
----
-
 ## How to Book
 
 Bookings are done in the official ozfortress Discord. Simply join the [#bookings](https://discord.gg/5vs4C5C) channel and say “/booking create”, and the bot will step you through above the chat area as to what parameters are required. Upon filling out the command with everything needed, the server will be sent to your Discord user via DMs. For a full list of commands, please refer to [Qixalite's booking docs](https://docs.v2.qixalite.com/guides/games/tf2/), but you can find a basic list of commands below:

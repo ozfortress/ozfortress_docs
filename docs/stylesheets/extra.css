@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Bebas Neue';
+    src: 'https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap';
+}
+
+:root > * {
+    --md-accent-fg-color: #00abba;
+}
+
+h1, h2, h3, h4, h5 {
+    text-transform: uppercase;
+}

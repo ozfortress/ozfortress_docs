@@ -1,10 +1,3 @@
----
-home: false
-title: Self-managed Servers
-lastUpdated: true
-sidebar: auto
----
-
 ## Self-Hosted Servers
 It is important to preface this documentation with the following note. **You MUST seek league administrator approval for usage of a self-hosted server for official matches. Failure to do so will result in a penalty.**
 
