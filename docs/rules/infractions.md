@@ -1,4 +1,4 @@
-ozfortress enforces a set of Community Rules and Competitive Rules using a system of infraction points. You are issued infraction points that correspond to specific rule breaches and carry different points and expiration times. Each player starts with 0 infraction points.
+ozfortress enforces its Community Guidelines along with its Global, Sixes, Highlander and other competitive rulesets using a system of infraction points. You are issued infraction points that correspond to specific rule breaches and carry different points and expiration times. Each player starts with 0 infraction points.
 
 Bans will be issued at different point levels, and carry different ban lengths and game bans depending on how many points you have accrued. Additionally, we list the infractions that can be issued and their corresponding rule.
 

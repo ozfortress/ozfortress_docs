@@ -13,13 +13,14 @@ repo_name: ozfortress/ozfortress_docs
 repo_url: https://github.com/ozfortress/ozfortress_docs
 copyright: >
   Copyright &copy; 2022 - 2023 ozfortress
-  |
-  [<a href="#__consent">Change your cookie settings here</a>]
+  ·
+  <a href="#__consent">Change your cookie settings here</a>
 nav:
     - Home: index.md
-    - Rulebook:
-      - Sixes: rules/sixes.md
-      - Highlander: rules/highlander.md
+    - Rulesets:
+      - Global ruleset: rules/global.md
+      - Sixes ruleset: rules/sixes.md
+      - Highlander ruleset: rules/highlander.md
       - Community Guidelines: rules/community_guidelines.md
       - Infractions: rules/infractions.md
       - Transfers: rules/transfers.md
@@ -36,13 +37,16 @@ nav:
       - Map History: info/map_history.md
       - Server Configs: info/server_configs.md
     - Guides:
+      - Hello!: guides/landing.md
       - Newbie Guide: guides/newbie_guide.md
       - Book a Server: guides/book_a_server.md
       - Self-managed Servers: guides/selfmanaged_servers.md
-    - FAQ: faq.md
+    - FAQ: faq/landing.md
+    - Support: support/landing.md
     - Back to ozfortress.com: 'https://ozfortress.com'
 theme:
   name: 'material'
+  custom_dir: overrides
   favicon: 'img/logo.svg'
   logo: 'img/logo.svg'
   #font: 
@@ -86,12 +90,13 @@ theme:
    - navigation.tabs
    - navigation.expand
    - navigation.top
-   - toc.integrate
    - toc.follow
    - content.tooltips
 markdown_extensions:
   - admonition
   - pymdownx.keys
+  - toc:
+      permalink: true
 plugins:
   - search
   - glightbox

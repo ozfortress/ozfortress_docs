@@ -1,5 +1,5 @@
 ## Bans
-Bans within ozfortress typically come as a result of poor player conduct, use of third-party cheat clients, use of exploits or breaches of clauses in our rulebook. 
+Bans within ozfortress typically come as a result of poor player conduct, use of third-party cheat clients, use of exploits or breaches of clauses in our rulesets. 
 
 !!! abstract "Please Note"
     Ban reasoning is not always limited to just the aforementioned reasons, administration reserves the right to make decisions for any case they deem necessary, but this is typically left to cases which are outliers or uncommon.

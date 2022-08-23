@@ -1,87 +1,118 @@
-# Welcome to MkDocs
+<link rel="stylesheet" href="/stylesheets/extra.css" />
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+<style>
+.grid-container {
+  display: grid;
+  column-gap: 24px;
+  row-gap: 24px;
+  grid-template-columns: auto auto auto;
+  background: none;
+}
+.grid-item {
+  background-color: var(--md-footer-bg-color);
+  border: 4px solid var(--md-footer-bg-color);
+  border-radius: 3px;
+  padding: 0px 20px 0px 20px;
+  text-align: left;
+  transition: ease 0.5s;
+}
 
-## Commands
+.grid-item:hover {
+  border: 4px solid var(--md-accent-fg-color);
+  transition: ease 0.3s;
+}
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+.grid-item:hover h5 {
+  color: var(--md-accent-fg-color);
+  transition: ease 0.3s;
+}
 
-## Project layout
+.grid-item h5 {
+  text-aligenter;
+  color: var(--md-primary-bg-color--light);
+  font-size: 16px;
+  font-weight: 600;
+  transition: ease 0.5s;
+}
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+.grid-item hr {
+  background-color: var(--md-primary-bg-color--light);
+}
 
-<div class="jumbotron">
-<h2 class="display-4 text-center">Features</h2>
+.grid-item p {
+  color: var(--md-primary-bg-color);
+}
 
-<div class="row">
-  <div class="col-sm-6">
-    <div class="card">
-      <div class="card-body">
-        <h3 class="card-title">Great themes available</h3>
-        <p class="card-text">
-            There's a stack of good looking <a
-            href="user-guide/choosing-your-theme">themes</a> available for
-            MkDocs. Choose between the built in themes: <a
-            href="user-guide/choosing-your-theme/#mkdocs">mkdocs</a> and <a
-            href="user-guide/choosing-your-theme/#readthedocs">readthedocs</a>,
-            select one of the third-party themes listed on the <a
-            href="https://github.com/mkdocs/mkdocs/wiki/MkDocs-Themes">MkDocs
-            Themes</a> wiki page, or <a href="dev-guide/themes/">build your
-            own</a>.
-        </p>
-      </div>
-    </div>
+.md-sidebar--primary {
+  display: none;
+}
+
+.md-sidebar--secondary {
+  display: none;
+  order: 0;
+  width: 0%;
+}
+
+.md-source-file {
+  display: none;
+}
+
+.hero-container h2 {
+  text-transform: none;
+}
+
+.hero-span {
+  margin-top: -20px;
+  color: var(--md-default-fg-color--light);
+}
+</style>
+
+<div class="hero-container">
+  <h1>ozfortress Docs</h1>
+  <div class="hero-span">
+    <span>A documentation site for <a href="https://ozfortress.com/">ozfortress</a>, Australia's Premier Competitive Team Fortress 2 league.</span>
   </div>
-  <div class="col-sm-6">
-    <div class="card">
-      <div class="card-body">
-        <h3 class="card-title">Easy to customize</h3>
-        <p class="card-text">
-            Get your project documentation looking just the way you want it by
-            <a href="user-guide/customizing-your-theme/">customizing your
-            theme</a> and/or installing some <a
-            href="user-guide/configuration/#plugins">plugins</a>. Modify
-            Markdown's behavior with <a
-            href="user-guide/configuration/#markdown_extensions">Markdown
-            extensions</a>. Many <a
-            href="user-guide/configuration/">configuration options</a> are
-            available.
-        </p>
-      </div>
-    </div>
-  </div>
+  <hr>
+  <h2>Are you playing? Why aren't you playing!</h2>
+  <p>Want to up your game? Does playing competitively interest you? Sign up to play at our main website <a href="https://ozfortress.com/">ozfortress.com</a></p>
+  <hr>
 </div>
 
-<div class="row">
-  <div class="col-sm-6">
-    <div class="card">
-      <div class="card-body">
-        <h3 class="card-title">Preview your site as you work</h3>
-        <p class="card-text">
-            The built-in dev-server allows you to preview your documentation
-            as you're writing it. It will even auto-reload and refresh your
-            browser whenever you save your changes.
-        </p>
-      </div>
-    </div>
+<div class="grid-container">
+  <a href="/rules/global">
+  <div class="grid-item">
+    <h5>Global Ruleset</h5>
+    <hr>
+    <p>The competitive ruleset at large that governs ozfortress competitions.</p>
   </div>
-  <div class="col-sm-6">
-    <div class="card">
-      <div class="card-body">
-        <h3 class="card-title">Host anywhere</h3>
-        <p class="card-text">
-            MkDocs builds completely static HTML sites that you can host on
-            GitHub pages, Amazon S3, or <a
-            href="user-guide/deploying-your-docs/">anywhere</a> else you
-            choose.
-        </p>
-      </div>
-    </div>
+  </a>
+  <a href="/rules/community_guidelines">
+  <div class="grid-item">
+    <h5>Community Guidelines</h5>
+    <hr>
+    <p>Player conduct guidelines that set our expectations for behaviour within ozfortress.</p>
   </div>
+  </a>
+  <a href="/rules/infractions">
+  <div class="grid-item">
+    <h5>Infractions Ruleset</h5>
+    <hr>
+    <p>ozfortress' punishment system, used to enforce our rulesets.</p>
+  </div>
+  </a>
+  <a href="/faq">
+  <div class="grid-item">
+    <h5>ozfortress FAQ</h5>
+  </div>
+  </a>
+  <a href="/support/landing">
+  <div class="grid-item">
+    <h5>ozfortress Support</h5>
+  </div>
+  </a>
+  <a href="/guides/landing">
+  <div class="grid-item">
+    <h5>ozfortress Guides</h5>
+  </div>
+  </a>
 </div>
