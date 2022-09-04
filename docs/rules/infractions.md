@@ -1,3 +1,42 @@
+<link rel="stylesheet" href="/stylesheets/extra.css" />
+
+<style>
+.grid-container {
+  display: grid;
+  column-gap: 24px;
+  row-gap: 24px;
+  grid-template-columns: auto auto auto auto;
+  background: none;
+}
+
+.grid-item {
+  background-color: var(--md-footer-bg-color);
+  border: 4px solid var(--md-footer-bg-color);
+  border-radius: 3px;
+  padding: 0px 10px 0px 10px;
+  text-align: center;
+  transition: ease 0.5s;
+}
+
+.grid-item:hover {
+  border: 4px solid var(--md-accent-fg-color);
+  transition: ease 0.3s;
+}
+
+.grid-item:hover h5 {
+  color: var(--md-accent-fg-color);
+  transition: ease 0.3s;
+}
+
+.grid-item h5 {
+  text-aligenter;
+  color: var(--md-primary-bg-color--light);
+  font-size: 16px;
+  font-weight: 600;
+  transition: ease 0.5s;
+}
+</style>
+
 ozfortress enforces its Community Guidelines along with its Global, Sixes, Highlander and other competitive rulesets using a system of infraction points. You are issued infraction points that correspond to specific rule breaches and carry different points and expiration times. Each player starts with 0 infraction points.
 
 Bans will be issued at different point levels, and carry different ban lengths and game bans depending on how many points you have accrued. Additionally, we list the infractions that can be issued and their corresponding rule.
@@ -8,24 +47,13 @@ Infractions themselves are considered warnings, and as such there are no warning
 
 The Infraction team reserves the right to infract or ban players based on the offence, including offences committed whilst that player is already serving an infraction and/or ban.
 
-
-## Community Behaviour Reporting
-To submit evidence for a Community Behaviour Review, [please make a new thread here](https://ozfortress.com/forums/threads/new?topic=28).
-
-(You will both need to have an ozfortress.com account and be signed in to make a submission).
-
-Alternatively, you can also submit evidence for a Community Behaviour Review by making a new ticket under the “Community Behaviour Report” option in [#ticket-support](https://discord.com/channels/82651383144120320/963801705349271553) of our [Discord](https://discord.gg/7E6kC2H).
-
-Please note, your submission can only be seen by members of the Behaviour Panel and league administrators, but please be aware that in the process of verifying some evidence, or even when delivering the infraction, the offender may become aware of who submitted it inadvertently through the timing of the infraction's delivery, through the infraction itself, or by figuring it out themselves. While we endeavour to keep the reporter's anonymity, please understand that it is not always guaranteed.
-
-When submitting evidence, use this template:
-```
-Suspect(s) ozfortress.com account(s): 
-Your ozfortress.com account: 
-Evidence(URL): 
-URL(s): 
-Additional Notes (when it occurred, where, etc):
-```
+<div class="grid-container">
+  <a href="/support/landing/#reporting-misconduct">
+  <div class="grid-item">
+    <h5>Learn how to make your here</h5>
+  </div>
+  </a>
+</div>
 
 ## Ban Levels
 + 40 points = 3 round match ban

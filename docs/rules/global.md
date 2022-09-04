@@ -11,8 +11,8 @@
 
     **ozfortress is not affiliated with or sponsored by Valve Corporation.**
 
-## Season League / Format Specificity
-Rules within this Global ruleset that do not specify Sixes or Highlander should be taken at face value as general competitive rules. In any instance where a rule is specifically for either format, we have made to specify it as such. There are specific Sixes and Highlander rulesets within our rulesets which contain rules specifically for that format, be it play style, class limits, whitelists, map pools, format specific gamemode rules (eg. 5CP for Sixes, Stopwatch for Highlander) and more specific information on Tiebreakers within the league tables.
+## Format Specificity
+Rules within this Global ruleset that do not specify Sixes or Highlander should be taken at face value as general competitive rules. In any instance where a rule is specifically for either format, we have made sure to specify it as such. There are specific Sixes and Highlander rulesets within our rulesets which contain rules specifically for that format, be it play style, class limits, whitelists, map pools, format specific gamemode rules (eg. 5CP for Sixes, Stopwatch for Highlander) and more specific information on Tiebreakers within the league tables.
 
 ---
 
@@ -20,20 +20,10 @@ Rules within this Global ruleset that do not specify Sixes or Highlander should 
 ### 1.1. Regular Season
 Regular seasons are split into skill brackets (referred to as divisions) depending on the number of teams that sign up, the format itself, and length of the competition.
 
-For regular season length and further information, see each formats respective ruleset for more information:
+For regular season length, further information on the bracket systems used & Weekly Fixtures, see each formats respective ruleset for more information:
 
-- [Sixes](/rules/sixes/#11-regular-season-format)
-- [Highlander](/rules/highlander/#11-regular-season-format)
-
-#### 1.1.1. Weekly Fixtures
-
-Two maps are played each round for regular season fixtures, chosen by league administration prior to the start of the season, out of a 9 map pool. Matches are expected to typically last just over an hour in a regular-season fixture. Playoff fixtures typically last longer and players should ensure to allocate and schedule accordingly.
-
-#### 1.1.2. Top Divisions
-The regular season for Premier, High and Intermediate (depending on signup numbers, format and season length) will typically be run on a Round Robin system, where each team plays each other once. We will ensure that the format of the regular season is stated on the seasonal league page. When the High division is active, Intermediate will typically use the Swiss system.
-
-#### 1.1.3. Bottom Divisions
-The regular season for Main and Open (depending on signup numbers, format and season length) will typically be run on the Swiss system, where each round is seeded based on the previous records of teams. We will ensure that the format of the regular season is stated on the seasonal league page. [See Rule 1.4 for further details on the Swiss system](/rules/sixes/#_1-4-round-robin).
+- [Sixes](/rules/sixes/#1-regular-season)
+- [Highlander](/rules/highlander/#1-regular-season)
 
 ### 1.2. Playoffs Format
 At the conclusion of the regular season, the top four placing teams of each division advance to the playoffs.
@@ -130,6 +120,8 @@ ozfortress primarily caters to players from Australia and New Zealand, however, 
 
 Teams outside of our supported regions are not able to participate within ozfortress seasonal leagues.
 
+Further information on the limit of out of region players per roster can be found in each format's own ruleset.
+
 ### 1.11. Sportsmanship
 Teams participating are required to conduct themselves in a sportsmanlike manner in all communications.
 
@@ -139,22 +131,13 @@ Discrimination on the basis of, but not limited to, race, nationality, religious
 
 Breach of the sportsmanship clause will result in exclusion penalties to be determined by the ozfortress administration.
 
+---
+
 ## 2. Teams
 ### 2.1. Application
 Teams apply to enter the whichever league/competition, and nominate their desired divisions. The minimum and maximum roster requirements/limits can be found below, along with roster expectations. It is required that your team is available to play at least three days out of the five playable match days, teams with more availability will be preferred when a league administrator is resolving scheduling disputes.
 
-#### 2.1.1. Roster Size Requirements/Limits
-##### Sixes
-- Minimum roster size is six (6).
-- Maximum roster size is ten (10).
-- Teams should look to have a least one or two substitute players in the event a core player cannot play.
-
-##### Highlander
-- Minimum roster size is nine (9).
-- Maximum roster size is fifteen (15).
-- Teams should look to have a least two or three substitute players in the event a core player cannot play.
-
-#### 2.1.2. Higher Division Players
+#### 2.1.1. Higher Division Players
 Players who have played in higher divisions than their team has applied for shall be reviewed by administrators prior to transfer into their team, or their teams division seeding. These players may be restricted from specific classes if a) if they wish to play in lower divisions, or b) league administration, along with the seedings and transfer teams decide to restrict the player based on performance metrics, game knowledge, potential out-of-region ping advantage, etc.
 
 ### 2.2. Player Eligibility
@@ -209,6 +192,8 @@ Exclusions will be applied for repeated major rule breaches by a player or team.
 Selling a slot on an active roster for in-game items or money is also **strictly prohibited**.
 
 Individuals or parties caught selling/trading for medals will be reported directly to Valve.
+
+---
 
 ## 3. Match Organisation
 ### 3.1. Negotiating Match Times
@@ -281,49 +266,7 @@ Regular season matches will use two predefined maps from the map pool. The map p
 
 Maps for playoff matches are selected by the captains of each team. This process can be performed before the match or in-game via chat but must be documented on the match page.
 
-#### 3.4.1. Sixes Pick/Ban Map Selection
-The selection process for a nine map pool (BO3):
-
-1. The **higher seeded** or **home team** will either **choose to ban first or defer**.
-2. The **first team** (determined by the result of step one) will **ban a map**.
-3. The **second team** will **ban a map**.
-4. The **first team** will **ban a map**.
-5. The **second team** will **ban a map**.
-6. The **first team** will **pick the first map** from the remaining pool.
-7. The **second team** will **pick the second map** from the remaining pool.
-8. The **first team** will **pick the third/tiebreaker map** from the remaining maps.
-
-For the Premier Grand Final (BO5), the selection process varies as follows:
-
-1. The **higher seeded** or **home team** will either **choose to ban first or defer**.
-2. The **first team** (determined by the result of step one) will **ban a map**.
-3. The **second team** will **ban a map**.
-4. The **first team** will **ban a map**.
-5. The **second team** will **ban a map**.
-6. The **first team** will **pick the third map** from the remaining pool.
-7. The **second team** will **pick the fourth map** from the remaining pool.
-8. The **first team** will **pick the tiebreaker map** from the remaining maps.
-
-In the event of a disagreement, the home team will have a preference for team colour. Please note that formats can change for BO3 and BO5 matches. In case of discrepancies between official rules and other sources, the most updated pick-ban order can always be found in match threads.
-
-#### 3.4.2. Highlander Pick/Ban Map Selection
-The selection process for a nine map pool (BO3)in Playoffs:
-
-1. The **higher seeded** or **home team** will **ban first**.
-2. The **lower seeded** or **away team** will **ban a map**.
-3. The **higher seeded** or **home team** will **pick a map**.
-4. The **lower seeded** or **away team** will **pick a map**.
-5. The **lower seeded** or **away team** will **ban a map**.
-6. The **higher seeded** or **home team** will **pick a map** from the remaining pool.
-
-Some players/captains may use a shorthand form of the pick/ban listing, so we've included it here to hopefully ease some confusion.
-
-```
-Ban Ban Pick Pick Ban Pick
-Home Away Home Away Away Home
-```
-
-In the event of a disagreement, the home team will have a preference for team colour. In case of discrepancies between official rules and other sources, the most updated pick-ban order can always be found in match threads.
+Pick/Ban order can be found on each formats ruleset page.
 
 ### 3.5. Match Disputes
 To lodge a dispute or report misconduct within a match, please contact an ozfortress League Administrator as soon as possible. Please do not bring the debate to the public as it is being resolved.
@@ -340,32 +283,25 @@ The Home team or higher-seeded team for playoffs will be able to choose the serv
 
 For the Regular Season, teams can discuss the server location with each other, but if they are unable to come to a resolution to their dispute, the default server location will be used.
 
+---
+
 ## 4. Match Format
-### 4.1. Team Eligibility Requirements
-Teams are expected to have a certain amount of players (does not include any mercenaries) ready to start or continue a match. This expected amount of players differs for each format, and can be seen below.
-
-##### Sixes
-- A minimum of five (5) rostered players.
-
-##### Highlander
-- A minimum of seven (7) rostered players.
-
-### 4.2. Demo Recording
+### 4.1. Demo Recording
 POV demos must be recorded for all ozfortress matches and must be provided at the request of an ozfortress League Administrator. We recommend using the demo recording system included in TF2, which can be activated under the advanced options menu in the game settings.
 
 Demos are required to be stored for the current and past season.
 
 **All players must be able to provide a POV demo before the date of their next official match if requested by a League Administrator. If you are unable to provide POV demos for a match you will face a 2 Round Exclusion for the first offence. Failing to provide POV demos a second time will incur a two year Anti-Cheat ban. It is the player’s responsibility to ensure that demos are being recorded.**
 
-### 4.3. Spectators
+### 4.2. Spectators
 ozfortress League Administrators are the only approved spectators. Spectators are not allowed in any ozfortress match server for any reason. Please note, this does not include SourceTV (STV) usage.
 
-### 4.4. Pausing
+### 4.3. Pausing
 Pauses during a match are allowed where players clearly exhibit technological performance issues or when teams wish to for personal reasons. Tactical pauses are allowed. In addition, the match may only be unpaused by the team who initiated the pause. Both teams must give the all-clear to unpause, which is followed by an in-built five-second countdown.
 
 Each team is permitted two pauses per match with a combined total time limit of ten minutes. However, if captains are in agreement, the pause limit can be extended.
 
-### 4.5. Casted Games
+### 4.4. Casted Games
 Official matches may be casted by organisations with the approval of the ozfortress League Administrators.
 
 Casting organisation representatives may contact the ozfortress General Head Administrator to receive the ability to promote their coverage and/or become an approved casting organisation. Approval will only be granted once it is determined by ozfortress that the coverage meets approved standards.
@@ -376,21 +312,23 @@ The ozfortress approved casting organisations are as follows:
 
 Casting organisations cannot directly influence or affect the scheduling of an official ozfortress match in any way.
 
-### 4.5.1. Approved ozfortress Casting Organisations
+### 4.4.1. Approved ozfortress Casting Organisations
 If your game is to be casted by an approved organisation, your team must provide to the caster(s), streamer, or organisation representative:
 + The server connect string, potentially including the RCON password (if the production team requires it, they will inform you).
 + An updated list of players and/or any mercenaries participating in the match. This must be provided at least an hour before the set match time.
 
 The above rules apply to ozfortress-approved casting organisations only.
 
-### 4.5.2. Unapproved ozfortress Casting Organisations
+### 4.4.2. Unapproved ozfortress Casting Organisations
 Casting organisations and individuals that are not approved by ozfortress may still cast official ozfortress matches, however, approved casting organisations will have precedence. If a team captain wishes to deny such a cast, they should discuss it with an ozfortress League Administrator.
 
-### 4.5.3. Player POV streaming
+### 4.4.3. Player POV streaming
 Broadcasts of a player’s POV outside of a casted setting where STV delay is enforced, a minimum observable delay of at least ten (10) seconds is required. We define “observable delay” as a combination of personally set stream delay (for example in OBS) and standard Twitch/YouTube streaming delay. It is the players responsibility to ensure that their own stream does not impact their team in any way, and is not something we consider an actionable offence. This means that "stream sniping" is not actionable by ozfortress, and is solely the responsibility of the person streaming.
 
-### 4.6. ozfortress League Administrators as Referees
+### 4.5. ozfortress League Administrators as Referees
 ozfortress may sometimes require certain matches to be refereed by an ozfortress League Administrator. In such a case, a post will be made in the match thread indicating this, and teams will be provided with a connect string before the match. If this happens, it is no longer the home team’s responsibility to administer the server or report the scores at the end of the round. League Administrators may also choose to be present on the server during playoffs matches or other important matches, and will request strings from players.
+
+---
 
 ## 5. Servers
 ### 5.1. Server Configuration
@@ -437,6 +375,8 @@ The only players allowed in the server of an official match are the core players
 
 ### 5.7. Coaching
 Currently, ozfortress does not allow in-official coaching via any means (for example; being in the spectator, watching a POV stream via Discord, etc). This clause does not include coaching outside of an official match, like demo reviewing for example.
+
+---
 
 ## 6. Cheating, Exploits and Bans
 ### 6.1. Exploits
@@ -515,6 +455,8 @@ Members banned on the ozfortress website are also banned from leading teams in o
 
 ### 6.6. Match Fixing
 Any attempt to influence the result of a match through any means other than standardised gameplay is strictly forbidden. If this is found to be happening, all involved parties will receive league punishments.
+
+---
 
 ## 7. Ruleset Information
 ### 7.1. Rules are subject to change

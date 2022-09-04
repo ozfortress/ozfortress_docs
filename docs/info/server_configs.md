@@ -29,7 +29,7 @@ sm_solid_buildings 0
 ## ozfortress Sixes Seasonal League
 The following formats are used in the ozfortress seasonal leagues and have an associated configuration file in the ozfortress configs.
 
-### 5 Control Points
+### Control Point
 Standard 5 Control Points (5CP) maps are played for 30 minutes with a 5 point difference mercy rule. Load this configuration using `rcon exec ozfortress_6v6_5cp` or simply `rcon ozf-6s-5cp` on ozfortress servers. 
 
 !!! abstract "Please Note"

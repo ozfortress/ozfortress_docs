@@ -1,3 +1,42 @@
+<link rel="stylesheet" href="/stylesheets/extra.css" />
+
+<style>
+.grid-container {
+  display: grid;
+  column-gap: 24px;
+  row-gap: 24px;
+  grid-template-columns: auto auto auto auto;
+  background: none;
+}
+
+.grid-item {
+  background-color: var(--md-footer-bg-color);
+  border: 4px solid var(--md-footer-bg-color);
+  border-radius: 3px;
+  padding: 0px 10px 0px 10px;
+  text-align: center;
+  transition: ease 0.5s;
+}
+
+.grid-item:hover {
+  border: 4px solid var(--md-accent-fg-color);
+  transition: ease 0.3s;
+}
+
+.grid-item:hover h5 {
+  color: var(--md-accent-fg-color);
+  transition: ease 0.3s;
+}
+
+.grid-item h5 {
+  text-aligenter;
+  color: var(--md-primary-bg-color--light);
+  font-size: 16px;
+  font-weight: 600;
+  transition: ease 0.5s;
+}
+</style>
+
 ## The Anti-Cheat process and You
 If you have someone you wish to report, please follow the following steps carefully:
 
@@ -17,20 +56,10 @@ So what do you do now? Simple, **NOTHING**. If you find something else (new evid
 
 + Failure to follow the guidance of the above clauses, and you will get the punishment befitting the weapons-grade moron you are. Help us, yourself, your team or group - by following the process outlined above in a logical manner and if needed, a less emotional state.
 
-## Anti-Cheat Submission Reporting
-To make an Anti-Cheat Submission, please make a new thread [here](https://ozfortress.com/forums/threads/new?topic=17). Your submission can only be seen by the Head Administrator, the Anti-Cheat Panel and yourself.
-
-!!! abstract "Please Note"
-    You will both need to have an ozfortress.com account and be signed in to make a submission.
-
-Anti-Cheat tickets are currently not open via our Discord, so you will need to make a thread on ozfortress.com using the link above.
-
-When submitting evidence, use this template:
-```
-Suspect(s) ozfortress.com account(s):
-Your ozfortress.com account:
-Team:
-Evidence(URL):
-URL(s):
-Additional Notes(ticks):
-```
+<div class="grid-container">
+  <a href="/support/landing/#reporting-cheating">
+  <div class="grid-item">
+    <h5>Learn how to report your suspect/s here</h5>
+  </div>
+  </a>
+</div>

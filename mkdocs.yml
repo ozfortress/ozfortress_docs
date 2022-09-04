@@ -13,8 +13,8 @@ repo_name: ozfortress/ozfortress_docs
 repo_url: https://github.com/ozfortress/ozfortress_docs
 copyright: >
   Copyright &copy; 2022 - 2023 ozfortress
-  ·
-  <a href="#__consent">Change your cookie settings here</a>
+#  ·
+#  <a href="#__consent">Change your cookie settings here</a>
 nav:
     - Home: index.md
     - Rulesets:
@@ -25,6 +25,7 @@ nav:
       - Infractions: rules/infractions.md
       - Transfers: rules/transfers.md
     - League Info:
+      - General: info/general.md
       - Anti-Cheat & You: info/anticheat_and_you.md
       - Bans:
         - Ban Types: info/ban_types.md
@@ -34,23 +35,27 @@ nav:
         - Other Bans: info/other_bans.md
         - Past Bans: info/past_bans.md
       - Staff: info/staff.md
-      - Map History: info/map_history.md
+      - Map History:
+        - Sixes: info/map_history/#sixes-6v6-map-history
+        - Highlander: info/map_history/#highlander-hl-map-history
+        - Tournaments/Cups: info/map_history/#tournamentscups
       - Server Configs: info/server_configs.md
     - Guides:
-      - Hello!: guides/landing.md
+      - Your guide to the guides: guides/landing.md
       - Newbie Guide: guides/newbie_guide.md
       - Book a Server: guides/book_a_server.md
       - Self-managed Servers: guides/selfmanaged_servers.md
-    - FAQ: faq/landing.md
-    - Support: support/landing.md
+    - FAQ: 
+      - General: faq/landing.md
+      - Misconduct: faq/misconduct.md
+      - Anti-Cheat: faq/anticheat.md
+    - Support & Reporting: support/landing.md
     - Back to ozfortress.com: 'https://ozfortress.com'
 theme:
   name: 'material'
   custom_dir: overrides
   favicon: 'img/logo.svg'
   logo: 'img/logo.svg'
-  #font: 
-    #text: Bebas Neue
   icon:
     repo: fontawesome/brands/github
     admonition:
@@ -72,14 +77,14 @@ theme:
       scheme: default
       primary: blue grey
       toggle:
-        icon: material/brightness-7
+        icon: fontawesome/solid/moon
         name: Switch to Dark Mode
     # Palette toggle for Dark Mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
       primary: black
       toggle:
-        icon: material/brightness-4
+        icon: fontawesome/solid/sun
         name: Switch to Light Mode
   features:
    - search.highlight
@@ -95,6 +100,8 @@ theme:
 markdown_extensions:
   - admonition
   - pymdownx.keys
+  - pymdownx.details
+  - pymdownx.betterem
   - toc:
       permalink: true
 plugins:
@@ -105,15 +112,33 @@ plugins:
       enable_creation_date: false
       fallback_to_build_date: true # remove this prior to launch
 extra:
-  consent:
-    title: Hey, we use cookies!
-    description: >- 
-      We use cookies to recognize your repeated visits and preferences, as well
-      as to measure the effectiveness of our documentation and whether players can
-      find what they're searching for. With your consent, you're helping us to
-      make our documentation better.
-  actions:
-    - accept
-    - manage
+  generator: false
+  social:
+    - icon: fontawesome/solid/globe
+      link: https://ozfortress.com
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/7E6kC2H
+    - icon: fontawesome/brands/patreon
+      link: https://www.patreon.com/ozfortress/
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/ozfortress
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/channel/UCKnMgeTAHzdttd8TXE9UOgw
+    - icon: fontawesome/brands/steam
+      link: https://steamcommunity.com/groups/ozfortress
+    - icon: fontawesome/brands/facebook
+      link: https://facebook.com/ozfortress
+    - icon: fontawesome/brands/github
+      link: https://github.com/ozfortress
+#  consent:
+#    title: Hey, we use cookies!
+#    description: >- 
+#      We use cookies to recognize your repeated visits and preferences, as well
+#      as to measure the effectiveness of our documentation and whether players can
+#      find what they're searching for. With your consent, you're helping us to
+#      make our documentation better.
+#  actions:
+#    - accept
+#    - manage
 extra_css:
   - stylesheets/extra.css

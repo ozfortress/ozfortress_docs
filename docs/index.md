@@ -28,7 +28,6 @@
 }
 
 .grid-item h5 {
-  text-aligenter;
   color: var(--md-primary-bg-color--light);
   font-size: 16px;
   font-weight: 600;
@@ -74,7 +73,7 @@
   </div>
   <hr>
   <h2>Are you playing? Why aren't you playing!</h2>
-  <p>Want to up your game? Does playing competitively interest you? Sign up to play at our main website <a href="https://ozfortress.com/">ozfortress.com</a></p>
+  <p>Want to up your game? Does playing competitively interest you? Sign up to play at our main website <a href="https://ozfortress.com/">ozfortress.com</a>.</p>
   <hr>
 </div>
 
@@ -100,7 +99,7 @@
     <p>ozfortress' punishment system, used to enforce our rulesets.</p>
   </div>
   </a>
-  <a href="/faq">
+  <a href="/faq/landing">
   <div class="grid-item">
     <h5>ozfortress FAQ</h5>
   </div>
