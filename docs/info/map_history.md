@@ -11,10 +11,10 @@ cp_process_f11
 cp_snakewater_final1
 koth_bagel_rc5
 cp_sunshine
-cp_metalworks_f4
+cp_metalworks_f4 /cp_metalworks_pro
 cp_reckoner_rc6
 cp_granary_pro_rc13
-koth_clearcut_b15d
+koth_product_final
 ```
 ---
 #### Season 34
@@ -274,15 +274,15 @@ Below you will find the maps used in each season of ozfortress Highlander found 
 #### Season 2 (Current)
 Subject to change:
 ```
-pl_upward_f8
+pl_upward_f10
 koth_product_final
 pl_swiftwater_final1
 koth_warmtic_f10
 pl_vigil_rc9
 koth_ashville_rc2d
-cp_steel_f10
+cp_steel_f12
 pl_borneo_f2
-koth_proside_v1
+koth_cascade
 ```
 ---
 #### Season 1

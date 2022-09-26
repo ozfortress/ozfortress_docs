@@ -9,7 +9,7 @@ Cheating related bans, issued typically for usage of third-party programs to gai
 
 Infraction Threshold Bans
 
-Poor player conduct and/or team conduct. You can find more information on these bans [here](../../rulesets/infractions/index.md).
+Poor player conduct and/or team conduct. You can find more information on these bans [here](../../rules/infractions/).
 
 ### VAC Bans
 

@@ -13,8 +13,6 @@ repo_name: ozfortress/ozfortress_docs
 repo_url: https://github.com/ozfortress/ozfortress_docs
 copyright: >
   Copyright &copy; 2022 - 2023 ozfortress
-#  ·
-#  <a href="#__consent">Change your cookie settings here</a>
 nav:
     - Home: index.md
     - Rulesets:
@@ -113,6 +111,7 @@ plugins:
       fallback_to_build_date: true # remove this prior to launch
 extra:
   generator: false
+  use_directory_urls: false
   social:
     - icon: fontawesome/solid/globe
       link: https://ozfortress.com
