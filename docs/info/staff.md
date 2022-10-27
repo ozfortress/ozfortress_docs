@@ -22,8 +22,7 @@ As mentioned in our competitive league rulesets, League Administrators in tandem
 | Sixes | [raina](https://ozfortress.com/users/1729) | [raina#4682](https://discordapp.com/users/712785948047441921) |
 | Sixes | [snazzy](https://ozfortress.com/users/37) | [snazzy#5086](https://discordapp.com/users/125913179690631169) |
 | Highlander | [Thyme](https://ozfortress.com/users/150) | [Thyme#1499](https://discordapp.com/users/132287870886084608) |
-| Highlander | [Platinum](https://ozfortress.com/users/1444) | [Platinum#9711](https://discordapp.com/users/904964681809158175) |
-| Highlander | [LiquidAlchemy](https://ozfortress.com/users/2942) | [LiquidAlchemy#7585](https://discordapp.com/users/508970427524186121) |
+| Highlander | [Oldcustard](https://ozfortress.com/users/4030) | [Oldcustard#9667](https://discordapp.com/users/333896131840966657) |
 | Highlander | [Bakes](https://ozfortress.com/users/4024) | [Bakes#3098](https://discordapp.com/users/107338388662648832) |
 | Highlander | [Rainy](https://ozfortress.com/users/3124) | [Rainy#1181](https://discordapp.com/users/107399782162558976) |
 | Highlander | [Sperkle](https://ozfortress.com/users/618) | [Sperkle#4456](https://discordapp.com/users/180875592923611145) |
@@ -43,7 +42,10 @@ The team that helps make everything media-related for ozfortress happen. Be it o
 | ---- | ------- |
 | [Sperkle](https://ozfortress.com/users/618) (Media Coordinator) | [Sperkle#4456](https://discordapp.com/users/180875592923611145) |
 | [Avo](https://ozfortress.com/users/3071) | [Avo#7776](https://discordapp.com/users/707039384477761599) |
+| [Beater](https://ozfortress.com/users/2031) | [Beater#8047](https://discordapp.com/users/105311959636791296) |
+| [Brady](https://ozfortress.com/users/140) | [Brady#1020](https://discordapp.com/users/179839476053311489) |
 | [frydog](https://ozfortress.com/users/982) | [frydog#0257](https://discordapp.com/users/217181409897349121) |
+| [jayyylmao](https://ozfortress.com/users/1188) | [jayyylmao#6969](https://discordapp.com/users/170138245819138048) |
 | [Thyme](https://ozfortress.com/users/150) | [Thyme#1499](https://discordapp.com/users/132287870886084608) |
 
 ## Past Staff
@@ -70,6 +72,7 @@ The team that helps make everything media-related for ozfortress happen. Be it o
 + kam
 + kocka
 + lammy
++ LiquidAlchemy
 + mercury (Co-Founder of ozfortress)
 + micko
 + munz
@@ -77,6 +80,7 @@ The team that helps make everything media-related for ozfortress happen. Be it o
 + nsk
 + obla
 + OnionS
++ Platinum
 + Psyfox
 + ravelizard
 + RynoCerus

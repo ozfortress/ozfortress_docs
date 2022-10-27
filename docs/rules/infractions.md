@@ -66,8 +66,10 @@ Infraction points do **not** expire after a user is banned. If a user receives a
 
 ## Infractions
 #### Tier 1 Offences - 10 points (6 months expiry)
-+ Repeated delays in match organisation
-+ Inappropriate or unrelated posting in match threads
++ Repeated delays in Match Organisation, this typically includes:
+    + Failing to schedule match time/day multiple times
+    + Failing to post necessary match details multiple times (for example, logs, mercenaries, etc.)
++ Inappropriate or unrelated posting in Match Threads, specifically Match Communications.
 + Excessive trash talk (beyond that which can reasonably be considered banter)
 
 #### Tier 2 Offences - 20 points (1-year expiry)

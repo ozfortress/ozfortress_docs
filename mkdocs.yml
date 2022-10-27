@@ -44,9 +44,10 @@ nav:
       - Book a Server: guides/book_a_server.md
       - Self-managed Servers: guides/selfmanaged_servers.md
     - FAQ: 
-      - General: faq/landing.md
-      - Misconduct: faq/misconduct.md
-      - Anti-Cheat: faq/anticheat.md
+      #- General: faq/landing.md
+      #- Misconduct: faq/misconduct.md
+      #- Anti-Cheat: faq/anticheat.md
+      - Demo Requests: faq/demo_requests.md
     - Support & Reporting: support/landing.md
     - Back to ozfortress.com: 'https://ozfortress.com'
 theme:

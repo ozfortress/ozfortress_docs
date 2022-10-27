@@ -59,10 +59,18 @@ Teams are expected to have a certain amount of players (does not include any mer
 ##### Highlander
 - A minimum of seven (7) rostered players.
 
-## 3. Format
+## 3. Match Organisation
+### 3.1. Deadlines
+All time scheduling should be in AEDT if Daylight Savings is in effect, AEST if Daylight Savings is not in effect. The times themselves do not move with Daylight Savings however, meaning 7PM for AEST & AEDT.
+
+- **Match time/day set**: 7PM AEST/AEDT Monday
+- **Results submission**: 11:59PM AEST/AEDT Thursday
+- **All other match details**: 11:59PM AEST/AEDT Thursday
+
+## 4. Format
 Highlander teams are expected to play with nine player at all times within an official match. If a team cannot field field enough players from their roster and mercenaries, teams are permitted to play with seven players, with the opposing team permitted to keep their full nine player roster. Teams cannot play with fewer than seven players, otherwise they will be automatically disqualified and subsequently forfeited. Teams must still observe mercenary rules and limits.
 
-### 3.1. Class Limits
+### 4.1. Class Limits
 The following class limits are required on all official match servers. Breaking these limits in any way that impacts a match is considered cheating, and depending on administrator discretion could lead to a match result overturn.
 
 ```
@@ -77,10 +85,10 @@ tf_tournament_classlimit_sniper 1
 tf_tournament_classlimit_spy 1
 ```
 
-### 3.2. Unlocks / Whitelist
+### 4.2. Unlocks / Whitelist
 The whitelist can be found on whitelist by [clicking here](https://whitelist.tf/ozfortress_hl), or under the ozfortress menu on whitelist.tf.
 
 Changes to weapons or their mechanics, the addition of new cosmetics or taunts, or removal of certain properties will see the weapon / cosmetic / taunt banned for the remainder of that season. New items are automatically blocked by the whitelist, but in the event something is changed as stated above, ozfortress will post an announcement regarding it.
 
-### 3.3. Server configs & usage
+### 4.3. Server configs & usage
 Configs for any seasonal league or tournament can be found on the Server Configs page, and any associated guides will be linked on that page.

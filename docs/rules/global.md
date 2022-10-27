@@ -137,6 +137,8 @@ Breach of the sportsmanship clause will result in exclusion penalties to be dete
 ### 2.1. Application
 Teams apply to enter the whichever league/competition, and nominate their desired divisions. The minimum and maximum roster requirements/limits can be found below, along with roster expectations. It is required that your team is available to play at least three days out of the five playable match days, teams with more availability will be preferred when a league administrator is resolving scheduling disputes.
 
+**Players cannot be transferred between the end of signups and the start of the first Transfer Window.**
+
 #### 2.1.1. Higher Division Players
 Players who have played in higher divisions than their team has applied for shall be reviewed by administrators prior to transfer into their team, or their teams division seeding. These players may be restricted from specific classes if a) if they wish to play in lower divisions, or b) league administration, along with the seedings and transfer teams decide to restrict the player based on performance metrics, game knowledge, potential out-of-region ping advantage, etc.
 
@@ -171,6 +173,11 @@ Week 6 is the final week for transfers in seasonal leagues. In the event that a 
 At the conclusion of either Week 6/Week 4 (depending on the regular season length), Roster Lock will come into effect. During this period, teams cannot transfer players onto their roster, nor remove existing players. 
 
 League Administrators reserve the right to deny transfer applications based on numerous factors, and judgement will adapt to each transfer request. Players serving exclusion penalties in ozfortress will not be eligible for transfers until after their exclusion penalty has finished. Transfers should be approved by League Administrators no later than Saturday at 11:59 PM.
+
+Please note, each individual league may have its own transfer rules, for example Sixes uses a two week window, where as Highlander uses a one week window. You can find specific transfer rules in each ruleset:
+
+- [Sixes](/rules/sixes/)
+- [Highlander](/rules/highlander/)
 
 ### 2.6.1. Player Pool
 The Player Pool is the area of each team where players invited to the team are listed publically. Players within the Player Pool that are not on the Active Roster are counted as Mercenaries.
@@ -287,11 +294,9 @@ For the Regular Season, teams can discuss the server location with each other, b
 
 ## 4. Match Format
 ### 4.1. Demo Recording
-POV demos must be recorded for all ozfortress matches and must be provided at the request of an ozfortress League Administrator. We recommend using the demo recording system included in TF2, which can be activated under the advanced options menu in the game settings.
+POV demo files must be recorded for all ozfortress matches and must be provided at the request of an ozfortress administrator. We recommend using the demo recording system included in TF2, which can be activated under the advanced options menu in the game settings.
 
-Demos are required to be stored for the current and past season.
-
-**All players must be able to provide a POV demo before the date of their next official match if requested by a League Administrator. If you are unable to provide POV demos for a match you will face a 2 Round Exclusion for the first offence. Failing to provide POV demos a second time will incur a two year Anti-Cheat ban. It is the player’s responsibility to ensure that demos are being recorded.**
+Find out how to record POV demo files, along with our guidelines and penalties on our [Demo Requests FAQ](/faq/demo_requests/) page.
 
 ### 4.2. Spectators
 ozfortress League Administrators are the only approved spectators. Spectators are not allowed in any ozfortress match server for any reason. Please note, this does not include SourceTV (STV) usage.

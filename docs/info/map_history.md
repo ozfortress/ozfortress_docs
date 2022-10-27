@@ -11,9 +11,9 @@ cp_process_f11
 cp_snakewater_final1
 koth_bagel_rc5
 cp_sunshine
-cp_metalworks_f4 /cp_metalworks_pro
+cp_proworks_v1
 cp_reckoner_rc6
-cp_granary_pro_rc13
+cp_granary_pro_rc13f
 koth_product_final
 ```
 ---

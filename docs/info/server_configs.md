@@ -4,22 +4,22 @@ ozfortress now uses the "TF2 Comp Fixes" plugin by *twiikuu* to implement variou
 The above link also includes an explanation of what each command variable does, below you will find which fixes we use and consider staples. We may additionally make use of other fixes, which will have their use denoted on that competition page.
 
 ```
-sm_deterministic_fall_damage 1
+sm_deterministic_fall_damage 0 // replaced with Valve's own fix
 sm_empty_active_ubercharges_when_dropped 1
-sm_fix_ghost_crossbow_bolts 1
+sm_fix_ghost_crossbow_bolts 0 // replaced with Valve's own fix
 sm_fix_post_pause_state 0
 sm_fix_slope_bug 1
 sm_fix_sticky_delay 1
-sm_gunboats_always_apply 0
+sm_gunboats_always_apply 1
 sm_inhibit_extendfreeze 1
-sm_override_pipe_size 4
-sm_projectiles_ignore_teammates 0
+sm_override_pipe_size 0 // replaced with Valve's own fix
+sm_projectiles_ignore_teammates 1
 sm_remove_halloween_souls 1
 sm_remove_medic_attach_speed 0
 sm_remove_pipe_spin 0
 sm_rest_in_peace_rick_may 255
 sm_winger_jump_bonus_when_fully_deployed 0
-sm_fix_reflect_self_damage 0
+sm_fix_reflect_self_damage 1
 sm_projectiles_collide_with_cylinders 0
 sm_grounded_rj_resistance 0
 sm_prevent_respawning 0
@@ -30,7 +30,7 @@ sm_solid_buildings 0
 The following formats are used in the ozfortress seasonal leagues and have an associated configuration file in the ozfortress configs.
 
 ### Control Point
-Standard 5 Control Points (5CP) maps are played for 30 minutes with a 5 point difference mercy rule. Load this configuration using `rcon exec ozfortress_6v6_5cp` or simply `rcon ozf-6s-5cp` on ozfortress servers. 
+Standard 5 Control Points (5CP) maps are played for 30 minutes with a five (5) round win limit rule, with an overrided round timer for five (5) minutes. Load this configuration using `rcon exec ozfortress_6v6_5cp` or simply `rcon ozf-6s-5cp` on ozfortress servers. 
 
 !!! abstract "Please Note"
     You can still execute the standard 5CP config file using `rcon ozf`.
