@@ -76,7 +76,15 @@ All time scheduling should be in AEDT if Daylight Savings is in effect, AEST if 
 - **All other match details**: 11:59PM AEST/AEDT Thursday
 
 ### 3.2. Default Scheduling
-Teams are free to communicate their desired/playable match days and times with eachother, typically this responsibility falls upon the captains, or players nominated to act in that capacity. ozfortress does encourage all teams to set their own match days and times, but in case of disputes, an administrator may enforce the default match day or time, as found below. These defaults will only ever be enforced when teams do not have any common match days set under the Availability section of their roster, found under Manage Roster on their team page. See [3.1. Negotiating Match Times](/rules/global/#31-negotiating-match-times) for more information on negotiation.
+Teams are free to communicate their desired/playable match days and times with eachother, typically this responsibility falls upon the captains, or players nominated to act in that capacity.
+
+ozfortress does encourage all teams to set their own match days and times, but in case of disputes, an administrator may enforce the default match day or time, as found below. 
+
+These defaults will only ever be enforced when teams do not have any common match days set under the Availability section of their roster, found under Manage Roster on their team page. See [3.1. Negotiating Match Times](/rules/global/#31-negotiating-match-times) for more information on negotiation.
+
+- **Default match time**: 8PM AEST/AEDT or 9PM AEST/AEDT
+    - Teams that can make these times will be looked upon more favourably than teams that cannot.
+- **Default match day**: Thursday
 
 ## 4. Format
 Sixes teams are expected to play with six player at all times within an official match. If a team cannot field field enough players from their roster and mercenaries, teams are permitted to play with five players, with the opposing team permitted to keep their full six player roster. Teams cannot play with fewer than five players, otherwise they will be automatically disqualified and subsequently forfeited. Teams must still observe mercenary rules and limits.

@@ -1,7 +1,7 @@
 # Navbar title
 site_name: ozfortress Docs
 # Both site_name and site_url are needed for the configuration file
-site_url: https://docs.ozfortress.com
+site_url: https://docs.ozfortress.com/
 # Author
 site_author: ozfortress
 # Site description
@@ -14,43 +14,37 @@ repo_url: https://github.com/ozfortress/ozfortress_docs
 copyright: >
   Copyright &copy; 2022 - 2023 ozfortress
 nav:
-    - Home: index.md
-    - Rulesets:
-      - Global ruleset: rules/global.md
-      - Sixes ruleset: rules/sixes.md
-      - Highlander ruleset: rules/highlander.md
-      - Community Guidelines: rules/community_guidelines.md
-      - User Policy: rules/user_policy.md
-      - Infractions: rules/infractions.md
-      - Transfers: rules/transfers.md
-    - League Info:
-      - General: info/general.md
-      - Anti-Cheat & You: info/anticheat_and_you.md
-      - Bans:
-        - Ban Types: info/ban_types.md
-        - Anti-Cheat Bans: info/anticheat_bans.md
-        - VAC Bans: info/vac_bans.md
-        - Infraction Threshold Bans: info/infraction_bans.md
-        - Other Bans: info/other_bans.md
-        - Past Bans: info/past_bans.md
-      - Staff: info/staff.md
-      - Map History:
-        - Sixes: info/map_history/#sixes-6v6-map-history
-        - Highlander: info/map_history/#highlander-hl-map-history
-        - Tournaments/Cups: info/map_history/#tournamentscups
-      - Server Configs: info/server_configs.md
-    - Guides:
-      - Your guide to the guides: guides/landing.md
-      - Newbie Guide: guides/newbie_guide.md
-      - Book a Server: guides/book_a_server.md
-      - Self-managed Servers: guides/selfmanaged_servers.md
-    - FAQ: 
-      #- General: faq/landing.md
-      #- Misconduct: faq/misconduct.md
-      #- Anti-Cheat: faq/anticheat.md
-      - Demo Requests: faq/demo_requests.md
-    - Support & Reporting: support/landing.md
-    - Back to ozfortress.com: 'https://ozfortress.com'
+    - Home: 'index.md'
+    - 'Rulesets':
+      - 'Global ruleset': 'rules/global.md'
+      - 'Sixes ruleset': 'rules/sixes.md'
+      - 'Highlander ruleset': 'rules/highlander.md'
+      - 'Community Guidelines': 'rules/community_guidelines.md'
+      - 'User Policy': 'rules/user_policy.md'
+      - 'Infractions': 'rules/infractions.md'
+      - 'Transfers': 'rules/transfers.md'
+    - 'League Info':
+      - 'General': 'info/general.md'
+      - 'Anti-Cheat & You': 'info/anticheat_and_you.md'
+      - 'Bans':
+        - 'Ban Types': 'info/ban_types.md'
+        - 'Anti-Cheat Bans': 'info/anticheat_bans.md'
+        - 'VAC Bans': 'info/vac_bans.md'
+        - 'Infraction Threshold Bans': 'info/infraction_bans.md'
+        - 'Other Bans': 'info/other_bans.md'
+        - 'Past Bans': 'info/past_bans.md'
+      - 'Staff': 'info/staff.md'
+      - 'Map History': 'info/map_history.md'
+      - 'Server Configs': 'info/server_configs.md'
+    - 'Guides':
+      - 'Your guide to the guides': 'guides/landing.md'
+      - 'Newbie Guide': 'guides/newbie_guide.md'
+      - 'Book a Server': 'guides/book_a_server.md'
+      - 'Self-managed Servers': 'guides/selfmanaged_servers.md'
+    - 'FAQ': 
+      - 'Demo Requests': 'faq/demo_requests.md'
+    - 'Support & Reporting': 'support/landing.md'
+    - 'Back to ozfortress.com': 'https://ozfortress.com'
 theme:
   name: 'material'
   custom_dir: overrides
@@ -113,7 +107,7 @@ plugins:
       fallback_to_build_date: true # remove this prior to launch
 extra:
   generator: false
-  use_directory_urls: false
+  use_directory_urls: true
   social:
     - icon: fontawesome/solid/globe
       link: https://ozfortress.com
