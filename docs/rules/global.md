@@ -131,6 +131,25 @@ Discrimination on the basis of, but not limited to, race, nationality, religious
 
 Breach of the sportsmanship clause will result in exclusion penalties to be determined by the ozfortress administration.
 
+### 1.12. Match Throwing
+Match Throwing is punishable within ozfortress. We enforce this clause to ensure integrity in match play for all involved, and this clause directly ties in with our Tier 2 infraction for **.
+
+What we consider Match Throwing:
+
+- Not actively participating within the match for an extended period of time.
+- Not actively engaging, fighting or otherwise participating in fights against enemy players.
+- Purposefully detracting from the objective of the format.
+- Actively "feeding" or throwing away their life to hamper the performance of their team.
+
+What we do not consider Match Throwing:
+
+- Poor individual performance / statistics within a map of the match, or the entire match (unless a pattern of this behaviour has been established throughout multiple matches of a season, typically with further evidence of wrong-doing).
+
+It should be noted that any or all of the descriptions above, are applied purely at the discretion of the administrator handling the dispute, or the wider staff team. For example in most cases, a team member who is actively working against their team by "feeding" or otherwise throwing their life away to hamper their team's performance, will see no penalty from this clause, as this is considered an internal team issue, and has little to no impact on the opposing team or the integrity of the match as a whole.
+
+### 1.13. Match Fixing
+Similar to Match Throwing found above in 1.12. Match Throwing, Match Fixing detracts from the integrity of match play and is considered punishable by ozfortress staff. However, Match Fixing differs from Match Throwing in a few ways. Match Fixing typically involves premeditation, planning or communication with another team/other teams, a third party, etc. Any attempt to detract from the integrity of match play, monetary or otherwise will be reviewed and punished at the discretion of the ozfortress staff team.
+
 ---
 
 ## 2. Teams
