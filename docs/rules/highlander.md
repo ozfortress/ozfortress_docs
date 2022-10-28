@@ -52,7 +52,7 @@ The regular season for Main or Open (depending on signup numbers, format and sea
 There are no current limits on the amount of out of region players on a roster.
 
 ### 2.2. Mercenary Limits
-Please note, mercenary limits are the same for both seasonal leagues. Teams can only make use of mercenaries within four matches per season. Each match should not go above the standard two mercenaries per team allowed in each match limit.
+Please note, mercenary limits are the different for both seasonal leagues. Teams **can only make use of mercenaries within four matches per season**. Each match should not go above **three mercenaries per team** allowed in each match.
 
 ### 2.3. Team Eligibility Requirements
 Teams are expected to have a certain amount of players (does not include any mercenaries) ready to start or continue a match. This expected amount of players differs for each format, and can be seen below.
@@ -66,6 +66,9 @@ All time scheduling should be in AEDT if Daylight Savings is in effect, AEST if 
 - **Match time/day set**: 7PM AEST/AEDT Monday
 - **Results submission**: 11:59PM AEST/AEDT Thursday
 - **All other match details**: 11:59PM AEST/AEDT Thursday
+
+### 3.2. Default Scheduling
+Teams are free to communicate their desired/playable match days and times with eachother, typically this responsibility falls upon the captains, or players nominated to act in that capacity. ozfortress does encourage all teams to set their own match days and times, but in case of disputes, an administrator may enforce the default match day or time, as found below. These defaults will only ever be enforced when teams do not have any common match days set under the Availability section of their roster, found under Manage Roster on their team page. See [3.1. Negotiating Match Times](/rules/global/#31-negotiating-match-times) for more information on negotiation.
 
 ## 4. Format
 Highlander teams are expected to play with nine player at all times within an official match. If a team cannot field field enough players from their roster and mercenaries, teams are permitted to play with seven players, with the opposing team permitted to keep their full nine player roster. Teams cannot play with fewer than seven players, otherwise they will be automatically disqualified and subsequently forfeited. Teams must still observe mercenary rules and limits.
