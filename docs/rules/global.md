@@ -139,7 +139,7 @@ What we consider Match Throwing:
 - Not actively participating within the match for an extended period of time.
 - Not actively engaging, fighting or otherwise participating in fights against enemy players.
 - Purposefully detracting from the objective of the format.
-- Actively "feeding" or throwing away their life to hamper the performance of their team.
+- Actively "feeding" or throwing away your life to hamper the performance of their team.
 
 What we do not consider Match Throwing:
 
