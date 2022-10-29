@@ -132,7 +132,7 @@ Discrimination on the basis of, but not limited to, race, nationality, religious
 Breach of the sportsmanship clause will result in exclusion penalties to be determined by the ozfortress administration.
 
 ### 1.12. Match Throwing
-Match Throwing is punishable within ozfortress. We enforce this clause to ensure integrity in match play for all involved, and this clause directly ties in with our Tier 2 infraction for **.
+Match Throwing is punishable within ozfortress. We enforce this clause to ensure integrity in match play for all involved, and this clause directly ties in with our Tier 2 infraction for *Destructive in-game play*.
 
 What we consider Match Throwing:
 

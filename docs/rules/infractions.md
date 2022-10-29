@@ -78,7 +78,9 @@ Infraction points do **not** expire after a user is banned. If a user receives a
 + Interference with an ozfortress match
 + Disbanding an in-season active roster
 + Destructive server administration / abuse of server remote control
-+ Failure to follow format/config limitations
++ Destructive in-game play - *including but not limited to*:
+    + Failure to follow format/config limitations
+    + Match Throwing
 
 #### Tier 3 Offences - 30 points (2-year expiry)
 + Attempting to impersonate or imply affiliation with members of the anti-cheat panel
