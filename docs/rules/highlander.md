@@ -63,9 +63,9 @@ Teams are expected to have a certain amount of players (does not include any mer
 ### 3.1. Deadlines
 All time scheduling should be in AEDT if Daylight Savings is in effect, AEST if Daylight Savings is not in effect. The times themselves do not move with Daylight Savings however, meaning 7PM for AEST & AEDT.
 
-- **Match time/day set**: 7PM AEST/AEDT Monday
-- **Results submission**: 11:59PM AEST/AEDT Thursday
-- **All other match details**: 11:59PM AEST/AEDT Thursday
+- **Match time/day set**: 7PM AEST/AEDT Tuesday
+- **Results submission**: 11:59PM AEST/AEDT Friday
+- **All other match details**: 11:59PM AEST/AEDT Friday
 
 ### 3.2. Default Scheduling
 Teams are free to communicate their desired/playable match days and times with eachother, typically this responsibility falls upon the captains, or players nominated to act in that capacity.
