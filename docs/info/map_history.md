@@ -3,8 +3,7 @@
 ### Sixes (6v6) Map History
 Below you will find the maps used in each season of ozfortress Sixes found on this website (formerly known as "warzone"), from Season 16 onwards. Seasons prior to this were on the old ozfortress forums, which we will look to get back up and running at a later date.
 
-#### Season 35 (Current)
-Subject to change:
+#### Season 35
 ```
 cp_gullywash_f9
 cp_process_f11
@@ -302,6 +301,18 @@ koth_proside_v1
 ### Tournaments/Cups
 Below you will find the maps used in each tournament/off-season cup ozfortress has run on our new website.
 
+#### CappingTV Summer Brawl 2023
+```
+cp_process_f11
+cp_sunshine
+cp_gullywash_f9
+cp_snakewater_final1
+cp_metalworks_f5
+cp_prolands_rc3
+cp_granary_pro_rc13f
+koth_product_final
+cp_reckoner_rc6
+```
 #### Ultiduo 16
 ```
 ultiduo_ozf_r
