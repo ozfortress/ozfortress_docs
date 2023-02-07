@@ -12,15 +12,13 @@ The following commands are executed via/in the in-game chat:
 
     *Note: This command can only be used by the person who reserved the server.*
 
-!!! warning `!extend`
-    Extends the time of the reservation by 1 hour. However this will only work if the server is free to reserve.
-
-    *Note: This command can only be used by the person who reserved the server.*
-
 !!! warning `!end`
     Ends the reservation and kicks all players.
 
     *Note: This command can only be used by the person who reserved the server.*
+
+!!! info `!extend`
+    Extends the time of the reservation by 1 hour. However this will only work if the server is free to reserve.
 
 !!! info `!who`
     Steam nickname of the person that reserved the server.
