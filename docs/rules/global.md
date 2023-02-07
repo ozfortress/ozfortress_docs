@@ -301,13 +301,15 @@ To lodge a dispute or report misconduct within a match, please contact an ozfort
 Fakenicking / Aliasing is allowed in ozfortress matches, but be aware that both Approved/Unapproved Casting Organisations may choose to use your ozfortress alias or most notable alias. Team organisation and sponsorship tags are allowed but must be reasonable. Players are encouraged to carefully choose their submitted roster name as name change requests are both monitored and selectively approved. Name change requests cannot include emojis, special characters, or names which breach our Community Guidelines or Infractions ruleset.
 
 ### 3.7. Default Server Location and Provider
-ozfortress uses Qixalite’s server infrastructure to host bookable servers for competitive play. Currently, Qixalite supports various locations, but ozfortress will only allow the use of two regions, Sydney and Melbourne. 
-For ozfortress official matches (and in case of disputes), the **official server location is Sydney**. Similarly to the default server location, ozfortress also has a default server provider, which is ozfortress bookable servers.
+ozfortress works with serveme.tf to host bookable/reservable game servers for competitive play. Currently, au.serveme.tf only supports Sydney, but this rule still applies.
+
+
+For ozfortress official matches (and in case of disputes), the **official server location is Sydney**. Similarly to the default server location, ozfortress also has a default server provider, which is **au.serveme.tf servers**.
 
 ### 3.8. Server Location and Provider choice
-The Home team or higher-seeded team for playoffs will be able to choose the server location, currently out of our two supported server locations, Melbourne and Sydney. The Away team or lower-seeded team can contact an administrator if they feel the location choice is malicious and in an attempt to disadvantage their team significantly. Administrators reserve the right to both overrule the decision made by the Home team, as well as deny requests for the location to be changed or defaulted. The Home team are also able to choose the server provider, but we highly encourage the use of Qixalite run servers (booked either from the ozfortress or Qixalite Discords), and are again able to be disputed if the Away team believes there is malicious intent in their choice.
+The Home team/higher-seeded team for playoffs will be able to choose the server. The Away team/lower-seeded team can contact an administrator if they feel the server choice is malicious and in an attempt to disadvantage their team significantly. Administrators reserve the right to both overrule the decision made by the Home team, as well as deny requests for the server to be changed.
 
-For the Regular Season, teams can discuss the server location with each other, but if they are unable to come to a resolution to their dispute, the default server location will be used.
+For the Regular Season, teams can discuss the server to be used with each other, but if they are unable to come to a resolution to their dispute, the default server provider/location will be used.
 
 ---
 
