@@ -16,27 +16,27 @@ serveme.tf accomplishes this in two ways, kind of. When using an [au.serveme.tf]
 ### Commands
 The following commands are executed via/in the in-game chat:
 
-!!! warning `!rcon command-goes-here`
+!!! warning !rcon command-goes-here
 
     This runs a command on the server, for example you can run "!rcon changelevel koth_product" to change the map on the server to Product. You can also use the *Web RCON* button on your reservation page to control your booking!
 
     *Note: This command can only be used by the person who reserved the server.*
 
-!!! warning `!end`
+!!! warning !end
 
     Ends the reservation and kicks all players. There is also an *end button* available on your reservation page!
 
     *Note: This command can only be used by the person who reserved the server.*
 
-!!! info `!extend`
+!!! info !extend
 
     Extends the time of the reservation by 1 hour. However this will only work if the server is free to reserve. There is also an *extend button* available on your reservation page!
 
-!!! info `!who`
+!!! info !who
 
     Steam nickname of the person that reserved the server.
 
-!!! info `!timeleft`
+!!! info !timeleft
 
     Minutes left in the reservation.
 
