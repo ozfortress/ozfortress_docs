@@ -16,29 +16,22 @@ serveme.tf accomplishes this in two ways, kind of. When using an [au.serveme.tf]
 ### Commands
 The following commands are executed via/in the in-game chat:
 
-!!! warning !rcon command-goes-here
+####`!rcon command-goes-here`
+This runs a command on the server, for example you can run "!rcon changelevel koth_product" to change the map on the server to Product. You can also use the *Web RCON* button on your reservation page to control your booking!
+*Note: This command can only be used by the person who reserved the server.*
 
-    This runs a command on the server, for example you can run "!rcon changelevel koth_product" to change the map on the server to Product. You can also use the *Web RCON* button on your reservation page to control your booking!
+####`!end`
+Ends the reservation and kicks all players. There is also an *end button* available on your reservation page!
+*Note: This command can only be used by the person who reserved the server.*
 
-    *Note: This command can only be used by the person who reserved the server.*
+####`!extend`
+Extends the time of the reservation by 1 hour. However this will only work if the server is free to reserve. There is also an *extend button* available on your reservation page!
 
-!!! warning !end
+####`info !who`
+Steam nickname of the person that reserved the server.
 
-    Ends the reservation and kicks all players. There is also an *end button* available on your reservation page!
-
-    *Note: This command can only be used by the person who reserved the server.*
-
-!!! info !extend
-
-    Extends the time of the reservation by 1 hour. However this will only work if the server is free to reserve. There is also an *extend button* available on your reservation page!
-
-!!! info !who
-
-    Steam nickname of the person that reserved the server.
-
-!!! info !timeleft
-
-    Minutes left in the reservation.
+####`info !timeleft`
+Minutes left in the reservation.
 
 ### Provided by you, our community!
 Without our Patreon members, we would not be able to bring you servers! Patreon members receive special booking/reservation perks - if you are interested in subscribing, see our [Patreon](https://patreon.com/ozfortress).
