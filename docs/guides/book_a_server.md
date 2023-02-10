@@ -4,21 +4,30 @@ Bookings/Reservations are made via [au.serveme.tf](https://au.serveme.tf/), Aust
 
 [**Click here to Book a Game Server**](https://au.serveme.tf/)
 
+#### **Using au.serveme.tf!**
+[au.serveme.tf](https://au.serveme.tf) make use of *Valve's SDR* permanently, meaning there are some differences from how you used to use bookable servers. *Valve SDR* acts like a VPN of sorts for the server, preventing certain protocols like RCON from working typically. Because of this, servers using *Valve's SDR* need to come up with solutions, and in the case of bookable servers - a way to grant RCON control of some variety to the person booking the server. 
+
+##### **Controlling your server**
+serveme.tf accomplishes this in two ways, kind of. When using an [au.serveme.tf](https://au.serveme.tf) server, you can opt to either send commands in the game chat via `!rcon command-goes-here`, or use the Web RCON button found on your booking's reservation page. You'll notice earlier we said "kind of", but the two options we listed are full RCON control of the server, so what gives? When booking the server, you get the opportunity to set the map, config and whitelist. But these controls aren't limited to the booking period - they are also available whenever via the "Edit" button on your reservation page. You can change all of the aforementioned server options here as well!
+
+##### **Booking/reserving your server**
+"Ok, you've told us how to control our server, but not how to book one" is probably what you are wondering, or not, it is pretty simple. Navigate to [au.serveme.tf](https://au.serveme.tf) home page, and you'll find two options. You can choose either "Get server" or "1-click server", but for now we recommend "Get server". Upon clicking the button, you'll be redirected to a page where you can configure the server as you like, with the same server options we discussed earlier, and some new ones. It's all easy enough, just follow through with the prompts!
+
 ### Commands
 The following commands are executed via/in the in-game chat:
 
 !!! warning `!rcon command-goes-here`
-    This runs a command on the server, for example you can run "!rcon changelevel koth_product" to change the map on the server to Product.
+    This runs a command on the server, for example you can run "!rcon changelevel koth_product" to change the map on the server to Product. You can also use the *Web RCON* button on your reservation page to control your booking!
 
     *Note: This command can only be used by the person who reserved the server.*
 
 !!! warning `!end`
-    Ends the reservation and kicks all players.
+    Ends the reservation and kicks all players. There is also an *end button* available on your reservation page!
 
     *Note: This command can only be used by the person who reserved the server.*
 
 !!! info `!extend`
-    Extends the time of the reservation by 1 hour. However this will only work if the server is free to reserve.
+    Extends the time of the reservation by 1 hour. However this will only work if the server is free to reserve. There is also an *extend button* available on your reservation page!
 
 !!! info `!who`
     Steam nickname of the person that reserved the server.
