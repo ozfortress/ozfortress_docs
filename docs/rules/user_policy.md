@@ -8,3 +8,6 @@ By signing up to ozfortress, you are agreeing to limited or otherwise zero compl
 - Any criminal activity will lead to indefinite bans from all ozfortress services.
 
 This User Policy agreement can be updated at any time, but we will endeavour to notify users about any change.
+
+## User Account Deletion
+User Account Deletion is not something that we offer at this time, as it is an entirely manual process. Rest assured, no personally identifiable information is stored without user consent, and the user is within their rights to not include their email in their account.
