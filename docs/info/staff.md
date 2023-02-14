@@ -18,10 +18,9 @@ As mentioned in our competitive league rulesets, League Administrators in tandem
 | ---- | ---- | ------- |
 | Sixes | [samson](https://ozfortress.com/users/205) | [samson#5103](https://discordapp.com/users/76537156578840576) |
 | Sixes | [a team of ants in their prime](https://ozfortress.com/users/1561) | [a team of ants in their prime#3881](https://discordapp.com/users/187344325938511874) |
-| Sixes | [chimes](https://ozfortress.com/users/2244) | [chimes#0002](https://discordapp.com/users/198678356454014976) |
+| Sixes | [frydog](https://ozfortress.com/users/982) | [frydog#0257](https://discordapp.com/users/217181409897349121) |
 | Sixes | [raina](https://ozfortress.com/users/1729) | [raina#4682](https://discordapp.com/users/712785948047441921) |
 | Sixes | [snazzy](https://ozfortress.com/users/37) | [snazzy#5086](https://discordapp.com/users/125913179690631169) |
-| Highlander | [Thyme](https://ozfortress.com/users/150) | [Thyme#1499](https://discordapp.com/users/132287870886084608) |
 | Highlander | [Oldcustard](https://ozfortress.com/users/4030) | [Oldcustard#9667](https://discordapp.com/users/333896131840966657) |
 | Highlander | [Bakes](https://ozfortress.com/users/4024) | [Bakes#3098](https://discordapp.com/users/107338388662648832) |
 | Highlander | [Rainy](https://ozfortress.com/users/3124) | [Rainy#1181](https://discordapp.com/users/107399782162558976) |
@@ -46,7 +45,6 @@ The team that helps make everything media-related for ozfortress happen. Be it o
 | [Brady](https://ozfortress.com/users/140) | [Brady#1020](https://discordapp.com/users/179839476053311489) |
 | [frydog](https://ozfortress.com/users/982) | [frydog#0257](https://discordapp.com/users/217181409897349121) |
 | [jayyylmao](https://ozfortress.com/users/1188) | [jayyylmao#6969](https://discordapp.com/users/170138245819138048) |
-| [Thyme](https://ozfortress.com/users/150) | [Thyme#1499](https://discordapp.com/users/132287870886084608) |
 
 ## Past Staff
 
@@ -58,6 +56,7 @@ The team that helps make everything media-related for ozfortress happen. Be it o
 + bladez (Livelogs and ozfortress booker)
 + blitzen
 + Brodogs
++ chimes
 + Cole
 + ferelah
 + fez
@@ -91,6 +90,7 @@ The team that helps make everything media-related for ozfortress happen. Be it o
 + Solus
 + stv!
 + tempest (Co-Founder of ozfortress)
++ Thyme
 + Thermite
 + TomSawyer
 + tonberry
