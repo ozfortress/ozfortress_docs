@@ -5,9 +5,9 @@ Bans within ozfortress typically come as a result of poor player conduct, use of
     Ban reasoning is not always limited to just the aforementioned reasons, administration reserves the right to make decisions for any case they deem necessary, but this is typically left to cases which are outliers or uncommon.
 
 ### Evidence Bans
-Cheating related bans, issued typically for usage of third-party programs to gain an unfair advantage, exploit usage, or outlier cheating cases that do not uphold the spirit of competitive play and sportsmanship.
+Cheating related bans, issued typically for usage of third-party programs to gain an unfair advantage, exploit usage, or outlier cheating cases that do not uphold the spirit of competitive play and sportsmanship. Exploit bans are also covered under Evidence Bans, but are typically of a shorter duration.
 
-Infraction Threshold Bans
+### Infraction Threshold Bans
 
 Poor player conduct and/or team conduct. You can find more information on these bans [here](../../rules/infractions/).
 
