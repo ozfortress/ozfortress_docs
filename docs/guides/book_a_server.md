@@ -1,6 +1,6 @@
 ## How to Book/Reserve a Game Server
 
-Bookings/Reservations are made via [au.serveme.tf](https://au.serveme.tf/), Australia's only server provider. Simply click "Get server" or navigate to the Reservations tab and follow the prompts. For a full list of commands, please refer to [au.serveme.tf's FAQ page](https://au.serveme.tf/faq) - you can find a basic list of commands below as well:
+Bookings/Reservations are made via [au.serveme.tf](https://au.serveme.tf/). Simply click "Get server" or navigate to the Reservations tab and follow the prompts. For a full list of commands, please refer to [au.serveme.tf's FAQ page](https://au.serveme.tf/faq) - you can find a basic list of commands below as well:
 
 [**Click here to Book a Game Server**](https://au.serveme.tf/)
 

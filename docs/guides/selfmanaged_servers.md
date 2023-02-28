@@ -8,7 +8,7 @@ We have received a plethora of questions over the past few years regarding how t
 * The server should be hosted within the region you play in.
 * You can either rent a server off of a game server provider (Streamline Servers, Wombat Servers, etc.) or set up your own on a high-performance VPS or Dedicated Server.
 * If you intend on using your own self-hosted server for official matches, your server and league configs should meet the same standards as our own configs, found in our GitHub repository.
-* Plugins outside of logs.tf, TF2 Competitive Fixes, STV Demo Record, RestoreScore and the Uber Pause fix aren't permitted under any circumstance. This is including but is not limited to plugins that; modify gameplay, server to client interaction, server-based Anti-Cheat plugins, or plugins that violate CVARs set by our league configs (forced third-person killcams for example).
+* Plugins outside of logs.tf, TF2 Competitive Fixes, STeph's AntiCheat/StAC, STV Demo Record, RestoreScore and the Uber Pause fix aren't permitted under any circumstance. This is including but is not limited to plugins that; modify gameplay, server to client interaction, server-based Anti-Cheat plugins which are not StAC, or plugins that violate CVARs set by our league configs (forced third-person killcams for example).
 
 If you are unsure where your hosted server falls, feel free to contact an admin.
 
