@@ -38,6 +38,7 @@ The plugins listed below are required for league play compliance, regardless of 
 
 ### Non-Plugin Requirements
 In addition to server plugins, there are other specific requirements.
+
 * [Latest ozfortress configs](https://github.com/ozfortress/server-configs), which are updated regularly.
 * Adequate autoexec/server configs for play.
   * Ensure `mp_idlemaxtime` is set either to `0` or above `30`.
