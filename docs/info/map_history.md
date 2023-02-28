@@ -3,8 +3,20 @@
 ### Sixes (6v6) Map History
 Below you will find the maps used in each season of ozfortress Sixes found on this website (formerly known as "warzone"), from Season 16 onwards. Seasons prior to this were on the old ozfortress forums, which we will look to get back up and running at a later date.
 
-#### Season 35 (Current)
+#### Season 36 (Current)
 Subject to change:
+```
+cp_gullywash_f9
+cp_process_f12
+cp_snakewater_final1
+koth_bagel_rc5
+cp_sunshine
+cp_granary_pro_rc15b
+koth_product_final
+```
+---
+
+#### Season 35
 ```
 cp_gullywash_f9
 cp_process_f11
@@ -271,8 +283,20 @@ map
 ### Highlander (HL) Map History
 Below you will find the maps used in each season of ozfortress Highlander found on this website. ozfortress Highlander is a continuation of Respawn League's own Highlander seasons, which discontinued in 2022.
 
-#### Season 2 (Current)
+#### Season 3 (Current)
 Subject to change:
+```
+pl_upward_f10
+koth_product_final
+pl_swiftwater_final1
+koth_warmtic_f10
+pl_vigil_rc9
+koth_ashville_rc2d
+cp_steel_f12
+```
+---
+
+#### Season 2
 ```
 pl_upward_f10
 koth_product_final
@@ -299,7 +323,7 @@ koth_proside_v1
 ```
 ---
 
-### Tournaments/Cups
+### ozfortress Tournaments/Cups
 Below you will find the maps used in each tournament/off-season cup ozfortress has run on our new website.
 
 #### Ultiduo 16
@@ -332,6 +356,32 @@ koth_ultiduo_r_b7
 koth_ultiduo_r_b7
 ```
 ---
+
+#### ozfortress A Midsummer Night's Highlander Cup 2023
+```
+koth_proot_b5b
+koth_ramjam_v2_b3
+cp_rapids_a22
+pl_cornwater_b8b
+```
+
+#### ozfortress A Midsummer Night's Sixes Cup 2023
+```
+cp_sultry_b8
+cp_villa_b19
+cp_entropy_a18b
+cp_logjam_rc12f
+```
+
+#### ozfortress Experimental Cup 1
+```
+cp_sunshine
+cp_gullywash_f9
+cp_snakewater_final1
+cp_process_f11
+cp_metalworks_f4
+```
+
 #### ozfortress Winter League 2021
 ```
 cp_gullywash_final1
@@ -447,5 +497,48 @@ koth_bagel_e1
 cp_badlands
 cp_process_final
 cp_snakewater_final1
+```
+---
+
+### Tournaments/Cups by our partners
+Below you will find the maps used in each tournament/off-season cup one of our partners has run on our website.
+
+#### CappingTV Summer Brawl 2023 (LAN)
+```
+cp_process_f11
+cp_sunshine
+cp_gullywash_f9
+cp_snakewater_final1
+cp_metalworks_f5
+cp_prolands_rc3
+cp_granary_pro_rc13f
+koth_product_final
+cp_reckoner_rc6
+```
+---
+
+#### LAN Downunder 2022 (LAN)
+```
+cp_gullywash_f7
+cp_process_f11
+cp_snakewater_final1
+koth_bagel_rc5
+cp_sunshine
+cp_prolands_rc2p
+cp_reckoner_rc6
+cp_granary_pro_rc12f
+koth_product_final
+```
+---
+
+#### CappingTV Summer Brawl 2022
+```
+cp_process_f9a
+cp_metalworks_f2
+cp_sunshine
+cp_gullywash_f5a
+cp_snakewater_final1
+koth_clearcut_b15d
+cp_granary_pro_rc8
 ```
 ---
