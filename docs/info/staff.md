@@ -17,7 +17,6 @@ As mentioned in our competitive league rulesets, League Administrators in tandem
 | League | Name | Discord |
 | ---- | ---- | ------- |
 | Sixes | [samson](https://ozfortress.com/users/205) | [samson#5103](https://discordapp.com/users/76537156578840576) |
-| Sixes | [a team of ants in their prime](https://ozfortress.com/users/1561) | [a team of ants in their prime#3881](https://discordapp.com/users/187344325938511874) |
 | Sixes | [frydog](https://ozfortress.com/users/982) | [frydog#0257](https://discordapp.com/users/217181409897349121) |
 | Sixes | [raina](https://ozfortress.com/users/1729) | [raina#4682](https://discordapp.com/users/712785948047441921) |
 | Sixes | [snazzy](https://ozfortress.com/users/37) | [snazzy#5086](https://discordapp.com/users/125913179690631169) |
@@ -27,7 +26,7 @@ As mentioned in our competitive league rulesets, League Administrators in tandem
 | Highlander | [Sperkle](https://ozfortress.com/users/618) | [Sperkle#4456](https://discordapp.com/users/180875592923611145) |
 
 ## Public Behaviour Panel members
-There are two Behaviour Panel members who are public, with two members who are not. We leave this decision purely up to the individual, however we do ask that those in an administration role are public-facing if possible. We will always strive to have an equal ratio of staff/non-staff members, if not more members who are not serving in an administration role.
+There are two Behaviour Panel members who are public, with three members who are not. We leave this decision purely up to the individual, however we do ask that those in an administration role are public-facing if possible. We will always strive to have an equal ratio of staff/non-staff members, if not more members who are not serving in an administration role.
 
 | Name | Discord |
 | ---- | ------- |

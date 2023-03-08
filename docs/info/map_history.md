@@ -13,6 +13,8 @@ koth_bagel_rc5
 cp_sunshine
 cp_granary_pro_rc15b
 koth_product_final
+cp_reckoner_rc6
+cp_sultry_b8
 ```
 ---
 

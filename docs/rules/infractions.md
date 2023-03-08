@@ -64,23 +64,15 @@ The 3 round match ban carries across from the offseason, so if it is received du
 
 Infraction points do **not** expire after a user is banned. If a user receives a one-year ban involving a Tier 3 infraction, the infraction will still remain for the remainder of the two-year expiry after the player’s one-year ban has been served.
 
-## Infractions
+## Behavioural Infractions
+Specifically player behaviour not related to in-match play or organisation.
+
 #### Tier 1 Offences - 10 points (6 months expiry)
-+ Repeated delays in Match Organisation, this typically includes:
-    + Failing to schedule match time/day multiple times
-    + Failing to post necessary match details multiple times (for example, logs, mercenaries, etc.)
-+ Inappropriate or unrelated posting in Match Threads, specifically Match Communications.
 + Excessive trash talk (beyond that which can reasonably be considered banter)
 
 #### Tier 2 Offences - 20 points (1-year expiry)
 + Any attempt to deceive or mislead players, captains or administrators
 + Impersonating ozfortress players without permission
-+ Interference with an ozfortress match
-+ Disbanding an in-season active roster
-+ Destructive server administration / abuse of server remote control
-+ Destructive in-game play - *including but not limited to*:
-    + Failure to follow format/config limitations
-    + Match Throwing
 
 #### Tier 3 Offences - 30 points (2-year expiry)
 + Attempting to impersonate or imply affiliation with members of the anti-cheat panel
@@ -97,6 +89,28 @@ Infraction points do **not** expire after a user is banned. If a user receives a
     - Sexism
     - Transphobia
 + General bigotry/use of derogatory slurs against an individual or group
+
+## League Infractions
+Player behaviour, poor organisation, or failure to follow format rulesets.
+
+#### Tier 1 Offences - 10 points (6 months expiry)
++ Repeated delays in Match Organisation, this typically includes:
+    + Failing to schedule match time/day multiple times
+    + Failing to post necessary match details multiple times (for example, logs, mercenaries, etc.)
++ Repeated inappropriate or unrelated posting in Match Threads, specifically Match Communications, under the following conditions:
+    + Any inappropriate or unrelated post made **during the organisation of a match**, meaning from attempting to organise a time/day to confirming the match scores and posting other details, will be actionable and will be deleted. On the third instance of this behaviour from a specific player, they will be infracted.
+    + Any inappropriate or unrelated post made after a match has concluded and all organisational details are present will not be actionable, unless it violates our [Community Guidelines](/docs/rules/community_guidelines) or our Behavioural Infractions.
+
+#### Tier 2 Offences - 20 points (1-year expiry)
++ Interference with an ozfortress match
++ Disbanding an in-season active roster
++ Destructive server administration / abuse of server remote control
++ Destructive in-game play - *including but not limited to*:
+    + Failure to follow format/config limitations
+    + Match Throwing
+
+#### Tier 3 Offences - 30 points (2-year expiry)
+
 
 ## Ban Probations
 Players who have served their ban will automatically have a 12 month probation period applied. Within this period, offences carry higher points and more severe penalties. All typical Ban Levels are observed by these probationary changes, as such 60 points will instantly incur a 1 Year Competitive and Community Ban.

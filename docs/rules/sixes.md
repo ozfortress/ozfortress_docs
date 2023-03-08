@@ -21,10 +21,10 @@ The selection process for a nine map pool (BO3):
 1. The **higher seeded** or **home team** will either **choose to ban first or defer**.
 2. The **first team** (determined by the result of step one) will **ban a map**.
 3. The **second team** will **ban a map**.
-4. The **first team** will **ban a map**.
-5. The **second team** will **ban a map**.
-6. The **first team** will **pick the first map** from the remaining pool.
-7. The **second team** will **pick the second map** from the remaining pool.
+4. The **first team** will **pick the first map** from the remaining pool.
+5. The **second team** will **pick the second map** from the remaining pool.
+6. The **first team** will **ban a map**.
+7. The **second team** will **ban a map**.
 8. The **first team** will **pick the third/tiebreaker map** from the remaining maps.
 
 For the Premier Grand Final (BO5), the selection process varies as follows:
@@ -32,8 +32,8 @@ For the Premier Grand Final (BO5), the selection process varies as follows:
 1. The **higher seeded** or **home team** will either **choose to ban first or defer**.
 2. The **first team** (determined by the result of step one) will **ban a map**.
 3. The **second team** will **ban a map**.
-4. The **first team** will **ban a map**.
-5. The **second team** will **ban a map**.
+4. The **first team** will **pick the first map** from the remaining pool.
+5. The **second team** will **pick the second map** from the remaining pool.
 6. The **first team** will **pick the third map** from the remaining pool.
 7. The **second team** will **pick the fourth map** from the remaining pool.
 8. The **first team** will **pick the tiebreaker map** from the remaining maps.
@@ -47,6 +47,13 @@ The regular season for Premier, High and Intermediate (depending on signup numbe
 #### 1.3.2. Bottom Divisions
 The regular season for Main and Open (depending on signup numbers, format and season length) will typically be run on the Swiss system, where each round is seeded based on the previous records of teams. We will ensure that the format of the regular season is stated on the seasonal league page. [See Rule 1.4 for further details on the Swiss system](/rules/global/#_1-4-round-robin).
 
+### 1.4. Map/Format Win Conditions
+#### Control Point (5CP)
+Almost all Control Point maps run in Sixes' history feature five (5) capture points. Control Point maps (commonly referred to as 5CP) are under a Win Limit condition of five (5) rounds, meaning the first team to win five (5) rounds, wins the map. In the past, ozfortress made use of Win Difference, but Season 35 and beyond saw the swap away from Win Difference to Win Limit after community feedback. In addition to the Win Conditions, are the Time Conditions. ozfortress has used a Map Time Limit of thirty (30) minutes for the majority of its Sixes run, but more recently has seen enhanced Round Timer conditions with the addition of the Improved Round Timer plugin. All 5CP maps run in ozfortress now operate under a five (5) minute Round Timer value, meaning if neither team successfully captures the current capture point/s in time to reset the value, the round will stalemate and reset both teams back to a rollout and subsequent middle fight.
+
+#### King of the Hill (KOTH)
+King of the Hill maps (also known as KOTH maps) are a single capture point typically in the center of the map that both teams fight for control of. Typically each team needs to keep possession of the capture point for at least three (3) minutes to win a round. In ozfortress, KOTH maps are played to a Win Limit of three (3) rounds with no Map Time Limit.
+
 ## 2. Teams
 ### 2.1. Rosters
 #### 2.1.1. Roster Size Requirements/Limits
@@ -56,7 +63,7 @@ The regular season for Main and Open (depending on signup numbers, format and se
 - Teams should look to have a least one or two substitute players in the event a core player cannot play.
 
 #### 2.1.2. Out of Region Player Limit
-There are no current limits on the amount of out of region players on a roster.
+There are no current limits on the amount of out of region players on a roster other than [Ping Limiting](/rules/global/#23-out-of-region-play-ping-eligibility).
 
 ### 2.2. Mercenary Limits
 Please note, mercenary limits are the different for both seasonal leagues. Teams **can only make use of mercenaries within four matches per season**. Each match should not go above **two mercenaries per team** allowed in each match.

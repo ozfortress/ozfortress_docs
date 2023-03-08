@@ -18,12 +18,14 @@ Maps for playoff matches are selected by the captains of each team. This process
 #### 1.2.1.1. Highlander Pick/Ban Map Selection
 The selection process for a nine map pool (BO3)in Playoffs:
 
-1. The **higher seeded** or **home team** will **ban first**.
-2. The **lower seeded** or **away team** will **ban a map**.
-3. The **higher seeded** or **home team** will **pick a map**.
-4. The **lower seeded** or **away team** will **pick a map**.
-5. The **lower seeded** or **away team** will **ban a map**.
-6. The **higher seeded** or **home team** will **pick a map** from the remaining pool.
+1. The **higher seeded** or **home team** will either **choose to ban first or defer**.
+2. The **first team** (determined by the result of step one) will **ban a map**.
+3. The **second team** will **ban a map**.
+4. The **first team** will **pick the first map** from the remaining pool.
+5. The **second team** will **pick the second map** from the remaining pool.
+6. The **first team** will **ban a map**.
+7. The **second team** will **ban a map**.
+8. The **first team** will **pick the third/tiebreaker map** from the remaining maps.
 
 Some players/captains may use a shorthand form of the pick/ban listing, so we've included it here to hopefully ease some confusion.
 
