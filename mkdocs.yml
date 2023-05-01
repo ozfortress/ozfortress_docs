@@ -34,7 +34,15 @@ nav:
         - 'Infraction Threshold Bans': 'info/infraction_bans.md'
         - 'Other Bans': 'info/other_bans.md'
         - 'Past Bans': 'info/past_bans.md'
-      - 'Staff': 'info/staff.md'
+      - 'Staff':
+        - 'Current & Past Staff': 'info/staff.md'
+        - 'Join us!': 'info/join_us.md'
+        #- 'League Administrator': 'info/join_us/league_admin.md'
+        #- 'Behaviour Panel member': 'info/join_us/behaviour_panel_member.md'
+        #- 'Anti-Cheat Panel member': 'info/join_us/anticheat_panel_member.md'
+        #- 'Developer': 'info/join_us/developer.md'
+        #- 'Artist / Designer': 'info/join_us/artist_or_designer.md'
+        #- 'General application': 'info/join_us/general_application.md'
       - 'Map History': 'info/map_history.md'
       - 'Server Configs': 'info/server_configs.md'
     - 'Guides':
