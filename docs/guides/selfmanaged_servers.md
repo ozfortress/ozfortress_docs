@@ -33,6 +33,7 @@ The plugins listed below are required for league play compliance, regardless of 
 * MetaMod
 * logs.tf and its dependencies
 * STV Record (can be found on the logs.tf page)
+* TF2 Competitive Fixes by twiikuu, [found here](https://github.com/ldesgoui/tf2-comp-fixes)
 * All of F2's plugins, [found here](https://github.com/F2/F2s-sourcemod-plugins).
 * [StAC/STeph's AntiCheat](https://github.com/sapphonie/StAC-tf2), needed for its interp fix. If you wish to setup monitoring to your own discord server, please feel free - however we will not accept these as an Anti-Cheat report. StAC should be configured so it **will not kick/ban/notify players, with the exception of the interp settings which should kick the user from the server**.
 
