@@ -184,12 +184,12 @@ Players who have played in higher divisions than their team has applied for shal
 ##### What are the exceptions?
 
 - Any out-of-region player who has been rostered on a team prior to this change, for at minimum two seasons, or has participated in 10 matches, will be eligible for play without ping testing.
-- Out-of-region players who can prove their connection is consistent/stable and within acceptable tolerance (between 15-25 extra ping) who have previously played ozfortress before, but are under the minimum threshold for the first exception listed, will be eligible after ping testing.
-- Any out-of-region player who has not previously participated in ozfortress is still eligible for play, provided their ping falls within 150 ping, or within acceptable tolerance once they have completed this form and have undergone ping testing.
+- Out-of-region players who can prove their connection is consistent/stable and within acceptable tolerance (within the 150-210 range) who have previously played ozfortress before, but are under the minimum threshold for the first exception listed, will be eligible after ping testing.
+- Any out-of-region player who has not previously participated in ozfortress is still eligible for play, provided their ping falls within the 150-210 ping range.
 
 ##### Who is ineligible for the above criteria/exceptions?
 
-- Any out-of-region player whose ping is above 230, unless they meet criteria/exception #1.
+- Any out-of-region player whose ping is above 210, unless they meet criteria/exception #1.
 - Anyone who does not meet the criteria/exceptions.
 
 ##### How does the ping testing work?
@@ -305,7 +305,7 @@ Only a certain amount of mercenaries per team are allowed in each match at any m
 Teams are allowed to swap mercenaries during the match provided the other team approves the new mercenary. 
 
 ##### Mercenary Limiting
-Teams can only make use of of the same mercenary within **three matches per season**, this is so the same mercenary cannot be used for more than a third of the season. There is **no limit** on the amount of mercenaries used per season.
+Teams can only make use of of the same mercenary within **two matches per season**, this is so the same mercenary cannot be used for more than a third of the season. There is **no limit** on the amount of mercenaries used per season, only on one specific player.
 
 ##### Mercenary Negotiation
 Mercenaries may only be used at the **discretion of the opposing team captain**. There is no restriction on mercenary use if allowed by the opposing team captain. Do be aware that it is unlikely that opposing team captains will allow players of significantly larger skill to participate in the match and therefore reasonable requests are preferred. Team **captains do have the right to deny any mercenary**, even if they are from a lower bracket. However, **please do try to accommodate reasonable mercenary use**, as you may find yourself in the same position. We recommend contacting an administrator if you are unsure of the skill level of the potential mercenary.
@@ -483,6 +483,8 @@ This is commonly treated as akin to cheating when malicious, as it is direct gam
 + Resupplying by using spawn regions outside of spawn bounds.
 + Exploiting the map design to enter areas that aren’t regular gameplay, for any means or use.
 + Map-based exploits (water jump scoping, etc).
++ Hiding sticky traps or buildings inside of props or geometry where their visual collision does not match up with their physical collision is considered an exploit. For example, hiding sticky traps inside of the prop rock on Upward first, outside of the BLU team's left most spawn door. A player should be able to see the entire sticky trap outside of a props or geometry's visual collision (no part of the trap hidden inside of the prop), but if a prop is hollow in the middle (for example, the tyre trap on Granary), then as long as it can be seen from one direction in its entirety then it is allowed.
+    + Physics props that can hide sticky traps entirely (for example, sticky traps can be hidden entirely inside of the orange traffic cones present on Gullywash) are "fair game" and allowed.
 
 #### Explicitly allowed Game Mechanic exploits:
 + Wallbugs.
