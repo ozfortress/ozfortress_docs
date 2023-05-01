@@ -1,3 +1,4 @@
+# Current & Past Staff
 ## Team Leads/Heads
 Have an issue that isn't within the Sixes or Highlander realm? Good chance our Team Leads/Heads will have an answer for you. As always, we ask that you go through either `#sixes-support` / `#highlander-support` / `#ticket-support` within our [Discord](https://discord.gg/7E6kC2H "If you have issues with verification, please contact an administrator via the sidebar in Discord.") first before contacting one of us directly.
 
