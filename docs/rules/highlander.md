@@ -54,7 +54,7 @@ The regular season for Main or Open (depending on signup numbers, format and sea
 There are no current limits on the amount of out of region players on a roster.
 
 ### 2.2. Mercenary Limits
-Please note, mercenary limits are the different for both seasonal leagues. Teams **can only make use of mercenaries within four matches per season**. Each match should not go above **three mercenaries per team** allowed in each match.
+Please note, mercenary limits are the different for both seasonal leagues. Each Sixes official match should not go above the **three mercenaries per team** allowed in each match. [For further mercenary limits, please see this section of the Global Ruleset](/rules/global/#mercenary-limiting).
 
 ### 2.3. Team Eligibility Requirements
 Teams are expected to have a certain amount of players (does not include any mercenaries) ready to start or continue a match. This expected amount of players differs for each format, and can be seen below.
