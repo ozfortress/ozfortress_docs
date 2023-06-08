@@ -19,7 +19,7 @@ nav:
       - 'Global ruleset': 'rules/global.md'
       - 'Sixes ruleset': 'rules/sixes.md'
       - 'Highlander ruleset': 'rules/highlander.md'
-      #- 'General LAN ruleset': 'rules/lan.md'
+      - 'LAN Downunder Ruleset': 'rules/lan.md'
       - 'Community Guidelines': 'rules/community_guidelines.md'
       - 'User Policy': 'rules/user_policy.md'
       - 'Infractions': 'rules/infractions.md'
