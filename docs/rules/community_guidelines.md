@@ -29,4 +29,4 @@ Breaking the following rules may result in punishment:
 ### Punishments
 Punishments for breaches of rules are dealt with via a system of infraction points. Details of infractions that can be issued are supplied [here](https://docs.ozfortress.com/rules/infractions).
 
-Some punishment levels will carry over to Community and Competitive Bans, depending on the level of infraction points reached. These bans are explained in more detail at the above link, and bans are listed [here](https://docs.ozfortress.com/info/bans).
+Some punishment levels will carry over to Community and Competitive Bans, depending on the level of infraction points reached. These bans are explained in more detail at the above link, and bans are listed [here](https://docs.ozfortress.com/info/ban_types/).
