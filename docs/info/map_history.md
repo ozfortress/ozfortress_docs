@@ -3,15 +3,28 @@
 ### Sixes (6v6) Map History
 Below you will find the maps used in each season of ozfortress Sixes found on this website (formerly known as "warzone"), from Season 16 onwards. Seasons prior to this were on the old ozfortress forums, which we will look to get back up and running at a later date.
 
-#### Season 36 (Current)
-Subject to change:
+#### Season 37
 ```
 cp_gullywash_f9
 cp_process_f12
 cp_snakewater_final1
 koth_bagel_rc5
 cp_sunshine
-cp_granary_pro_rc15b
+koth_clearcut_b15d
+koth_product_final
+cp_reckoner_rc6
+cp_sultry_b8
+```
+---
+
+#### Season 36
+```
+cp_gullywash_f9
+cp_process_f12
+cp_snakewater_final1
+koth_bagel_rc6
+cp_sunshine
+cp_granary_pro_rc15
 koth_product_final
 cp_reckoner_rc6
 cp_sultry_b8
@@ -186,7 +199,7 @@ cp_logjam_rc5
 ```
 ---
 
-##### Older seasons are lost
+#### Seasons prior to 23 are lost
 **All seasons prior to Season 23 had their map pools posted on the old ozfortress forums, which will be recovered in the future and the maps will be added to here.**
 
 ---
@@ -285,16 +298,31 @@ map
 ### Highlander (HL) Map History
 Below you will find the maps used in each season of ozfortress Highlander found on this website. ozfortress Highlander is a continuation of Respawn League's own Highlander seasons, which discontinued in 2022.
 
-#### Season 3 (Current)
-Subject to change:
+#### Season 4
+```
+pl_upward_f10
+koth_product_final
+pl_swiftwater_final1
+koth_warmtic_f10
+pl_vigil_rc10
+koth_ashville_final
+cp_steel_f12
+pl_borneo_f2
+koth_proot_a6b
+```
+---
+
+#### Season 3
 ```
 pl_upward_f10
 koth_product_final
 pl_swiftwater_final1
 koth_warmtic_f10
 pl_vigil_rc9
-koth_ashville_rc2d
+koth_ashville_final
 cp_steel_f12
+pl_cornwater_b8d
+koth_proot_b5b
 ```
 ---
 
@@ -328,6 +356,11 @@ koth_proside_v1
 ### ozfortress Tournaments/Cups
 Below you will find the maps used in each tournament/off-season cup ozfortress has run on our new website.
 
+#### Ultiduo 17
+```
+ultiduo_ozf_r
+```
+---
 #### Ultiduo 16
 ```
 ultiduo_ozf_r
@@ -356,6 +389,11 @@ koth_ultiduo_r_b7
 #### Ultiduo 11
 ```
 koth_ultiduo_r_b7
+```
+---
+#### BBall 1
+```
+ctf_bball_ozone_ozf
 ```
 ---
 
