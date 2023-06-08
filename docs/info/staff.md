@@ -5,10 +5,10 @@ Have an issue that isn't within the Sixes or Highlander realm? Good chance our T
 | Role | Name | Discord |
 | ---- | ---- | ------- |
 | General Head Administrator | [core](https://ozfortress.com/users/491 "Please contact me via Discord only.") | [core#6440](https://discordapp.com/users/226205616773922816) |
-| Sixes Head Administrator | [a team of ants in their prime](https://ozfortress.com/users/1561) | [a team of ants in their prime#3881](https://discordapp.com/users/187344325938511874) |
-| Highlander Head Administrator | [bird](https://ozfortress.com/users/139) | [bird#0246](https://discordapp.com/users/103861958339469312) |
-| Head of Anti-Cheat | [catfish](https://ozfortress.com/users/96) | [catfish#1503](https://discordapp.com/users/129062149640159232) |
-| Head of Behaviour Panel | [samson](https://ozfortress.com/users/205) | [samson#5103](https://discordapp.com/users/76537156578840576) |
+| Sixes Head Administrator | [core](https://ozfortress.com/users/491 "Please contact me via Discord only.") | [core#6440](https://discordapp.com/users/226205616773922816) |
+| Highlander Head Administrator | [bird](https://ozfortress.com/users/139) | [@yesthisisbird](https://discordapp.com/users/103861958339469312) |
+| Head of Anti-Cheat | [catfish](https://ozfortress.com/users/96) | [@catfishau](https://discordapp.com/users/129062149640159232) |
+| Head of Behaviour Panel | [a team of ants in their prime](https://ozfortress.com/users/1561) | [a team of ants in their prime#3881](https://discordapp.com/users/187344325938511874) |
 | Media Coordinator | [Sperkle](https://ozfortress.com/users/618) | [Sperkle#4456](https://discordapp.com/users/180875592923611145) |
 | Developer | [/dev/zero](https://ozfortress.com/users/2) | [/dev/zero#0231](https://discordapp.com/users/131721186869641216) |
 
@@ -17,13 +17,14 @@ As mentioned in our competitive league rulesets, League Administrators in tandem
 
 | League | Name | Discord |
 | ---- | ---- | ------- |
-| Sixes | [samson](https://ozfortress.com/users/205) | [samson#5103](https://discordapp.com/users/76537156578840576) |
-| Sixes | [frydog](https://ozfortress.com/users/982) | [frydog#0257](https://discordapp.com/users/217181409897349121) |
+| Sixes | [down](https://ozfortress.com/users/299) | [@down11](https://discordapp.com/users/139166437754273792) |
+| Sixes | [frydog](https://ozfortress.com/users/982) | [@frydog](https://discordapp.com/users/217181409897349121) |
+| Sixes | [multi](https://ozfortress.com/users/781) | [@canyouprovethatimdriving](https://discordapp.com/users/125870207897042944) |
 | Sixes | [raina](https://ozfortress.com/users/1729) | [raina#4682](https://discordapp.com/users/712785948047441921) |
-| Sixes | [snazzy](https://ozfortress.com/users/37) | [snazzy#5086](https://discordapp.com/users/125913179690631169) |
+| Sixes | [snazzy](https://ozfortress.com/users/37) | [@thelampshade22](https://discordapp.com/users/125913179690631169) |
 | Highlander | [Oldcustard](https://ozfortress.com/users/4030) | [Oldcustard#9667](https://discordapp.com/users/333896131840966657) |
-| Highlander | [Bakes](https://ozfortress.com/users/4024) | [Bakes#3098](https://discordapp.com/users/107338388662648832) |
-| Highlander | [Rainy](https://ozfortress.com/users/3124) | [Rainy#1181](https://discordapp.com/users/107399782162558976) |
+| Highlander | [Bakes](https://ozfortress.com/users/4024) | [@.bakes](https://discordapp.com/users/107338388662648832) |
+| Highlander | [Rainy](https://ozfortress.com/users/3124) | [@rainy26](https://discordapp.com/users/107399782162558976) |
 | Highlander | [Sperkle](https://ozfortress.com/users/618) | [Sperkle#4456](https://discordapp.com/users/180875592923611145) |
 
 ## Public Behaviour Panel members
@@ -31,7 +32,7 @@ There are two Behaviour Panel members who are public, with three members who are
 
 | Name | Discord |
 | ---- | ------- |
-| [samson](https://ozfortress.com/users/205) (Head of Behaviour Panel) | [samson#5103](https://discordapp.com/users/76537156578840576) |
+| [a team of ants in their prime](https://ozfortress.com/users/1561) (Head of Behaviour Panel) | [a team of ants in their prime#3881](https://discordapp.com/users/187344325938511874) |
 | [Bakes](https://ozfortress.com/users/4024) | [Bakes#3098](https://discordapp.com/users/107338388662648832) |
 
 ## Media Team
@@ -41,10 +42,9 @@ The team that helps make everything media-related for ozfortress happen. Be it o
 | ---- | ------- |
 | [Sperkle](https://ozfortress.com/users/618) (Media Coordinator) | [Sperkle#4456](https://discordapp.com/users/180875592923611145) |
 | [Avo](https://ozfortress.com/users/3071) | [Avo#7776](https://discordapp.com/users/707039384477761599) |
-| [Beater](https://ozfortress.com/users/2031) | [Beater#8047](https://discordapp.com/users/105311959636791296) |
+| [Beater](https://ozfortress.com/users/2031) | [@beater](https://discordapp.com/users/105311959636791296) |
 | [Brady](https://ozfortress.com/users/140) | [Brady#1020](https://discordapp.com/users/179839476053311489) |
-| [frydog](https://ozfortress.com/users/982) | [frydog#0257](https://discordapp.com/users/217181409897349121) |
-| [jayyylmao](https://ozfortress.com/users/1188) | [jayyylmao#6969](https://discordapp.com/users/170138245819138048) |
+| [joshrofllmao](https://ozfortress.com/users/1188) | [@joshroflmao](https://discordapp.com/users/170138245819138048) |
 
 ## Past Staff
 
@@ -83,6 +83,7 @@ The team that helps make everything media-related for ozfortress happen. Be it o
 + Psyfox
 + ravelizard
 + RynoCerus
++ samson
 + Seraphim
 + sage
 + shrak
