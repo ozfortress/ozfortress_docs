@@ -164,13 +164,8 @@ To submit evidence for a Community Behaviour Review, [please make a new thread h
 !!! warning "ozfortress account required"
     You will need to have an ozfortress.com account and be signed in to make a submission.
 
-Alternatively, you can also submit evidence for a Community Behaviour Review by making a new ticket under the “Community Behaviour Report” option in [#ticket-support](https://discord.com/channels/82651383144120320/963801705349271553) of our [Discord](https://discord.gg/7E6kC2H).
-
-!!! abstract "Please note"
-    Your submission can only be seen by members of the Behaviour Panel and league administrators, but please be aware that in the process of verifying some evidence, or even when delivering the infraction, the offender may become aware of who submitted it inadvertently through the timing of the infraction's delivery, through the infraction itself, or by figuring it out themselves. While we endeavour to keep the reporter's anonymity, please understand that it is not always guaranteed.
-
 ##### Submission Template
-Below you'll find the template needed when making a Behaviour Report through either [our website](https://ozfortress.com/forums/threads/new?topic=28) or our [Discord](https://discord.com/channels/82651383144120320/963801705349271553).
+Below you'll find the template needed when making a Behaviour Report through [our website](https://ozfortress.com/forums/threads/new?topic=28).
 
 ```
 Suspect(s) ozfortress.com account(s): 
@@ -203,11 +198,6 @@ To make an Anti-Cheat Submission, please make a new thread [here](https://ozfort
 
 !!! warning "ozfortress account required"
     You will need to have an ozfortress.com account and be signed in to make a submission.
-
-Anti-Cheat tickets are currently not open via our Discord, so you will need to make a thread on ozfortress.com using the link above.
-
-!!! abstract "Please Note"
-    Your submission can only be seen by the General Head Administrator, the Anti-Cheat Panel and yourself.
 
 #### Submission Template
 When submitting evidence, use this template:
