@@ -53,8 +53,8 @@ Regular season match fixtures will be posted week to week after each round has b
 ##### Highlander (HL)
 |Scheduling|Day|
 |----------|------------------------------------------------------|
-|Playable Match days|Tuesday, Wednesday, Thursday, Friday & Saturday|
-|Score Submission deadline|Friday 11:59PM AEST/AEDT|
+|Playable Match days|Wednesday, Thursday, Friday, Saturday & Sunday|
+|Score Submission deadline|Sunday 11:59PM AEST/AEDT|
 
 For more information on [scheduling, see 3.1. Negotiating Match Times](/rules/global/#31-negotiating-match-times). Additionally, brush up on the [organisational responsibilities of teams here](/rules/global/#32-organisational-responsibilities).
 
@@ -232,7 +232,7 @@ The Active Roster contains each and every player you count as a core or substitu
 Emergency Transfers are granted by the staff team for situations where teams have an unavoidable player loss on their roster. The number of players granted and conditions are heavily case-by-case and up to the discretion of the staff team. The best way to request this process is via our support bot Alfred, as the entire staff team will immediately be able to see the request, but you can message your division or region administrator if need be.
 
 ### 2.8. Exclusions
-Exclusions will be applied for repeated major rule breaches by a player or team. An exclusion will result in the immediate ejection of the player or team from the league, with potential prohibitions from playing in future competitions. In serious cases, exclusions may apply for first offences. Players/Teams can incur exclusions through our Infractions system as well, [which can be viewed here](https://ozfortress.com/infractions).
+Exclusions will be applied for repeated major rule breaches by a player or team. An exclusion will result in the immediate ejection of the player or team from the league, with potential prohibitions from playing in future competitions. In serious cases, exclusions may apply for first offences. Players/Teams can incur exclusions through our Infractions system as well, [which can be viewed here](https://docs.ozfortress.com/rules/infractions/).
 
 ### 2.9. In-Game Medals
 **The sale of in-game ozfortress medals (and any other medals) is strictly PROHIBITED.**
@@ -265,13 +265,14 @@ Teams may request an extension for a playoff match through their bracket’s adm
 Match Communications are used to discuss the essential details for official ozfortress matches. It is expected that for the duration of discussion around an official match, teams and by extension players, do not post anything non-essential to the flow of the match.
 
 The following should be present within all Match Communications:
+
 + Match date/day & times, or negotiation of such.
 + Any and all mercenary requests, along with approval of mercenaries.
 + logs.tf links for each map played.
 + Anything else that teams deem essential to the correct running of their official match.
 
 ### 3.2. Organisational Responsibilities
-The responsibility for these tasks falls upon the team captain of each team. If they are unable to complete these tasks or ensure these tasks are completed, they must nominate another team member to ensure their completion.
+The responsibility for these tasks falls upon the team captain of each team. If they are unable to complete these tasks or ensure these tasks are completed, they must nominate another team member to ensure their completion. Sll Official Matches need either a Captain or Nominated Player to act in a captain capacity for the duration of the match, this ensures each match runs as smoothly as possible.
 
 ##### Both teams must:
 + Make an appropriate effort to organise the match.
@@ -290,7 +291,7 @@ The responsibility for these tasks falls upon the team captain of each team. If 
 !!!tip "Example"
     cp_granary_pro: 4-1 Jasmine Tea logs.tf/xxxxxx
 
-In the event your server cannot not upload the for any reason, download and upload the log file manually (if you are the server owner) or take a screenshot of the score for that map. If neither are possible, player POV demos from each team will need to be provided to administrators to prove match results.
+In the event your server cannot not upload the logs.tf log for any reason, download and upload the log file manually (if you are the server owner) or take a screenshot of the score for that map. If neither are possible, player POV demos from each team will need to be provided to administrators to prove match results.
 
 ### 3.3. Mercenaries
 ##### Mercenary Validity & Requirements
