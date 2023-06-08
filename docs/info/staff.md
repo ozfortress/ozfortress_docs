@@ -17,6 +17,7 @@ As mentioned in our competitive league rulesets, League Administrators in tandem
 
 | League | Name | Discord |
 | ---- | ---- | ------- |
+| Sixes | [a team of ants in their prime](https://ozfortress.com/users/1561) | [a team of ants in their prime#3881](https://discordapp.com/users/187344325938511874) |
 | Sixes | [down](https://ozfortress.com/users/299) | [@down11](https://discordapp.com/users/139166437754273792) |
 | Sixes | [frydog](https://ozfortress.com/users/982) | [@frydog](https://discordapp.com/users/217181409897349121) |
 | Sixes | [multi](https://ozfortress.com/users/781) | [@canyouprovethatimdriving](https://discordapp.com/users/125870207897042944) |
