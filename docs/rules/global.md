@@ -496,8 +496,8 @@ This is commonly treated as akin to cheating when malicious, as it is direct gam
 + Loadout changing scripts.
 + Viewmodel / Crosshair switchers.
 + No explosions/particles smoke script.
-+ Loadout changing scripts and quick respawn scripts such as forward-spawn/backward-spawn scripts are explicity allowed since Sixes Season 37 and Highlander Season 4, even if they preserve that classes current state:
-    + This includes stickybomb projectiles, a medic's current medi-gun percentage or charge, an engineers buildings, etc.
++ Loadout change scripts and quick respawn scripts such as forward-spawn/backward-spawn scripts are explicity allowed since Sixes Season 37 and Highlander Season 4, even if they preserve that classes current state:
+    + This includes stickybomb projectiles, a medic's current medi-gun percentage and charge, an engineers buildings, etc.
 
 ### 6.1.2. Game Mechanic exploits
 
