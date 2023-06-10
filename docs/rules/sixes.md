@@ -96,7 +96,16 @@ These defaults will only ever be enforced when teams do not have any common matc
 ## 4. Format
 Sixes teams are expected to play with six player at all times within an official match. If a team cannot field field enough players from their roster and mercenaries, teams are permitted to play with five players, with the opposing team permitted to keep their full six player roster. Teams cannot play with fewer than five players, otherwise they will be automatically disqualified and subsequently forfeited. Teams must still observe mercenary rules and limits.
 
-### 4.1. Class Limits
+### 4.1. Map Gamemode Standards
+Each seasonal league or competition (Highlander in this case) may share some similaries on shared map gamemodes, but may differ by the round win-limit, the timer, or plugins. The list of gamemodes below covers not only the map gamemodes, but also any other conditions.
+
+#### 5 Control Point Maps (5CP)
+5 Control Point maps (more commonly referred to as "5CP") are the longtime staple of Sixes. 5 Control Point maps are played under a 5 round mercy rule, where either team needs 5 additional rounds on their opponent, or more rounds when the 30 minute map timer runs out. ozfortress makes use of the Improved Round Timer plugin to set the round timer to 5 minutes for 5 Control Point maps. [You can find more information on the Improved Round Timer here](/info/server_configs/).
+
+#### King of the Hill (KOTH)
+King of the Hill is currently identical between all currently supported seasonal leagues and competitions, with no set time limit or round timer overrides, and a Best of 5 win condition. Individual King of the Hill maps may vary slightly on overtime timers, locked and unlocked timers (when the point is not able to be captured at the start and when it unlocks) as these are built into the map, however most are universally standard.
+
+### 4.2. Class Limits
 The following class limits are required on all official match servers. Breaking these limits in any way that impacts a match is considered cheating, and depending on administrator discretion could lead to a match result overturn.
 
 ```
@@ -111,10 +120,10 @@ tf_tournament_classlimit_sniper 2
 tf_tournament_classlimit_spy 1
 ```
 
-### 4.2. Unlocks / Whitelist
+### 4.3. Unlocks / Whitelist
 The whitelist can be found on whitelist by [clicking here](https://whitelist.tf/ozfortress_6v6), or under the ozfortress menu on whitelist.tf.
 
 Changes to weapons or their mechanics, the addition of new cosmetics or taunts, or removal of certain properties will see the weapon / cosmetic / taunt banned for the remainder of that season. New items are automatically blocked by the whitelist, but in the event something is changed as stated above, ozfortress will post an announcement regarding it.
 
-### 4.3. Server configs & usage
+### 4.4. Server configs & usage
 Configs for any seasonal league or tournament can be found on the Server Configs page, and any associated guides will be linked on that page.

@@ -128,11 +128,14 @@ The General Head Administrator is ultimately responsible for the general running
 You can see our current and active staff for all areas of ozfortress on our [staff page](/info/staff).
 
 ### 1.10. Out of Region Teams and Players
-ozfortress primarily caters to players from Australia and New Zealand, however, players from other areas such as Asia are welcome to compete. Foreign players must still play on Australian servers (servers hosted in Sydney or Melbourne are available for booking through Discord).
+ozfortress primarily caters to players from Australia and New Zealand, however, players from other areas such as Asia are welcome to compete. Foreign players must still play on Australian servers.
 
-Teams outside of our supported regions are not able to participate within ozfortress seasonal leagues.
+Teams outside of our supported regions are able within ozfortress seasonal leagues provided their entire roster meets the requirements or expectations outlined in our [Ping Limiting](/rules/global/#23-out-of-region-play-ping-eligibility) rule. We will work with you to ensure all players on your roster are within this limit, allowing for players to be swapped out if they are not within the limit.
 
-Further information on the limit of out of region players per roster can be found in each format's own ruleset.
+Further information on the out of region player limit per roster can be found in each format's own ruleset, linked below.
+
+- [Sixes](/rules/sixes/#212-out-of-region-player-limit)
+- [Highlander](/rules/highlander/#212-out-of-region-player-limit)
 
 ### 1.11. Sportsmanship
 Teams participating are required to conduct themselves in a sportsmanlike manner in all communications.
@@ -141,7 +144,7 @@ Global chat is not fully restricted and may be used for light, friendly and tast
 
 Discrimination on the basis of, but not limited to, race, nationality, religious beliefs, gender, sexual orientation, or age will be regarded as an extreme breach of sportsmanship.
 
-Breach of the sportsmanship clause will result in exclusion penalties to be determined by the ozfortress administration.
+Breach of the sportsmanship clause will result in exclusion penalties to be determined by ozfortress administration and/or the Behaviour Panel.
 
 ### 1.12. Match Throwing
 Match Throwing is punishable within ozfortress. We enforce this clause to ensure integrity in match play for all involved, and this clause directly ties in with our Tier 2 infraction for *Destructive in-game play*.
@@ -239,7 +242,7 @@ To avoid penalty, captains and/or team members should approach administrators at
 ### 2.7. Transfers
 Teams may transfer players on a weekly/fortnightly basis depending on the seasonal league/competition. The transfer application must be submitted by the deadline to be eligible for play in the following window. View how to apply for a transfer [here](/rules/transfers).
 
-##### Roster Limit
+##### 2.7.1. Roster Limit
 Teams will only be able to increase the size of their roster throughout the season to the roster limit. Teams may not increase their roster size through transfers unless enough players have been transferred out of their team to keep their roster size under or at the roster limit.
 
 You can find the minimum and maximum roster sizes/limits for each seasonal league below:
@@ -247,12 +250,12 @@ You can find the minimum and maximum roster sizes/limits for each seasonal leagu
 - [Sixes](/rules/sixes/#211-roster-size-requirementslimits)
 - [Highlander](/rules/highlander/#211-roster-size-requirementslimits)
 
-##### Roster Lock
+##### 2.7.2. Roster Lock
 Typically one round away from the end of the Regular Season and after the last Transfer Window, Roster Lock will come into effect. Roster Lock prevents teams from removing anyone from their roster, or making any further changes outside of an [Emergency Transfer](/rules/global/#273-emergency-transfers).
 
 For the Transfer Windows and Roster Lock dates, please see the linked Transfers page on your seasonal league or competition.
 
-##### Transfer Window Limits
+##### 2.7.3. Transfer Window Limits
 Each Transfer Window has a limit for the amount of players that can be transferred in. This limit differs depending on the seasonal league or competition, but the limits for seasonal leagues can be found on the linked rulesets below. Other competitions will typically state this limit if there is one. There is no limit on the amount of players that can be transferred out of a roster.
 
 Administrators reserve the right to deny transfer applications based on numerous factors, and judgement will adapt with each Transfer Window. Players serving exclusion penalties in ozfortress will not be eligible for transfers until after their exclusion penalty has finished. Transfers should be approved no later than two days after the end of a match week (or fortnight for Sixes).
@@ -261,13 +264,13 @@ Please note, each individual seasonal league or competition may have its own tra
 - [Sixes](/rules/sixes/)
 - [Highlander](/rules/highlander/)
 
-### 2.7.1. Active Roster
+### 2.7.4. Active Roster
 The Active Roster contains each and every player you count as a core or substitute player and can be used throughout the season. Players need to be requested to be transferred from the Player Pool to the Active Roster prior to their usage in an official match, otherwise, they will be counted as mercenaries.
 
-### 2.7.2. Player Pool
+### 2.7.5. Player Pool
 The Player Pool is the area of each team where players invited to the team are listed publically. Players within the Player Pool that are not on the Active Roster are counted as Mercenaries.
 
-### 2.7.3. Emergency Transfers
+### 2.7.6. Emergency Transfers
 Emergency Transfers are granted by the staff team for situations where teams have an unavoidable player loss on their roster. The number of players granted and conditions are heavily case-by-case and up to the discretion of the staff team. The best way to request this process is via our support bot Alfred, as the entire staff team will immediately be able to see the request, but you can message your division or region administrator if need be.
 
 ### 2.8. Exclusions
@@ -313,14 +316,14 @@ The following should be present within all Match Communications:
 ### 3.2. Organisational Responsibilities
 The responsibility for these tasks falls upon the team captain of each team. If they are unable to complete these tasks or ensure these tasks are completed, they must nominate another team member to ensure their completion. Sll Official Matches need either a Captain or Nominated Player to act in a captain capacity for the duration of the match, this ensures each match runs as smoothly as possible.
 
-##### Both teams must:
+##### Both teams must
 + Make an appropriate effort to organise the match.
 + Ensure attendance at the match.
 + Inform, and seek approval from the other team of any mercenaries and post their ozfortress.com profile and known applications in the match thread.
 + Inform administrators of any potential issues with the match, or of any disputes.
 + Submit or verify the final score prior to the score submission deadline.
 
-##### The home team must:
+##### The Home team must
 + Organise the game server.
 + Appropriately administer the server during the match.
 
@@ -404,7 +407,7 @@ POV demo files must be recorded for all ozfortress matches and must be provided 
 
 Find out how to record POV demo files, along with our guidelines and penalties on our [Demo Requests FAQ](/faq/demo_requests/) page.
 
-#### 4.1.1. POV Demo storage requirements
+#### 4.1.1. POV Demo Storage Requirements
 Players need to keep their personal POV Demo files for at minimum two seasons after their recorded date for the purpose of Demo Checking, outlined in [4.1.2. Demo Checking](/rules/global/#412-demo-checking). Failure to do so will result in a Fail to provide POV Demo files penalty, incurring a 2-Round Match Ban. It is the responsibility of the player to ensure that when their POV Demo files are requested, the link to the file sharing service it is hosted on cannot expire. If you are concerned about storage usage on that file sharing service, please reach out to whichever staff member requested your POV Demo files to ensure you are safe to remove them.
 
 #### 4.1.2. Demo Checking
@@ -449,14 +452,14 @@ The ozfortress approved casting organisations are as follows:
 
 Casting organisations cannot directly influence or affect the scheduling of an official ozfortress match in any way.
 
-### 4.4.1. Approved ozfortress Casting Organisations
+### 4.4.1. Approved Casting Organisations
 If your game is to be casted by an approved organisation, your team must provide to the caster(s), streamer, or organisation representative:
 + The server connect string, potentially including the RCON password (if the production team requires it, they will inform you).
 + An updated list of players and/or any mercenaries participating in the match. This must be provided at least an hour before the set match time.
 
 The above rules apply to ozfortress-approved casting organisations only.
 
-### 4.4.2. Unapproved ozfortress Casting Organisations
+### 4.4.2. Unapproved Casting Organisations
 Casting organisations and individuals that are not approved by ozfortress may still cast official ozfortress matches, however, approved casting organisations will have precedence. If a team captain wishes to deny such a cast, they should discuss it with an ozfortress administrator.
 
 ### 4.4.3. Player POV streaming
@@ -509,7 +512,7 @@ The intention of exploiting any aspect of the game for an unfair advantage, whet
 ### 6.1.1. Game Modification
 This is commonly treated as akin to cheating when malicious, as it is direct game file manipulation to gain an unfair advantage. Any listed item not explicitly stated as allowed is prohibited.
 
-#### Some examples of prohibited Game Modification
+#### Explicitly Prohibited Game Modification
 + Using scripts/macros that allow you to bypass movement or engine restrictions.
   - Panic scripts.
   - Bunnyhop scripts.
@@ -526,7 +529,7 @@ This is commonly treated as akin to cheating when malicious, as it is direct gam
 + Uber Pause bug
     - A bug where medics continue to build uber during a pause whilst healing a player. This bug should be prevented by server plugins, but in the event it does happen, both teams should be made aware and an administrator should be contacted.
 
-#### Some examples of allowed Game Modification
+#### Explicitly Allowed Game Modification
 
 + Custom HUDs.
 + Custom Autoexec, class configs, etc.
@@ -550,7 +553,7 @@ This is commonly treated as akin to cheating when malicious, as it is direct gam
 + Loadout change scripts and quick respawn scripts such as forward-spawn/backward-spawn scripts are explicity allowed since Sixes Season 37 and Highlander Season 4, even if they preserve that classes current state:
     + This includes stickybomb projectiles, a medic's current medi-gun percentage and charge, an engineers buildings, etc.
 
-### 6.1.2. Game Mechanic exploits
+### 6.1.2. Game Mechanic Exploits
 Game Mechanic exploits are typically map, client or server exploits used to gain an unfair advantage.
 
 + Placing the Engineer’s buildings outside of the map, in indestructible locations or anywhere where it is not visible.

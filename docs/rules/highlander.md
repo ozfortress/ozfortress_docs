@@ -38,6 +38,9 @@ In the event of a disagreement, the home team will have a preference for team co
 ### 1.3. Bracket Systems used
 Highlander makes use of Round Robin as it's primary tournament system. (You can find more information on Round Robin here)[http://127.0.0.1:8000/rules/global/?h=round#14-round-robin].
 
+### 1.4. Stopwatch/Payload Maps within Playoffs Rounds
+In the Regular Season, Stopwatch/Payload maps are only played as one round, meaning each side attack and defends once. For Premier and Intermediate Playoffs, Stopwatch/Payload is played using the A.B.B.A system (commonly referred to as "ABBA"). ABBA requires Stopwatch/Payload maps to be played as a Best of 3 rounds scenario, requiring one team to win two full rounds. By default, Main and Open do not play ABBA, but any division can choose to play the opposite variation of their division's default.
+
 ## 2. Teams
 ### 2.1. Rosters
 #### 2.1.1. Roster Size Requirements/Limits
@@ -47,7 +50,7 @@ Highlander makes use of Round Robin as it's primary tournament system. (You can 
 - Teams should look to have a least two or three substitute players in the event a core player cannot play.
 
 #### 2.1.2. Out of Region Player Limit
-There are no current limits on the amount of out of region players on a roster.
+There are no current limits on the amount of out of region players on a roster other than [Ping Limiting](/rules/global/#23-out-of-region-play-ping-eligibility).
 
 ### 2.2. Mercenary Limits
 Please note, mercenary limits are the different for both seasonal leagues. Each Highlander official match should not go above the **three mercenaries per team** allowed in each match. [For further mercenary limits, please see this section of the Global Ruleset](/rules/global/#mercenary-limiting).
@@ -79,25 +82,35 @@ These defaults will only ever be enforced when teams do not have any common matc
 ## 4. Format
 Highlander teams are expected to play with nine player at all times within an official match. If a team cannot field field enough players from their roster and mercenaries, teams are permitted to play with seven players, with the opposing team permitted to keep their full nine player roster. Teams cannot play with fewer than seven players, otherwise they will be automatically disqualified and subsequently forfeited. Teams must still observe mercenary rules and limits.
 
-### 4.1. Class Limits
+### 4.1. Map Gamemode Standards
+Each seasonal league or competition (Highlander in this case) may share some similaries on shared map gamemodes, but may differ by the round win-limit, the timer, or plugins. The list of gamemodes below covers not only the map gamemodes, but also any other conditions.
+
+#### Stopwatch
+Stopwatch maps are normally Payload and Attack/Defend maps. In both cases, they are played identically, with each Control Point on a Attack/Defend map essentially counting as a Payload Capture Point. Stopwatch maps are played to 1 round, with each side attacking and defending once. There is no timelimit for Stopwatch maps in ozfortress other than what is set by the Stopwatch timer itself. Higher divisions within ozfortress Highlander are typically defaulted to using the ABBA system, [more information on which can be found here](/rules/highlander/#14-stopwatchpayload-maps-within-playoffs-rounds).
+
+#### King of the Hill (KOTH)
+King of the Hill is currently identical between all currently supported seasonal leagues and competitions, with no set time limit or round timer overrides, and a Best of 5 win condition. Individual King of the Hill maps may vary slightly on overtime timers, locked and unlocked timers (when the point is not able to be captured at the start and when it unlocks) as these are built into the map, however most are universally standard.
+
+### 4.2. Class Limits
 The following class limits are required on all official match servers. Breaking these limits in any way that impacts a match is considered cheating, and depending on administrator discretion could lead to a match result overturn.
 
-```
-tf_tournament_classlimit_scout 1
-tf_tournament_classlimit_soldier 1
-tf_tournament_classlimit_pyro 1
-tf_tournament_classlimit_demoman 1
-tf_tournament_classlimit_heavy 1
-tf_tournament_classlimit_engineer 1
-tf_tournament_classlimit_medic 1
-tf_tournament_classlimit_sniper 1
-tf_tournament_classlimit_spy 1
-```
+- 1 Scout
+- 1 Soldier
+- 1 Pyro
+- 1 Demoman
+- 1 Heavy
+- 1 Engineer
+- 1 Medic
+- 1 Sniper
+- 1 Spy
 
-### 4.2. Unlocks / Whitelist
+!!! Note "Please Note"
+    Our official ozfortress server configuration files allow for more than one Scout to allow players to effectively swap classes without the need for swapping to Spectator which is not allowed per our [4.2. Spectators rule](/rules/global/#42-spectators).
+
+### 4.3. Unlocks / Whitelist
 The whitelist can be found on whitelist by [clicking here](https://whitelist.tf/ozfortress_hl), or under the ozfortress menu on whitelist.tf.
 
 Changes to weapons or their mechanics, the addition of new cosmetics or taunts, or removal of certain properties will see the weapon / cosmetic / taunt banned for the remainder of that season. New items are automatically blocked by the whitelist, but in the event something is changed as stated above, ozfortress will post an announcement regarding it.
 
-### 4.3. Server configs & usage
+### 4.4. Server configs & usage
 Configs for any seasonal league or tournament can be found on the Server Configs page, and any associated guides will be linked on that page.
