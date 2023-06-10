@@ -345,6 +345,11 @@ Pick/Ban order can be found on each formats ruleset, or below:
 - [Sixes Pick/Ban Process](/rules/sixes/#121-playoffs-map-selection-pickbans)
 - [Highlander Pick/Ban Process](/rules/highlander/#121-playoffs-map-selection-pickbans)
 
+#### 3.4.1. Team Starting Side
+In Regular Season matches, the Away team will decide which team colour they want to play. In Sixes and formats other than Highlander, this is typically only placebo (ie. Product roleouts, soldiers prefer rolling out with right handed rocket jumps as opposed to left).
+
+In Playoff matches, the team that did not choose the map will pick their team colour. This is in an attempt to make Playoff matches as fair as possible.
+
 ### 3.5. Match Disputes
 To lodge a dispute or report misconduct within a match, please contact an ozfortress administrator as soon as possible. Please do not bring the debate to the public as it is being resolved.
 
