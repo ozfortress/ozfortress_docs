@@ -73,7 +73,7 @@ Teams are free to communicate their desired/playable match days and times with e
 
 ozfortress does encourage all teams to set their own match days and times, but in case of disputes, an administrator may enforce the default match day or time, as found below. 
 
-These defaults will only ever be enforced when teams do not have any common match days set under the Availability section of their roster, found under Manage Roster on their team page. See [3.1. Negotiating Match Times](/rules/global/#31-negotiating-match-times) for more information on negotiation.
+These defaults will only ever be enforced when teams do not have any common match days set under the Availability section of their roster, found under Manage Roster on their team page. See [3.1. Negotiating Match Times in our Global Ruleset](/rules/global/#31-negotiating-match-times) for more information on negotiation.
 
 - **Default match time**: 8PM AEST/AEDT or 9PM AEST/AEDT
     - Teams that can make these times will be looked upon more favourably than teams that cannot.
