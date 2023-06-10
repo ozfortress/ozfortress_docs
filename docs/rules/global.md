@@ -336,7 +336,7 @@ The responsibility for these tasks falls upon the team captain of each team. If 
 In the event your server cannot not upload the logs.tf log for any reason, download and upload the log file manually (if you are the server owner) or take a screenshot of the score for that map. If neither are possible, player POV demos from each team will need to be provided to administrators to prove match results.
 
 ### 3.3. Mercenaries
-##### Mercenary Validity & Requirements
+##### 3.3.1. Mercenary Validity & Requirements
 A mercenary is a player not rostered on either team that is used in lieu of an unavailable team member. To be valid, mercenaries must have an ozfortress.com account, be within 150 ping as outlined in [2.3. Out of Region Play & Ping Eligibility](/rules/global/#23-out-of-region-play-ping-eligibility) and not be under any exclusion penalties.
 
 Only a certain amount of mercenaries per team are allowed in each match at any moment in time, please see the links below which lead to each format's maximum amount of mercenaries.
@@ -344,27 +344,27 @@ Only a certain amount of mercenaries per team are allowed in each match at any m
 - [Sixes Mercenary Limit - 2.2. Mercenary Limits](/rules/sixes/#22-mercenary-limits)
 - [Highlander Mercenary Limit - 2.2. Mercenary Limits](/rules/highlander/#22-mercenary-limits)
 
-##### Mercenary Swaps
+##### 3.3.2. Mercenary Swaps
 Teams are allowed to swap mercenaries during the match provided the other team approves the new mercenary. 
 
-##### Mercenary Limiting
+##### 3.3.3. Mercenary Limiting
 Teams can only make use of of the same mercenary within **two matches per season**, this is so the same mercenary cannot be used for more than a third of the season. There is **no limit** on the amount of mercenaries used per season, only on one specific player.
 
-##### Mercenary Negotiation
+##### 3.3.4. Mercenary Negotiation
 Mercenaries may only be used at the **discretion of the opposing team captain**. There is no restriction on mercenary use if allowed by the opposing team captain. Do be aware that it is unlikely that opposing team captains will allow players of significantly larger skill to participate in the match and therefore reasonable requests are preferred. Team **captains do have the right to deny any mercenary**, even if they are from a lower bracket. However, **please do try to accommodate reasonable mercenary use**, as you may find yourself in the same position. We recommend contacting an administrator if you are unsure of the skill level of the potential mercenary.
 
-##### Mercenary Class Locking
+##### 3.3.5. Mercenary Class Locking
 When mercenaries are being requested, **teams have the option to request them on a specific class**, **or to be locked to a specific class or classes**. This would then lock them to that class during that match (with the exception of reasonable off-classes; Sniper, Engineer, Pyro & Spy - these must be explicitly stated as locked when locking a player). **Teams can also request a mercenary without specifying a class**, allowing the mercenary to change classes at will if approved and if there is no agreement to lock said mercenary to a specific class or classes. **It is important to note that unless mercenaries have been explicitly "class locked"**, **they are allowed to play any class of their choosing**. **If both teams agree to a request to lock a mercenary to a specific class or classes**, **this needs to be stated in Match Communications**.
 
-##### Mercenary Manipulation & Excessive Unreasonable Mercenary Denials
+##### 3.3.6. Mercenary Manipulation & Excessive Unreasonable Mercenary Denials
 Manipulating other teams into allowing mercenaries is an infractable offence (e.g. If you allow us to use a high *Premier* player we will allow you to use a low *Open* player). ozfortress administrators will judge these messages literally, and will not consider any message as a joke - all mercenary requests should be serious.
 
 ozfortress administrators will act as arbitrators in such a case of unreasonable mercenary denial and may decide to overrule a team captain’s decision and allow a mercenary of a reasonable skill level.
 
-##### Mercenary Match Communications Requirements
+##### 3.3.7. Mercenary Match Communications Requirements
 Mercenary use **must be clearly stated** in the **match thread** where they are used. The information provided must include their SteamID and link to their ozfortress.com profile.
 
-##### Mercenary Player Verification
+##### 3.3.8. Mercenary Player Verification
 Use the [ozfortress Roster Verification Tool](https://verify.ozfortress.com/) to quickly verify all players prior to a match. To use the verifier, simply insert the status output from the console of the current match as well as the match link or ID. The tool will process your inputs and validate all players, displaying any inconsistencies with rosters.
 
 ### 3.4. Map Selection
