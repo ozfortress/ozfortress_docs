@@ -342,8 +342,8 @@ Maps for Playoff matches are selected by the captains of each team. **This proce
 
 Pick/Ban order can be found on each formats ruleset, or below:
 
-- [Sixes Pick/Ban Process](http://127.0.0.1:8000/rules/sixes/#121-playoffs-map-selection-pickbans)
-- [Highlander Pick/Ban Process](http://127.0.0.1:8000/rules/highlander/#121-playoffs-map-selection-pickbans)
+- [Sixes Pick/Ban Process](/rules/sixes/#121-playoffs-map-selection-pickbans)
+- [Highlander Pick/Ban Process](/rules/highlander/#121-playoffs-map-selection-pickbans)
 
 ### 3.5. Match Disputes
 To lodge a dispute or report misconduct within a match, please contact an ozfortress administrator as soon as possible. Please do not bring the debate to the public as it is being resolved.
