@@ -526,7 +526,7 @@ Players may only register and play in ozfortress leagues with one Steam / Warzon
 Sharing your login details with a third party for use in an ozfortress match is also strictly prohibited and will result in lengthy bans for all involved parties.
 
 !!! danger "Ban Penalty"
-    Usage of **Alternate Accounts and/or Account Sharing will incur a 24-month competitive ban**.
+    Usage of **Alternate Accounts and/or Account Sharing will incur a 24-month competitive ban**. Those found helping players who are currently banned evade their ban using either an Alternate Account or sharing someone else's account will receive the same penalty.
 
 ### 6.5. ozfortress Bans
 Members banned on the ozfortress website are also banned from leading teams in ozfortress competitions. Players banned from the ozfortress website may also be subject to competition bans and are considered under probation. It is standard for those serving Competitive, Anti-Cheat or Infraction Threshold to be banned from our Discord server as well as being barred from using some bookable server services. Please contact an ozfortress administrator for further clarification.
