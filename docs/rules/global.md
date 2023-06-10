@@ -148,6 +148,13 @@ It should be noted that any or all of the descriptions above, are applied purely
 ### 1.13. Match Fixing
 Similar to Match Throwing found above in 1.12. Match Throwing, Match Fixing detracts from the integrity of match play and is considered punishable by ozfortress staff. However, Match Fixing differs from Match Throwing in a few ways. Match Fixing typically involves premeditation, planning or communication with another team/other teams, a third party, etc. Any attempt to detract from the integrity of match play, monetary or otherwise will be reviewed and punished at the discretion of the ozfortress staff team.
 
+### 1.14. Game Client Updates
+Whilst rare, Team Fortress 2 updates can, and have caused issues with matches; specifically using unlocks, effectively operating the official match server, or even connecting to the server. Whilst these are extreme examples, they have happened in the past, justifying the need for a basic set of guidelines to follow in the event of your match being compromised in some way by a Game Client update. 
+
+If or when there is an issue affecting your official match where there isn't an already advised solution for already, please reach out to a League Administrator immediately for potential remedies. 
+
+In the event that your match cannot be played due to an issue, a League Administrator will help you reschedule your official match.
+
 ---
 
 ## 2. Teams
@@ -356,6 +363,18 @@ For the Regular Season, teams can discuss the server to be used with each other,
 POV demo files must be recorded for all ozfortress matches and must be provided at the request of an ozfortress administrator. We recommend using the demo recording system included in TF2, which can be activated under the advanced options menu in the game settings.
 
 Find out how to record POV demo files, along with our guidelines and penalties on our [Demo Requests FAQ](/faq/demo_requests/) page.
+
+#### 4.1.1. POV Demo storage requirements
+Players need to keep their personal POV Demo files for at minimum two seasons after their recorded date for the purpose of Demo Checking, outlined in [4.1.2. Demo Checking](/rules/global/#412-demo-checking). Failure to do so will result in a Fail to provide POV Demo files penalty, incurring a 2-Round Match Ban. It is the responsibility of the player to ensure that when their POV Demo files are requested, the link to the file sharing service it is hosted on cannot expire. If you are concerned about storage usage on that file sharing service, please reach out to whichever staff member requested your POV Demo files to ensure you are safe to remove them.
+
+#### 4.1.2. Demo Checking
+Demo Checking can occur in ozfortress, and is used as a tool for resolving match disputes, ensuring competitive play integrity, or as a part of Random Demo Checking. In any of these instances, failure to provide POV Demo files upon request occur penalties below based on how many existing occurences of failure to provide a player has. Purposefully providing incorrect POV Demo files will also incur the following penalties:
+
+- First instance: Two (2) Round ban
+- Second instance: Two (2) Year ban
+- Further instances: Two (2) Year ban
+
+If you are not sure how to correctly provide POV Demo files upon request, or have further questions, [please see our Demo Requests FAQ page](/faq/demo_requests/#further-questions-concerns-or-issues).
 
 ### 4.2. Spectators
 ozfortress administrators are the only approved spectators. Spectators are not allowed in any ozfortress match server for any reason. Please note, this does not include SourceTV (STV) usage.
