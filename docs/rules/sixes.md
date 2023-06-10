@@ -24,7 +24,7 @@ The selection process for a nine map pool (BO3):
 4. The **first team** will **pick the first map** from the remaining pool.
 5. The **second team** will **pick the second map** from the remaining pool.
 6. The **second team** will **ban a map**.
-7. The **first team** will **pick the third/tiebreaker map** from the remaining maps.
+7. The **first team** will **pick the third/tiebreaker map** from the remaining pool.
 
 For the Premier Grand Final (BO5), the selection process varies as follows:
 
@@ -34,9 +34,9 @@ For the Premier Grand Final (BO5), the selection process varies as follows:
 4. The **first team** will **pick the first map** from the remaining pool.
 5. The **second team** will **pick the second map** from the remaining pool.
 6. The **second team** will **ban a map**.
-7. The **first team** will **pick the third map** from the remaining maps.
-8. The **first team** will **pick the fourth map** from the remaining pool.
-9. The **second team** will **pick the fifth/tiebreaker map** from the remaining pool.
+7. The **first team** will **pick the third map** from the remaining pool.
+8. The **second team** will **pick the fourth map** from the remaining pool.
+9. The **first team** will **pick the fifth/tiebreaker map** from the remaining pool.
 
 In the event of a disagreement, the home team will have a preference for team colour. Please note that formats can change for BO3 and BO5 matches. In case of discrepancies between official rules and other sources, the most updated pick-ban order can always be found in match threads.
 
