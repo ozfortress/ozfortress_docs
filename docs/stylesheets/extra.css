@@ -1,12 +1,6 @@
-@font-face {
-    font-family: 'Bebas Neue';
-    src: 'https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap';
-}
-
 :root > * {
+    --md-primary-fg-color: #111111;
+    --md-primary-fg-color--light: #111111;
+    --md-primary-fg-color--dark:#111111;
     --md-accent-fg-color: #00abba;
-}
-
-h1, h2, h3, h4, h5 {
-    text-transform: uppercase;
 }
