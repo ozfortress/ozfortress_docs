@@ -338,9 +338,12 @@ Use the [ozfortress Roster Verification Tool](https://verify.ozfortress.com/) to
 ### 3.4. Map Selection
 Regular season matches will use two predefined maps from the map pool. The map pool consists of nine (9) maps, decided using data from seasonal polls.
 
-Maps for playoff matches are selected by the captains of each team. This process can be performed before the match or in-game via chat but must be documented on the match page.
+Maps for Playoff matches are selected by the captains of each team. **This process must be completed 24 hours prior to the agreed upon match time**.
 
-Pick/Ban order can be found on each formats ruleset page.
+Pick/Ban order can be found on each formats ruleset, or below:
+
+- [Sixes Pick/Ban Process](http://127.0.0.1:8000/rules/sixes/#121-playoffs-map-selection-pickbans)
+- [Highlander Pick/Ban Process](http://127.0.0.1:8000/rules/highlander/#121-playoffs-map-selection-pickbans)
 
 ### 3.5. Match Disputes
 To lodge a dispute or report misconduct within a match, please contact an ozfortress administrator as soon as possible. Please do not bring the debate to the public as it is being resolved.
