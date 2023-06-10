@@ -237,16 +237,26 @@ The captain of a disbanded or removed team will receive a tier two infraction, a
 To avoid penalty, captains and/or team members should approach administrators at the first sign of trouble to determine a solution.
 
 ### 2.7. Transfers
-Teams may transfer players on a weekly/fortnightly basis depending on the league/competition. The transfer application must be submitted by the deadline to be eligible for play in the following window. View how to apply for a transfer [here](/rules/transfers).
+Teams may transfer players on a weekly/fortnightly basis depending on the seasonal league/competition. The transfer application must be submitted by the deadline to be eligible for play in the following window. View how to apply for a transfer [here](/rules/transfers).
 
-Teams will only be able to increase the size of their roster throughout the season to the roster limit. Teams may not increase their roster size through transfers unless enough players have been transferred out of their team to keep their roster size under the roster limit.
+##### Roster Limit
+Teams will only be able to increase the size of their roster throughout the season to the roster limit. Teams may not increase their roster size through transfers unless enough players have been transferred out of their team to keep their roster size under or at the roster limit.
 
-Week 6 is the final week for transfers in seasonal leagues. In the event that a seasonal league is only five weeks instead of the more typical seven, Week 4 will be the final week. 
+You can find the minimum and maximum roster sizes/limits for each seasonal league below:
 
-At the conclusion of either Week 6/Week 4 (depending on the regular season length), Roster Lock will come into effect. During this period, teams cannot transfer players onto their roster, nor remove existing players. 
+- [Sixes](/rules/sixes/#211-roster-size-requirementslimits)
+- [Highlander](/rules/highlander/#211-roster-size-requirementslimits)
 
-Administrators reserve the right to deny transfer applications based on numerous factors, and judgement will adapt to each transfer request. Players serving exclusion penalties in ozfortress will not be eligible for transfers until after their exclusion penalty has finished. Transfers should be approved no later than two days after the end of a match week (or fortnight for Sixes).
-Please note, each individual league may have its own transfer rules, for example Sixes uses a two week window, where as Highlander uses a one week window. You can find specific transfer rules in each ruleset:
+##### Roster Lock
+Typically one round away from the end of the Regular Season and after the last Transfer Window, Roster Lock will come into effect. Roster Lock prevents teams from removing anyone from their roster, or making any further changes outside of an [Emergency Transfer](/rules/global/#273-emergency-transfers).
+
+For the Transfer Windows and Roster Lock dates, please see the linked Transfers page on your seasonal league or competition.
+
+##### Transfer Window Limits
+Each Transfer Window has a limit for the amount of players that can be transferred in. This limit differs depending on the seasonal league or competition, but the limits for seasonal leagues can be found on the linked rulesets below. Other competitions will typically state this limit if there is one. There is no limit on the amount of players that can be transferred out of a roster.
+
+Administrators reserve the right to deny transfer applications based on numerous factors, and judgement will adapt with each Transfer Window. Players serving exclusion penalties in ozfortress will not be eligible for transfers until after their exclusion penalty has finished. Transfers should be approved no later than two days after the end of a match week (or fortnight for Sixes).
+Please note, each individual seasonal league or competition may have its own transfer rules, for example Sixes uses a two week window, where as Highlander uses a one week window. You can find specific transfer rules in each ruleset:
 
 - [Sixes](/rules/sixes/)
 - [Highlander](/rules/highlander/)
