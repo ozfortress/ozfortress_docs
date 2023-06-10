@@ -1,4 +1,8 @@
-## TF2 Competitive Fixes
+# ozfortress Server Configuration
+This page houses much of the required server resources for competitive integrity. For a full list and guide, please see our [Self-Managed Servers guide](/guides/selfmanaged_servers/) .
+
+## Required Plugins
+### TF2 Competitive Fixes
 ozfortress now uses the "TF2 Comp Fixes" plugin by *twiikuu* to implement various fixes onto official match servers. [You can download the plugin here](https://github.com/ldesgoui/tf2-comp-fixes).
 
 The above link also includes an explanation of what each command variable does, below you will find which fixes we use and consider staples. We may additionally make use of other fixes, which will have their use denoted on that competition page.
@@ -27,7 +31,7 @@ tf_fall_damage_disablespread 1
 sm_gunboats_always_apply 1 // Gameplay change, on since Season 35.
 ```
 
-## STeph's AntiCheat (StAC)
+### STeph's AntiCheat (StAC)
 ozfortress has recently employed the use of StAC to enforce specific interp settings, restricting clients from using abusable interpolation settings. This plugin also fixes some abusable commands. [You can see the what the commands do here](https://github.com/sapphonie/StAC-tf2/blob/master/cvars.md), and [download the plugin here](https://github.com/sapphonie/StAC-tf2). Our required commands are below:
 
 ```
@@ -57,15 +61,22 @@ stac_max_connections_from_ip "0"
 stac_work_with_sv_cheats "0"
 ```
 
-Please note, the only commands that should kick a player are the interp enforcement commands, the rest should only log/be switched off.
+!!! Note "Please Note"
+    The only commands that should kick a player are the interp enforcement commands, the rest should only log/be switched off.
+
+### Improved Round Timer plugin
+This plugin is used exclusively for Control Point maps (5CP maps in particular), and differs from a similar plugin by the same author used in [North America](https://github.com/b4nnyBot/Progressive-Ruleset-Timer-Plugins). You can download the version of the [plugin we use here](https://github.com/b4nnyBot/TF2-Improved-Round-Timer-Plugin).
+
+You can find information, convars and the round timer value in the 5 Control Points sections below.
 
 ---
 
-## ozfortress Sixes (6v6) Seasonal League
+## Required Server Configs
+### ozfortress Sixes (6v6) Seasonal League
 The following formats are used in the ozfortress Sixes Seasonal League and have an associated configuration file in the ozfortress configs.
 
 #### 5 Control Points
-Standard 5 Control Points (5CP) maps are played to 30 minutes with a 5 point difference mercy rule. The following configuration represents this format:
+Standard 5 Control Points (5CP) maps are played to 30 minutes with a 5 round difference mercy rule. The Round Timer variable is set to 5 minutes using the Improved Round Timer plugin. The following configuration represents this format:
 ```
 mp_windifference 5
 mp_timelimit 30
@@ -96,15 +107,16 @@ Load this configuration using `rcon exec ozfortress_6v6_golden_cap` or simply `r
 
 ---
 
-## ozfortress Highlander (9v9/HL) Seasonal League
+### ozfortress Highlander (9v9/HL) Seasonal League
 The following formats are used in the ozfortress Highlander Seasonal League and have an associated configuration file in the ozfortress configs.
 
 #### 5 Control Points
-Standard 5 Control Points (5CP) maps are played to 30 minutes with a 5 point/round win limit. The following configuration represents this format:
+Standard 5 Control Points (5CP) maps are played to 30 minutes with a 5 round win-limit. The Round Timer variable is set to 5 minutes using the Improved Round Timer plugin. The following configuration represents this format:
 ```
-mp_winlimit 5
+mp_windifference 0
 mp_timelimit 30
-mp_winlimit 0
+mp_winlimit 5
+round_time_override 240
 ```
 Load this configuration using `rcon exec ozfortress_hl_5cp` or simply `rcon ozf-hl-5cp` on au.serveme.tf servers.
 
@@ -133,12 +145,13 @@ In formats where ties are not allowed, a golden cap may be used to determine the
 mp_windifference 0
 mp_timelimit 0
 mp_winlimit 1
+round_time_override 240
 ```
 Load this configuration using `rcon exec ozfortress_hl_golden_cap` or simply `rcon ozf-hl-golden` on au.serveme.tf servers.
 
 ---
 
-## Other
+### Other Configs
 
 The following formats are also included in the ozfortress server configurations but do not have a respective active competition.
 
@@ -151,7 +164,22 @@ mp_winlimit 1
 ```
 Load this configuration using `rcon exec ozfortress_ultiduo` or simply `rcon ultiduo` on au.serveme.tf servers.
 
+#### BBall
+BBall maps are played with two Soldiers on each team. There is a winlimit of 20 captures.
+
+```
+mp_timelimit 0
+mp_winlimit 1
+```
+Load this configuration using `rcon exec ozfortress_ultiduo` or simply `rcon ultiduo` on au.serveme.tf servers.
+
 ---
+
+## Download Configs / Server Configs Repository
+You can download the ozfortress server configuration files [here](https://github.com/ozfortress/server-configs).
+
+---
+
 [![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
 
 This work by [ozfortress](http://ozfortress.com) is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
