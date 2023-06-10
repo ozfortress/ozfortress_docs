@@ -558,7 +558,7 @@ Game Mechanic exploits are typically map, client or server exploits used to gain
 + Resupplying by using spawn regions outside of spawn bounds.
 + Exploiting the map design to enter areas that aren’t within regular bounds, for any means or use excluding Wallbugs and Edgebugs as documented in [Explicitly Allowed Game Mechanic exploits](/rules/global/#explicitly-allowed-game-mechanic-exploits).
 + Map-based exploits (water jump scoping, etc).
-+ Hiding sticky grenades (AKA "stickies") or engineer buildings inside of props or geometry **where they cannot be destroyed** due to differences in their visual and physical collisions is **considered an exploit**.
++ Hiding sticky grenades (AKA "stickies") or engineer buildings inside of props or geometry **where they cannot be destroyed by normal means** (any class, out of the map, etc) due to differences in their visual and physical collisions is **considered an exploit**.
 
 #### Explicitly Allowed Game Mechanic exploits
 
