@@ -29,13 +29,15 @@ You can rent a server from a game server provider or "game server hosting" provi
 ### Required Server Plugins
 The plugins listed below are required for league play compliance, regardless of whatever hosting option you choose. 
 
-* SourceMod
-* MetaMod
-* logs.tf and its dependencies
-* STV Record (can be found on the logs.tf page)
-* TF2 Competitive Fixes by twiikuu, [found here](https://github.com/ldesgoui/tf2-comp-fixes)
-* All of F2's plugins, [found here](https://github.com/F2/F2s-sourcemod-plugins).
-* [StAC/STeph's AntiCheat](https://github.com/sapphonie/StAC-tf2), needed for its interp fix. If you wish to setup monitoring to your own discord server, please feel free - however we will not accept these as an Anti-Cheat report. StAC should be configured so it **will not kick/ban/notify players, with the exception of the interp settings which should kick the user from the server**.
+* [SourceMod](https://www.sourcemod.net/)
+* [MetaMod](https://www.metamodsource.net/)
+* [TF2 Competitive Fixes by twiikuu](https://github.com/ldesgoui/tf2-comp-fixes)
+* [All of F2's plugins](https://github.com/F2/F2s-sourcemod-plugins)
+* [Improved Round Timer plugin](https://github.com/b4nnyBot/TF2-Improved-Round-Timer-Plugin)
+* [StAC/STeph's AntiCheat](https://github.com/sapphonie/StAC-tf2)
+
+!!! Warning "Please Note"
+    StAC/STeph's AntiCheat is needed for its client interpolation fix. If you wish to setup monitoring to your own Discord server, please feel free - however we will not accept it's logging as an Anti-Cheat report alone. StAC should be configured so it **will not kick/ban/notify players, with the exception of the interp settings which should kick the user from the server** until they correct their interpolation values. The values ozfortress requires are found [here](/info/server_configs).
 
 ### Non-Plugin Requirements
 In addition to server plugins, there are other specific requirements.
