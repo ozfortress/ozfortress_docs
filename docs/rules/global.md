@@ -81,13 +81,24 @@ Rankings will first be determined by these match points. If point draws exist, t
 4. Win difference (Total points earned minus total points lost).
 
 ### 1.7. Forfeits
-Forfeits within ozfortress are used when teams are unable to field a roster for any reason, when resolving disputes, or in team based punishments.
+Forfeits within ozfortress are used when teams are unable to field a roster for any reason, when resolving disputes, or in team based punishments. 
 
-Exclusion penalties for forfeiting will apply for future ozfortress participation, administered via our disbands system. See Rule 2.5 for more information on disbanded and removed teams. Forfeiting a single map will result in the entire fixture being forfeited.
+#### 1.7.1. Claiming a Forfeit
+Forfeits are most commonly seen when a team is unable to field a roster at match time, where it is expected that the team who cannot field a roster should forfeit if they cannot get substitute players or mercenaries in-game within fifteen (15) minutes of their opponent fielding a full roster. If your opponent has not fielded a roster within fifteen (15) minutes, please reach out to a League Administrator immediately. Please do not wait more than fifteen (15) minutes before reporting these disputes to a League Administrator. To claim a forfeit, you will need to have the following ready:
 
+- A screenshot of the in-game scoreboard.
+- Screenshots of any and all match-related conversations between the all involved captains.
+
+!!! Note "Please Note"
+    In most disputes, a League Administrator will ask to join the server, in which case you should be ready to send them the full server details, including a connect string.
+
+#### 1.7.2. Exclusion Penalties
+Exclusion penalties for forfeiting may apply for future ozfortress competitions. Please see [2.6. Disbanded or Removed Teams](/rules/global/#26-disbanded-or-removed-teams) for more information on disbanded and removed teams. Forfeiting a single map will result in the entire fixture being forfeited.
+
+#### 1.7.3. Change in Team Circumstance
 It is the team captain’s responsibility to contact your division's administrator as soon as possible if there is a change in circumstances that will affect your team’s ability to field a roster each round, even if it is a temporary problem.
 
-**ANY forfeit in finals rounds will result in removal from the league and additional penalties for the offending team.**
+**ANY forfeit in Playoff rounds will result in removal from the league.**
 
 #### Total Forfeits
 Each seasonal league, along with tournaments/cups have their own forfeit limit. Typically, anything that isn't a seasonal league will typically allow no forfeits at all. Below you can find the forfeit limit for Sixes and Highlander respectively.
