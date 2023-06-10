@@ -72,14 +72,14 @@ theme:
     # Palette toggle for Light Mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: blue grey
+      #primary: black
       toggle:
         icon: fontawesome/solid/moon
         name: Switch to Dark Mode
     # Palette toggle for Dark Mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: black
+      #primary: black
       toggle:
         icon: fontawesome/solid/sun
         name: Switch to Light Mode
