@@ -388,12 +388,26 @@ Demo Checking can occur in ozfortress, and is used as a tool for resolving match
 If you are not sure how to correctly provide POV Demo files upon request, or have further questions, [please see our Demo Requests FAQ page](/faq/demo_requests/#further-questions-concerns-or-issues).
 
 ### 4.2. Spectators
-ozfortress administrators are the only approved spectators. Spectators are not allowed in any ozfortress match server for any reason. Please note, this does not include SourceTV (STV) usage.
+The only players allowed in the server of an official match are the core players currently rostered on the active roster, but cannot be in spectator while the match is live. When substituting a player for a substitute or mercenary, the substitute or mercenary is allowed to join the server and swap with one of the other players, but the player being substituted must leave when they arrive. Administrators are allowed to remain in server spectator for any reason, unless they are rostered on either team's Active Roster. Please note, this does not include SourceTV (STV) usage.
 
 ### 4.3. Pausing
-Pauses during a match are allowed where players clearly exhibit technological performance issues or when teams wish to for personal reasons. Tactical pauses are allowed. In addition, the match may only be unpaused by the team who initiated the pause. Both teams must give the all-clear to unpause, which is followed by an in-built five-second countdown.
+Pauses during a match are allowed for any reason teams see fit excluding the following scenario:
+
+- Pausing after readying up and beginning the match whilst missing players, with the goal of keeping the game paused until that player arrives.
+
+!!! Note "Please Note"
+    Tactical pauses are allowed, but must still conform to our pause rules.
+
+The match may only be unpaused by the team who initiated the pause. Both teams must give the all-clear to unpause, which is followed by an in-built five-second countdown.
 
 Each team is permitted two pauses per match with a combined total time limit of ten minutes. However, if captains are in agreement, the pause limit can be extended.
+
+To pause a match, teams simply need to open their console and send the following command:
+```
+pause
+```
+
+The same command can be sent to unpause the match.
 
 ### 4.4. Casted Games
 Official matches may be casted by organisations with the approval of the ozfortress administrators.
@@ -454,10 +468,7 @@ Along with the above restrictions, we also run **Player Restrictions**, where el
 ### 5.5. Server Interruptions
 In the event of an ongoing match being interrupted, the match must be resumed from the time at which the last round was completed. Any ongoing rounds will be restarted and any rounds that were completed will remain completed.
 
-### 5.6. Server Spectator
-The only players allowed in the server of an official match are the core players currently rostered on the active roster, but cannot be in spectator while the match is live. When substituting a player for a substitute or mercenary, the substitute or mercenary is allowed to join the server and swap with one of the other players, but the player being substituted must leave when they arrive. Administrators are allowed to remain in server spectator for any reason, unless they are rostered on either team's Active Roster.
-
-### 5.7. Coaching
+### 5.6. Coaching
 Currently, ozfortress does not allow in-official coaching via any means (for example; being in the spectator, watching a POV stream via Discord, etc). This clause does not include coaching outside of an official match, like demo reviewing for example.
 
 ---
