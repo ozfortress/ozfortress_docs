@@ -457,6 +457,8 @@ The intention of exploiting any aspect of the game for an unfair advantage, whet
 
 ### 6.1.1. Game Modification exploits
 This is commonly treated as akin to cheating when malicious, as it is direct game file manipulation to gain an unfair advantage. Any listed item not explicitly stated as allowed is prohibited.
+
+#### Some examples of prohibited Game Modification
 + Using scripts/macros that allow you to bypass movement or engine restrictions.
   - Panic scripts.
   - Bunnyhop scripts.
@@ -471,9 +473,10 @@ This is commonly treated as akin to cheating when malicious, as it is direct gam
 + Removing map objects/props or making them transparent.
 + Malicious use of the retry command.
 + Uber Pause bug
-  - A bug where medics continue to build uber during a pause whilst healing a player. This bug should be prevented by server plugins, but in the event it does happen, both teams should be made aware and an administrator should be contacted.
+    - A bug where medics continue to build uber during a pause whilst healing a player. This bug should be prevented by server plugins, but in the event it does happen, both teams should be made aware and an administrator should be contacted.
 
-#### Some examples of allowed Game Modification are:
+#### Some examples of allowed Game Modification
+
 + Custom HUDs.
 + Custom Autoexec, class configs, etc.
 + Flat textures.
@@ -493,10 +496,11 @@ This is commonly treated as akin to cheating when malicious, as it is direct gam
 + Loadout changing scripts.
 + Viewmodel / Crosshair switchers.
 + No explosions/particles smoke script.
-+ Loadout changing scripts and quick respawn scripts
-    - Note: Preserving ubercharge, sticky traps, or engineer buildings when forward spawning or backwards spawning is prohibited.
++ Loadout changing scripts and quick respawn scripts such as forward-spawn/backward-spawn scripts are explicity allowed since Sixes Season 37 and Highlander Season 4, even if they preserve that classes current state:
+    + This includes stickybomb projectiles, a medic's current medi-gun percentage or charge, an engineers buildings, etc.
 
 ### 6.1.2. Game Mechanic exploits
+
 + Game Mechanic exploits are typically map, client or server exploits used to gain an unfair advantage.
 + Placing the Engineer’s buildings outside of the map, in indestructible locations or anywhere where it is not visible.
 + Entering areas that are “out of bounds” or not in playable space.
@@ -506,7 +510,8 @@ This is commonly treated as akin to cheating when malicious, as it is direct gam
 + Hiding sticky traps or buildings inside of props or geometry where their visual collision does not match up with their physical collision is considered an exploit. For example, hiding sticky traps inside of the prop rock on Upward first, outside of the BLU team's left most spawn door. A player should be able to see the entire sticky trap outside of a props or geometry's visual collision (no part of the trap hidden inside of the prop), but if a prop is hollow in the middle (for example, the tyre trap on Granary), then as long as it can be seen from one direction in its entirety then it is allowed.
     + Physics props that can hide sticky traps entirely (for example, sticky traps can be hidden entirely inside of the orange traffic cones present on Gullywash) are "fair game" and allowed.
 
-#### Explicitly allowed Game Mechanic exploits:
+#### Explicitly allowed Game Mechanic exploits
+
 + Wallbugs.
 + Edgebugs.
 + C-taps.
