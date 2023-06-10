@@ -68,7 +68,7 @@ The 3 round match ban carries across from the offseason, so if it is received du
 Infraction points do **not** expire after a user is banned. If a user receives a one-year ban involving a Tier 3 infraction, the infraction will still remain for the remainder of the two-year expiry after the player’s one-year ban has been served.
 
 ## Infraction Evidence Expiry Window
-We observe a 6-month "statute of limitations" for all evidence submitted via reports. There are a few reasons we observe this reporting window, but chief among them is to allow players to improve upon their behaviour without late intervention. We believe everyone deserves the opportunity to change, and by enforcing this 6-month reporting window, we prevent any form of malicious reporting. In rare circumstances, typically due to the severity of the offence, we may make an exception to this rule. However, these exceptions are exceedingly rare.
+We observe a 6-month "statute of limitations" for all evidence submitted via reports. There are a few reasons we observe this reporting window, but chief among them is to allow players to improve upon their behaviour without late intervention. We believe everyone deserves the opportunity to change, and by enforcing this 6-month reporting window, we prevent any form of malicious reporting. In rare circumstances, typically due to the severity of the offence, we may make an exception to this rule. However, these exceptions are exceedingly rare. Simply put, we will very rarely accept reports containing evidence over 6 months in age.
 
 ## Behavioural Infractions
 Specifically player behaviour not related to in-match play or organisation.
