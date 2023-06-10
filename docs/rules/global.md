@@ -232,11 +232,11 @@ Please note, each individual league may have its own transfer rules, for example
 - [Sixes](/rules/sixes/)
 - [Highlander](/rules/highlander/)
 
-### 2.7.1. Player Pool
-The Player Pool is the area of each team where players invited to the team are listed publically. Players within the Player Pool that are not on the Active Roster are counted as Mercenaries.
-
-### 2.7.2. Active Roster
+### 2.7.1. Active Roster
 The Active Roster contains each and every player you count as a core or substitute player and can be used throughout the season. Players need to be requested to be transferred from the Player Pool to the Active Roster prior to their usage in an official match, otherwise, they will be counted as mercenaries.
+
+### 2.7.2. Player Pool
+The Player Pool is the area of each team where players invited to the team are listed publically. Players within the Player Pool that are not on the Active Roster are counted as Mercenaries.
 
 ### 2.7.3. Emergency Transfers
 Emergency Transfers are granted by the staff team for situations where teams have an unavoidable player loss on their roster. The number of players granted and conditions are heavily case-by-case and up to the discretion of the staff team. The best way to request this process is via our support bot Alfred, as the entire staff team will immediately be able to see the request, but you can message your division or region administrator if need be.
@@ -491,7 +491,7 @@ This is commonly treated as akin to cheating when malicious, as it is direct gam
 + Sniper scope transparency/removal of the sniper scope.
 + Large shadows and/or box shadows.
 + Entering the player model default pose (“civilian pose”).
-+ Water jump-scoping.
++ Removal/minimization of weapon sounds or particles (eg. transparent flame particles)
 + Removing map objects/props or making them transparent.
 + Malicious use of the retry command.
 + Uber Pause bug
@@ -522,15 +522,14 @@ This is commonly treated as akin to cheating when malicious, as it is direct gam
     + This includes stickybomb projectiles, a medic's current medi-gun percentage and charge, an engineers buildings, etc.
 
 ### 6.1.2. Game Mechanic exploits
+Game Mechanic exploits are typically map, client or server exploits used to gain an unfair advantage.
 
-+ Game Mechanic exploits are typically map, client or server exploits used to gain an unfair advantage.
 + Placing the Engineer’s buildings outside of the map, in indestructible locations or anywhere where it is not visible.
 + Entering areas that are “out of bounds” or not in playable space.
 + Resupplying by using spawn regions outside of spawn bounds.
 + Exploiting the map design to enter areas that aren’t regular gameplay, for any means or use.
 + Map-based exploits (water jump scoping, etc).
-+ Hiding sticky traps or buildings inside of props or geometry where their visual collision does not match up with their physical collision is considered an exploit. For example, hiding sticky traps inside of the prop rock on Upward first, outside of the BLU team's left most spawn door. A player should be able to see the entire sticky trap outside of a props or geometry's visual collision (no part of the trap hidden inside of the prop), but if a prop is hollow in the middle (for example, the tyre trap on Granary), then as long as it can be seen from one direction in its entirety then it is allowed.
-    + Physics props that can hide sticky traps entirely (for example, sticky traps can be hidden entirely inside of the orange traffic cones present on Gullywash) are "fair game" and allowed.
++ Hiding sticky grenades (AKA "stickies") or engineer buildings inside of props or geometry **where they cannot be destroyed** due to differences in their visual and physical collisions is **considered an exploit**.
 
 #### Explicitly allowed Game Mechanic exploits
 
