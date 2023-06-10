@@ -28,7 +28,10 @@ At the conclusion of the regular season, the top four placing teams of each divi
 
 Playoff matches will each be a best of three (Best of 3) map scenario, with the exception of the Sixes Premier Grand Final Grand Final, which is played as a five (Best of 5) map scenario.
 
-Playoffs for all divisions and seasonal league formats will be played using the [Page playoff system](https://en.wikipedia.org/wiki/Page_playoff_system).
+Playoffs for all divisions and seasonal league formats will be run  using the [Page playoff system](https://en.wikipedia.org/wiki/Page_playoff_system).
+
+!!! Note "Please Note"
+    Some teams will play more matches than others in Page Playoffs (traditionally only the team that wins Upper Page and proceeds to the Grand Finals will play less), meaning the ladder on the league page may not properly represent the order, but match generation is based off a team's progress through Page Playoffs, rather than ladder order.
 
 #### Page Playoffs
 In the Upper Page Playoff, the first and second-placed teams will play against each other. The winner advances directly to the Grand Final.
