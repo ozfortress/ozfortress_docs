@@ -188,6 +188,7 @@ On top of [2.2. Player Eligibility](/rules/global/#22-player-eligibility), all p
 
 ### 2.3. Out of Region Play & Ping Eligibility
 ##### Criteria
+Whether you are intending to join a roster, or play in place of an unavailable player as a mercenary, you must meet the criteria below.
 
 - Be within 150-210 ping in-game.
 - Be in good standing with the league in your region.
@@ -196,6 +197,8 @@ On top of [2.2. Player Eligibility](/rules/global/#22-player-eligibility), all p
         - Behavioural
         - Alternate Account usage or Account Sharing
 
+!!! Note "Please Note"
+    Mercenaries are not eligible for the exceptions below.
 ##### What are the exceptions?
 
 - Any out-of-region player who has been rostered on a team prior to this change, for at minimum two seasons, or has participated in 10 matches, will be eligible for play without ping testing.
@@ -310,7 +313,7 @@ In the event your server cannot not upload the logs.tf log for any reason, downl
 
 ### 3.3. Mercenaries
 ##### Mercenary Validity & Requirements
-A mercenary is an unrostered player that is used in lieu of an unavailable team member. To be valid, mercenaries must have an ozfortress.com account and not be under any exclusion penalties.
+A mercenary is a player not rostered on either team that is used in lieu of an unavailable team member. To be valid, mercenaries must have an ozfortress.com account, be within 150 ping as outlined in [2.3. Out of Region Play & Ping Eligibility](/rules/global/#23-out-of-region-play-ping-eligibility) and not be under any exclusion penalties.
 
 Only a certain amount of mercenaries per team are allowed in each match at any moment in time, please see the links below which lead to each format's maximum amount of mercenaries.
 
