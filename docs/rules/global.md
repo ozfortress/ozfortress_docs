@@ -181,6 +181,11 @@ Players who have played in higher divisions than their team has applied for shal
     - VAC bans
 - Be eligible for play under our Out of Region Ping Eligibility clause below in 2.3.
 
+#### 2.2.1. Game Client Eligibility
+On top of [2.2. Player Eligibility](/rules/global/#22-player-eligibility), all players playing in ozfortress competitions need to be observing the following requirements:
+
+- A maximum interpolation value either at the default `0.100ms` that ships with the game or lower. Any value above the default interpolation value is considered an exploit. See [the prohibited Game Modifications section](/rules/global/#some-examples-of-prohibited-game-modification) for more information.
+
 ### 2.3. Out of Region Play & Ping Eligibility
 ##### Criteria
 
@@ -324,8 +329,8 @@ Mercenaries may only be used at the **discretion of the opposing team captain**.
 ##### Mercenary Class Locking
 When mercenaries are being requested, **teams have the option to request them on a specific class**, **or to be locked to a specific class or classes**. This would then lock them to that class during that match (with the exception of reasonable off-classes; Sniper, Engineer, Pyro & Spy - these must be explicitly stated as locked when locking a player). **Teams can also request a mercenary without specifying a class**, allowing the mercenary to change classes at will if approved and if there is no agreement to lock said mercenary to a specific class or classes. **It is important to note that unless mercenaries have been explicitly "class locked"**, **they are allowed to play any class of their choosing**. **If both teams agree to a request to lock a mercenary to a specific class or classes**, **this needs to be stated in Match Communications**.
 
-##### Mercenary Manipulation
-Manipulating other teams into allowing mercenaries is an infractable offence (e.g. If you allow us to use a high *Premier* player we will allow you to use a low *Open* player).
+##### Mercenary Manipulation & Excessive Unreasonable Mercenary Denials
+Manipulating other teams into allowing mercenaries is an infractable offence (e.g. If you allow us to use a high *Premier* player we will allow you to use a low *Open* player). ozfortress administrators will judge these messages literally, and will not consider any message as a joke - all mercenary requests should be serious.
 
 ozfortress administrators will act as arbitrators in such a case of unreasonable mercenary denial and may decide to overrule a team captain’s decision and allow a mercenary of a reasonable skill level.
 
@@ -477,7 +482,7 @@ Currently, ozfortress does not allow in-official coaching via any means (for exa
 ### 6.1. Exploits
 The intention of exploiting any aspect of the game for an unfair advantage, whether they are explicitly listed or not, is prohibited. We consider there to be two categories of exploits; **Game Modification exploits** and **Game Mechanic exploits**. Game Modification exploitation is the act of modifying game files (and typically bypassing sv_pure 2) to gain an unfair advantage. Game Mechanic exploitation is typically engine exploits, bugs, or abuse of unattended gameplay features that are outside the scope of competitive fairness and play.
 
-### 6.1.1. Game Modification exploits
+### 6.1.1. Game Modification
 This is commonly treated as akin to cheating when malicious, as it is direct game file manipulation to gain an unfair advantage. Any listed item not explicitly stated as allowed is prohibited.
 
 #### Some examples of prohibited Game Modification
@@ -527,11 +532,11 @@ Game Mechanic exploits are typically map, client or server exploits used to gain
 + Placing the Engineer’s buildings outside of the map, in indestructible locations or anywhere where it is not visible.
 + Entering areas that are “out of bounds” or not in playable space.
 + Resupplying by using spawn regions outside of spawn bounds.
-+ Exploiting the map design to enter areas that aren’t regular gameplay, for any means or use.
++ Exploiting the map design to enter areas that aren’t within regular bounds, for any means or use excluding Wallbugs and Edgebugs as documented in [Explicitly Allowed Game Mechanic exploits](/rules/global/#explicitly-allowed-game-mechanic-exploits).
 + Map-based exploits (water jump scoping, etc).
 + Hiding sticky grenades (AKA "stickies") or engineer buildings inside of props or geometry **where they cannot be destroyed** due to differences in their visual and physical collisions is **considered an exploit**.
 
-#### Explicitly allowed Game Mechanic exploits
+#### Explicitly Allowed Game Mechanic exploits
 
 + Wallbugs.
 + Edgebugs.
