@@ -1,23 +1,117 @@
----
-home: true
-title: Home
-heroImage: /images/ozf-docs-large.png
-heroText: 
-tagline: A documentation site for ozfortress competitions and services.
-lastUpdated: false
-features:
-- title: EXCUSE THE COBWEBS...
-  details: We have relocated all of our documentation previously found on ozfortress.com to here - our new documentation website, be it rulesets, help docs, guides, everything.
-- title: GUIDES
-  details: We're working on bringing new players guides covering everything a new, experienced or "boomer" could ever need!
-- title: COMING SOON - SEARCH
-  details: The search engine being built into the docs will allow you to search for keywords anywhere on the docs website, find every reference of a specific word or phrase, and more.
-  link: /guides/sixes/test.md
-footer: Copyright © 2022-present ozfortress
----
+<link rel="stylesheet" href="/stylesheets/extra.css" />
 
-## SOME FREQUENTLY ASKED QUESTIONS
-Below you can find some answers to questions regarding this new docs website.
+<style>
+.grid-container {
+  display: grid;
+  column-gap: 24px;
+  row-gap: 24px;
+  grid-template-columns: auto auto auto;
+  background: none;
+}
+.grid-item {
+  background-color: var(--md-footer-bg-color);
+  border: 4px solid var(--md-footer-bg-color);
+  border-radius: 3px;
+  padding: 0px 20px 0px 20px;
+  text-align: left;
+  transition: ease 0.5s;
+}
 
-#### OK, BUT WHY?
-The previous iterations of documentation on ozfortress.com have been limited by one or more factors, and with more new players coming in every season, we felt that working on ways to make our documentation easier to use, search and reference, would benefit everyone, new players and old.
+.grid-item:hover {
+  border: 4px solid var(--md-accent-fg-color);
+  transition: ease 0.3s;
+}
+
+.grid-item:hover h5 {
+  color: var(--md-accent-fg-color);
+  transition: ease 0.3s;
+}
+
+.grid-item h5 {
+  color: var(--md-primary-bg-color--light);
+  font-size: 16px;
+  font-weight: 600;
+  transition: ease 0.5s;
+}
+
+.grid-item hr {
+  background-color: var(--md-primary-bg-color--light);
+}
+
+.grid-item p {
+  color: var(--md-primary-bg-color);
+}
+
+.md-sidebar--primary {
+  display: none;
+}
+
+.md-sidebar--secondary {
+  display: none;
+  order: 0;
+  width: 0%;
+}
+
+.md-source-file {
+  display: none;
+}
+
+.hero-container h2 {
+  text-transform: none;
+}
+
+.hero-span {
+  margin-top: -20px;
+  color: var(--md-default-fg-color--light);
+}
+</style>
+
+<div class="hero-container">
+  <h1>ozfortress Docs</h1>
+  <div class="hero-span">
+    <span>A documentation site for <a href="https://ozfortress.com/">ozfortress</a>, Australia's Premier Competitive Team Fortress 2 league.</span>
+  </div>
+  <hr>
+  <h2>Are you playing? Why aren't you playing!</h2>
+  <p>Want to up your game? Does playing competitively interest you? Sign up to play at our main website <a href="https://ozfortress.com/">ozfortress.com</a>.</p>
+  <hr>
+</div>
+
+<div class="grid-container">
+  <a href="/rules/global">
+  <div class="grid-item">
+    <h5>Global Ruleset</h5>
+    <hr>
+    <p>The competitive ruleset at large that governs ozfortress competitions.</p>
+  </div>
+  </a>
+  <a href="/rules/community_guidelines">
+  <div class="grid-item">
+    <h5>Community Guidelines</h5>
+    <hr>
+    <p>Player conduct guidelines that set our expectations for behaviour within ozfortress.</p>
+  </div>
+  </a>
+  <a href="/rules/infractions">
+  <div class="grid-item">
+    <h5>Infractions Ruleset</h5>
+    <hr>
+    <p>ozfortress' punishment system, used to enforce our rulesets.</p>
+  </div>
+  </a>
+  <a href="/faq/landing">
+  <div class="grid-item">
+    <h5>ozfortress FAQ</h5>
+  </div>
+  </a>
+  <a href="/support/landing">
+  <div class="grid-item">
+    <h5>ozfortress Support</h5>
+  </div>
+  </a>
+  <a href="/guides/landing">
+  <div class="grid-item">
+    <h5>ozfortress Guides</h5>
+  </div>
+  </a>
+</div>

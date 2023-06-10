@@ -1,0 +1,103 @@
+# Highlander Ruleset
+
+## Format Specificity
+Rules within this ruleset are strictly for Highlander (HL), and though each ruleset may share the same rules, the contents of each are likely different if they are listed in one of the format rulesets and not the Global Ruleset.
+
+## 1. Highlander Seasonal League
+
+### 1.1. Regular Season Fixtures
+In the Regular Season, each Weekly Fixture match or round features two sets (also known as maps) picked out of a nine (9) map pool (this can be found in our [League Info](/info/map_history/)). This map pool is chosen by the league administration prior to the start of the season, using mostly poll data. Each regular season fixture is typically expected to last an average of one hour, but team's should always be ready to play longer.
+
+### 1.2. Playoffs Fixtures
+In Playoffs, each match or round is a Best of 3 map scenario, picked and banned from the nine (9) map pool found in the Regular Season (this can be found in our [League Info](/info/map_history/)). Playoffs fixtures are almost always expected to last at least thirty minutes per map, for an average runtime of ninety minutes to two hours. Team's should ensure they allocate enough time and schedule accordingly.
+
+#### 1.2.1. Playoffs Map Selection (Pick/Bans)
+Maps for playoff matches are selected by the captains of each team. This process **must be completed at least 24 hours prior to the agreed upon match time**.
+
+#### 1.2.1.1. Highlander Pick/Ban Map Selection
+The selection process for a nine map pool (BO3) in Playoffs:
+
+1. The **higher seeded** or **home team** will either **choose to ban first or defer**.
+2. The **first team** (determined by the result of step one) will **ban a map**, removing a map from the pool.
+3. The **second team** will **ban a map**, removing a map from the pool.
+4. The **first team** will **ban a map**, removing a map from the pool.
+5. The **second team** will **ban a map**, removing a map from the pool.
+6. The **first team** will **pick the first map** from the remaining pool.
+7. The **second team** will **pick the second map** from the remaining pool.
+8. The **first team** will **pick the third/tiebreaker map** from the remaining maps.
+
+Some players/captains may use a shorthand form of the pick/ban listing, so we've included it here to hopefully ease some confusion.
+
+```
+Ban Ban Pick Pick Ban Pick
+Home Away Home Away Away Home
+```
+
+In the event of a disagreement, the home team will have a preference for team colour. In case of discrepancies between official rules and other sources, the most updated pick-ban order can always be found in match threads.
+
+### 1.3. Bracket Systems used
+Highlander makes use of Round Robin as it's primary tournament system. (You can find more information on Round Robin here)[http://127.0.0.1:8000/rules/global/?h=round#14-round-robin].
+
+## 2. Teams
+### 2.1. Rosters
+#### 2.1.1. Roster Size Requirements/Limits
+##### Highlander
+- Minimum roster size is nine (9).
+- Maximum roster size is fifteen (15).
+- Teams should look to have a least two or three substitute players in the event a core player cannot play.
+
+#### 2.1.2. Out of Region Player Limit
+There are no current limits on the amount of out of region players on a roster.
+
+### 2.2. Mercenary Limits
+Please note, mercenary limits are the different for both seasonal leagues. Each Highlander official match should not go above the **three mercenaries per team** allowed in each match. [For further mercenary limits, please see this section of the Global Ruleset](/rules/global/#mercenary-limiting).
+
+### 2.3. Team Eligibility Requirements
+Teams are expected to have a certain amount of players (does not include any mercenaries) ready to start or continue a match. This expected amount of players differs for each format, and can be seen below.
+##### Highlander
+- A minimum of six (6) rostered players.
+
+## 3. Match Organisation
+### 3.1. Deadlines
+All time scheduling should be in AEDT if Daylight Savings is in effect, AEST if Daylight Savings is not in effect. The times themselves do not move with Daylight Savings however, meaning 7PM for AEST & AEDT.
+
+- **Match time/day set**: 7PM AEST/AEDT Thursday
+- **Results submission**: 11:59PM AEST/AEDT Sunday
+- **All other match details**: 11:59PM AEST/AEDT Sunday
+
+### 3.2. Default Scheduling
+Teams are free to communicate their desired/playable match days and times with eachother, typically this responsibility falls upon the captains, or players nominated to act in that capacity.
+
+ozfortress does encourage all teams to set their own match days and times, but in case of disputes, an administrator may enforce the default match day or time, as found below. 
+
+These defaults will only ever be enforced when teams do not have any common match days set under the Availability section of their roster, found under Manage Roster on their team page. See [3.1. Negotiating Match Times](/rules/global/#31-negotiating-match-times) for more information on negotiation.
+
+- **Default match time**: 8PM AEST/AEDT or 9PM AEST/AEDT
+    - Teams that can make these times will be looked upon more favourably than teams that cannot.
+- **Default match day**: Saturday
+
+## 4. Format
+Highlander teams are expected to play with nine player at all times within an official match. If a team cannot field field enough players from their roster and mercenaries, teams are permitted to play with seven players, with the opposing team permitted to keep their full nine player roster. Teams cannot play with fewer than seven players, otherwise they will be automatically disqualified and subsequently forfeited. Teams must still observe mercenary rules and limits.
+
+### 4.1. Class Limits
+The following class limits are required on all official match servers. Breaking these limits in any way that impacts a match is considered cheating, and depending on administrator discretion could lead to a match result overturn.
+
+```
+tf_tournament_classlimit_scout 1
+tf_tournament_classlimit_soldier 1
+tf_tournament_classlimit_pyro 1
+tf_tournament_classlimit_demoman 1
+tf_tournament_classlimit_heavy 1
+tf_tournament_classlimit_engineer 1
+tf_tournament_classlimit_medic 1
+tf_tournament_classlimit_sniper 1
+tf_tournament_classlimit_spy 1
+```
+
+### 4.2. Unlocks / Whitelist
+The whitelist can be found on whitelist by [clicking here](https://whitelist.tf/ozfortress_hl), or under the ozfortress menu on whitelist.tf.
+
+Changes to weapons or their mechanics, the addition of new cosmetics or taunts, or removal of certain properties will see the weapon / cosmetic / taunt banned for the remainder of that season. New items are automatically blocked by the whitelist, but in the event something is changed as stated above, ozfortress will post an announcement regarding it.
+
+### 4.3. Server configs & usage
+Configs for any seasonal league or tournament can be found on the Server Configs page, and any associated guides will be linked on that page.
