@@ -108,17 +108,15 @@ King of the Hill is currently identical between all currently supported seasonal
 ### 4.2. Class Limits
 The following class limits are required on all official match servers. Breaking these limits in any way that impacts a match is considered cheating, and depending on administrator discretion could lead to a match result overturn.
 
-```
-tf_tournament_classlimit_scout 2
-tf_tournament_classlimit_soldier 2
-tf_tournament_classlimit_pyro 1
-tf_tournament_classlimit_demoman 1
-tf_tournament_classlimit_heavy 1
-tf_tournament_classlimit_engineer 1
-tf_tournament_classlimit_medic 1
-tf_tournament_classlimit_sniper 2
-tf_tournament_classlimit_spy 1
-```
+- 2 Scout
+- 2 Soldier
+- 1 Pyro
+- 1 Demoman
+- 1 Heavy
+- 1 Engineer
+- 1 Medic
+- 2 Sniper
+- 1 Spy
 
 ### 4.3. Unlocks / Whitelist
 The whitelist can be found on whitelist by [clicking here](https://whitelist.tf/ozfortress_6v6), or under the ozfortress menu on whitelist.tf.
