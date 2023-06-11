@@ -14,18 +14,12 @@ LAN tournament formats vary depending on the length of the event. The first stag
 ## 2. Teams
 ### 2.1. Rosters
 #### 2.1.1. Roster Size Requirements/Limits
+Teams are expected to have a certain amount of players (does not include any mercenaries) ready to start or continue a match. This expected amount of players differs for each format, and can be seen below.
 - Minimum roster size is six (6).
 - Maximum roster size is eight (8).
-- Teams should look to have a least one or two substitute players in the event a core player cannot play.
 
 ### 2.2. Mercenaries
 Typically mercenery's are prohibited in LAN events unless authorised by a tournament administrator.
-
-### 2.3. Team Eligibility Requirements
-Teams are expected to have a certain amount of players (does not include any mercenaries) ready to start or continue a match. This expected amount of players differs for each format, and can be seen below.
-
-##### Sixes
-- A minimum of five (5) rostered players.
 
 ## 3. Offline Specific Rules
 ### 3.1. Breaks between maps
