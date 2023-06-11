@@ -314,7 +314,7 @@ The following should be present within all Match Communications:
 + Anything else that teams deem essential to the correct running of their official match.
 
 ### 3.2. Organisational Responsibilities
-The responsibility for these tasks falls upon the team captain of each team. If they are unable to complete these tasks or ensure these tasks are completed, they must nominate another team member to ensure their completion. Sll Official Matches need either a Captain or Nominated Player to act in a captain capacity for the duration of the match, this ensures each match runs as smoothly as possible.
+The responsibility for these tasks falls upon the team captain of each team. If they are unable to complete these tasks or ensure these tasks are completed, they must nominate another team member to ensure their completion. All Official Matches need either a Captain or Nominated Player to act in a captain capacity for the duration of the match, this ensures each match runs as smoothly as possible.
 
 ##### Both teams must
 + Make an appropriate effort to organise the match.
