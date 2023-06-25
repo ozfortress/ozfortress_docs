@@ -65,7 +65,7 @@ King of the Hill maps (also known as KOTH maps) are a single capture point typic
 #### 2.1.2. Out of Region Player Limit
 There are no current limits on the amount of out of region players on a roster other than [Ping Limiting](/rules/global/#23-out-of-region-play-ping-eligibility).
 
-#### 2.1.3. Transfer Window Limit
+#### 2.1.3. Transfer Window Limits
 Each Transfer Window has a limit for the amount of players that can be transferred in. This limit differs depending on the seasonal league or competition.
 
 For Sixes, **teams are limited to two players transferred into their roster per window**. There is currently **no limit set for transfers out of a roster**.
