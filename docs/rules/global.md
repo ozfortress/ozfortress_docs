@@ -262,8 +262,8 @@ For the Transfer Windows and Roster Lock dates, please see the linked Transfers 
 ##### 2.7.3. Transfer Window Limits
 Each Transfer Window has a limit for the amount of players that can be transferred in. This limit differs depending on the seasonal league or competition, but the limits for seasonal leagues can be found on the linked rulesets below. Other competitions will typically state this limit if there is one. There is no limit on the amount of players that can be transferred out of a roster.
 
-- [Sixes](/rules/sixes/#273-transfer-window-limits)
-- [Highlander](/rules/highlander/#273-transfer-window-limits)
+- [Sixes](/rules/sixes/#213-transfer-window-limits)
+- [Highlander](/rules/highlander/#213-transfer-window-limits)
 
 ### 2.7.4. Active Roster
 The Active Roster contains each and every player you count as a core or substitute player and can be used throughout the season. Players need to be requested to be transferred from the Player Pool to the Active Roster prior to their usage in an official match, otherwise, they will be counted as mercenaries.
