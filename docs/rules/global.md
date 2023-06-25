@@ -242,6 +242,10 @@ To avoid penalty, captains and/or team members should approach administrators at
 ### 2.7. Transfers
 Teams may transfer players on a weekly/fortnightly basis depending on the seasonal league/competition. The transfer application must be submitted by the deadline to be eligible for play in the following window. View how to apply for a transfer [here](/rules/transfers).
 
+Administrators reserve the right to deny transfer applications based on numerous factors, and judgement will adapt with each Transfer Window. Players serving exclusion penalties in ozfortress will not be eligible for transfers until after their exclusion penalty has finished. Transfers should be approved no later than two days after the end of a match week (or fortnight for Sixes).
+
+Please note, each individual seasonal league or competition may have its own transfer rules, for example Sixes uses a two week window, where as Highlander uses a one week window.
+
 ##### 2.7.1. Roster Limit
 Teams will only be able to increase the size of their roster throughout the season to the roster limit. Teams may not increase their roster size through transfers unless enough players have been transferred out of their team to keep their roster size under or at the roster limit.
 
@@ -251,18 +255,15 @@ You can find the minimum and maximum roster sizes/limits for each seasonal leagu
 - [Highlander](/rules/highlander/#211-roster-size-requirementslimits)
 
 ##### 2.7.2. Roster Lock
-Typically one round away from the end of the Regular Season and after the last Transfer Window, Roster Lock will come into effect. Roster Lock prevents teams from removing anyone from their roster, or making any further changes outside of an [Emergency Transfer](/rules/global/#273-emergency-transfers).
+Typically one round away from the end of the Regular Season and after the last Transfer Window, Roster Lock will come into effect. Roster Lock prevents teams from removing anyone from their roster, or making any further changes outside of an [Emergency Transfer](/rules/global/#276-emergency-transfers).
 
 For the Transfer Windows and Roster Lock dates, please see the linked Transfers page on your seasonal league or competition.
 
 ##### 2.7.3. Transfer Window Limits
 Each Transfer Window has a limit for the amount of players that can be transferred in. This limit differs depending on the seasonal league or competition, but the limits for seasonal leagues can be found on the linked rulesets below. Other competitions will typically state this limit if there is one. There is no limit on the amount of players that can be transferred out of a roster.
 
-Administrators reserve the right to deny transfer applications based on numerous factors, and judgement will adapt with each Transfer Window. Players serving exclusion penalties in ozfortress will not be eligible for transfers until after their exclusion penalty has finished. Transfers should be approved no later than two days after the end of a match week (or fortnight for Sixes).
-Please note, each individual seasonal league or competition may have its own transfer rules, for example Sixes uses a two week window, where as Highlander uses a one week window. You can find specific transfer rules in each ruleset:
-
-- [Sixes](/rules/sixes/)
-- [Highlander](/rules/highlander/)
+- [Sixes](/rules/sixes/#273-transfer-window-limits)
+- [Highlander](/rules/highlander/#273-transfer-window-limits)
 
 ### 2.7.4. Active Roster
 The Active Roster contains each and every player you count as a core or substitute player and can be used throughout the season. Players need to be requested to be transferred from the Player Pool to the Active Roster prior to their usage in an official match, otherwise, they will be counted as mercenaries.

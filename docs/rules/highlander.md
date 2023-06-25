@@ -52,6 +52,11 @@ In the Regular Season, Stopwatch/Payload maps are only played as one round, mean
 #### 2.1.2. Out of Region Player Limit
 There are no current limits on the amount of out of region players on a roster other than [Ping Limiting](/rules/global/#23-out-of-region-play-ping-eligibility).
 
+#### 2.1.3. Transfer Window Limit
+Each Transfer Window has a limit for the amount of players that can be transferred in. This limit differs depending on the seasonal league or competition.
+
+For Highlander, **teams are limited to three players transferred into their roster per window**. There is currently **no limit set for transfers out of a roster**.
+
 ### 2.2. Mercenary Limits
 Please note, mercenary limits are the different for both seasonal leagues. Each Highlander official match should not go above the **three mercenaries per team** allowed in each match. [For further mercenary limits, please see this section of the Global Ruleset](/rules/global/#mercenary-limiting).
 
