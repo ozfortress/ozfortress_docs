@@ -33,7 +33,7 @@ Ban Ban Pick Pick Ban Pick
 Home Away Home Away Away Home
 ```
 
-In the event of a disagreement, the home team will have a preference for team colour. In case of discrepancies between official rules and other sources, the most updated pick-ban order can always be found in match threads.
+Please see [3.4.1. Team Starting Side](/rules/global/#341-team-starting-side) in the Global Ruleset for more information on who starts on which side. Teams can agree to go against this rule if they wish, but in the event of a dispute this rule will be enforced.
 
 ### 1.3. Bracket Systems used
 Highlander makes use of Round Robin as it's primary tournament system. (You can find more information on Round Robin here)[http://127.0.0.1:8000/rules/global/?h=round#14-round-robin].
