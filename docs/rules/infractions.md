@@ -59,7 +59,8 @@ The Infraction team reserves the right to infract or ban players based on the of
 Evidence submitted via Reports should be uploaded/hosted on services where the evidence will not expire. If you wish to free up storage wherever it is located, please check with the Behaviour Team to ensure a copy has been made.
 
 ## Ban Levels
-+ 40 points = 3 round match ban
++ 30 points = 3 round match ban
+    + Please note this was recently lowered from 40 points, read our news post [here](https://ozfortress.com/forums/threads/1230) for more information.
 + 60 points = 1 year Community and Competitive Ban
 + 90 points = 2 year Community and Competitive Ban
 
@@ -71,7 +72,7 @@ Infraction points do **not** expire after a user is banned. If a user receives a
 We observe a 6-month "statute of limitations" for all evidence submitted via reports. There are a few reasons we observe this reporting window, but chief among them is to allow players to improve upon their behaviour without late intervention. We believe everyone deserves the opportunity to change, and by enforcing this 6-month reporting window, we prevent any form of malicious reporting. In rare circumstances, typically due to the severity of the offence, we may make an exception to this rule. However, these exceptions are exceedingly rare. Simply put, we will very rarely accept reports containing evidence over 6 months in age.
 
 ## Behavioural Infractions
-Specifically player behaviour not related to in-match play or organisation.
+Specifically player behaviour not related to in-match play or organisation. Please note that something a player says in match communications can be subject to Behavioural Infractions.
 
 #### Tier 1 Offences - 10 points (6 months expiry)
 + Excessive trash talk (beyond that which can reasonably be considered banter)
@@ -95,9 +96,11 @@ Specifically player behaviour not related to in-match play or organisation.
     - Sexism
     - Transphobia
 + General bigotry/use of derogatory slurs against an individual or group
++ Posting of illegal or illicit content on ozfortress services or within our community.
+    + Please note, this infraction considers inappropriate content (eg. nudity, porn, gore) illegal, but does not entirely cover everything that is conventionally illegal (eg. torrenting). For example, we will not strike players talking about safe torrenting, but will strike users who post, distribute or provide access to pirated files. This is already covered by Discord Terms of Service but we will report any instance of this found to Discord Terms of Service.
 
 ## League Infractions
-Player behaviour, poor organisation, or failure to follow format rulesets.
+Poor organisation, failure to follow format rulesets.
 
 #### Tier 1 Offences - 10 points (6 months expiry)
 + Repeated delays in Match Organisation, this can include:
@@ -120,10 +123,13 @@ Player behaviour, poor organisation, or failure to follow format rulesets.
 None currently.
 
 ## Ban Probations
-Players who have served their ban will automatically have a 12 month probation period applied. Within this period, offences carry higher points and more severe penalties. All typical Ban Levels are observed by these probationary changes, as such 60 points will instantly incur a 1 Year Competitive and Community Ban.
+Players who have served their ban will automatically have a 12 month probation period applied. Within this period, offences carry higher points and more severe penalties. All typical Ban Levels are observed by these probationary changes, as such 60 points will instantly incur a 1 Year Competitive and Community Ban. Please note that players currently serving a ban are also considered "in probation", but their probation will only be served out 12 months after their ban expires.
 
 The differences for those serving probations are outlined below:
 
 + Tier 1 infractions are doubled, and will incur 20 points. 
 + Tier 2 infractions are multiplied by 1.5x, and will incur 30 points.
 + Tier 3 infractions are doubled, and will instantly incur 60 points.
+
+## Public Behaviour Panel members
+Not every member of our Behaviour Panel are currently public, however, you can view the public members [here](https://docs.ozfortress.com/info/staff/#public-behaviour-panel-members).
