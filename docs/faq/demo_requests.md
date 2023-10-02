@@ -4,7 +4,7 @@
 POV (or Point of View) demo files are files which accurately replicate your gameplay via your point of view throughout a match. We require these files are recorded by all players, as they allow us the most accurate evidence when needing to review a player, Anti-Cheat or otherwise.
 
 ## How do I record my POV demo files?
-RGL's docs contain a fantastic written & video guide of how to record POV demo files, with two methods. We want to thank RGL for allowing us to reference and link to their guide here: [Recording POVs](https://docs.rgl.gg/guides/basics/recording_povs/)
+RGL's docs contain a fantastic written & video guide of how to record POV demo files, with two methods. We want to thank RGL for allowing us to reference and link to their guide here: [Recording POVs](https://docs.rgl.gg/guides/basics/pov/)
 
 ## Why do we request demos from players/teams?
 There are only a few reasons why we request player demos:
