@@ -38,7 +38,9 @@ For the Premier Grand Final (BO5), the selection process varies as follows:
 8. The **second team** will **pick the fourth map** from the remaining pool.
 9. The **first team** will **pick the fifth/tiebreaker map** from the remaining pool.
 
-In the event of a disagreement, the home team will have a preference for team colour. Please note that formats can change for BO3 and BO5 matches. In case of discrepancies between official rules and other sources, the most updated pick-ban order can always be found in match threads.
+Please note that formats can change for BO3 and BO5 matches. In case of discrepancies between official rules and other sources, the most updated pick-ban order can always be found in match threads.
+
+Please see [3.4.1. Team Starting Side](/rules/global/#341-team-starting-side) in the Global Ruleset for more information on who starts on which side. Teams can agree to go against this rule if they wish, but in the event of a dispute this rule will be enforced.
 
 ### 1.3. Bracket Systems used
 #### 1.3.1. Top Divisions
@@ -71,13 +73,16 @@ Each Transfer Window has a limit for the amount of players that can be transferr
 For Sixes, **teams are limited to two players transferred into their roster per window**. There is currently **no limit set for transfers out of a roster**.
 
 ### 2.2. Mercenary Limits
-Please note, mercenary limits are the different for both seasonal leagues. Each Sixes official match should not go above the **two mercenaries per team** allowed in each match. [For further mercenary limits, please see this section of the Global Ruleset](/rules/global/#mercenary-limiting).
+Please note, mercenary limits are the different for both seasonal leagues. Each Sixes official match should not go above the **two mercenaries per team** allowed in each match. [For further mercenary limits, please see this section of the Global Ruleset](/rules/global/#333-mercenary-limiting).
 
-### 2.3. Team Eligibility Requirements
+### 2.3. Mercenary "Off-class" Locking
+Mercenaries can be locked from playing certain "off-classes" within Sixes that are not deemed as "reasonable off-classes" during the mercenary negotiation process. We consider reasonable off-classes to be Pyro, Heavy, Engineer and Spy. Sniper is the only class not considered reasonable, thus subject to potential restrictions from the enemy team if they wish.
+
+### 2.4. Team Eligibility Requirements
 Teams are expected to have a certain amount of players (does not include any mercenaries) ready to start or continue a match. This expected amount of players differs for each format, and can be seen below.
 
 ##### Sixes
-- A minimum of five (5) rostered players.
+- A minimum of four (4) rostered players.
 
 ## 3. Match Organisation
 ### 3.1. Deadlines
