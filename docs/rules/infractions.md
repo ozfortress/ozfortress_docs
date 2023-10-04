@@ -133,4 +133,4 @@ The differences for those serving probations are outlined below:
 + Tier 3 infractions are doubled, and will instantly incur 60 points.
 
 ## Public Behaviour Panel members
-Not every member of our Behaviour Panel are currently public, however, you can view the public members [here](https://docs.ozfortress.com/info/staff/#public-behaviour-panel-members).
+Not every member of our Behaviour Panel are currently public, however, you can view the public members [here](/info/staff/#public-behaviour-panel-members).
