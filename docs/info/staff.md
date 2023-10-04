@@ -29,13 +29,13 @@ As mentioned in our competitive league rulesets, League Adminis in tandem with e
 ## Public Behaviour Panel members
 There are currently three Behaviour Panel members who are public, with two members who are not. We leave this decision purely up to the individual, however we do ask that those in an administration role (or those who were) are public-facing if possible. We will always strive to have an equal ratio of staff/non-staff members, if not strive for more members who are not serving in an administration role.
 
-Update as of 03/10/2023: We will be asking future panel applicants/members to be public facing.
-
 | Name | Discord |
 | ---- | ------- |
 | [a team of ants in their prime](https://ozfortress.com/users/1561) (Head of Behaviour Panel) | [@ateamofantsintheirprime](https://discordapp.com/users/187344325938511874) |
-| [samson](https://ozfortress.com/users/205) | [@sam_real_](https://discordapp.com/users/76537156578840576) |
+| [samson](https://ozfortress.com/users/205) (Advisor) | N/A - Contact Head of Behaviour Panel |
 | [snazzy](https://ozfortress.com/users/37) | [@thelampshade22](https://discordapp.com/users/125913179690631169) |
+
+Those above marked with Advisor are only on the panel in an advisory capacity. Advisors are only called upon in difficult/edge cases or when we need another opinion. Those in the Advisor role will only ever be long-serving panel members, panel leads, etc.
 
 ## Media Team
 The team that helps make everything media-related for ozfortress happen. Be it our socials, YouTube, or coordinating other PR tasks, it's one of these brilliant people.
