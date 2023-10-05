@@ -96,8 +96,7 @@ Specifically player behaviour not related to in-match play or organisation. Plea
     - Sexism
     - Transphobia
 + General bigotry/use of derogatory slurs against an individual or group
-+ Posting of illegal or illicit content on ozfortress services or within our community.
-    + Please note, this infraction considers inappropriate content (eg. nudity, porn, gore) illegal, but does not entirely cover everything that is conventionally illegal (eg. torrenting). For example, we will not strike players talking about safe torrenting, but will strike users who post, distribute or provide access to pirated files. This is already covered by Discord Terms of Service but we will report any instance of this found to Discord Terms of Service.
++ Posting of illicit content on ozfortress services or within our community.
 
 ## League Infractions
 Poor organisation, failure to follow format rulesets.
