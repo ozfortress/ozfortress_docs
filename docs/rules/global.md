@@ -471,29 +471,29 @@ The same command can be sent to unpause the match.
 ### 4.4. Broadcasting Games
 Official matches may be broadcasted on any livestream platform, but this match coverage should only ever come from an observer in SourceTV, or from a rostered player who is sleighted to actively play in the match, streaming their POV from the live server. Please see [4.4.4. Player POV streaming](https://docs.ozfortress.com/rules/global/#444-player-pov-streaming) for more information. Broadcasting an official from the spectator slots in a live, official match server is **strictly prohibited**.
 
-Casting organisation representatives may contact the ozfortress General Head Administrator or Media Coordinator to receive the ability to promote their coverage and/or become an approved casting organisation. Approval will only be granted once it is determined by ozfortress that the coverage meets approved standards.
+Casting organization representatives may contact the ozfortress General Head Administrator or Media Coordinator to receive the ability to promote their coverage and/or become an approved casting organization. Approval will only be granted once it is determined by ozfortress that the coverage meets approved standards.
 
 ### 4.4.1. ozfortress Representation
-ozfortress asks that casting organisations and individuals follow a fairly simple philosophy; represent our  community as one that is open and accepting. We feel this is fair, and doesn't impact anyones right to their own opinion, even of ozfortress. At the end of the day we just want to help continue a legacy of Oceanic Team Fortress that has lasted over 20 years.
+ozfortress asks that casting organizations and individuals follow a fairly simple philosophy; represent our  community as one that is open and accepting. We feel this is fair, and doesn't impact anyones right to their own opinion, even of ozfortress. At the end of the day we just want to help continue a legacy of Oceanic Team Fortress that has lasted over 20 years.
 
-### 4.4.2. Approved Casting Organisations
-Approved Casting Organisations do not require approval from the teams in the match to broadcast/cast/cover the event. We reserve this status for organisations and groups of individuals who put in a high level of effort in production and coverage quality, fostering and improving talent, and for those who do not purposefully misrepresent ozfortress.
+### 4.4.2. Approved Casting Organizations
+Approved Casting Organizations do not require approval from the teams in the match to broadcast/cast/cover the event. We reserve this status for organizations and groups of individuals who put in a high level of effort in production and coverage quality, fostering and improving talent, and for those who do not purposefully misrepresent ozfortress.
 
-The current Approved Casting Organisations are:
+The current Approved Casting Organizations are:
 
 + KritzKast
 + CappingTV
 + BearCasts
 
-If your game is to be broadcasted by one of the organisations above, please ensure your team provides the caster(s), streamer, or organisation representative/s: 
+If your game is to be broadcasted by one of the organizations above, please ensure your team provides the caster(s), streamer, or organization representative/s: 
 
 + The server connect string, potentially including the RCON password (if required, they will inform you).
 + An updated list of players and/or any mercenaries participating in the match. This should be provided at least an hour before the set match time.
 
-The above rules apply to ozfortress-approved organisations only.
+The above rules apply to ozfortress-approved organizations only.
 
-### 4.4.3. Unapproved Casting Organisations
-Casting organisations and individuals that are not approved by ozfortress may still cast official ozfortress matches, however, Approved Casting Organisations will have priority on matches they wish to cover. If a team captain wishes to deny such a cast, they are welcome too, however, they will need to discuss it with an ozfortress administrator or preferably the ozfortress League Director or Media Coordinator.
+### 4.4.3. Unapproved Casting Organizations
+Casting organizations and individuals that are not approved by ozfortress may still cast official ozfortress matches, however, Approved Casting Organizations will have priority on matches they wish to cover. If a team captain wishes to deny such a cast, they are welcome too, however, they will need to discuss it with an ozfortress administrator or preferably the ozfortress League Director or Media Coordinator.
 
 ### 4.4.4. Player POV streaming
 Broadcasts of a player’s POV outside of a casted setting where STV delay is enforced, a minimum observable delay of at least ten (10) seconds is expected. We define “observable delay” as a combination of personally set stream delay (for example in OBS) and standard Twitch/YouTube streaming delay. It is the players responsibility to ensure that their own stream does not impact their team in any way, and is not something we consider an actionable offence. This means that "stream sniping" is not actionable by ozfortress, and is solely the responsibility of the person streaming.
