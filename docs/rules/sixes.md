@@ -110,7 +110,7 @@ Sixes teams are expected to play with six player at all times within an official
 Each seasonal league or competition (Highlander in this case) may share some similaries on shared map gamemodes, but may differ by the round win-limit, the timer, or plugins. The list of gamemodes below covers not only the map gamemodes, but also any other conditions.
 
 #### 5 Control Point Maps (5CP)
-5 Control Point maps (more commonly referred to as "5CP") are the longtime staple of Sixes. 5 Control Point maps are played under a 5 round mercy rule, where either team needs 5 additional rounds on their opponent, or more rounds when the 30 minute map timer runs out. ozfortress makes use of the Improved Round Timer plugin to set the round timer to 5 minutes for 5 Control Point maps. [You can find more information on the Improved Round Timer here](/info/server_configs/).
+5 Control Point maps (more commonly referred to as "5CP") are the longtime staple of Sixes. 5 Control Point maps in ozfortress are played under a 5 round win limit rule, where either team needs to reach a total of 5 rounds, or more rounds than the opponent when the 25 minute map timer runs out. ozfortress makes use of the Progressive Ruleset Timer plugin to set the round timer to 5 minutes for 5 Control Point maps. [You can find more information on the Progressive Ruleset Timer here](/info/server_configs/).
 
 #### King of the Hill (KOTH)
 King of the Hill is currently identical between all currently supported seasonal leagues and competitions, with no set time limit or round timer overrides, and a Best of 5 win condition. Individual King of the Hill maps may vary slightly on overtime timers, locked and unlocked timers (when the point is not able to be captured at the start and when it unlocks) as these are built into the map, however most are universally standard.
@@ -125,7 +125,7 @@ The following class limits are required on all official match servers. Breaking 
 - 1 Heavy
 - 1 Engineer
 - 1 Medic
-- 2 Sniper
+- 1 Sniper
 - 1 Spy
 
 ### 4.3. Unlocks / Whitelist
