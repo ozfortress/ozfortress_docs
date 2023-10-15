@@ -109,7 +109,8 @@ Poor organisation, failure to follow format rulesets.
 + Repeated inappropriate or unrelated posting in Match Threads, specifically Match Communications, under the following conditions:
     + Any inappropriate or unrelated post made **during the organisation of a match**, meaning from attempting to organise a time/day to confirming the match scores and posting other details, will be actionable and will be deleted. On the third instance of this behaviour from a specific player, they will be infracted.
     + Any inappropriate or unrelated post made after a match has concluded and all organisational details are present will not be actionable, unless it violates our [Community Guidelines](/docs/rules/community_guidelines) or our Behavioural Infractions.
-+ (Not active yet) Failure to receive permission from team captains to cast an ozfortress official match.
++ Failure to receive permission from team captains to cast an ozfortress official match.
+> Please note that this infraction does not apply to approved casting organizations, as they do not need to seek permission.
 
 #### Tier 2 Offences - 20 points (1-year expiry)
 + Interference with an ozfortress match
