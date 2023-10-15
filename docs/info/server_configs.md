@@ -64,8 +64,8 @@ stac_work_with_sv_cheats "0"
 !!! Note "Please Note"
     The only commands that should kick a player are the interp enforcement commands, the rest should only log/be switched off.
 
-### Improved Round Timer plugin
-This plugin is used exclusively for Control Point maps (5CP maps in particular), and differs from a similar plugin by the same author used in [North America](https://github.com/b4nnyBot/Progressive-Ruleset-Timer-Plugins). You can download the version of the [plugin we use here](https://github.com/b4nnyBot/TF2-Improved-Round-Timer-Plugin).
+### Progressive Ruleset Timer plugin
+This plugin is used exclusively for Control Point maps (5CP maps in particular), and is also used in [North America](https://github.com/b4nnyBot/Progressive-Ruleset-Timer-Plugins). You can download the version of the [plugin we use here](https://github.com/b4nnyBot/Progressive-Ruleset-Timer-Plugins).
 
 You can find information, convars and the round timer value in the 5 Control Points sections below.
 
@@ -76,10 +76,10 @@ You can find information, convars and the round timer value in the 5 Control Poi
 The following formats are used in the ozfortress Sixes Seasonal League and have an associated configuration file in the ozfortress configs.
 
 #### 5 Control Points
-Standard 5 Control Points (5CP) maps are played to 30 minutes with a 5 round difference mercy rule. The Round Timer variable is set to 5 minutes using the Improved Round Timer plugin. The following configuration represents this format:
+Standard 5 Control Points (5CP) maps are played to 25 minutes with a 5 round win limit rule. The Round Timer variable is set to 4 minutes using the Progressive Ruleset Timer plugin. The following configuration represents this format:
 ```
 mp_windifference 5
-mp_timelimit 30
+mp_timelimit 25
 mp_winlimit 0
 round_time_override 240
 ```
@@ -104,6 +104,9 @@ mp_winlimit 1
 round_time_override 240
 ```
 Load this configuration using `rcon exec ozfortress_6v6_golden_cap` or simply `rcon ozf-6s-golden` on au.serveme.tf servers.
+
+!!!note "Please note"
+    Golden Caps are no longer used when the Progressive Ruleset Timer plugin is being run.
 
 ---
 
