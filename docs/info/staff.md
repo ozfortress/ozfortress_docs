@@ -32,10 +32,13 @@ There are currently three Behaviour Panel members who are public, with two membe
 | Name | Discord |
 | ---- | ------- |
 | [a team of ants in their prime](https://ozfortress.com/users/1561) (Head of Behaviour Panel) | [@ateamofantsintheirprime](https://discordapp.com/users/187344325938511874) |
-| [samson](https://ozfortress.com/users/205) (Advisor) | N/A - Contact Head of Behaviour Panel |
-| [snazzy](https://ozfortress.com/users/37) | [@thelampshade22](https://discordapp.com/users/125913179690631169) |
+| [snazzy](https://ozfortress.com/users/37 "Please DO NOT contact panel members, contact the Head of the Behaviour Panel only.") (Panel member) | [@thelampshade22](https://discordapp.com/users/125913179690631169) |
+| [ory](https://ozfortress.com/users/1303 "Please DO NOT contact Advisors, they no longer actively sit on the panel.") (Advisor) | N/A |
+| [samson](https://ozfortress.com/users/205 "Please DO NOT contact Advisors, they no longer actively sit on the panel.") (Advisor) | N/A |
 
-Those above marked with Advisor are only on the panel in an advisory capacity. Advisors are only called upon in difficult/edge cases or when we need another opinion. Those in the Advisor role will only ever be long-serving panel members, panel leads, etc.
+Those above marked with Advisor are only on the panel in an advisory capacity. Advisors are only called upon in difficult/edge cases or when we need another opinion. Those in the Advisor role will only ever be past long-serving panel members, panel leads, Head Admins, etc.
+
+**Please DO NOT contact panel members or advisors directly**. The only public point of contact should ever be the Head of the Behaviour Panel or League Director. This is so all reports, queries, etc - go through the appropriate avenues and processes.
 
 ## Media Team
 The team that helps make everything media-related for ozfortress happen. Be it our socials, YouTube, or coordinating other PR tasks, it's one of these brilliant people.
