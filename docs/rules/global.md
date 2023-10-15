@@ -126,7 +126,7 @@ Draws on individual maps are not possible in the ozfortress ruleset, as the map 
 ### 1.9. Administrators
 Administrators are responsible for the efficient running of ozfortress competitions. Each division have assigned administrators who are the first point of contact for support and dispute resolution. However, all administrators can assist or deliver rulings on disputes if your division administrator is unavailable.
 
-The best way to contact an administrator is through our Discord's support category. You do not need to ping administrators in these channels as we have notifications on.
+The best way to contact an administrator is through our discord's ozfortress category, where you'll find our #admin-support channel. You do not need to ping administrators in these channels as we have notifications on.
 
 The League Director is ultimately responsible for the general running and organization of the league, its services and community.
 
@@ -284,7 +284,7 @@ The Active Roster contains each and every player you count as a core or substitu
 The Player Pool is the area of each team where players invited to the team are listed publically. Players within the Player Pool that are not on the Active Roster are counted as Mercenaries.
 
 ### 2.7.6. Emergency Transfers
-Emergency Transfers are granted by the staff team for situations where teams have an unavoidable player loss on their roster. The number of players granted and conditions are heavily case-by-case and up to the discretion of the staff team. The best way to request this process is through our Discord's support ticket system as the entire staff team will immediately be able to see the request, but you can message your division's League Admin if need be.
+Emergency Transfers are granted by the staff team for situations where teams have an unavoidable player loss on their roster. The number of players granted and conditions are heavily case-by-case and up to the discretion of the staff team. The best way to request this process is through our discord's support ticket system as the entire staff team will immediately be able to see the request, but you can message your division's League Admin if need be.
 
 ### 2.8. Exclusions
 Exclusions will be applied for repeated major rule breaches by a player or team. An exclusion will result in the immediate ejection of the player or team from the league, with potential prohibitions from playing in future competitions. In serious cases, exclusions may apply for first offences. Players/Teams can incur exclusions through our Infractions system as well, [which can be viewed here](https://docs.ozfortress.com/rules/infractions/).
