@@ -18,7 +18,9 @@ As mentioned in our competitive league rulesets, League Adminis in tandem with e
 | League | Name | Discord |
 | ---- | ---- | ------- |
 | Sixes | [a team of ants in their prime](https://ozfortress.com/users/1561) | [@ateamofantsintheirprime](https://discordapp.com/users/187344325938511874) |
+| Sixes | [Celph](https://ozfortress.com/users/4285) | [@celph](https://discordapp.com/users/131180625649467392) |
 | Sixes | [down](https://ozfortress.com/users/299) | [@down11](https://discordapp.com/users/139166437754273792) |
+| Sixes | [Hawk](https://ozfortress.com/users/233) | [@wils](https://discordapp.com/users/83079514917175296) |
 | Sixes | [raina](https://ozfortress.com/users/1729) | [@raina_exe](https://discordapp.com/users/712785948047441921) |
 | Sixes | [wils](https://ozfortress.com/users/598) | [@wils](https://discordapp.com/users/200809127549730816) |
 | Highlander | [Kai](https://ozfortress.com/users/4034) | [@head_empty_no_thoughts](https://discordapp.com/users/213653809937907712) |
