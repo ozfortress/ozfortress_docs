@@ -1,137 +1,122 @@
 # Sixes Ruleset
 
 ## Format Specificity
-Rules within this ruleset are strictly for Sixes (6v6), and though each ruleset may share the same rules, the contents of each are likely different if they are listed in one of the format rulesets and not the Global Ruleset.
+Rules within this ruleset apply strictly to the Sixes format (6v6). While each ruleset may share rules, the specific contents are likely different when listed within a format-specific ruleset rather than the Global ruleset.
 
-## 1. Sixes Seasonal League
-ozfortress' Sixes (6v6) seasonal leagues are typically run for a total of ten (10) weeks, with seven (7) weeks in the Regular Season and three (3) weeks in the Playoffs. 
+## 1. Sixes Format
+### 1.1. Class Limits
+The following class limits are required on for official matches. Breaking these limits in any way is considered cheating, and depending on administrator discretion could lead to an infraction or a match result being overturned.
 
-### 1.1. Regular Season Fixtures
-In the Regular Season, each Weekly Fixture match or round features two sets (also known as maps) picked out of a nine (9) map pool (this can be found in our [League Info](/info/map_history/)). This map pool is chosen by the league administration prior to the start of the season, using mostly poll data. Each regular season fixture is typically expected to last an average of one hour, but team's should always be ready to play longer.
-
-### 1.2. Playoffs Fixtures
-In Playoffs, each match or round is a Best of 3 map scenario, picked and banned from the nine (9) map pool found in the Regular Season (this can be found in our [League Info](/info/map_history/)). Playoffs fixtures are almost always expected to last at least thirty minutes per map, for an average runtime of ninety minutes to two hours. Team's should ensure they allocate enough time and schedule accordingly. The Premier division of Sixes (6v6) features a Best of 5 map scenario for the Grand Finals match, as such teams should expect a runtime of anywhere bewtween two to three hours.
-
-#### 1.2.1. Playoffs Map Selection (Pick/Bans)
-Maps for playoff matches are selected by the captains of each team. This process **must be completed at least 24 hours prior to the agreed upon match time**.
-
-##### 1.2.1.1. Sixes Pick/Ban Map Selection
-The selection process for a nine map pool (BO3):
-
-1. The **higher seeded** or **home team** will either **choose to ban first or defer**.
-2. The **first team** (determined by the result of step one) will **ban a map**.
-3. The **second team** will **ban a map**.
-4. The **first team** will **pick the first map** from the remaining pool.
-5. The **second team** will **pick the second map** from the remaining pool.
-6. The **second team** will **ban a map**.
-7. The **first team** will **pick the third/tiebreaker map** from the remaining pool.
-
-For the Premier Grand Final (BO5), the selection process varies as follows:
-
-1. The **higher seeded** or **home team** will either **choose to ban first or defer**.
-2. The **first team** (determined by the result of step one) will **ban a map**.
-3. The **second team** will **ban a map**.
-4. The **first team** will **pick the first map** from the remaining pool.
-5. The **second team** will **pick the second map** from the remaining pool.
-6. The **second team** will **ban a map**.
-7. The **first team** will **pick the third map** from the remaining pool.
-8. The **second team** will **pick the fourth map** from the remaining pool.
-9. The **first team** will **pick the fifth/tiebreaker map** from the remaining pool.
-
-Please note that formats can change for BO3 and BO5 matches. In case of discrepancies between official rules and other sources, the most updated pick-ban order can always be found in match threads.
-
-Please see [3.4.1. Team Starting Side](/rules/global/#341-team-starting-side) in the Global Ruleset for more information on who starts on which side. Teams can agree to go against this rule if they wish, but in the event of a dispute this rule will be enforced.
-
-### 1.3. Bracket Systems used
-#### 1.3.1. Top Divisions
-The regular season for Premier, High and Intermediate (depending on signup numbers, format and season length) will typically be run on a Round Robin system, where each team plays each other once. We will ensure that the format of the regular season is stated on the seasonal league page. When the High division is active, Intermediate will typically use the Swiss system.
-
-#### 1.3.2. Bottom Divisions
-The regular season for Main and Open (depending on signup numbers, format and season length) will typically be run on the Swiss system, where each round is seeded based on the previous records of teams. We will ensure that the format of the regular season is stated on the seasonal league page. [See Rule 1.4 for further details on the Swiss system](/rules/global/#_1-4-round-robin).
-
-### 1.4. Map/Format Win Conditions
-#### Control Point (5CP)
-Almost all Control Point maps run in Sixes' history feature five (5) capture points. Control Point maps (commonly referred to as 5CP) are under a Win Limit condition of five (5) rounds, meaning the first team to win five (5) rounds, wins the map. In the past, ozfortress made use of Win Difference, but Season 35 and beyond saw the swap away from Win Difference to Win Limit after community feedback. In addition to the Win Conditions, are the Time Conditions. ozfortress has used a Map Time Limit of thirty (30) minutes for the majority of its Sixes run, but more recently has seen enhanced Round Timer conditions with the addition of the Improved Round Timer plugin. All 5CP maps run in ozfortress now operate under a four (4) minute Round Timer value, meaning if neither team successfully captures the current capture point/s in time to reset the value, the round will stalemate and reset both teams back to a rollout and subsequent middle fight.
-
-#### King of the Hill (KOTH)
-King of the Hill maps (also known as KOTH maps) are a single capture point typically in the center of the map that both teams fight for control of. Typically each team needs to keep possession of the capture point for at least three (3) minutes to win a round. In ozfortress, KOTH maps are played to a Win Limit of three (3) rounds with no Map Time Limit.
-
-## 2. Teams
-### 2.1. Rosters
-#### 2.1.1. Roster Size Requirements/Limits
-##### Sixes
-- Minimum roster size is six (6).
-- Maximum roster size is ten (10).
-- Teams should look to have a least one or two substitute players in the event a core player cannot play.
-
-#### 2.1.2. Out of Region Player Limit
-There are no current limits on the amount of out of region players on a roster other than [Ping Limiting](/rules/global/#23-out-of-region-play-ping-eligibility).
-
-#### 2.1.3. Transfer Window Limits
-Each Transfer Window has a limit for the amount of players that can be transferred in. This limit differs depending on the seasonal league or competition.
-
-For Sixes, **teams are limited to two players transferred into their roster per window**. There is currently **no limit set for transfers out of a roster**.
-
-### 2.2. Mercenary Limits
-Please note, mercenary limits are the different for both seasonal leagues. Each Sixes official match should not go above the **two mercenaries per team** allowed in each match. [For further mercenary limits, please see this section of the Global Ruleset](/rules/global/#333-mercenary-limiting).
-
-### 2.3. Mercenary "Off-class" Locking
-Mercenaries can be locked from playing certain "off-classes" within Sixes that are not deemed as "reasonable off-classes" during the mercenary negotiation process. We consider reasonable off-classes to be Pyro, Heavy, Engineer and Spy. Sniper is the only class not considered reasonable, thus subject to potential restrictions from the enemy team if they wish.
-
-### 2.4. Team Eligibility Requirements
-Teams are expected to have a certain amount of players (does not include any mercenaries) ready to start or continue a match. This expected amount of players differs for each format, and can be seen below.
-
-##### Sixes
-- A minimum of four (4) rostered players.
-
-## 3. Match Organisation
-### 3.1. Deadlines
-All time scheduling should be in AEDT if Daylight Savings is in effect, AEST if Daylight Savings is not in effect. The times themselves do not move with Daylight Savings however, meaning 7PM for AEST & AEDT.
-
-- **Match time/day set**: 7PM AEST/AEDT Monday
-- **Results submission**: 11:59PM AEST/AEDT Thursday
-- **All other match details**: 11:59PM AEST/AEDT Thursday
-
-### 3.2. Default Scheduling
-Teams are free to communicate their desired/playable match days and times with eachother, typically this responsibility falls upon the captains, or players nominated to act in that capacity.
-
-ozfortress does encourage all teams to set their own match days and times, but in case of disputes, an administrator may enforce the default match day or time, as found below. 
-
-These defaults will only ever be enforced when teams do not have any common match days set under the Availability section of their roster, found under Manage Roster on their team page. See [3.1. Negotiating Match Times in our Global Ruleset](/rules/global/#31-negotiating-match-times) for more information on negotiation.
-
-- **Default match time**: 8PM AEST/AEDT or 9PM AEST/AEDT
-    - Teams that can make these times will be looked upon more favourably than teams that cannot.
-- **Default match day**: Thursday
-
-## 4. Format
-Sixes teams are expected to play with six player at all times within an official match. If a team cannot field field enough players from their roster and mercenaries, teams are permitted to play with five players, with the opposing team permitted to keep their full six player roster. Teams cannot play with fewer than five players, otherwise they will be automatically disqualified and subsequently forfeited. Teams must still observe mercenary rules and limits.
-
-### 4.1. Map Gamemode Standards
-Each seasonal league or competition (Highlander in this case) may share some similaries on shared map gamemodes, but may differ by the round win-limit, the timer, or plugins. The list of gamemodes below covers not only the map gamemodes, but also any other conditions.
-
-#### 5 Control Point Maps (5CP)
-5 Control Point maps (more commonly referred to as "5CP") are the longtime staple of Sixes. 5 Control Point maps in ozfortress are played under a 5 round win limit rule, where either team needs to reach a total of 5 rounds, or more rounds than the opponent when the 25 minute map timer runs out. ozfortress makes use of the Progressive Ruleset Timer plugin to set the round timer to 5 minutes for 5 Control Point maps. [You can find more information on the Progressive Ruleset Timer here](/info/server_configs/).
-
-#### King of the Hill (KOTH)
-King of the Hill is currently identical between all currently supported seasonal leagues and competitions, with no set time limit or round timer overrides, and a Best of 5 win condition. Individual King of the Hill maps may vary slightly on overtime timers, locked and unlocked timers (when the point is not able to be captured at the start and when it unlocks) as these are built into the map, however most are universally standard.
-
-### 4.2. Class Limits
-The following class limits are required on all official match servers. Breaking these limits in any way that impacts a match is considered cheating, and depending on administrator discretion could lead to a match result overturn.
-
-- 2 Scout
-- 2 Soldier
-- 1 Pyro
+#### 1.1.1. Core Class Limits
+- 2 Scouts
+- 2 Soldiers
 - 1 Demoman
+- 1 Medic
+
+#### 1.1.2. Off Class Limits
+- 1 Pyro
 - 1 Heavy
 - 1 Engineer
-- 1 Medic
 - 1 Sniper
 - 1 Spy
 
-### 4.3. Unlocks / Whitelist
-The whitelist can be found on whitelist by [clicking here](https://whitelist.tf/ozfortress_6v6), or under the ozfortress menu on whitelist.tf.
+#### 1.1.3. Mercenary Off Class Locking
+It is reasonable to restrict mercenaries from playing particular core classes or Sniper; you may **not** restrict mercenaries from playing Pyro, Heavy, Engineer, or Spy. The only exception is restricting a mercenary to play Medic exclusively.
 
-Changes to weapons or their mechanics, the addition of new cosmetics or taunts, or removal of certain properties will see the weapon / cosmetic / taunt banned for the remainder of that season. New items are automatically blocked by the whitelist, but in the event something is changed as stated above, ozfortress will post an announcement regarding it.
+### 1.2. Whitelist (Unlocks)
+The Sixes whitelist can be found [here](https://whitelist.tf/ozfortress_6v6).
 
-### 4.4. Server configs & usage
-Configs for any seasonal league or tournament can be found on the Server Configs page, and any associated guides will be linked on that page.
+### 1.3. Control Point (5CP)
+#### 1.3.1. 5CP map timer
+The map timer for 5CP maps is 25 minutes. 
+
+#### 1.3.2. 5CP round timer
+The round timer for 5CP maps is 4 minutes (through the usage of the [Progressive Ruleset Timer](/info/server_configs/#progressive-ruleset-timer-plugin)).
+
+#### 1.3.3. Upper Division 5CP round win limit
+ozfortress has adopted the Progressive Ruleset that creates a dynamic win condition for 5CP maps. In the **Upper Divisions**:
+
+ 1. If a team reaches a total of 5 rounds before the end of the map timer, they win the map.
+
+ 2. If, once the map timer runs out, neither team has reached a total of 5 rounds, the round win limit is set to the current highest round score +1. The match continues until one team meets this new round win limit.
+    - for example, if the score is currently 2-3, the round win limit is set at 4.
+
+#### 1.3.4. Lower Division 5CP round win limit
+ozfortress has adopted the Progressive Ruleset that creates a dynamic win condition for 5CP maps. In the **Lower Divisions**:
+
+ 1. If a team reaches a total of 5 rounds before the end of the map timer, they win the map.
+
+ 2. If, once the map timer runs out, a team has more rounds than the other, they win the map.
+
+ 2. If, once the map timer runs out, both teams are tied, the round win limit is set to the tied round score +1. The match continues until one team meets this new round win limit.
+    - for example, if the score is currently 2-2, the round win limit is set at 3.
+
+#### 1.3.5. 5CP map draws
+Map draws are currently not possible due to the dynamic win condition described above.
+
+### 1.4. King of the Hill (KOTH)
+In Sixes, all King of the Hill (KOTH) maps follow a best of five win condition with a three minute team clock. Different KOTH maps may vary slightly on overtime timers, locked and unlocked timers (when the point is not able to be captured at the start and when it unlocks) as these are built into the map.
+
+## 2. Sixes Playoffs
+### 2.1. Playoff Match Format
+Playoff matches are almost exclusively played as a best of three (BO3) series with maps selected from the map pool. Upper division Grand Final matches are played as a best of five (BO5) series. 
+
+#### 2.1.1. High Grand Finals
+High teams are expected to play Grand Final matches as a best of five (BO5) series. However, two High teams can agree to play a best of three (BO3) series instead.
+
+#### 2.1.2. Upper Division Grand Final Scheduling
+The Premier Grand Final match occurs on a predetermined date as communicated on the seasonal league page. The High Grand Final match does not occur on a predetermined date, however may not be scheduled on the same night as the Premier Grand Final.
+
+### 2.2. Upper Division Playoffs
+Upper Division Playoffs follow the AFL final eight system as described [here](https://en.wikipedia.org/wiki/AFL_final_eight_system).
+
+### 2.3. Lower Division Playoffs
+In the Lower Divisions of Sixes, the top four team of the Regular Season participate in Page Playoffs as described [here](/rules/global/#261-page-playoffs).
+
+### 2.4. Playoff Map Selection Order
+#### 2.4.1. Upper Division BO3 Playoff Matches
+For **Upper Division** Playoff matches following a best of three (BO3) format, the **higher seeded team** is awarded a map pick advantage prior to bans.
+
+The **higher seeded team** is **Team A**. **Maps must be played in the order in which they were picked.**
+
+![Sixes Upper Division BO3 Pick/Ban Order](https://i.ibb.co/gTB25FW/sixesupperbo3.png){: style="height:75px;" }
+
+1. **Team A picks** a map
+2. **Team A bans** a map
+3. **Team B bans** a map
+4. **Team A bans** a map
+5. **Team B bans** a map
+6. **Team A picks** a map
+6. **Team B picks** a map
+
+#### 2.4.2. Upper Division BO5 Playoff Matches
+For **Upper Division** Playoff matches following a best of five (BO5) format, neither team is awarded an advantage. 
+
+The **higher seeded team** is **Team A**. **Maps must be played in the order in which they were picked.**
+
+![Sixes Upper Division BO5 Pick/Ban Order](https://i.ibb.co/28FhMbz/sixesupperbo5.png){: style="height:75px;" }
+
+1. **Team A picks** a map
+2. **Team B picks** a map
+3. **Team A bans** a map
+4. **Team B bans** a map
+5. **Team A picks** a map
+6. **Team B picks** a map
+7. **Team A bans** a map
+8. **Team B bans** a map
+9. The remaining map is picked
+
+#### 2.4.3. Lower Division BO3 Playoff Matches
+For **Lower Division** Playoff matches following a best of three (BO3) format, the **higher seeded team** is awarded the final map pick.
+
+The **higher seeded team** is **Team A**. **Maps must be played in the order in which they were picked.**
+
+![Sixes Lower Division BO3 Pick/Ban Order](https://i.ibb.co/HnHCd3z/sixeslowerbo3.png){: style="height:75px;" }
+
+1. **Team A bans** a map
+2. **Team B bans** a map
+3. **Team A picks** a map
+4. **Team B picks** a map
+5. **Team A bans** a map
+6. **Team B bans** a map
+7. **Team A picks** a map
