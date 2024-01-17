@@ -42,20 +42,6 @@
   color: var(--md-primary-bg-color);
 }
 
-.md-sidebar--primary {
-  display: none;
-}
-
-.md-sidebar--secondary {
-  display: none;
-  order: 0;
-  width: 0%;
-}
-
-.md-source-file {
-  display: none;
-}
-
 .hero-container h2 {
   text-transform: none;
 }
@@ -63,6 +49,29 @@
 .hero-span {
   margin-top: -20px;
   color: var(--md-default-fg-color--light);
+}
+
+@media only screen and (min-width: 1220px) {
+  .md-sidebar--primary {
+    display: none;
+  }
+  .md-sidebar--secondary {
+    display: none;
+    order: 0;
+    width: 0%;
+  }
+}
+
+@media only screen and (max-width: 1219px) {
+  .md-sidebar--secondary {
+    display: none;
+    order: 0;
+    width: 0%;
+  }
+
+  .md-source-file {
+    display: none;
+  }
 }
 </style>
 
