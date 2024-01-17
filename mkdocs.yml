@@ -12,7 +12,7 @@ repo_name: ozfortress/ozfortress_docs
 # Repisitory URL to link
 repo_url: https://github.com/ozfortress/ozfortress_docs
 copyright: >
-  Copyright &copy; 2022 - 2023 ozfortress
+  Copyright &copy; 2022 - 2024 ozfortress
 nav:
     - Home: 'index.md'
     - 'Rulesets':
@@ -95,6 +95,8 @@ theme:
    - toc.follow
    - content.tooltips
 markdown_extensions:
+  - attr_list
+  - md_in_html
   - admonition
   - pymdownx.keys
   - pymdownx.details
