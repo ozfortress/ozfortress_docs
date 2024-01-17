@@ -78,7 +78,7 @@
 <div class="hero-container">
   <h1>ozfortress Docs</h1>
   <div class="hero-span">
-    <span>A documentation site for <a href="https://ozfortress.com/">ozfortress</a>, Australia's Premier Competitive Team Fortress 2 league.</span>
+    <span>A documentation site for <a href="https://ozfortress.com/">ozfortress</a>, Oceania's Premier Competitive Team Fortress 2 league.</span>
   </div>
   <hr>
   <h2>Are you playing? Why aren't you playing!</h2>
