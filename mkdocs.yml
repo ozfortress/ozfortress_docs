@@ -23,12 +23,11 @@ nav:
       - 'Community Guidelines': 'rules/community_guidelines.md'
       - 'User Policy': 'rules/user_policy.md'
       - 'Infractions': 'rules/infractions.md'
-      - 'Transfers': 'rules/transfers.md'
     - 'League Info':
-      - 'General': 'info/general.md'
+      - 'About Us': 'info/about_us.md'
       - 'Anti-Cheat & You': 'info/anticheat_and_you.md'
-      - 'Bans':
-        - 'Ban Types': 'info/ban_types.md'
+      - 'Bans': 'info/bans.md'
+      - 'Ban History': 
         - 'Anti-Cheat Bans': 'info/anticheat_bans.md'
         - 'VAC Bans': 'info/vac_bans.md'
         - 'Infraction Threshold Bans': 'info/infraction_bans.md'
@@ -36,7 +35,8 @@ nav:
         - 'Past Bans': 'info/past_bans.md'
       - 'Staff':
         - 'Current & Past Staff': 'info/staff.md'
-        - 'Join us!': 'info/join_us.md'
+        - 'Join ozfortress': 'info/join_us.md'
+      - 'Transfers': 'info/transfers.md'
       - 'Map History': 'info/map_history.md'
       - 'Server Configs': 'info/server_configs.md'
     - 'Guides':
