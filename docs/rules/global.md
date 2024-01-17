@@ -1,466 +1,603 @@
 # Global Ruleset
-
 !!! warning "Please Note/Disclaimer"
-    The following ruleset outlines the organisation and guidelines that players will need to follow for all ozfortress seasonal leagues, tournaments and competitions. Please have a good working understanding of these rules before entering yourself into the competition.
-
-    The purpose of this global ruleset is to collate rule clauses that are typically used for all competitions and are considered by league administration as universal.
-    
-    We will endeavour to let players know of any changes through a front-page news post.
-
-    Ignorance of clauses within this ruleset is not an excuse.
-
     **ozfortress is not affiliated with or sponsored by Valve Corporation.**
 
-## Format Specificity
-Rules within this Global ruleset that do not specify Sixes or Highlander should be taken at face value as general competitive rules. In any instance where a rule is specifically for either format, we have made sure to specify it as such. There are specific Sixes and Highlander rulesets within our rulesets which contain rules specifically for that format, be it play style, class limits, whitelists, map pools, format specific gamemode rules (eg. 5CP for Sixes, Stopwatch for Highlander) and more specific information on Tiebreakers within the league tables.
+    **The sale of in-game ozfortress medals, as well as any other medals, is strictly prohibited.**
+    
+    **Valve maintains a strict policy that league and tournament runners against the sale of Medals/Promotional items by league and tournament organizers,** and this policy extends to players seeking to acquire such Medals/Promotional Items, whether through in-game currency, real money, or other means.
 
-## 1. Seasonal Leagues
-### 1.1. Regular Season
-Regular seasons are divided into skill brackets, referred to as divisions, depending on the number of teams that sign up, the competition format, and the length of the competition.
+    Additionally, selling a slot on an active roster for in-game items or money is also **strictly prohibited**. Individuals or parties caught engaging in the sale or trade of medals will be reported directly to Valve.
 
-For further information regarding season length, the bracket system used, and weekly fixtures, refer to the respective ruleset for more information.
+## 1. Ruleset Information
+### 1.1. Global Ruleset
+The purpose of this ruleset is to collate rule clauses that are typically used for all competitions and are considered by league administration as universal. It is the responsibility of each player to be informed of the contents of the current ruleset. **Ignorance of clauses within this ruleset is not an excuse.**
 
-- [Sixes](/rules/sixes/#1-regular-season)
-- [Highlander](/rules/highlander/#1-regular-season)
+#### 1.1.1. Format Rulesets
+Rules in this ruleset that don't mention Sixes or Highlander should be considered general competitive rules. Specific format rules, such as class limits, whitelists, map pools, and game mode rules (like 5CP for Sixes or Stopwatch for Highlander), are detailed in the [Sixes ruleset](/rules/sixes/) and the [Highlander ruleset](/rules/highlander/).
 
-### 1.2. Playoffs Format
-At the conclusion of the regular season, the top four placing teams of each division advance to the playoffs.
+### 1.2. Ruleset Changes
+ozfortress reserves the right to modify its rulesets as deemed appropriate to uphold and maintain a spirit of overall fairness and good sportsmanship. Any changes will be clearly announced through a news post on the ozfortress front page.
 
-During playoffs, matches follow a best-of-three map scenario, with the exception of the Sixes Premier Grand Final which is played as a best-of-five map scenario.
+### 1.3. Rulings
+This ruleset serves as the guideline for which rulings are made by administrators. We understand that the ruleset may not cover every situation and, therefore, we may occasionally deliver judgement-based rulings. 
 
-Playoffs for all divisions and seasonal league formats will be run using the [Page playoff system](https://en.wikipedia.org/wiki/Page_playoff_system).
+### 1.4. Admin Shopping
+Seeking a different answer from other administrators after receiving a ruling is strictly prohibited and may result in punishment. Teams **are** allowed, however, to appeal a decision with a more senior admin (such as a format's head admin).
 
-!!! Note "Please Note"
-    In Page Playoffs, it is possible for some teams to play more matches than others (for example, the team which wins the Upper Page Playoff and proceeds directly to the Grand Finals). This means the ladder on the league page may not properly represent the final placements of teams in the season.
+### 1.5. Sportsmanship
+Players and teams participating in ozfortress competitions are expected to maintain sportsmanship in all communications, with global chat allowing light and friendly banter. Discrimination based on factors such as race, nationality, religion, disability, gender, sexual orientation, or age is considered an extreme breach of sportsmanship, resulting in penalties determined by ozfortress administration or the Behaviour Panel.
 
-#### Page Playoffs
-The first round of Page Playoffs consists of two matches: the Upper Page Playoff and the Lower Page Playoff.
+### 1.6. Staff
+Currently, three distinct teams of staff support ozfortress and its competitions. You can see our current and active staff for all areas of ozfortress on our [staff page](/info/staff/).
 
-In the Upper Page Playoff, the first and second-placed teams will play against each other. The winner advances directly to the Grand Final.
+#### 1.6.1. League Administrators
+For any competition-specific issues, team captains should contact league administrators through the competition's Team Captain Discord. For all other issues, league administrators can be contacted through the #admin-support channel in the ozfortress Discord.
 
-In the Lower Page Playoff, the third and fourth-placed teams will play against each other. The loser is eliminated, receiving fourth place for the season.
+#### 1.6.2. Anti-Cheat
+All cheating-related matters should be reported to the Anti-Cheat team. You can read more about this process [here](/info/anticheat_and_you/), as well as in [11. Cheating, Exploits and Bans](/rules/global/#11-cheating-exploits-and-bans)
 
-Next, the loser of the Upper Page Playoff and the winner of the Lower Page Playoff will play against each other in the Semi-Final. The loser is eliminated, receiving third place for the season. The winner will advance to the Grand Final.
+#### 1.6.3. Behaviour Panel
+All behaviour matters, including those covered in [1.5. Sportsmanship](/rules/global/#15-sportsmanship), should be reported to the Behaviour Panel. You can read more about this process [here](/rules/infractions/).
 
-Lastly, the Grand Final is played to determine the overall winner for the season. There is no bronze/third place decider match.
-
-### 1.3. Fixtures
-Regular season match fixtures will be posted week to week after each round has been finalised. Fixtures are set at weekly intervals, with five available and playable match days. These match days differ for Sixes and Highlander to allow league administration an appropriate amount of time for organisational responsibilities.
-
-#### Seasonal League Scheduling
-
-##### Sixes (6v6)
-|Scheduling|Day|
-|----------|------------------------------------------------------|
-|Playable Match days|Sunday, Monday, Tuesday, Wednesday & Thursday|
-|Score Submission deadline|Thursday 11:59PM AEST/AEDT|
-
-##### Highlander (HL)
-|Scheduling|Day|
-|----------|------------------------------------------------------|
-|Playable Match days|Wednesday, Thursday, Friday, Saturday & Sunday|
-|Score Submission deadline|Sunday 11:59PM AEST/AEDT|
-
-For more information on [scheduling, see 3.1. Negotiating Match Times](/rules/global/#31-negotiating-match-times). Additionally, brush up on the [organisational responsibilities of teams here](/rules/global/#32-organisational-responsibilities).
-
-### 1.4. Round Robin
-The Round Robin system ensures each team within a bracket faces each other. Round Robin is typically only possible with a specific amount of competitors, which also typically dictates the length of the competition.
-[You can find more information about Round Robin here](https://en.wikipedia.org/wiki/Round-robin_tournament).
-
-### 1.5. Swiss System
-The Swiss system allows many competitors to compete against each other in a relatively small number of rounds. The first round will be scheduled randomly, and each subsequent round will be generated based on the previous results of teams. Teams with the same or similar records will be paired against each other, with the likelihood of duplicate matches minimised.
-[You can find more information about the Swiss System here](https://en.wikipedia.org/wiki/Swiss-system_tournament).
-
-### 1.6. Match Scoring
-Each regular season fixture consists of two maps; the winner of each individual map will be awarded two league points, while the loser is awarded zero. In the event of a map draw, see [1.8. Draws](/rules/global/#18-draws).
-
-Rankings will first be determined by these match points. If point draws exist, the following methods will be used to break them:
-
-#### All Divisions
-1. Match wins vs. Tied participants.
-2. Median-Buchholz score (total).
-3. Total match wins.
-4. Win difference (Total points earned minus total points lost).
-
-### 1.7. Forfeits
-Forfeits within ozfortress are used when teams are unable to field a roster for any reason, when resolving disputes, or in team based punishments. 
-
-#### 1.7.1. Claiming a Forfeit
-Forfeits most commonly occur when a team is unable to field a complete roster at the scheduled match time. In such cases, it is expected that the team unable to field a roster should forfeit the match if they cannot find substitute players or mercenaries in-game within fifteen (15) minutes of their opponent fielding a full roster.
-
-If your opponent has not fielded a full roster within the fifteen (15) minutes, please reach out to a League Admin immediately. To claim a forfeit, you will need to have the following ready:
-
-- A screenshot of the in-game scoreboard.
-- Screenshots of any and all match-related conversations between all involved captains.
-
-!!! Note "Please Note"
-    In most disputes a League Admin will ask to join the server, in which case you should be ready to send them the server connect string.
-
-#### 1.7.2. Total Forfeits & Exclusion Penalties
-Each seasonal league, along with tournaments/cups have their own forfeit limit. Typically, anything that isn't a seasonal league will typically allow no forfeits at all. Below you can find the forfeit limit for Sixes and Highlander respectively.
-
-- Sixes: **A total of one forfeit can occur**, upon a team's second forfeit, their in-season active roster will be disbanded.
-- Highlander: **A total of two forfeits can occur**, upon a team's third forfeit, their in-season active roster will be disbanded.
-
-Exclusion penalties for forfeiting may apply for future ozfortress competitions. Please see [2.6. Disbanded or Removed Teams](/rules/global/#26-disbanded-or-removed-teams) for more information on disbanded and removed teams. Forfeiting a single map will result in the entire match being forfeited.
-
-#### 1.7.3. Change in Team Circumstance
-It is the team captain’s responsibility to contact your division's administrator as soon as possible if there is a change in circumstances that will affect your team’s ability to field a roster each round, even if it is a temporary problem.
-
-**ANY forfeit in Playoff rounds will result in removal from the league.**
-
-#### 1.7.4. Forfeit Types
-##### Forfeit Win
-A forfeit win will be awarded where the offending team has not made an effort to organise the match within the match organisation dates listed in this ruleset. Forfeit wins will also be considered as a punitive measure where serious rule breaches have been committed during a match. A forfeit win will be recorded as a match win worth 4 league points. See [1.7.1. Claimg a Forfeit](rules/global/#171-claiming-a-forfeit) on how to submit a forfeit win.
-
-##### Mutual Forfeit
-Mutual forfeits will be applied where neither team have made an effort to organise the match within a reasonable timeframe. A mutual forfeit will be recorded as a match loss for both teams, worth 0 league points.
-Mutual forfeits contribute to the 2-forfeit league removal count.
-
-##### Technical Forfeit
-A technical forfeit will be awarded in cases where situations outside the teams’ control occur, preventing both teams from playing the match, including but not limited to, Steam outages or major weather events. A technical forfeit will be recorded as a match draw, worth 2 league points for each team.
-
-### 1.8. Draws
-Draws on individual maps are not possible in the ozfortress ruleset, as the map will be determined by a Golden Cap. Matches can result in a draw when each team wins one map.
-
-### 1.9. Administrators
-Administrators are responsible for the efficient running of ozfortress competitions. Each division have assigned administrators who are the first point of contact for support and dispute resolution. However, all administrators can assist or deliver rulings on disputes if your division administrator is unavailable.
-
-The best way to contact an administrator is through our discord's ozfortress category, where you'll find our #admin-support channel. You do not need to ping administrators in these channels as we have notifications on.
-
-The League Director is ultimately responsible for the general running and organization of the league, its services and community.
-
-You can see our current and active staff for all areas of ozfortress on our [staff page](/info/staff).
-
-### 1.10. Out of Region Teams and Players
-ozfortress primarily caters to players from Australia and New Zealand, however, players from other areas such as Asia are welcome to compete. Foreign players must still play on Australian servers.
-
-Teams outside of our supported regions are able within ozfortress seasonal leagues provided their entire roster meets the requirements or expectations outlined in our [Ping Limiting](/rules/global/#23-out-of-region-play-ping-eligibility) rule. We will work with you to ensure all players on your roster are within this limit, allowing for players to be swapped out if they are not within the limit.
-
-Further information on the out of region player limit per roster can be found in each format's own ruleset, linked below.
-
-- [Sixes](/rules/sixes/#212-out-of-region-player-limit)
-- [Highlander](/rules/highlander/#212-out-of-region-player-limit)
-
-### 1.11. Sportsmanship
-Teams participating are required to conduct themselves in a sportsmanlike manner in all communications.
-
-Global chat is not fully restricted and may be used for light, friendly and tasteful banter. However, at the request of either team captain or an ozfortress administrator, chat may be restricted to only essential match communication. This request must be clearly stated in the global chat or the match communications.
-
-Discrimination on the basis of, but not limited to, race, nationality, religious beliefs, gender, sexual orientation, or age will be regarded as an extreme breach of sportsmanship.
-
-Breach of the sportsmanship clause will result in exclusion penalties to be determined by ozfortress administration and/or the Behaviour Panel.
-
-### 1.12. Match Throwing
-Match Throwing is punishable within ozfortress. We enforce this clause to ensure integrity in match play for all involved, and this clause directly ties in with our Tier 2 infraction for *Destructive in-game play*.
-
-What we consider Match Throwing:
-
-- Not actively participating in the match/map within the match.
-- Not actively engaging, fighting or otherwise participating in fights against enemy players.
-- Purposefully detracting from the objective of the format.
-- Actively "feeding" or throwing away your life to hamper the performance of your team.
-
-What we do not consider Match Throwing:
-
-- Poor individual performance / statistics within a map of the match, or the entire match (unless a pattern of this behaviour has been established throughout multiple matches of a season, typically with further evidence of wrong-doing).
-
-It should be noted that any or all of the descriptions above, are applied purely at the discretion of the administrator handling the dispute, or the wider staff team. For example in most cases, a team member who is actively working against their team by "feeding" or otherwise throwing their life away to hamper their team's performance, will see no penalty from this clause, as this is considered an internal team issue, and has little to no impact on the opposing team or the integrity of the match as a whole.
-
-### 1.13. Match Fixing
-Similar to Match Throwing found above in 1.12. Match Throwing, Match Fixing detracts from the integrity of match play and is considered punishable by ozfortress staff. However, Match Fixing differs from Match Throwing in a few ways. Match Fixing typically involves premeditation, planning or communication with another team/other teams, a third party, etc. Any attempt to detract from the integrity of match play, monetary or otherwise will be reviewed and punished at the discretion of the ozfortress staff team.
-
-### 1.14. Game Client Updates
-Whilst rare, Team Fortress 2 updates can, and have caused issues with matches; specifically using unlocks, effectively operating the official match server, or even connecting to the server. Whilst these are extreme examples, they have happened in the past, justifying the need for a basic set of guidelines to follow in the event of your match being compromised in some way by a Game Client update. 
-
-If or when there is an issue affecting your official match where there isn't an already advised solution for already, please reach out to a League Administrator immediately for potential remedies. 
-
-In the event that your match cannot be played due to an issue, a League Administrator will help you reschedule your official match.
+#### 1.6.4. ozfortress Representation
+ozfortress staff may, on occasion, represent themselves using an ozfortress tag. Players not part of ozfortress staff who change their alias to contain the ozfortress tag may be infracted as outlined [here](/rules/infractions/).
 
 ---
 
-## 2. Teams
-### 2.1. Application
-Teams apply to enter the whichever league/competition, and nominate their desired divisions. The minimum and maximum roster requirements/limits can be found below, along with roster expectations. It is required that your team is available to play at least three days out of the five playable match days, teams with more availability will be preferred when an administrator is resolving scheduling disputes.
+## 2. Seasonal Leagues
+### 2.1. Season Structure
+ozfortress Seasonal Leagues typically run for a total of eight to ten weeks. First, a regular season is completed, followed by three weeks of playoffs.
 
-**Players cannot be transferred between the end of signups and the start of the first Transfer Window.**
+### 2.2. Divisions
+Seasonal leagues are divided into skill brackets, referred to as divisions. These divisions depend on the number of teams that sign up, the competition format, and the length of the competition. When applying to participate in competitions, teams nominate their preferred divisions. While efforts will be made to accommodate these preferences, the skill level of a team compared to others within the division may influence final division placements.
 
-#### 2.1.1. Higher Division Players
-Players who have played in higher divisions than their team has applied for shall be reviewed by administrators prior to transfer into their team, or their teams division seeding. These players may be restricted from specific classes if a) if they wish to play in lower divisions, or b) league administration, along with the seedings and transfer teams decide to restrict the player based on performance metrics, game knowledge, potential out-of-region ping advantage, etc.
+#### 2.2.1. Upper and Lower Divisions
+Divisions are often grouped as the Upper and Lower divisions. There may be small format differences between Upper and Lower divisions, such as map pools or finals format. This will be communicated on the seasonal league page.
 
-### 2.2. Player Eligibility
-**To be eligible to be accepted onto a team’s roster, a player must:**
+|   Format   |    Upper Divisions    |     Lower Divisions      |
+| :--------: | :-------------------: | :----------------------: |
+|   Sixes    |     Premier, High     | Intermediate, Main, Open |
+| Highlander | Premier, Intermediate |        Main, Open        |
 
-- Have an ozfortress.com account.
-- Have a minimum of 500 hours, or be verified by contacting an ozfortress administrator via our support category.
-- Not be under any current competition exclusion penalties, for example:
-    - League bans
-    - Infraction threshold bans
-    - Anti-Cheat bans
+### 2.3. Map Pool
+Each season features a pool of nine maps which are played in both regular season and playoff matches. You can find the map pool for a season on its seasonal league page.
+
+#### 2.3.1. Upper and Lower Map Pools
+Upper divisions and Lower divisions may feature different map pools. This will be communicated on the seasonal league page.
+
+#### 2.3.2. Alternative Maps
+A season may feature a tenth or eleventh map as alternative maps. This will be communicated on the seasonal league page.
+
+In regular season matches, teams can agree to play an alternative map as a replacement for a map of the same game mode. If two teams agree to play an alternative map, **it must be posted on the match page before the match**.
+
+In playoff matches, alternative maps will **not** be available for selection.
+
+### 2.4. Playable Match Days
+Matches can be played at any point **during** a round.
+
+#### 2.4.1. Primary Match Days
+**Primary** match days are the intended days for which matches are played.
+
+|   Format   | Primary Match Days |
+| :--------: | :----------------: |
+|   Sixes    | Sunday - Thursday  |
+| Highlander | Wednesday - Sunday |
+
+#### 2.4.2. Secondary Match Days
+**Secondary** match days were previously days common for extensions. Now, teams may agree to play their match on a secondary match day without administrator approval, however opposing teams are not obligated to agree to do so. 
+
+|   Format   | Secondary Match Days |
+| :--------: | :------------------: |
+|   Sixes    |  Friday & Saturday   |
+| Highlander |   Monday & Tuesday   |
+
+If there are match scheduling conflicts, availability on primary match days trumps availability on secondary match days.
+
+### 2.5. Regular Season
+Rounds within a regular season are completed at weekly intervals; teams compete in one match each week featuring two maps from the map pool. These two maps are typically determined by league administration and can be found on the seasonal league page. On some occasions, certain divisions in certain competitions may employ a map selection system.
+
+Regular seasons are typically run using Round-Robin, however, depending on signup numbers, the Swiss System may be used. The system used will be clearly stated on the seasonal league page.
+
+#### 2.5.1. Round-Robin
+The Round-Robin system guarantees that every team within a division compete against each other once. You can find more information about Round-Robin [here](https://en.wikipedia.org/wiki/Round-robin_tournament).
+
+#### 2.5.2. Swiss system
+The Swiss system allows a greater number of competitors to compete against each other in a smaller number of rounds. The first round is scheduled based on seedings, and subsequent rounds are generated according to previous team results, pairing teams with comparable records. You can find more information about the Swiss system [here](https://en.wikipedia.org/wiki/Swiss-system_tournament).
+
+#### 2.5.3. Match Scoring
+During the regular season, teams compete in one match each week featuring two maps. The winner of each map will be awarded two league points, while the loser is awarded zero. Regular season matches can result in a draw when each team wins one map.
+
+#### 2.5.4. Map Draws
+Draws on individual maps are not possible in ozfortress matches.
+
+Please refer to the respective ruleset for more information:
+
+- Sixes: [1.3.5. 5CP map draws](/rules/sixes/#135-5cp-map-draws)
+- Highlander: [1.5.4. 5CP map draws](/rules/highlander/#154-5cp-map-draws)
+
+#### 2.5.5. League Ranking
+League rankings will be initially determined by match points; in the event of point draws, tiebreakers will be applied in the following order:
+
+1. Match wins vs. tied participants (Direct Encounter)
+2. Median Buchholz
+3. Total map wins
+4. Win difference (Total points earned minus total points lost)
+
+### 2.6. Playoffs
+Following the conclusion of the regular season, Playoffs are played to determine the overall winner of the competition.
+
+Typically, the top four teams in each division progress to the playoffs which adhere to the Page Playoff system. You can find more information about the Page Playoff system [here](https://en.wikipedia.org/wiki/Page_playoff_system).
+
+Please refer to the respective ruleset for more information:
+
+- Sixes: [2. Sixes Playoffs](/rules/sixes/#2-sixes-playoffs)
+- Highlander: [2. Highlander Playoffs](/rules/highlander/#2-highlander-playoffs)
+
+#### 2.6.1. Page Playoffs
+
+!!! warning "Please Note"
+    In Page Playoffs, certain teams may participate in more matches than others. Consequently, the league standings displayed on the league page may not accurately reflect the final team placements for the season.
+
+Page Playoffs have three rounds:
+
+1. First round: Upper Page Playoff and Lower Page Playoff
+	* In the Upper Page Playoff, the top two teams compete.
+		* The winner advances to the Grand Final.
+		* The loser competes in the Semi-Final.
+	* In the Lower Page Playoff, the third and fourth-placed teams compete.
+		* The winner advances to the Semi-Final.
+		* The loser is eliminated and is awarded fourth place.
+2. Semi-Final: The loser of the Upper Page Playoff and the winner Lower Page Playoff compete.
+	* The winner advances to the Grand Final.
+	* The loser is eliminated and is awarded third place.
+3. Grand Final: The remaining two teams compete to determine the overall winner for the season.
+### 2.7. Minimum Players in Matches
+In matches, teams are expected to play with the required total players at all times.
+
+|   Format   | Minimum Rostered Players | Required Total Players |
+| :--------: | :----------------------: | :--------------------: |
+|   Sixes    |        4 players         |       6 players        |
+| Highlander |        6 players         |       9 players        |
+
+When a team is missing rostered players, they are expected to utilise mercenaries to meet the required total players. If a team fields fewer than the required minimum rostered players, or fewer than the required total players, the opposing team will be awarded a forfeit win.
+
+#### 2.7.1. Player Disconnects During Matches
+If a player disconnects during a match, teams may elect to play with one fewer player **with admin approval**. In such instances, teams must still satisfy the required minimum rostered players.
+
+### 2.8. Forfeits
+Forfeits are employed when teams are unable to field the required number of players, during dispute resolutions, or as part of team-based punishments. Forfeiting a single map will result in the entire match being forfeited.
+
+#### 2.8.1. Forfeit Win
+Forfeit wins are most commonly awarded when a team is unable to field the required number of players at the scheduled start time of the match. In such instances, it is expected that the team unable to field the required number of players forfeit the match unless they secure substitute players or mercenaries within fifteen minutes of the scheduled start time of the match.
+
+If your opponent has not fielded the required number of players within fifteen minutes of the scheduled start time of the match, promptly contact a League Administrator. To claim a forfeit, ensure you have the following prepared:
+
+- a screenshot of the in-game scoreboard
+- screenshots of all match-related conversations
+
+A forfeit win may also be awarded for a variety of other reasons, including:
+
+- when the offending team fails to make an effort to organise a match
+- when the offending team fields players who exceed the [3.2.1. Ping Limit](/rules/global/#321-ping-limit)
+- as a punitive measure where serious rule breaches have been committed during a match 
+
+A forfeit win will be recorded as a match win worth four league points.
+
+#### 2.8.2. Mutual Forfeit
+Mutual forfeits will be implemented when both teams are at fault, such as when neither team have made an effort to organise the match within a reasonable timeframe or neither team has sufficient availability to support match organisation.  
+
+These mutual forfeits will be recorded as match losses for both teams, each worth zero league points. It's important to note that mutual forfeits contribute to a team's forfeit limit.
+
+#### 2.8.3. Technical Forfeit
+A technical forfeit will be granted in cases where circumstances beyond the teams' control hinder both teams from playing the match. This includes but is not limited to, Steam outages or major weather events.
+
+A technical forfeit will be recorded as a match draw worth two league points for each team.
+
+#### 2.8.4. Forfeit Limits
+In seasonal leagues, **a maximum of one forfeit can occur**. Upon a team's second forfeit, their in-season active roster will be disbanded. Generally, non-seasonal formats such as cups do not allow any forfeits.
+
+Please see [4.5. Disbanded Teams](/rules/global/#45-disbanded-teams) for additional information on disbanded and removed teams, including penalties for team captains and players.
+
+#### 2.8.5. Playoffs Forfeits
+**Any forfeit during Playoffs will result in immediate removal from the league and incur heavier penalties.** The remaining playoff teams below the disbanded team will move up one rank. If feasible, the playoff matches involving the disbanded team may be replayed.
+
+#### 2.8.6. Change in Team Circumstances
+The team captain must **promptly** contact a League Administrator in the event of any change in circumstance that might impact the team's ability to field a roster, even in the case of temporary issues.
+
+#### 2.8.7. Game Client Updates
+Team Fortress 2 updates can cause issues with the smooth operation of matches. If or when there is an issue affecting your official match where there isn't an already advised solution for already, please reach out to a League Administrator immediately. If your match cannot be played due to an issue, a League Administrator will help you reschedule your official match or a Technical Forfeit will be awarded.
+
+### 2.9. Match Throwing
+Match Throwing is a punishable offence in ozfortress to maintain integrity in match play. Those determined to be Match Throwing will receive a Tier 2 Infraction.
+
+Match Throwing includes, but is not limited to, the following:
+
+- deliberate non-participation in a match, including AFKing or idling
+- deliberate lack of effort, such as adopting nonsensical team compositions or use of mercenaries far below a team's skill level
+- deliberate disregard of format objectives, such as refusing to capture a point
+- actively throwing one's life away to impede the performance of the team
+
+Accusations of Match Throwing are taken seriously, and application of this clause is at the discretion of the ozfortress staff team.
+
+#### 2.9.1. Match Fixing
+Match Fixing, although similar to Match Throwing, typically involves premeditation, planning or communication with other parties. Any effort to compromise the integrity of match play, whether involving monetary incentives or otherwise, will be reviewed and punished at the discretion of the ozfortress staff team.
+
+---
+
+## 3. Player Eligibility
+### 3.1. Requirements
+To be eligible to play in ozfortress competitions, either as a member of a roster or as a mercenary, a player must:
+
+- have an ozfortress.com account
+- have a minimum of 500 hours, or be verified by contacting an ozfortress administrator
+- not be under any current competition exclusion penalties, including:
+
+    - league bans
+    - infraction threshold bans
+    - Anti-Cheat bans 
     - VAC bans
-- Be eligible for play under our Out of Region Ping Eligibility clause below in 2.3.
 
-#### 2.2.1. Game Client Eligibility
-On top of [2.2. Player Eligibility](/rules/global/#22-player-eligibility), all players playing in ozfortress competitions need to be observing the following requirements:
+- satisfy the [3.2.1. Ping Limit](/rules/global/#321-ping-limit) or have an exception approved as outlined in [3.2.3. Exceptions](/rules/global/#323-exceptions)
+- have a maximum interpolation value either at the default `0.100ms` that ships with the game or lower
 
-- A maximum interpolation value either at the default `0.100ms` that ships with the game or lower. Any value above the default interpolation value is considered an exploit. See [the prohibited Game Modifications section](/rules/global/#some-examples-of-prohibited-game-modification) for more information.
+    - any value above the default interpolation value is considered an exploit
+    - see [11.1. Exploits](/rules/global/#111-exploits) for more information
 
-### 2.3. Out of Region Play & Ping Eligibility
-##### Criteria
-Whether you are intending to join a roster, or play in place of an unavailable player as a mercenary, you must meet the criteria below.
+#### 3.1.1. Player Aliases and Avatars
+All player aliases and avatars (both in-game on and the ozfortress website) must be appropriate and will be contextually reviewed by ozfortress administrators. Player aliases on the ozfortress website cannot include emojis or special characters.
 
-- Be within 150-210 ping in-game.
-- Be in good standing with the league in your region.
-    - This means no league bans in your own region, be it:
-        - Anti-Cheat
-        - Behavioural
-        - Alternate Account usage or Account Sharing
+Player alias requests can be made through a player's ozfortress profile settings, and these requests will **not** be processed until the conclusion of any active ozfortress competition.
 
-!!! Note "Please Note"
-    Mercenaries are not eligible for the exceptions below.
-##### What are the exceptions?
+#### 3.1.2. Alternative Accounts
+**The use of alternative accounts is strictly forbidden.** Player registration and participation in ozfortress leagues must occur exclusively through one Steam account. If a player wishes to change their registered account, they must contact an ozfortress administrator. However, it is unlikely that the account will be changed without good reasoning.
 
-- Any out-of-region player who has been rostered on a team prior to this change, for at minimum two seasons, or has participated in 10 matches, will be eligible for play without ping testing.
-- Out-of-region players who can prove their connection is consistent/stable and within acceptable tolerance (within the 150-210 range) who have previously played ozfortress before, but are under the minimum threshold for the first exception listed, will be eligible after ping testing.
-- Any out-of-region player who has not previously participated in ozfortress is still eligible for play, provided their ping falls within the 150-210 ping range.
+!!! danger "Ban Circumvention"
+    If an alternative account is used to circumvent an existing ban, all matches they participated in during the season will be overturned and will result in harsh penalties determined by ozfortress administration.
 
-##### Who is ineligible for the above criteria/exceptions?
+#### 3.1.3. Team Due Diligence
+When recruiting new players, captains and other team members are expected to practice due diligence to avoid penalties if an alternative account is discovered. 
 
-- Any out-of-region player whose ping is above 210, unless they meet criteria/exception #1.
-- Anyone who does not meet the criteria/exceptions.
+Outlined below are reasonable checks players should undertake to avoid penalties:
 
-##### How does the ping testing work?
+- Be cautious of players who:
+    - perform well despite lacking traceable competitive experience
+    - have limited experience in TF2 or utilise newer Steam accounts
+    - claim to not own a microphone
 
-We'll keep that one close to the chest for now as we are looking to limit any potential abuse of this system, however, the process involves reaching out to the admin team, or the admin team reaching out to you during signups/seedings periods (if and only if you don't already meet the criteria or are known to meet the exceptions). We have a few methods of testing player ping and can check ping history with our server partners.
+- Verify claims made by players of:
+    - being a "pro" in other games
+    - returning from a prolonged absence
+    - moving to Australia having participated in overseas competitions
 
-### 2.4. Captains
-Team captains have the ultimate responsibility for their team, representing their team in organising matches and liaising with ozfortress administrators.
+**Players should proactively inform admins of any suspicions regarding players.** Failure to perform these basic checks may result in both player and team punishments if an alternative account is discovered.
 
-**Teams must nominate a minimum of two players to act as captain**. If a captain is unavailable or leaves the team, the team is expected to nominate another captain for their roster. **All team rosters cannot have more than three total captains**.
+### 3.2. Out-of-Region Players
+Although ozfortress is primarily an Australian and New Zealand league, players from other countries are welcomed.
 
-Captains may be excluded from acting as team captains for future competitions if ozfortress administrators consider them to be unfit to lead.
+#### 3.2.1. Ping Limit
+Out-of-Region Players intending to join a roster, or play as a mercenary, must meet the **in-game ping limit of 180**. If you are unsure whether you meet this requirement, you should contact a league administrator to undergo a ping check. **It is the responsibility of Out-of-Region Players to ensure that they satisfy this ping limit.**
 
-#### 2.4.1. Captaincy Bans
-Captaincy Bans are awared to captains who consistently fail to manage their team, typically impacting other teams within their division and/or season. Most likely, all captains on a team's roster will receive this penalty in the event it is awarded. The ban length for Captaincy Bans is two seasons, served from when it was awarded.
+!!! warning "Ping Limit Breaches"
+    In the event a match is played featuring a player who fails to meet the ping limit requirements, league administrators may penalise the offending team, including awarding a forfeit win.
 
-### 2.5. Mutiny Rule
-A simple majority of registered team members may elect to nominate a new captain or remove a captain entirely, at any point of the season. To start this process, a designated member of the team should contact their division administrator to begin this process. This may be used when a captain is the sole reason for an imminent disbanding of a team. In this situation, the team at large will remain without penalty.
+#### 3.2.2. Ping Fluctuations
+We understand that ping fluctuations do occur and that this can result in players experiencing far greater ping than what would normally be expected. Experiencing bad network conditions in an individual instance **does not invalidate previous ping checks**. You may, however, be requested to redemonstrate that you satisfy the ping limit by a league administrator.
 
-### 2.6. Disbanded or Removed Teams
-The primary captains of a disbanded or removed team will receive a Tier 2 infraction, and all players on the Active Roster will be excluded from play for the remainder of that season. Administrators will subject future applications from a disbanded or removed team to a closer review. In some instances, captains may be banned from captaining teams in the future (see [2.4.1. Captaincy Bans](/rules/global/#241-captaincy-bans) for more information).
+#### 3.2.3. Exceptions
+Some players who previously participated in our competitions may no longer meet the new limit described above. Teams hoping to roster such players should speak to a league administrator to get an exception approved. 
 
-To avoid penalty, captains and/or team members should approach administrators at the first sign of trouble to determine a solution.
+**Exceptions are competition-dependent. As such, teams must get exceptions re-approved for each competition.**
 
-### 2.7. Transfers
-Teams may transfer players on a weekly/fortnightly basis depending on the seasonal league/competition. The transfer application must be submitted by the deadline to be eligible for play in the following window. View how to apply for a transfer [here](/rules/transfers).
+### 3.3. Banned Players Outside of Competitions
+We understand that some banned players continue to participate in our community despite being excluded from our competitions. We do not want to unnecessarily police the involvement of such players, nor force players to exclude their friends who have made poor decisions previously. We do, however, want to discourage the involvement of those who repeatedly break our rules, even after being banned.
 
-Administrators reserve the right to deny transfer applications based on numerous factors, and judgement will adapt with each Transfer Window. Players serving exclusion penalties in ozfortress will not be eligible for transfers until after their exclusion penalty has finished. Transfers should be approved no later than two days after the end of a match week (or fortnight for Sixes).
+Below clear boundaries for the participation of such players in pugs, scrims, or any other ozfortress-adjacent activity have been outlined.
 
-Please note, each individual seasonal league or competition may have its own transfer rules, for example Sixes uses a two week window, where as Highlander uses a one week window.
+#### 3.3.1. Players Banned Due to Infractions
+If a player banned for reaching the infraction limit participates in any pug or scrim and engages in conduct warranting further penalities, those responsible for that player's participation may also be penalised.
 
-#### 2.7.1. Roster Limit
-Teams will only be able to increase the size of their roster throughout the season to the roster limit. Teams may not increase their roster size through transfers unless enough players have been transferred out of their team to keep their roster size under or at the roster limit.
+!!! warning "Common Sense Approach"
+    You should only expect this rule to come into effect when players banned due to infractions brazenly reoffend.
 
-You can find the minimum and maximum roster sizes/limits for each seasonal league below:
+#### 3.3.2. Players Banned for Cheating
+A player banned for cheating-related offenses should not in **any** circumstance participate in pugs, scrims, or any other ozfortress-adjacent activity. Those responsible for that player's participation will be heavily penalised.
 
-- [Sixes](/rules/sixes/#211-roster-size-requirementslimits)
-- [Highlander](/rules/highlander/#211-roster-size-requirementslimits)
-
-#### 2.7.2. Roster Lock
-Typically one round away from the end of the Regular Season and after the last Transfer Window, Roster Lock will come into effect. Roster Lock prevents teams from removing anyone from their roster, or making any further changes outside of an [Emergency Transfer](/rules/global/#276-emergency-transfers).
-
-For the Transfer Windows and Roster Lock dates, please see the linked Transfers page on your seasonal league or competition.
-
-#### 2.7.3. Transfer Window Limits
-Each Transfer Window has a limit for the amount of players that can be transferred in. This limit differs depending on the seasonal league or competition, but the limits for seasonal leagues can be found on the linked rulesets below. Other competitions will typically state this limit if there is one. There is no limit on the amount of players that can be transferred out of a roster.
-
-- [Sixes](/rules/sixes/#213-transfer-window-limits)
-- [Highlander](/rules/highlander/#213-transfer-window-limits)
-
-### 2.7.4. Active Roster
-The Active Roster contains each and every player you count as a core or substitute player and can be used throughout the season. Players need to be requested to be transferred from the Player Pool to the Active Roster prior to their usage in an official match, otherwise, they will be counted as mercenaries.
-
-### 2.7.5. Player Pool
-The Player Pool is the area of each team where players invited to the team are listed publically. Players within the Player Pool that are not on the Active Roster are counted as Mercenaries.
-
-### 2.7.6. Emergency Transfers
-Emergency Transfers are granted by the staff team for situations where teams have an unavoidable player loss on their roster. The number of players granted and conditions are heavily case-by-case and up to the discretion of the staff team. The best way to request this process is through our discord's support ticket system as the entire staff team will immediately be able to see the request, but you can message your division's League Admin if need be.
-
-### 2.8. Exclusions
-Exclusions will be applied for repeated major rule breaches by a player or team. An exclusion will result in the immediate ejection of the player or team from the league, with potential prohibitions from playing in future competitions. In serious cases, exclusions may apply for first offences. Players/Teams can incur exclusions through our Infractions system as well, [which can be viewed here](https://docs.ozfortress.com/rules/infractions/).
-
-### 2.9. In-Game Medals
-**The sale of in-game ozfortress medals (and any other medals) is strictly PROHIBITED.**
-
-**Valve has a strict policy that league and tournament runners do not sell Medals/Promotional items** for any currency (in-game, monetary or otherwise), and this policy is also passed on to those who wish to receive said Medals/Promotional Items (meaning you, the player). 
-
-Selling a slot on an active roster for in-game items or money is also **strictly prohibited**.
-
-Individuals or parties caught selling/trading for medals will be reported directly to Valve.
+#### 3.3.3. Permanently Banned Players in Scrims
+Permanently banned players should not in **any** circumstance participate in pugs, scrims, or any other ozfortress-adjacent activity. Those responsible for that player's participation will be heavily penalised.
 
 ---
 
-## 3. Match Organisation
-### 3.1. Negotiating Match Times
-Each team must select a minimum of three days on which they are available to play. Captains may change their team’s availability on a week-to-week basis by clicking Manage on the Active Roster, found on the team's public page. You can see both teams' availability on the match page.
+### 4. Teams
+### 4.1. Team Aliases and Avatars
+All team aliases and avatars must be appropriate and will be contextually reviewed by ozfortress administrators. Team aliases or avatars referencing an established company or brand without explicit approval are not permitted.
 
-Once the match for the round is posted, teams can begin negotiating to find a suitable time and date. In case the teams fail to agree on a specific time, the earliest matching day from both teams’ selections will be appointed as the default date. However, teams can mutually agree to change this default date if necessary.
+#### 4.1.1. Premier Team Aliases
+Premier teams will have their aliases held to a higher standard befitting the division's status as the highest level of Australian competitive play.
 
-Official match times are 8PM, 8:30PM & 9PM Melbourne/Sydney time (AEST/AEDT). Teams that can make this time will be viewed more favourably than those that cannot. In the event of disputes, all teams involved are expected to be avaialbe during any of the times above. When **AEDT/Daylight Savings Time** is active, teams are required to schedule using it.
+#### 4.1.2. Team and Sponsorship Tags
+Team organisation and sponsorship tags are permitted but must be both appropriate and reasonable.
 
-It is the responsibility of team captains or a nominated team member to make a reasonable effort to organise their match before the organisation deadline. Team members who propose match times insincerely will be punished.
+### 4.2. Team Captains
+Captains have the ultimate responsibility for their team, representing them in organising matches and communicating with ozfortress administrators. In the event of any team-related offenses, captains will be held responsible and will be subject to punishment.
 
-Communications in match threads is considered the official log for all correspondence related to match organisation. While teams are encouraged to negotiate the match over Discord, Steam, or other means, it is recommended to post chat logs in the thread as proof of the correspondence in case of disputes.
+#### 4.2.1. Captain Requirements
+**Teams must nominate two or three captains** and, if a captain is unavailable or departs a roster, the team is expected to nominate another captain. **All** team captains are required to join competition-related Discord servers as outlined in [7.2. Team Captain Discord](/rules/global/#72-team-captain-discord).
 
-**The negotiated day and time must always be posted in the match thread.**
+#### 4.2.2. Captaincy Bans
+Captains who fail to fulfil their required responsibilities, particularly when it impacts other teams within their division, will receive a captaincy ban. The duration of the captaincy ban is determined by ozfortress administrators based on the specific context of the situation.
 
-If it is proving difficult to contact the other team, or they are not making a reasonable effort to organise the match, please inform your division administrator immediately.
+#### 4.2.3. Mutiny Rule
+At any point of the season, a two-thirds majority of players on an Active Roster may elect to nominate a new captain or remove a captain entirely. To initiate this process, a team member should contact a league administrator. If necessary, emergency transfers may be granted as outlined in [5.6. Emergency Transfers](/rules/global/#56-emergency-transfers).
 
-### 3.1.1. Match Communications
-Match Communications are used to discuss the essential details for official ozfortress matches. It is expected that for the duration of discussion around an official match, teams and by extension players, do not post anything non-essential to the flow of the match.
+### 4.3. Active Roster
+The Active Roster comprises all players, regardless of whether they are core or substitute players, that can be used in matches. Players not on a team's Active Roster must be approved for usage as a mercenary. To view players on the Active Roster of a competition, view the Leagues tab on a team's ozfortress profile.
 
-The following should be present within all Match Communications:
+To add or remove players from an Active Roster, transfers may be initiated as outlined in [5. Player Transfers](/rules/global/#5-player-transfers).
 
-+ Match date/day & times, or negotiation of such.
-+ Any and all mercenary requests, along with approval of mercenaries.
-+ logs.tf links for each map played.
-+ Anything else that teams deem essential to the correct running of their official match.
+#### 4.3.1. Roster Limit
+The number of players on an active roster is limited based on the format.
 
-### 3.1.2. Match Extensions
-Teams may request an extension for a match through their division administrator. If an extension is granted, both teams must agree on a date within the allocated time. Opposing teams are not obligated to accept a request for an extension, although compromise and sportsmanship between teams is encouraged.
+|   Format   |  Minimum  |  Maximum   |
+| :--------: | :-------: | :--------: |
+|   Sixes    | 6 players | 10 players |
+| Highlander | 9 players | 15 players |
 
-### 3.2. Organisational Responsibilities
-The responsibility for these tasks falls upon the team captain of each team. If they are unable to complete these tasks or ensure these tasks are completed, they must nominate another team member to ensure their completion. All Official Matches need either a Captain or Nominated Player to act in a captain capacity for the duration of the match, this ensures each match runs as smoothly as possible.
+#### 4.3.2. Player Verification
+If necessary, the [ozfortress Roster Verification Tool](https://verify.ozfortress.com/) may be used to quickly verify all players before a match. The tool will process your inputs and validate all players, displaying any roster inconsistencies.
 
-##### Both teams must
-+ Make an appropriate effort to organise the match.
-+ Ensure attendance at the match.
-+ Inform, and seek approval from the other team of any mercenaries and post their ozfortress.com profile and known applications in the match thread.
-+ Inform administrators of any potential issues with the match, or of any disputes.
-+ Submit or verify the final score prior to the score submission deadline.
+### 4.4. Out-of-Region Players
+There is no limit to the number of Out-of-Region players that may be on a roster. However, Out-of-Region players must satisfy the [3.2.1. Ping Limit](/rules/global/#321-ping-limit) or have an exception approved as outlined in [3.2.3. Exceptions](/rules/global/#323-exceptions).
 
-##### The Home team must
-+ Organise the game server.
-+ Appropriately administer the server during the match.
+### 4.5. Disbanded Teams
+Captains of a disbanded team will receive a Tier 2 Infraction and may face a captaincy ban. Furthermore, all players on the Active Roster of a disbanded team will be barred from play for the remainder of that season. **Disbanded Teams are not awarded in-game medals.** 
 
-#### 3.2.1. Score Submission
-**Teams must clearly state both the winner and match score of each map**. [logs.tf](https://logs.tf) links must also be linked. [more.tf](https://more.tf) and [trends.tf](https://trends.tf) links are not sufficient substitutes.
+To prevent penalties, team captains and/or team members are encouraged to promptly engage with administrators at the first sign of issues to work towards a solution.
 
-!!!tip "Example"
-    cp_granary_pro: 4-1 Jasmine Tea logs.tf/xxxxxx
+### 4.6. Class Restrictions
+Depending on the skill level of a player and their team, class restrictions may apply. Class restrictions are informed by many factors including, but not limited to, other teams and players within a division. As restrictions are often contextual, a player who shifts teams within a division may encounter a different set of restrictions.
 
-In the event your server cannot not upload the logs.tf log for any reason, download and upload the log file manually (if you are the server owner) or take a screenshot of the score for that map. If neither are possible, player POV demos from each team will need to be provided to administrators to prove match results.
+#### 4.6.1. Class Restriction Limit
+The number of players on a roster who can be class restricted is limited based on the format.
 
-### 3.3. Mercenaries
-#### 3.3.1. Mercenary Validity & Requirements
-A mercenary is a player not rostered on either team that is used in lieu of an unavailable team member. To be valid, mercenaries must have an ozfortress.com account, be within 150 ping as outlined in [2.3. Out of Region Play & Ping Eligibility](/rules/global/#23-out-of-region-play-ping-eligibility) and not be under any exclusion penalties.
+|   Format   | Class Restriction Limit |
+| :--------: | :---------------------: |
+|   Sixes    |        3 players        |
+| Highlander |        No limit         |
 
-Only a certain amount of mercenaries per team are allowed in each match at any moment in time, please see the links below which lead to each format's maximum amount of mercenaries.
-
-- [Sixes Mercenary Limit - 2.2. Mercenary Limits](/rules/sixes/#22-mercenary-limits)
-- [Highlander Mercenary Limit - 2.2. Mercenary Limits](/rules/highlander/#22-mercenary-limits)
-
-#### 3.3.2. Mercenary Swaps
-Teams are allowed to swap mercenaries during the match provided the other team approves the new mercenary. 
-
-#### 3.3.3. Mercenary Limiting
-Teams can only make use of of the same mercenary within **two matches per season**, this is so the same mercenary cannot be used for more than a third of the season. There is **no limit** on the amount of mercenaries used per season, only on one specific player.
-
-#### 3.3.4. Mercenary Negotiation
-Mercenaries may only be used at the **discretion of the opposing team captain**. There is no restriction on mercenary use if allowed by the opposing team captain. Do be aware that it is unlikely that opposing team captains will allow players of significantly larger skill to participate in the match and therefore reasonable requests are preferred. Team **captains do have the right to deny any mercenary**, even if they are from a lower bracket. However, **please do try to accommodate reasonable mercenary use**, as you may find yourself in the same position. We recommend contacting an administrator if you are unsure of the skill level of the potential mercenary.
-
-#### 3.3.5. Mercenary Class Locking
-When mercenaries are being requested, **teams have the option to request them on a specific class**, **or to be locked to a specific class or classes**. This would then lock them to that class during that match.
-
-**Teams can also request a mercenary without specifying a class**, allowing the mercenary to change classes at will if approved and if there is no prior agreement to lock said mercenary to a specific class or classes. 
-
-!!! note "Please Note"
-    **Unless mercenaries have been explicitly "class locked" they are allowed to play any class of their choosing**. If both teams agree to a request to lock a mercenary to a specific class or classes, **this needs to be stated in Match Communications**.
-
-##### 3.3.5.1. "Off-classing" and Sixes
-Mercenaries can also be locked from playing certain "off-classes" within Sixes. Please see [2.3. Mercenary "Off-class" Locking](/rules/sixes/#23-mercenary-off-class-locking) within the Sixes Ruleset
-
-#### 3.3.6. Mercenary Manipulation & Excessive Unreasonable Mercenary Denials
-Manipulating other teams into allowing mercenaries is an infractable offence (e.g. If you allow us to use a high *Premier* player we will allow you to use a low *Open* player). ozfortress administrators will judge these messages literally, and will not consider any message as a joke - all mercenary requests should be serious.
-
-ozfortress administrators will act as arbitrators in such a case of unreasonable mercenary denial and may decide to overrule a team captain’s decision and allow a mercenary of a reasonable skill level.
-
-#### 3.3.7. Mercenary Match Communications Requirements
-Mercenary use **must be clearly stated** in the **match thread** where they are used. The information provided must include their SteamID and link to their ozfortress.com profile.
-
-#### 3.3.8. Mercenary Player Verification
-Use the [ozfortress Roster Verification Tool](https://verify.ozfortress.com/) to quickly verify all players prior to a match. To use the verifier, simply insert the status output from the console of the current match as well as the match link or ID. The tool will process your inputs and validate all players, displaying any inconsistencies with rosters.
-
-#### 3.3.9. Restricted Players as Mercenaries
-Players who have Player Restrictions preventing them from playing specific classes cannot play those classes within their division, or any division below when accepted as a mercenary. They can play that class when accepted as a mercenary in the division above where their restriction was set, but they are still subject to potential Class Locking, as per [3.3.5. Mercenary class Locking](/rules/global/#335-mercenary-class-locking).
-
-### 3.4. Map Selection
-Regular season matches will use two predefined maps from the map pool. The map pool consists of nine (9) maps, decided using data from seasonal polls.
-
-Maps for Playoff matches are selected by the captains of each team. **This process must be completed 24 hours prior to the agreed upon match time**.
-
-Pick/Ban order can be found on each formats ruleset, or below:
-
-- [Sixes Pick/Ban Process](/rules/sixes/#121-playoffs-map-selection-pickbans)
-- [Highlander Pick/Ban Process](/rules/highlander/#121-playoffs-map-selection-pickbans)
-
-#### 3.4.1. Team Starting Side
-In Regular Season matches, the Away team will decide which team colour they want to play. In Sixes and formats other than Highlander, this is typically only placebo (ie. Product roleouts, soldiers prefer rolling out with right handed rocket jumps as opposed to left).
-
-In Playoff matches, the team that did not choose the map will pick their team colour. This is in an attempt to make Playoff matches as fair as possible.
-
-### 3.5. Match Disputes
-To lodge a dispute or report misconduct within a match, please contact an ozfortress administrator as soon as possible. Please do not bring the debate to the public as it is being resolved.
-
-### 3.6. Fakenicking / Aliasing
-Fakenicking / Aliasing is allowed in ozfortress matches, but be aware that both Approved/Unapproved Casting Organisations may choose to use your ozfortress alias or most notable alias. Team organisation and sponsorship tags are allowed but must be reasonable. Players are encouraged to carefully choose their submitted roster name as name change requests are both monitored and selectively approved. Name change requests cannot include emojis, special characters, or names which breach our Community Guidelines or Infractions ruleset.
-
-### 3.7. Default Server Location and Provider
-ozfortress works with serveme.tf to host bookable/reservable game servers for competitive play. Currently, **au.serveme.tf** only supports Sydney, but this rule still applies.
-
-
-For ozfortress official matches (and in case of disputes), the **official server location is Sydney**. Similarly to the default server location, ozfortress also has a default server provider, which is **au.serveme.tf servers**.
-
-### 3.8. Server Location and Provider choice
-The Home team/higher-seeded team for playoffs will be able to choose the server. The Away team/lower-seeded team can contact an administrator if they feel the server choice is malicious and in an attempt to disadvantage their team significantly. Administrators reserve the right to both overrule the decision made by the Home team, as well as deny requests for the server to be changed.
-
-For the Regular Season, teams can discuss the server to be used with each other, but if they are unable to come to a resolution to their dispute, the default server provider/location will be used.
+#### 4.6.2. Class Restriction Non-Compliance
+If a player plays a restricted class, this player will receive a Tier 2 Infraction. Additionally, a forfeit win will be awarded to the opposing team. This forfeit loss **does** contribute to the offending team's total forfeit limit.
 
 ---
 
-## 4. Match Format
-### 4.1. Demo Recording
-POV demo files must be recorded for all ozfortress matches and must be provided at the request of an ozfortress administrator. We recommend using the demo recording system included in TF2, which can be activated under the advanced options menu in the game settings.
+## 5. Player Transfers
+Teams have the flexibility to initiate player transfers at **any point** during the **regular** season, however, these transfers are processed and approved after the conclusion of the current round.
 
-Find out how to record POV demo files, along with our guidelines and penalties on our [Demo Requests FAQ](/faq/demo_requests/) page.
+League administrators may deny transfer requests, particularly if they violate the requirements of [4.3.1. Roster Limit](/rules/global/#431-roster-limit) or [4.6.1. Class Restriction Limit](/rules/global/#461-class-restriction-limit).
 
-#### 4.1.1. POV Demo Storage Requirements
-Players need to keep their personal POV Demo files for at minimum two seasons after their recorded date for the purpose of Demo Checking, outlined in [4.1.2. Demo Checking](/rules/global/#412-demo-checking). Failure to do so will result in a Fail to provide POV Demo files penalty, incurring a 2-Round Match Ban. It is the responsibility of the player to ensure that when their POV Demo files are requested, the link to the file sharing service it is hosted on cannot expire. If you are concerned about storage usage on that file sharing service, please reach out to whichever staff member requested your POV Demo files to ensure you are safe to remove them.
+To learn more, including how to initiate a player transfer, see the [Transfers](/rules/transfers/) page.
 
-#### 4.1.2. Demo Checking
-Demo Checking can occur in ozfortress, and is used as a tool for resolving match disputes, ensuring competitive play integrity, or as a part of Random Demo Checking. In any of these instances, failure to provide POV Demo files upon request occur penalties below based on how many existing occurences of failure to provide a player has. Purposefully providing incorrect POV Demo files will also incur the following penalties:
+### 5.1. Inbound Transfer Limit Per Round
+The number of players on a roster who can be transferred **into** a roster per **round** is limited based on the format.
 
-- First instance: Two (2) Round ban
-- Second instance: Two (2) Year ban
-- Further instances: Two (2) Year ban
+|   Format   | Inbound Transfer Limit Per Round |
+| :--------: | :------------------------------: |
+|   Sixes    |             1 player             |
+| Highlander |            3 players             |
 
-If you are not sure how to correctly provide POV Demo files upon request, or have further questions, [please see our Demo Requests FAQ page](/faq/demo_requests/#further-questions-concerns-or-issues).
+### 5.2. Inbound Transfer Limit Per Season
+The number of players on a roster who can be transferred **into** a roster per **season** is limited based on the format.
 
-### 4.2. Spectators
-The only players allowed in the server of an official match are the core players currently rostered on the active roster, but cannot be in spectator while the match is live. When substituting a player for a substitute or mercenary, the substitute or mercenary is allowed to join the server and swap with one of the other players, but the player being substituted must leave when they arrive. Administrators are allowed to remain in server spectator for any reason, unless they are rostered on either team's Active Roster. Please note, this does not include SourceTV (STV) usage.
+|   Format   | Inbound Transfer Limit Per Season |
+| :--------: | :-------------------------------: |
+|   Sixes    |             4 players             |
+| Highlander |             6 players             |
 
-### 4.3. Pausing
-Pauses during a match are allowed for any reason teams see fit excluding the following scenario:
+### 5.3. Outbound Transfer Limits
+There are no limits on the number of players that can be transferred **out** of a roster.
 
-- Pausing after readying up and beginning the match whilst missing players, with the goal of keeping the game paused until that player arrives.
+### 5.4. Individual Player Transfer Limit
+A player may only change rosters a maximum of two times per season.
 
-!!! Note "Please Note"
-    Tactical pauses are allowed, but must still conform to our pause rules.
+### 5.5. Roster Lock
+Before the conclusion of the regular season, teams may no longer change their roster. This information will be found on seasonal league pages.
 
-The match may only be unpaused by the team who initiated the pause. Both teams must give the all-clear to unpause, which is followed by an in-built five-second countdown.
+### 5.6. Emergency Transfers
+Emergency Transfers are approved by league administrators in situations where teams experience unavoidable player losses. Depending on the circumstances, an emergency transfer may be granted even if it would result in exceeding transfer limits.
 
-Each team is permitted two pauses per match with a combined total time limit of ten minutes. However, if captains are in agreement, the pause limit can be extended.
+If an Emergency Transfer is needed, notify your Division Administrators in the Team Captain Discord immediately.
 
+---
+
+## 6. Mercenaries
+A mercenary is a player not rostered on a team's Active Roster that is used in place of an unavailable team member. 
+
+### 6.1. Requirements
+**All mercenaries must meet all player requirements as outlined in [3.1. Requirements](/rules/global/#31-requirements)**. This includes ping limits and not facing any exclusion penalties.
+
+### 6.2. Mercenary Approval
+Mercenaries **must be approved by a captain of the opposing team**. When requesting a mercenary, captains should provide the following information to the opposing team:
+
+- a link to the mercenary's ozfortress profile
+- which class(es) they intend for the mercenary to play
+- which player the mercenary is replacing
+
+Once a mercenary is approved, it **must** be stated in the match thread.
+
+#### 6.2.1. Reasonable Mercenary Requests
+A player who is completely unrestricted in a division below that in which a match is being played is considered a reasonable mercenary request and should be approved without any restrictions.
+
+If a team is concerned about the impact of such a player, team captains are encouraged to contact an administrator.
+
+#### 6.2.2. Reasonable Mercenary Denial
+As there can be significant skill discrepancies within a division, **teams have the right to deny players from the same division from playing as mercenaries**.
+
+However, **please do try to accommodate reasonable mercenary use** as you may find yourself in the same position. We recommend contacting a league administrator if you are unsure of the skill level of the requested mercenary.
+
+#### 6.2.3. Contesting Mercenary Denials
+If a team captain has requested three mercenaries which they deem to be **of a reasonable level** and the opposing team has denied all three, an administrator should be contacted.
+
+#### 6.2.4. Mercenary Manipulation
+Attempting to manipulate other teams into allowing mercenaries is an infractable offence. ozfortress administrators will interpret these messages literally and will not consider any message as a joke. All mercenary requests should be made seriously and with genuine intent.
+
+#### 6.2.5. Mercenary Class Locking
+When approving a mercenary, **teams have the option to lock a mercenary to specific classes**. Unless mercenaries have been explicitly locked to a class, they can play any class of their choosing. **Any class locks placed on mercenaries must be stated in the match thread.**
+
+In Sixes, mercenaries can also be locked from playing certain off classes as outlined in [1.1.3. Mercenary Off Class Locking](/rules/sixes/#113-mercenary-off-class-locking).
+
+#### 6.2.6. Class Restricted Players as Mercenaries
+The class restrictions of a player still apply when accepted as a mercenary. They are prohibited from playing those restricted classes in divisions below where the restriction was set.
+
+This is also true for the division where the restriction was set. However, if an opposing team would like to ignore the class restrictions of a mercenary within their division, they can do so but **must seek administrator approval**.
+
+Class restrictions do not apply in divisions above where the restriction was set, however such players are still subject to potential class locking as outlined in [6.2.5. Mercenary Class Locking](/rules/global/#625-mercenary-class-locking).
+
+### 6.3. Mercenary Limits
+The number of mercenaries per team allowed at any moment is limited based on the format.
+
+|   Format   | Mercenary Limit |
+| :--------: | :-------------: |
+|   Sixes    |  2 mercenaries  |
+| Highlander |  3 mercenaries  |
+
+### 6.4. Reusing Mercenaries
+Teams can only make use of the same mercenary within **two matches per season**. There is **no limit** on the amount of mercenaries used per season, only on one specific player.
+
+---
+
+## 7. Match Organisation
+All time scheduling is to be completed with AEST (if daylight savings is not in effect) or AEDT (if daylight savings is in effect). Times stated below do not change based on daylight savings, meaning "7PM AEST/AEDT" refers to 7PM for both AEST and AEDT.
+
+### 7.1. Organisation Responsibility
+The responsibility for all match organisation tasks falls upon the team captain of each team. If they are unable to complete these tasks or ensure these tasks are completed, they must nominate another team member to ensure their completion.
+
+### 7.2. Team Captain Discord
+All ozfortress competitions feature a Team Captain Discord. This Discord serves as a hub for **all** competition-related communication, including match organisation and contacting league administration. Teams should not contact league administration regarding ongoing competitions externally of this Discord, as this may be considered an instance of [1.4. Admin Shopping](/rules/global/#14-admin-shopping).
+
+### 7.3. Match Organisation
+Once the match for the round is posted on the ozfortress website, a Discord thread will be created in the Team Captain Discord. Team Captains should communicate the days and times in which they are available to play as soon as possible. Playable match days are outlined in [2.4. Playable Match Days](/rules/global/#24-playable-match-days).
+
+We encourage all teams to set their match days and times, but in the case of a dispute an administrator may enforce the default match day and/or times.
+
+|   Format   | Default Match Day | Default Match Times  |
+| :--------: | :---------------: | :------------------: |
+|   Sixes    |     Thursday      | 8PM or 9PM AEST/AEDT |
+| Highlander |      Sunday       | 8PM or 9PM AEST/AEDT |
+
+#### 7.3.1. Scheduling Issues
+If the other team is not responding in the Team Captain Discord, or are not making a reasonable effort to organise the match, please ping your Division Administrators in the Team Captain Discord immediately.
+
+#### 7.3.2. Emergency Extensions
+If required, teams may seek an **emergency** extension by contacting their Division Administrators in the Team Captain Discord. Opposing teams are not obligated to accept a request for an extension, although compromise and sportsmanship between teams are encouraged. Missing core players is **not** grounds for extension; a backup player or mercenary should be used.
+
+### 7.4. ozfortress Match Threads
+Match Threads on the ozfortress website are used to communicate the essential details of matches. It is expected that until the completion of an official match, players do not post anything non-essential to the flow of the match. Doing so may result in an infraction.
+
+#### 7.4.1. Match Thread Requirements
+The following **must** be posted in the match thread by the **Home Team**:
+
+ 1. The agreed-upon day and time **immediately** after confirmation.
+ 2. A link to each map's logs.tf page **within 24 hours** of the match's conclusion.
+ 3. Any other match details **within 24 hours** of the match's conclusion.
+
+In the event of a mercenary being required, this must be posted by the team requesting the mercenary in the match thread **prior** to the commencement of the match. This must include any class locks as described in [6.2.5. Mercenary Class Locking](/rules/global/#625-mercenary-class-locking).
+
+#### 7.4.2. Match Log Issues
+If logs are unavailable for a match, the **Home Team** must take a screenshot of the score for each map and upload these to the match thread **within 24 hours** of a match's conclusion. If this is not possible, player POV demos from each team may be requested by administrators to validate match results.
+
+#### 7.4.3. Upper Division STV Demos
+Every Upper division match must have its STV demos uploaded to the match thread by the team that provided the server **within 24 hours** of a match's conclusion. This may be done through a link to the demos.tf page, or uploaded as described in the [Demo Requests FAQ page](/faq/demo_requests/).
+
+Failing to upload STV demos will result in the following penalties:
+
+- first instance: warning
+- second instance: Tier 1 Infraction
+- all future instances: Tier 2 Infraction
+
+### 7.5. Organisational Deadlines
+For any given match, the following organisation deadlines must be observed:
+
+|   Format   | Match date/time organised |          Match results submitted           |
+| :--------: | :-----------------------: | :----------------------------------------: |
+|   Sixes    |   Monday 7PM AEST/AEDT    | No later than 24 hours **after** the match |
+| Highlander |  Thursday 7PM AEST/AEDT   | No later than 24 hours **after** the match |
+
+#### 7.5.1. Upper Division Grand Finals
+The Grand Finals match for Upper Divisions must be scheduled at least **four** days after the conclusion of the Lower Bracket Finals match to allow for effective promotion of the match. 
+
+In the event that this is not possible, a league administrator should be contacted immediately.
+
+#### 7.5.2. Reorganising Casted Matches
+Matches being cast by Approved Casting Organisations must adhere to the agreed-upon match time. If rescheduling a match is necessary, this must be done **at least** twenty-four hours in advance to support the casting organisation. Repeat offenders will find themselves infracted.
+
+### 7.6. Map Selection
+Regular season matches feature two maps from the competition's map pool.
+
+#### 7.6.1. Playoff Map Selection
+For playoff matches, the selection of maps is the responsibility of the team captains. This process should be completed at least 24 hours prior to the agreed-upon match time. **In the event of a playoff match being casted, this process must be completed at least 24 hours prior.**
+
+For map selection order, please refer to the respective ruleset for more information:
+
+- Sixes: [2.4. Playoff Map Selection Order](/rules/sixes/#24-playoff-map-selection-order)
+- Highlander: [2.2.1. Playoff Map Selection Order](/rules/highlander/#221-playoff-map-selection-order)
+
+---
+
+## 8. Matches
+**During Playoffs, the higher-seeded team is considered the Home team.**
+
+### 8.1. Match Servers
+It is the responsibility of the Home team to organise the game server and to appropriately manage the server, including executing appropriate configs, during the match.
+
+If there are issues with the Home team's server selection, the Away team may contact a league administrator. 
+
+Please see [10. Servers](/rules/global/#10-servers) for more information, including the default server provider and server location.
+
+### 8.2. Team Starting Side
+In Regular Season matches, the Away team will decide which team colour they want to play. In Playoff matches, the team that did not choose the map will pick their team colour.
+
+### 8.3. Match Disputes
+To lodge a dispute or report misconduct within a match, please contact a league administrator as soon as possible. Please do not bring the debate to the public while it is being resolved.
+
+### 8.4. ozfortress Administrators as Referees
+ozfortress may require certain matches to be refereed by a League Administrator. In such instances, a post will be made in the match thread to communicate this decision.
+
+When this occurs, the Home team is no longer responsible for the server. Instead, the League Administrator will provide both teams with a connect string before the match. 
+
+Administrators may also choose to be present on the server during playoff matches or other important matches.
+
+### 8.5. Fakenicking / Aliasing
+Fakenicking / Aliasing is allowed in matches, but be aware that both Approved and Unapproved Casting Organisations may choose to use your ozfortress alias or most notable alias during their casts.
+
+#### 8.5.1. Distinct Aliases
+During matches, all players must have distinct aliases. Failing to do so may result in an infraction.
+
+#### 8.5.2. Correct Aliases Upon Request
+During matches cast by Approved Casting Organisations, players must run an alias matching their ozfortress profile upon request. Whilst an exact match is not required, player aliases should be immediately recognisable to casters and viewers.
+
+### 8.6. Spectators
+Players in spectator are strictly prohibited during any match. League administrators are allowed to remain in server spectator for any reason unless they are rostered on either team's Active Roster.
+
+#### 8.6.1. Live Coaching
+In-official coaching by **any** means is strictly prohibited. This includes during pauses, or before the commencement of a golden cap tiebreaker. This clause does not include coaching **outside** of an official match, such as demo reviewing or strategy sessions.
+
+### 8.7. Player Swaps
+Teams are allowed to swap players on their Active Roster during the match. For a team to switch a player out, the replaced player on the server must leave before the new player joins.
+
+### 8.8. Mercenary Swaps
+Teams are allowed to swap mercenaries during the match provided the other team approves the new mercenary. For a team to switch a mercenary out, the replaced mercenary on the server must leave before the new mercenary joins.
+
+### 8.9. Pausing
+Pauses during a match are allowed for any reason. The only exception is pausing immediately after readying up with the intent of delaying the match.
+
+The match may only be unpaused by the team who initiated the pause, however must receive the all-clear to unpause from the opposing teams. Unpausing has an in-built five-second countdown.
+
+#### 8.9.1. Pause Limits
+Each team is permitted two pauses per match with a combined total time limit of ten minutes. However, if team captains agree, the pause limit can be extended.
+
+#### 8.9.2. Tactical Pauses
+Tactical pauses *are* permitted, but contribute to the pause limits described above. Tactical pauses should not be used to disrupt ongoing plays (such as pushes). 
+
+#### 8.9.3. Pause Command
 To pause a match, teams simply need to open their console and send the following command:
 ```
 pause
@@ -468,84 +605,90 @@ pause
 
 The same command can be sent to unpause the match.
 
-### 4.4. Broadcasting Games
-Official matches may be broadcasted on any livestream platform, but this match coverage should only ever come from an observer in SourceTV, or from a rostered player who is sleighted to actively play in the match, streaming their POV from the live server. Please see [4.4.4. Player POV streaming](https://docs.ozfortress.com/rules/global/#444-player-pov-streaming) for more information. Broadcasting an official from the spectator slots in a live, official match server is **strictly prohibited**.
+#### 8.9.4. Repause Command
+When a pause has been initiated to allow a player to rejoin a server, the following command may be used to allow them to rejoin their team:
+```
+repause
+```
 
-Casting organization representatives may contact the ozfortress General Head Administrator or Media Coordinator to receive the ability to promote their coverage and/or become an approved casting organization. Approval will only be granted once it is determined by ozfortress that the coverage meets approved standards.
+Using the repause command does not require warning the team.
 
-### 4.4.1. ozfortress Representation
-ozfortress asks that casting organizations and individuals follow a fairly simple philosophy; represent our  community as one that is open and accepting. We feel this is fair, and doesn't impact anyones right to their own opinion, even of ozfortress. At the end of the day we just want to help continue a legacy of Oceanic Team Fortress that has lasted over 20 years.
+### 8.10. Demo Recording
+POV demo files must be recorded for all matches and must be provided at the request of an ozfortress administrator. **Players need to keep their POV demo files for at least two seasons.**
 
-### 4.4.2. Approved Casting Organizations
-Approved Casting Organizations do not require approval from the teams in the match to broadcast/cast/cover the event. We reserve this status for organizations and groups of individuals who put in a high level of effort in production and coverage quality, fostering and improving talent, and for those who do not purposefully misrepresent ozfortress.
+For more information, visit the [Demo Requests FAQ page](/faq/demo_requests/).
 
-The current Approved Casting Organizations are:
+#### 8.10.1. Demo Checking
+POV demo files may be requested by an administrator as a tool for resolving match disputes, ensuring competitive play integrity, or as a part of a random demo check.
 
-+ KritzKast
-+ CappingTV
-+ BearCasts
+Failing to provide POV demo files upon request will result in the following penalties:
 
-If your game is to be broadcasted by one of the organizations above, please ensure your team provides the caster(s), streamer, or organization representative/s: 
-
-+ The server connect string, potentially including the RCON password (if required, they will inform you).
-+ An updated list of players and/or any mercenaries participating in the match. This should be provided at least an hour before the set match time.
-
-The above rules apply to ozfortress-approved organizations only.
-
-### 4.4.3. Unapproved Casting Organizations
-Casting organizations and individuals that are not approved by ozfortress may still cast official ozfortress matches, however, Approved Casting Organizations will have priority on matches they wish to cover. If a team captain wishes to deny such a cast, they are welcome too, however, they will need to discuss it with an ozfortress administrator or preferably the ozfortress League Director or Media Coordinator.
-
-### 4.4.4. Player POV streaming
-Broadcasts of a player’s POV outside of a casted setting where STV delay is enforced, a minimum observable delay of at least ten (10) seconds is expected. We define “observable delay” as a combination of personally set stream delay (for example in OBS) and standard Twitch/YouTube streaming delay. It is the players responsibility to ensure that their own stream does not impact their team in any way, and is not something we consider an actionable offence. This means that "stream sniping" is not actionable by ozfortress, and is solely the responsibility of the person streaming.
-
-### 4.5. ozfortress Administrators as Referees
-ozfortress may sometimes require certain matches to be refereed by an ozfortress administrator. In such a case, a post will be made in the match thread indicating this, and teams will be provided with a connect string before the match. If this happens, it is no longer the home team’s responsibility to administer the server or report the scores at the end of the round. Administrators may also choose to be present on the server during playoffs matches or other important matches, and will request strings from players.
+- first instance: two round match ban
+- second instance: two year ban
+- further instances: two year ban
 
 ---
 
-## 5. Servers
-### 5.1. Server Configuration
-[Instructions on how to download & install ozfortress seasonal league configs can be found here.](https://github.com/ozfortress/server-configs)
+## 9. Broadcasting Matches
+Official matches may be broadcasted on any live stream platform, but this match coverage should only ever come from an observer in SourceTV, or from a rostered player streaming their POV from the live server. Broadcasting an official from spectator in a live, official match server is **strictly prohibited**.
 
-### 5.2. Preferred and Acceptable Servers
-The standard and default servers for all matches are provided by [au.serveme.tf](https://au.serveme.tf). However, in cases where both teams agree, alternative servers like **Rhizome** or **Qixalite** may be used. For detailed information on Third-party servers, please refer to [5.3. Third-Party Servers](/rules/global/#53-third-party-servers).
+### 9.1. ozfortress Representation
+ozfortress asks that all match broadcasts by both casting organisations and individuals follow a fairly simple philosophy: represent our community as one that is open and accepting. We feel this is fair, and doesn't impact anyone's right to voice their own opinion, even of ozfortress.
 
-In the event that teams cannot agree on a server, an official ozfortress default server (**au.serveme.tf**) must be used.
+### 9.2. Approved Casting Organisations
+Approved Casting Organisations do not require approval from the teams to broadcast the match. This status is reserved for casting organisations that demonstrate a high level of effort in production and coverage quality, contribute to fostering and improving talent, and do not purposefully misrepresent ozfortress.
 
-Administrators reserve the right to decide which server the match will be played on.
+The current Approved Casting Organisations are:
 
-Please note: the server's SourceTV Delay (stv_delay) MUST remain at 90 seconds or above. Reducing this during or prior to the match will result in penalties. The same rule applies to turning off STV Map Change Protect during a casted official match.
+- KritzKast
+- CappingTV
+- BearCasts
 
-### 5.3. Third-Party Servers
-For those who wish to run their own, please see the required server configurations and plugins [here](/guides/selfmanaged_servers/).
+Upon request, you must provide the Approved Casting Organisations with the following:
 
-If desired, an ozfortress administrator will review your server configs to determine if you have configured it to match-ready standard.
+- the server's STV connect string
+- the server's standard connect string, potentially including the RCON password (if required, they will inform you)
+- an updated list of players and/or any mercenaries participating in the match (this should be provided at least an hour before the set match time)
 
-RCON for third-party servers must be provided to ozfortress administrators on request.
+The above rules apply to Approved Casting Organisations only.
 
-ozfortress administrators reserve the right to force a match to be played on an ozfortress default server.
+#### 9.2.1. Becoming an Approved Casting Organisation
+Casting Organisation representatives may contact the ozfortress General Head Administrator or Media Coordinator to receive the ability to promote their coverage and/or become an approved casting organisation. Approval will only be granted once it is determined by ozfortress that the coverage meets approved standards.
 
-### 5.4. Restrictions
-Each seasonal league format has its own Class Restrictions, which can be found on those format's rulesets. These are generally a limit of how many of one class can be played within a match server or configs.
+### 9.3. Unapproved Casting Organisations
+Unapproved Casting Organisations or individuals may still cast official ozfortress matches. However, Approved Casting Organisations will have priority on matches they wish to cover. **Unapproved Casting Organisations must receive approval from both teams to cast a match**.
 
-Along with the above restrictions, we also run **Player Restrictions**, where eligible players are restricted from certain classes when playing in divisions lower than their skill. Player Restrictions vary depending on the number of divisions, surrounding teams and other players. These are not the only factors but are just some that we use to inform our decision-making. Breaking these Player Restrictions will incur a 1 Round Match Ban, along with a Forfeit Win awarded to the opposing team. Please note, the forfeit loss for the team of the offending player does count towards the total forfeit limit of that format.
+### 9.4. Player POV Streams
+For players streaming their POV outside of a casted setting where STV delay is enforced, a minimum observable delay of at least ten seconds is expected. **Stream sniping is not considered an actionable offence** and it is the sole responsibility of the player streaming to ensure that their stream does not impact their team in any way.
 
-### 5.5. Server Interruptions
+---
+
+## 10. Servers
+### 10.1. SourceTV Settings
+A match server **must** have an STV Delay (stv_delay) of **at least 90 seconds**. Reducing this during or before the match will result in harsh penalties. The same penalties apply if STV Map Change Protect is disabled during a casted official match.
+
+### 10.2. Server Providers
+For matches (and in the case of disputes), **au.serveme.tf** is the default server provider. However, in cases where both teams agree, alternative services like **Rhizome** or **Qixalite** may be used.
+
+#### 10.2.1. Third-Party Servers
+For those who wish to run their own, please see the required server configurations and plugins [here](/guides/selfmanaged_servers/). An ozfortress administrator must then review your server configs to ensure that the server is configured to a match-ready standard.
+
+### 10.3. Server Locations
+For matches (and in case of disputes), **Sydney** is the default server location. Teams can agree to play matches on alternative server locations, such as Melbourne, Perth, or Guam, however opposing teams are not obligated to agree to a server location change.
+
+### 10.4. Server Interruptions
 In the event of an ongoing match being interrupted, the match must be resumed from the time at which the last round was completed. Any ongoing rounds will be restarted and any rounds that were completed will remain completed.
 
-### 5.6. Coaching
-Currently, ozfortress does not allow in-official coaching via any means (for example; being in the spectator, watching a POV stream via Discord, etc). This clause does not include coaching outside of an official match, like demo reviewing for example.
-
 ---
 
-## 6. Cheating, Exploits and Bans
-### 6.1. Exploits
+## 11. Cheating, Exploits and Bans
+### 11.1. Exploits
 The intention of exploiting any aspect of the game for an unfair advantage, whether they are explicitly listed or not, is prohibited. We consider there to be two categories of exploits; **Game Modification exploits** and **Game Mechanic exploits**. Game Modification exploitation is the act of modifying game files (and typically bypassing sv_pure 2) to gain an unfair advantage. Game Mechanic exploitation is typically engine exploits, bugs, or abuse of unattended gameplay features that are outside the scope of competitive fairness and play.
 
-### 6.1.1. Game Modification
+#### 11.1.1. Game Modification
 This is commonly treated as akin to cheating when malicious, as it is direct game file manipulation to gain an unfair advantage. Any item not explicitly stated as allowed is prohibited.
 
-#### Explicitly Prohibited Game Modification
+##### Explicitly Prohibited Game Modification
 + Using scripts/macros that allow you to bypass movement or engine restrictions.
   - Panic scripts.
   - Bunnyhop scripts.
@@ -560,14 +703,14 @@ This is commonly treated as akin to cheating when malicious, as it is direct gam
 + Removing map objects/props or making them transparent.
 + Malicious use of the retry command.
 + Uber Pause bug
-    - A bug where medics continue to build uber during a pause whilst healing a player. This bug should be prevented by server plugins, but in the event it does happen, both teams should be made aware and an administrator should be contacted.
+    - A bug where medics continue to build Uber during a pause while healing a player. This bug should be prevented by server plugins, but in the event it does happen, both teams should be made aware and an administrator should be contacted.
 
 A general rule of thumb for whether or not something is or isn't allowed is this:
 > "Is the mod/custom file/change against a general sense of competitive integrity and fairness?" **If so it is likely prohibited.**
 
 Please note this does not serve as a rule, and you should check with a League Admin before making use of any suspected exploit or game mechanic.
 
-#### Explicitly Allowed Game Modification
+##### Explicitly Allowed Game Modification
 
 + Custom HUDs.
 + Custom Autoexec, class configs, etc.
@@ -578,7 +721,7 @@ Please note this does not serve as a rule, and you should check with a League Ad
 + Transparent viewmodels.
 + Non-malicious weapon sound replacement, some examples are:
     - Replacing hitscan or projectile weapon sounds.
-        * Note: Replacement of anything that could be deemed malicious, ie. spy watch sounds replacement is strictly prohibited.
+        * Note: Replacement of anything that could be deemed malicious, ie. spy watch sound replacement is strictly prohibited.
 + Crouch jump script.
 + “C-tap” jump scripts.
 + Null-cancelling movement script.
@@ -588,10 +731,10 @@ Please note this does not serve as a rule, and you should check with a League Ad
 + Loadout changing scripts.
 + Viewmodel / Crosshair switchers.
 + No explosions/particles smoke script.
-+ Loadout change scripts and quick respawn scripts such as forward-spawn/backward-spawn scripts are explicity allowed since Sixes Season 37 and Highlander Season 4, even if they preserve that classes current state:
-    + This includes stickybomb projectiles, a medic's current medi-gun percentage and charge, an engineers buildings, etc.
++ Loadout change scripts and quick respawn scripts such as forward-spawn/backward-spawn scripts are explicitly allowed since Sixes Season 37 and Highlander Season 4, even if they preserve that class' current state:
+    + This includes stickybomb projectiles, a medic's current medi-gun percentage and charge, an engineer's buildings, etc.
 
-### 6.1.2. Game Mechanic Exploits
+#### 11.1.2. Game Mechanic Exploits
 Game Mechanic exploits are typically map, client or server exploits used to gain an unfair advantage.
 
 + Placing the Engineer’s buildings outside of the map, in indestructible locations or anywhere where it is not visible.
@@ -601,7 +744,7 @@ Game Mechanic exploits are typically map, client or server exploits used to gain
 + Map-based exploits (water jump scoping, etc).
 + Hiding sticky grenades (AKA "stickies") or engineer buildings inside of props or geometry **where they cannot be destroyed by normal means** (any class, out of the map, etc) due to differences in their visual and physical collisions is **considered an exploit**.
 
-#### Explicitly Allowed Game Mechanic exploits
+##### Explicitly Allowed Game Mechanic exploits
 
 + Wallbugs.
 + Edgebugs.
@@ -610,31 +753,17 @@ Game Mechanic exploits are typically map, client or server exploits used to gain
 Reports made regarding exploitation are **reviewed on a case-by-case basis**.
 The lists above are not exhaustive. **If you are unsure if something is considered an exploit**, **please contact an administrator** and request a ruling be made. Usage of any banned exploit or exploit with malicious intent **will** result in punishments. Punishments will range between **3 months** to **24 months** depending on multiple factors, including but not limited to **severity**, **intent**, **maliciousness**, etc.
 
-### 6.2. Third-Party Software
-The use of any third-party addons, hooks, programs or wrappers that interact with or alter the Team Fortress 2 client, its appearance or behaviour for the purposes of gaining an unfair advantage is a bannable offence. This includes usage of such programs on alternative accounts not registered with ozfortress.
+### 11.2. Third-Party Software
+The use of any third-party addons, hooks, programs or wrappers that interact with or alter the Team Fortress 2 client, its appearance or behaviour to gain an unfair advantage is a bannable offence. This includes usage of such programs on alternative accounts not registered with ozfortress.
 
-### 6.3. Malicious Server Administration
-The use of any server commands, variables, or plugins for the purposes of gaining an unfair advantage or to interfere with an ozfortress match is prohibited. Once the match is underway, the server administrator must let the match run its course and not make any changes without the consent of both teams.
+### 11.3. Malicious Server Administration
+The use of any server commands, variables, or plugins to gain an unfair advantage or to interfere with an ozfortress match is prohibited. Once the match is underway, the server administrator must let the match run its course and not make any changes without the consent of both teams.
 
-### 6.4. Account Sharing & Alternate Accounts
-Players may only register and play in ozfortress leagues with one Steam / Warzone account. Use of alternate accounts in official matches is strictly prohibited. If a player wishes to change their registered account they must contact an ozfortress administrator, however, it is unlikely that the account will be changed without good reasoning.
-
-Sharing your login details with a third party for use in an ozfortress match is also strictly prohibited and will result in lengthy bans for all involved parties.
+### 11.4. Account Sharing
+Sharing your login details with a third party for use in an ozfortress match is strictly prohibited and will result in lengthy bans for all involved parties.
 
 !!! danger "Ban Penalty"
-    Usage of **Alternate Accounts and/or Account Sharing will incur a 24-month competitive ban**. Those found helping players who are currently banned evade their ban using either an Alternate Account or sharing someone else's account will receive the same penalty.
+    **Account Sharing will incur a two year competitive ban**. Those found helping players who are currently banned evade their ban using either an Alternate Account or sharing someone else's account will receive the same penalty.
 
-### 6.5. ozfortress Bans
+### 11.5. ozfortress Bans
 Members banned on the ozfortress website are also banned from leading teams in ozfortress competitions. Players banned from the ozfortress website may also be subject to competition bans and are considered under probation. It is standard for those serving Competitive, Anti-Cheat or Infraction Threshold to be banned from our Discord server as well as being barred from using some bookable server services. Please contact an ozfortress administrator for further clarification.
-
-### 6.6. Match Fixing
-Any attempt to influence the result of a match through any means other than standardised gameplay is strictly forbidden. If this is found to be happening, all involved parties will receive league punishments.
-
----
-
-## 7. Ruleset Information
-### 7.1. Rules are subject to change
-The rules set on this page may be updated at any time. It is the responsibility of the player(s) to keep up to date with these rules. Rule changes during a season will be clearly announced with a front-page post, and changes outside of a season being relayed also via a front-page post.
-
-### 7.2. Rulings
-ozfortress reserve the right to change, modify or adapt all rules as deemed appropriate by ozfortress to uphold and maintain a spirit of overall fairness and good sportsmanship. We understand that the ruleset may not cover every situation and therefore we may occasionally deliver judgement-based rulings. We will not change, modify or adapt any clause "on the fly", and will endeavour to make the community aware of ruleset changes.
