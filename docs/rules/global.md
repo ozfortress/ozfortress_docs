@@ -101,8 +101,8 @@ Regular seasons are typically run using Round-Robin, however, depending on signu
 #### 2.5.1. Round-Robin
 The Round-Robin system guarantees that every team within a division compete against each other once. You can find more information about Round-Robin [here](https://en.wikipedia.org/wiki/Round-robin_tournament).
 
-#### 2.5.2. Swiss system
-The Swiss system allows a greater number of competitors to compete against each other in a smaller number of rounds. The first round is scheduled based on seedings, and subsequent rounds are generated according to previous team results, pairing teams with comparable records. You can find more information about the Swiss system [here](https://en.wikipedia.org/wiki/Swiss-system_tournament).
+#### 2.5.2. Swiss System
+The Swiss System allows a greater number of competitors to compete against each other in a smaller number of rounds. The first round is scheduled based on seedings, and subsequent rounds are generated according to previous team results, pairing teams with comparable records. You can find more information about the Swiss System [here](https://en.wikipedia.org/wiki/Swiss-system_tournament).
 
 #### 2.5.3. Match Scoring
 During the regular season, teams compete in one match each week featuring two maps. The winner of each map will be awarded two league points, while the loser is awarded zero. Regular season matches can result in a draw when each team wins one map.
@@ -374,7 +374,7 @@ Teams have the flexibility to initiate player transfers at **any point** during 
 
 League administrators may deny transfer requests, particularly if they violate the requirements of [4.3.1. Roster Limit](/rules/global/#431-roster-limit) or [4.6.1. Class Restriction Limit](/rules/global/#461-class-restriction-limit).
 
-To learn more, including how to initiate a player transfer, see the [Transfers](/rules/transfers/) page.
+To learn more, including how to initiate a player transfer, see the [Transfers](/info/transfers/) page.
 
 ### 5.1. Inbound Transfer Limit Per Round
 The number of players on a roster who can be transferred **into** a roster per **round** is limited based on the format.
