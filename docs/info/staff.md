@@ -6,9 +6,9 @@ Have an issue that isn't within the Sixes or Highlander realm? Good chance our T
 | ---- | ---- | ------- |
 | League Director | [core](https://ozfortress.com/users/491 "Please contact me via Discord only.") | [@itscore](https://discordapp.com/users/226205616773922816) |
 | Sixes Head Admin | [multi](https://ozfortress.com/users/781) | [@canyouprovethatimdriving](https://discordapp.com/users/125870207897042944) |
-| Highlander Head Admin | [bird](https://ozfortress.com/users/139) | [@yesthisisbird](https://discordapp.com/users/103861958339469312) |
+| Highlander Head Admin | [Sperkle](https://ozfortress.com/users/618) | [@sperkle](https://discordapp.com/users/180875592923611145) |
 | Head of Anti-Cheat | [catfish](https://ozfortress.com/users/96) | [@catfishau](https://discordapp.com/users/129062149640159232) |
-| Head of Behaviour Panel | [a team of ants in their prime](https://ozfortress.com/users/1561) | [@ateamofantsintheirprime](https://discordapp.com/users/187344325938511874) |
+| Head of Behaviour Panel | [core](https://ozfortress.com/users/491 "Please contact me via Discord only.") | [@itscore](https://discordapp.com/users/226205616773922816) |
 | Media Coordinator | [Sperkle](https://ozfortress.com/users/618) | [@sperkle](https://discordapp.com/users/180875592923611145) |
 | Developer | [/dev/zero](https://ozfortress.com/users/2) | [@.dev.zero](https://discordapp.com/users/131721186869641216) |
 
@@ -17,16 +17,16 @@ As mentioned in our competitive league rulesets, League Adminis in tandem with e
 
 | League | Name | Discord |
 | ---- | ---- | ------- |
-| Sixes | [a team of ants in their prime](https://ozfortress.com/users/1561) | [@ateamofantsintheirprime](https://discordapp.com/users/187344325938511874) |
 | Sixes | [Celph](https://ozfortress.com/users/4285) | [@celph](https://discordapp.com/users/131180625649467392) |
 | Sixes | [down](https://ozfortress.com/users/299) | [@down11](https://discordapp.com/users/139166437754273792) |
+| Sixes | [emgee](https://ozfortress.com/users/76) | [@emgee](https://discordapp.com/users/86424530871910400) |
 | Sixes | [Hawk](https://ozfortress.com/users/233) | [@wils](https://discordapp.com/users/83079514917175296) |
+| Sixes | [HUNGRY4EGGS](https://ozfortress.com/users/1484) | [@hungry4eggs](https://discordapp.com/users/215383613439606784) |
 | Sixes | [raina](https://ozfortress.com/users/1729) | [@raina_exe](https://discordapp.com/users/712785948047441921) |
 | Sixes | [wils](https://ozfortress.com/users/598) | [@wils](https://discordapp.com/users/200809127549730816) |
 | Highlander | [Kai](https://ozfortress.com/users/4034) | [@head_empty_no_thoughts](https://discordapp.com/users/213653809937907712) |
 | Highlander | [Oldcustard](https://ozfortress.com/users/4030) | [@oldcustard](https://discordapp.com/users/333896131840966657) |
 | Highlander | [Rainy](https://ozfortress.com/users/3124) | [@rainy26](https://discordapp.com/users/107399782162558976) |
-| Highlander | [Sperkle](https://ozfortress.com/users/618) | [@sperkle](https://discordapp.com/users/180875592923611145) |
 
 ## Public Behaviour Panel members
 There are currently three Behaviour Panel members who are public, with two members who are not. We leave this decision purely up to the individual, however we do ask that those in an administration role (or those who were) are public-facing if possible. We will always strive to have an equal ratio of staff/non-staff members, if not strive for more members who are not serving in an administration role.
@@ -55,15 +55,17 @@ The team that helps make everything media-related for ozfortress happen. Be it o
 ## Past Staff
 
 + /dev/zero (Citadel and Source Server Controller)
++ a team of ants in their prime (Sixes Heaad Admin & Head of Behaviour Panel)
 + amd
 + Aragon
 + arnold
 + baf
 + Bakes
++ bird (Highlander Head Admin)
 + bladez (Livelogs and ozfortress booker)
 + blitzen
 + Brodogs
-+ catfish (Leaague Director - called "Head Admin" at the time)
++ catfish (Leaague Director)
 + chimes
 + Cole
 + ferelah
