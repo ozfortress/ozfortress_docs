@@ -730,6 +730,7 @@ Please note this does not serve as a rule, and you should check with a League Ad
 + Say scripts (for example, class swap messages).
 + Loadout changing scripts.
 + Viewmodel / Crosshair switchers.
++ FOV toggle & Zoom scripts.
 + No explosions/particles smoke script.
 + Loadout change scripts and quick respawn scripts such as forward-spawn/backward-spawn scripts are explicitly allowed since Sixes Season 37 and Highlander Season 4, even if they preserve that class' current state:
     + This includes stickybomb projectiles, a medic's current medi-gun percentage and charge, an engineer's buildings, etc.
