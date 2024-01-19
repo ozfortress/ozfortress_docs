@@ -653,7 +653,7 @@ Upon request, you must provide the Approved Casting Organisations with the follo
 The above rules apply to Approved Casting Organisations only.
 
 #### 9.2.1. Becoming an Approved Casting Organisation
-Casting Organisation representatives may contact the ozfortress General Head Administrator or Media Coordinator to receive the ability to promote their coverage and/or become an approved casting organisation. Approval will only be granted once it is determined by ozfortress that the coverage meets approved standards.
+Casting Organisation representatives may contact the League Director or Media Coordinator to receive the ability to promote their coverage and/or become an approved casting organisation. Approval will only be granted once it is determined by ozfortress that the coverage meets approved standards.
 
 ### 9.3. Unapproved Casting Organisations
 Unapproved Casting Organisations or individuals may still cast official ozfortress matches. However, Approved Casting Organisations will have priority on matches they wish to cover. **Unapproved Casting Organisations must receive approval from both teams to cast a match**.

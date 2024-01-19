@@ -14,7 +14,7 @@ There are only a few reasons why we request player demos:
 - Match Dispute resolution
     - In most if not all cases, we will use SourceTV (STV) demo files to do this, or player steams/logs, before requesting POV demo files.
 - Anti-Cheat Demo Request
-    - Received a message from the Head of Anti-Cheat or General Head Administrator? Don't fret, this can happen for a number of reasons. Please note however, the same *Demo Fulfilment Guidelines* apply here as well.
+    - Received a message from the Head of Anti-Cheat or League Director? Don't fret, this can happen for a number of reasons. Please note however, the same *Demo Fulfilment Guidelines* apply here as well.
 
 ## Demo Fulfilment Guidelines
 If you have received a POV demo request, regardless of its type - you must follow the steps below.
@@ -37,4 +37,4 @@ Players or teams who fail to submit their POV demo files upon request by an admi
 - Further instances: Two (2) Year ban
 
 ## Further questions, concerns or issues?
-Open a General Support ticket in our discord. If you feel you are being unfairly targeted by an administrator, please feel free to contact the General Head Administrator directly!
+Open a General Support ticket in our discord. If you feel you are being unfairly targeted by an administrator, please feel free to contact the League Director directly!
