@@ -33,7 +33,7 @@ There are currently three Behaviour Panel members who are public, with two membe
 
 | Name | Discord |
 | ---- | ------- |
-| [a team of ants in their prime](https://ozfortress.com/users/1561) (Head of Behaviour Panel) | [@ateamofantsintheirprime](https://discordapp.com/users/187344325938511874) |
+| [core](https://ozfortress.com/users/491) (Head of Behaviour Panel) | [@coreobs](https://discordapp.com/users/226205616773922816) |
 | [snazzy](https://ozfortress.com/users/37 "Please DO NOT contact panel members, contact the Head of the Behaviour Panel only.") (Panel member) | [@thelampshade22](https://discordapp.com/users/125913179690631169) |
 | [ory](https://ozfortress.com/users/1303 "Please DO NOT contact Advisors, they no longer actively sit on the panel.") (Advisor) | N/A |
 | [samson](https://ozfortress.com/users/205 "Please DO NOT contact Advisors, they no longer actively sit on the panel.") (Advisor) | N/A |
