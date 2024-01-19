@@ -4,11 +4,11 @@ Have an issue that isn't within the Sixes or Highlander realm? Good chance our T
 
 | Role | Name | Discord |
 | ---- | ---- | ------- |
-| League Director | [core](https://ozfortress.com/users/491 "Please contact me via Discord only.") | [@itscore](https://discordapp.com/users/226205616773922816) |
+| League Director | [core](https://ozfortress.com/users/491 "Please contact me via Discord only.") | [@coreobs](https://discordapp.com/users/226205616773922816) |
 | Sixes Head Admin | [multi](https://ozfortress.com/users/781) | [@canyouprovethatimdriving](https://discordapp.com/users/125870207897042944) |
 | Highlander Head Admin | [Sperkle](https://ozfortress.com/users/618) | [@sperkle](https://discordapp.com/users/180875592923611145) |
 | Head of Anti-Cheat | [catfish](https://ozfortress.com/users/96) | [@catfishau](https://discordapp.com/users/129062149640159232) |
-| Head of Behaviour Panel | [core](https://ozfortress.com/users/491 "Please contact me via Discord only.") | [@itscore](https://discordapp.com/users/226205616773922816) |
+| Head of Behaviour Panel | [core](https://ozfortress.com/users/491 "Please contact me via Discord only.") | [@coreobs](https://discordapp.com/users/226205616773922816) |
 | Media Coordinator | [Sperkle](https://ozfortress.com/users/618) | [@sperkle](https://discordapp.com/users/180875592923611145) |
 | Developer | [/dev/zero](https://ozfortress.com/users/2) | [@.dev.zero](https://discordapp.com/users/131721186869641216) |
 
