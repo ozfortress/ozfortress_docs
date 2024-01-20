@@ -20,10 +20,11 @@ As mentioned in our competitive league rulesets, League Adminis in tandem with e
 | Sixes | [Celph](https://ozfortress.com/users/4285) | [@celph](https://discordapp.com/users/131180625649467392) |
 | Sixes | [down](https://ozfortress.com/users/299) | [@down11](https://discordapp.com/users/139166437754273792) |
 | Sixes | [emgee](https://ozfortress.com/users/76) | [@emgee](https://discordapp.com/users/86424530871910400) |
-| Sixes | [Hawk](https://ozfortress.com/users/233) | [@wils](https://discordapp.com/users/83079514917175296) |
+| Sixes | [Hawk](https://ozfortress.com/users/233) | [@hawk_33](https://discordapp.com/users/83079514917175296) |
 | Sixes | [HUNGRY4EGGS](https://ozfortress.com/users/1484) | [@hungry4eggs](https://discordapp.com/users/215383613439606784) |
 | Sixes | [raina](https://ozfortress.com/users/1729) | [@raina_exe](https://discordapp.com/users/712785948047441921) |
 | Sixes | [wils](https://ozfortress.com/users/598) | [@wils](https://discordapp.com/users/200809127549730816) |
+| Highlander | [hive](https://ozfortress.com/users/4274) | [@hive_au](https://discordapp.com/users/769469567272878110) |
 | Highlander | [Kai](https://ozfortress.com/users/4034) | [@head_empty_no_thoughts](https://discordapp.com/users/213653809937907712) |
 | Highlander | [Oldcustard](https://ozfortress.com/users/4030) | [@oldcustard](https://discordapp.com/users/333896131840966657) |
 | Highlander | [Rainy](https://ozfortress.com/users/3124) | [@rainy26](https://discordapp.com/users/107399782162558976) |
