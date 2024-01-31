@@ -10,15 +10,14 @@
 }
 .grid-item {
   background-color: var(--md-footer-bg-color);
-  border: 4px solid var(--md-footer-bg-color);
-  border-radius: 3px;
-  padding: 0px 20px 0px 20px;
+  border-left: 4px solid var(--md-footer-bg-color);
+  padding: 10px 18px 10px 18px;
   text-align: left;
   transition: ease 0.5s;
 }
 
 .grid-item:hover {
-  border: 4px solid var(--md-accent-fg-color);
+  border-left: 4px solid var(--md-accent-fg-color);
   transition: ease 0.3s;
 }
 
@@ -78,7 +77,7 @@
 <div class="hero-container">
   <h1>ozfortress Docs</h1>
   <div class="hero-span">
-    <span>A documentation site for <a href="https://ozfortress.com/">ozfortress</a>, Oceania's Premier Competitive Team Fortress 2 league.</span>
+    <span>A documentation site for <a href="https://ozfortress.com/">ozfortress</a>, Oceania's Premier Competitive Team Fortress league.</span>
   </div>
   <hr>
   <h2>Are you playing? Why aren't you playing!</h2>
