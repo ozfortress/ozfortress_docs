@@ -15,15 +15,14 @@ title: Support & Reporting
 
 .grid-item {
   background-color: var(--md-footer-bg-color);
-  border: 4px solid var(--md-footer-bg-color);
-  border-radius: 3px;
-  padding: 0px 10px 0px 10px;
+  border-left: 4px solid var(--md-footer-bg-color);
+  padding: 10px 10px 10px 10px;
   text-align: center;
   transition: ease 0.5s;
 }
 
 .grid-item:hover {
-  border: 4px solid var(--md-accent-fg-color);
+  border-left: 4px solid var(--md-accent-fg-color);
   transition: ease 0.3s;
 }
 
@@ -86,20 +85,14 @@ a:hover.discord-btn  {
 # ozfortress Support
 We understand that sometimes it's hard to wrap your head around specific rules, how something applies to your official matches, or what to do when in an active dispute with another team.
 
-That's ok! We're here to help. Have a question about a rule, or something you can't find an answer to in our docs?
+That's ok! We're here to help.
 
 ### Discord Support
-We offer dedicated support channels to each competitive format we host, along with a `#ticket-support` channel for opening a support ticket directly with our staff, useful for more sensitive questions/disputes.
-
- - For Sixes (6v6) related questions or concerns, please use `#sixes-support`. If you wish to speak to an administrator directly, you can leave a message with "dm me" and an administrator will get back to you.
- - For Highlander (HL) related questions or concerns, please use `#highlander-support`. If you wish to speak to an administrator directly, you can leave a message with "dm me" and an administrator will get back to you.
+Have a question, issue or dispute with another team? We offer dedicated support for each competition we run through our `#admin-support` channel in Discord. Don't hesitate to ask questions not pertaining to our competitions too!
 
 <a class="discord-btn" href="https://discord.gg/7E6kC2H">Join our Discord</a>
 
-### Other Support
-We currently don't offer any other league support avenues, but we are looking to offer more in the future.
-
-### Before you reach out, do any of the docs below answer your question?
+#### Before you reach out, do any of the docs below answer your question?
 We have a Frequently Asked Questions page which may answer your question, if not please feel free to reach out!
 
 <div class="grid-container">
