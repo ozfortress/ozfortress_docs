@@ -22,7 +22,8 @@ nav:
       - 'LAN Downunder Ruleset': 'rules/lan.md'
       - 'Community Guidelines': 'rules/community_guidelines.md'
       - 'User Policy': 'rules/user_policy.md'
-      - 'Infractions': 'rules/infractions.md'
+      - 'Player Behaviour Infractions': 'rules/infractions.md'
+      - 'League Penalties': 'rules/penalties.md'
     - 'League Info':
       - 'About Us': 'info/about_us.md'
       - 'Anti-Cheat & You': 'info/anticheat_and_you.md'
