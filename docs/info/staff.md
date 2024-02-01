@@ -10,7 +10,6 @@ Have an issue that isn't within the Sixes or Highlander realm? Good chance our T
 | Head of Anti-Cheat | [catfish](https://ozfortress.com/users/96) | [@catfishau](https://discordapp.com/users/129062149640159232) |
 | Head of Behaviour Panel | [core](https://ozfortress.com/users/491 "Please contact me via Discord only.") | [@coreobs](https://discordapp.com/users/226205616773922816) |
 | Media Coordinator | [Sperkle](https://ozfortress.com/users/618) | [@sperkle](https://discordapp.com/users/180875592923611145) |
-| Developer | [/dev/zero](https://ozfortress.com/users/2) | [@.dev.zero](https://discordapp.com/users/131721186869641216) |
 
 ## League Admins
 As mentioned in our competitive league rulesets, League Adminis in tandem with each league's Head Admin and League Director, are responsible for the effective running of ozfortress seasonal competitions.
@@ -52,6 +51,13 @@ The team that helps make everything media-related for ozfortress happen. Be it o
 | [Beater](https://ozfortress.com/users/2031) | [@beater](https://discordapp.com/users/105311959636791296) |
 | [Brady](https://ozfortress.com/users/140) | [@bradyyyy.](https://discordapp.com/users/179839476053311489) |
 | [joshrofllmao](https://ozfortress.com/users/1188) | [@joshroflmao](https://discordapp.com/users/170138245819138048) |
+
+## Development Team
+The team responsible for bringing you Citadel, updates to it, and production of our other services.
+
+| Name | Discord |
+| ---- | ------- |
+| Developer | [/dev/zero](https://ozfortress.com/users/2) | [@.dev.zero](https://discordapp.com/users/131721186869641216) |
 
 ## Past Staff
 
