@@ -40,9 +40,9 @@
     The Behaviour Panel reserves the right to issue infractions and/or ban to a person based on the offence, including offences committed whilst that person is already serving a ban.
 
 ## About Player Behaviour Infractions
-ozfortress polices behaviour using a system of infraction points. You are issued infraction points that correspond to specific breaches which carry different amounts of points and expiration times depending on the tier of the offence. Each player starts with 0 infraction points.
+ozfortress polices player behaviour using a system of infraction points. Infractions are split into different tiers, of which each tier carries more severe point totals and expiration times. Each person starts with 0 infraction points.
 
-Bans will be issued at different point levels, and carry different ban lengths and game bans depending on how many points you have accrued. Additionally, we list the infractions that can be issued and their corresponding rule. Infractions are active from their issue date (which can be seen on your profile), not from when a report is made.
+Bans will be issued at different point thresholds, and carry different ban lengths depending on which threshold is reached. Infractions are active from their issue date (seen on your profile), not from when a report is submitted or reviewed.
 
 ### Infraction Threshold Bans
 Bans are issued at different point thresholds, and carry different ban lengths depending on how many points a person has accrued. [Infraction Threshold bans](/info/bans/#infraction-threshold-bans) and each ban level can be seen [below](/rules/infractions/#infraction-threshold-ban-levels).
