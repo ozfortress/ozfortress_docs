@@ -1,11 +1,10 @@
 ## Welcome to ozfortress!
-ozfortress is a community-run tournament provider bringing Team Fortress 2 competitions to the Australasian community. Founded in 2001, ozfortress has been providing competitions and a community for over 21 years. As of 2022, ozfortress hosts Sixes (6v6) and Highlander (9v9) league tournaments triannually, with offseason tournaments between seasons including Ultiduo tournaments and various cups.
+ozfortress is a community-run competition provider bringing Team Fortress competitions to Australia/New Zealand and the wider Oceanic community. Founded in 2001, ozfortress has been providing competitions and a community for over 23 years. As of 2024, ozfortress hosts Sixes (6v6) and Highlander (9v9) league tournaments triannually, with offseason tournaments between seasons including Ultiduo tournaments and various cups.
 
 ## What is Competitive TF2?
 Has top-scoring in casual and matchmaking servers become too easy for you? Looking for a challenge? Then competitive TF2 is for you. The most popular and widely played variety of competitive TF2 is the 6v6 format. 6v6 (or 6’s) is primarily played on 5CP and KOTH maps and focuses on fast-paced gameplay and strong team coordination. Unlike the 6v6 competitive matchmaking mode built into TF2, competitive Sixes are run through community leagues such as ozfortress and are more structured than Valve’s 6v6, with a highly competitive community and established metagame and ruleset.
 
 9v9 is the other popular competitive TF2 game mode, known colloquially as Highlander. Each class is limited to one and the map pool consists primarily of Stopwatch and KOTH maps. Like Sixes (and since May of 2022), ozfortress has been running seasonal Highlander triannually. Highlander is typically seen as easier to approach, learn and play as a newer player, but don’t let that intimidate you from playing Sixes either!
-
 
 ## Playing Sixes (6v6) in ozfortress
 ozfortress offers 6v6 league tournaments three times a year through the warzone website for players in the Australasia region. Teams that enter these tournaments are grouped into the Open, Main, Intermediate or Premier brackets depending on their skill level and experience. All participants in ozfortress seasonal leagues receive an in-game medal, which depends on the final placement of your team in the division.
