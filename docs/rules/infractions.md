@@ -28,7 +28,7 @@
 }
 
 .grid-item h5 {
-  text-aligenter;
+  text-align: center;
   color: var(--md-primary-bg-color--light);
   font-size: 16px;
   font-weight: 600;

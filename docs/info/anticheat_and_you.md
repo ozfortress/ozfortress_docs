@@ -11,15 +11,14 @@
 
 .grid-item {
   background-color: var(--md-footer-bg-color);
-  border: 4px solid var(--md-footer-bg-color);
-  border-radius: 3px;
-  padding: 0px 10px 0px 10px;
+  border-left: 4px solid var(--md-footer-bg-color);
+  padding: 10px 10px 10px 10px;
   text-align: center;
   transition: ease 0.5s;
 }
 
 .grid-item:hover {
-  border: 4px solid var(--md-accent-fg-color);
+  border-left: 4px solid var(--md-accent-fg-color);
   transition: ease 0.3s;
 }
 
@@ -29,7 +28,7 @@
 }
 
 .grid-item h5 {
-  text-aligenter;
+  text-align: center;
   color: var(--md-primary-bg-color--light);
   font-size: 16px;
   font-weight: 600;
@@ -54,7 +53,7 @@ So what do you do now? Simple, **NOTHING**. If you find something else (new evid
 
 + We do not care how you feel about the suspect/s, if you lost your official, scrim or pug to them, that’s rough buddy, but we don’t care. **No action will be taken on your match until a verdict is reached by the Anti-Cheat panel, in their own time**.
 
-+ Know what the first rule of fight club is? We get that you might feel wronged by those players, but complaining about it will not speed up the Anti-Cheat review process. 
++ Know what the first rule of fight club is? We get that you might feel wronged by those players, but complaining publicly about it will not speed up the Anti-Cheat review process. The reality is those reviewing it will not see your complaint, and nor should they.
 
 + Failure to follow the guidance of the above clauses, and you will get the punishment befitting the weapons-grade moron you are. Help us, yourself, your team or group - by following the process outlined above in a logical manner and if needed, a less emotional state.
 
