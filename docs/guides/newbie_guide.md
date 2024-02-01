@@ -22,7 +22,7 @@ Other rules and regulations that affect the Sixes metagame include the ozfortres
 
 Most competitive TF2 teams use VoIP programs to communicate with one another in-game. The most commonly used programs are [Mumble](https://wiki.mumble.info/) and [Discord](https://discordapp.com/).
 
-If you want to see some high-level 6v6 action for yourself, you can check out the [KritzKast](https://www.youtube.com/c/KritzKast) and [CappingTV](https://www.youtube.com/channel/UCgot1MKjG8nVkP8sjhkN4Rg) for coverage of ozfortress matches and [teamfortress.tv](https://www.youtube.com/user/TeamFortressTV) for coverage of European matches, and [RGL](https://www.twitch.tv/rglgg) for North American matches.
+If you want to see some high-level 6v6 action for yourself, you can check out the [KritzKast](https://twitch.tv/KritzKast) and [CappingTV](https://www.youtube.com/channel/UCgot1MKjG8nVkP8sjhkN4Rg) for coverage of ozfortress matches and [teamfortress.tv](https://www.youtube.com/user/TeamFortressTV) for coverage of European matches, and [RGL](https://www.twitch.tv/rglgg) for North American matches.
 
 ## Playing Highlander (9v9) in ozfortress
 ozfortress also offers 9v9 league tournaments three times a year through the warzone website for players in the Australasia region. Teams that enter these tournaments are grouped into the Main or Premier brackets depending on their skill level and experience, along with the number of teams that have signed up. All participants in ozfortress seasonal leagues receive an in-game medal, which depends on the final placement of your team in the division.
@@ -40,7 +40,7 @@ Other rules and regulations that affect the Highlander metagame include the ozfo
 
 Most competitive TF2 teams use VoIP programs to communicate with one another in-game. The most commonly used programs are [Mumble](https://wiki.mumble.info/) and [Discord](https://discordapp.com/).
 
-If you want to see some high-level Highlander action for yourself, you can check out the [KritzKast](https://www.youtube.com/c/KritzKast) and [CappingTV](https://www.youtube.com/channel/UCgot1MKjG8nVkP8sjhkN4Rg) for coverage of ozfortress matches and [KritzKast](https://www.youtube.com/c/KritzKast)for coverage of European matches, and [RGL](https://www.twitch.tv/rglgg) for North American matches.
+If you want to see some high-level Highlander action for yourself, you can check out the [KritzKast](https://twitch.tv/KritzKast) and [CappingTV](https://www.youtube.com/channel/UCgot1MKjG8nVkP8sjhkN4Rg) for coverage of ozfortress matches and [KritzKast](https:/twitch.tv/KritzKast)for coverage of European matches, and [RGL](https://www.twitch.tv/rglgg) for North American matches.
 
 ## Getting Started in ozfortress
 So now you understand the fundamentals of the Sixes / Highlander format, it’s time to get started! First, pick a main class, usually the class that you are best at or have the most fun with. Mastering a single class is much more efficient and satisfying, however, some people enjoy changing classes every season in order to gain experience in multiple classes.
