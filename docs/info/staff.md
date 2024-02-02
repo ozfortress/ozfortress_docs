@@ -58,6 +58,8 @@ The team responsible for bringing you Citadel, updates to it, and production of 
 | Name | Discord |
 | ---- | ------- |
 | Developer | [/dev/zero](https://ozfortress.com/users/2) | [@.dev.zero](https://discordapp.com/users/131721186869641216) |
+| Developer | [Shigbeard](https://ozfortress.com/users/1395) | [@shigbeard](https://discordapp.com/users/136264506933248000) |
+| Developer | [tetrx](https://ozfortress.com/users/249) | [@tetrix.au](https://discordapp.com/users/89313228194058240) |
 
 ## Past Staff
 
