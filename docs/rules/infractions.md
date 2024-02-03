@@ -90,12 +90,20 @@ Infraction points do **not** expire after a person's ban ends, Infraction points
 ## Probations
 Probations are applied when a person is banned, and said probation will remain for a 12-month period after the ban's expiry. Within this probation period, offences carry higher severity depending on the tier of the offence.
 
-+ Tier 1 infractions are doubled, and will incur 20 points. 
++ Tier 1 infractions are multiplied by 2x, and will incur 20 points. 
 + Tier 2 infractions are multiplied by 1.5x, and will incur 30 points.
-+ Tier 3 infractions are doubled, and will instantly incur 60 points.
++ Tier 3 infractions are multiplied by 2x, and will instantly incur 60 points.
 
 ## Ban Resets
-Infractions accrued whilst serving a ban can result in a person's ban being reset back to its original length. We have set a point threshold of 60 points before a ban will be reset. The Ban Reset threshold is subject to the increased penalties of Probations, meaning that any Tier 3 offence will result in a Ban Reset. The Behaviour Panel reserves the right to reset a person's ban for any offence, but we will endeavour to keep it to the probation penalty increases outlined above.
+Infractions accrued whilst serving a ban can result in a person's ban being reset back to its original length. We have set point thresholds to dictate when a ban will be reset, or when a person has too many points for their ban to be reset and a Ban Extension may be considered.
+
+- Minimum Ban Reset point threshold: 30 points
+- Maximum Ban Reset point threshold: 90 points
+
+The Ban Reset thresholds are not subject to the increased penalties of Probations. The Behaviour Panel reserves the right to reset a person's ban for any offence.
+
+### Ban Extensions
+Whilst Ban Extensions have been mostly retired by Ban Resets, the Behaviour Panel will still reserve the right to use Ban Extensions in more severe cases, or where someone breaches the maximum point threshold for a Ban Reset.
 
 !!! warning "Recent Change"
     In the past, Infractions accrued during an active ban would be upped in severity due to Probations as detailed above. With these higher penalties, offenders could see ban extensions of two years or higher. Whilst not all would believe it, we don't want to be banning anyone for periods of longer than two years, it just doesn't allow those people to reflect, change and then return. In the spirit of this, we have set a point threshold for those serving bans and if it is breached, their ban is reset back to the length their ban was previously.
