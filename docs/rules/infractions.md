@@ -88,7 +88,7 @@ The 3-Round Match Ban carries across competitions, so if it is received during t
 Infraction points do **not** expire after a person's ban ends, Infraction points expire depending on their own expiry. Infraction expiries are listed with the offences below.
 
 ## Probations
-Probations are applied when a person is banned, and said probation will remain for a 12-month period after the ban's expiry. Within this probation period, offences carry higher severity depending on the tier of the offence.
+Probations are applied after a person's ban expires, and said probation will remain for a 12-month period after their ban. Within this probation period, offences will incur penalties of a higher severity, depending on the tier of the offence.
 
 + Tier 1 infractions are multiplied by 2x, and will incur 20 points. 
 + Tier 2 infractions are multiplied by 1.5x, and will incur 30 points.
@@ -129,7 +129,6 @@ Specifically player behaviour not related to in-match play or organisation. Plea
     - Racism (ethnic or cultural)
     - Sexism
     - Transphobia
-    - Harmful ableist language
 + General bigotry/use of derogatory slurs against an individual or group
 + Posting of illicit content on ozfortress services or within our community.
 
