@@ -126,7 +126,7 @@ Specifically player behaviour not related to in-match play or organisation. Plea
 + Threats of violence/harm against an individual or group
 + Discrimination of any kind; some examples are;
     - Homophobia
-    - Racism (ethnic or cultural)
+    - Racism
     - Sexism
     - Transphobia
 + General bigotry/use of derogatory slurs against an individual or group
