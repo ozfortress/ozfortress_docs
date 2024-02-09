@@ -1,12 +1,12 @@
 # Global Ruleset
-!!! warning "Please Note/Disclaimer"
+!!! failure "Disclaimer"
     **ozfortress is not affiliated with or sponsored by Valve Corporation.**
 
     **The sale of in-game ozfortress medals, as well as any other medals, is strictly prohibited.**
     
-    **Valve maintains a strict policy that league and tournament runners against the sale of Medals/Promotional items by league and tournament organizers,** and this policy extends to players seeking to acquire such Medals/Promotional Items, whether through in-game currency, real money, or other means.
+    **Valve maintains a strict policy that league and tournament runners should never sell/allow the sale of Medals/Promotional**, and this policy extends to players seeking to acquire such Medals/Promotional Items, whether through in-game currency, real money, or other means. Individuals or parties caught engaging in the sale or trade of medals will be reported directly to Valve.
 
-    Additionally, selling a slot on an active roster for in-game items or money is also **strictly prohibited**. Individuals or parties caught engaging in the sale or trade of medals will be reported directly to Valve.
+    Selling a slot on an active roster for in-game items or money is also **strictly prohibited** by ozfortress. 
 
 ## 1. Ruleset Information
 ### 1.1. Global Ruleset
