@@ -115,7 +115,7 @@ summary: docs.ozfortress.com homepage.
   <div class="grid-item">
     <h5>League Penalties</h5>
     <hr>
-    <p>Penalty system used to penalise breaches of competition rulesets via minor, moderate and major penalty tiers.</p>
+    <p>Penalty system used to penalise breaches of competition rulesets via minor/moderate/major penalty tiers.</p>
   </div>
   </a>
   <a href="/faq/landing">
