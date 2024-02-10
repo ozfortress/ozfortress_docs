@@ -19,8 +19,8 @@ There are only a few reasons why we request player demos:
 ## Demo Fulfilment Guidelines
 If you have received a POV demo request, regardless of its type - you must follow the steps below.
 
-!!! Note
-        The process below **needs to be completed within 72 hours of receiving the message** or **prior to your next official match** (whichever occurs first).
+!!!warning "Note"
+    The process below **needs to be completed within 72 hours of receiving the message** or **prior to your next official match** (whichever occurs first).
 
 1. Thoroughly read through the message you received from one of our administrators, along with any additional instructions they may have provided.
 2. Upload the correct POV demo files to Google Drive, Discord, OneDrive, Dropbox, Mega, demos.tf, or MediaFire then send them to the administrator requesting the demos.
