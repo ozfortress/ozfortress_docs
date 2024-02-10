@@ -24,14 +24,12 @@ title: Support & Reporting
   }
 }
 
-
-
 .grid-item {
   background-color: var(--md-footer-bg-color);
   border-left: 4px solid var(--md-footer-bg-color);
-  padding: 10px 10px 10px 10px;
+  padding: 10px 18px 10px 18px;
   text-align: center;
-  transition: ease 0.5s;
+  transition: ease 0.3s;
 }
 
 .grid-item:hover {
@@ -39,25 +37,19 @@ title: Support & Reporting
   transition: ease 0.3s;
 }
 
-.grid-item:hover h5 {
-  color: var(--md-accent-fg-color);
+.grid-item h5 {
+  color: var(--md-typeset-color);
+  font-size: 16px;
+  font-weight: 600;
   transition: ease 0.3s;
 }
 
-.grid-item h5 {
-  text-aligenter;
-  color: var(--md-primary-bg-color--light);
-  font-size: 16px;
-  font-weight: 600;
-  transition: ease 0.5s;
-}
-
 .grid-item hr {
-  background-color: var(--md-primary-bg-color--light);
+  background-color: var(--md-typeset-color);
 }
 
 .grid-item p {
-  color: var(--md-primary-bg-color);
+  color: var(--md-typeset-color);
 }
 
 h3 {
@@ -73,7 +65,6 @@ h2 {
 .discord-btn {
   background-color: #738adb;
   border-radius: 3px;
-  color: var(--md-default-fg-color);
   padding: 10px 15px 10px 15px;
   text-align: center;
   transition: ease 0.5s;
@@ -83,11 +74,7 @@ h2 {
 
 a.discord-btn {
   text-transform: none;
-  color: var(--md-default-fg-color);
-}
-
-a:hover.discord-btn  {
-  color: var(--md-default-fg-color);
+    color: #ffffff;
 }
 </style>
 
@@ -96,7 +83,7 @@ We understand that sometimes it's hard to wrap your head around specific rules, 
 
 That's ok! We're here to help.
 
-### Discord Support
+### League/Competition Support
 Have a question, issue or dispute with another team? We offer dedicated support for each competition we run through our `#admin-support` channel in Discord. Don't hesitate to ask questions not pertaining to our competitions too!
 
 <a class="discord-btn" href="https://discord.gg/7E6kC2H">Join our Discord</a>

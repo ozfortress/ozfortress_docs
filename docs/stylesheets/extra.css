@@ -3,7 +3,8 @@
     --md-primary-fg-color--light: #00abba;
     --md-primary-fg-color--dark: #00abba;
     --md-accent-fg-color: #00abba;
-    --md-footer-bg-color: hsla(0, 0%, 0%, 0.15);
+    --md-footer-bg-color: var(--md-code-bg-color);
+    --md-footer-fg-color: var(--md-typeset-color);
 }
 
 .md-typeset a {
