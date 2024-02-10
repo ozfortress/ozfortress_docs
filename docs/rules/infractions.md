@@ -1,41 +1,5 @@
 <link rel="stylesheet" href="/stylesheets/extra.css" />
 
-<style>
-.grid-container {
-  display: grid;
-  column-gap: 24px;
-  row-gap: 24px;
-  grid-template-columns: auto auto auto auto;
-  background: none;
-}
-
-.grid-item {
-  background-color: var(--md-footer-bg-color);
-  border-left: 4px solid var(--md-footer-bg-color);
-  padding: 10px 10px 10px 10px;
-  text-align: center;
-  transition: ease 0.5s;
-}
-
-.grid-item:hover {
-  border-left: 4px solid var(--md-accent-fg-color);
-  transition: ease 0.3s;
-}
-
-.grid-item:hover h5 {
-  color: var(--md-accent-fg-color);
-  transition: ease 0.3s;
-}
-
-.grid-item h5 {
-  text-align: center;
-  color: var(--md-primary-bg-color--light);
-  font-size: 16px;
-  font-weight: 600;
-  transition: ease 0.5s;
-}
-</style>
-
 !!! success "Notice"
     The Behaviour Panel reserves the right to issue infractions and/or ban to a person based on the offence, including offences committed whilst that person is already serving a ban.
 

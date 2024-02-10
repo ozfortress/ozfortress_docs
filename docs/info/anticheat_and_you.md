@@ -8,34 +8,6 @@
   grid-template-columns: auto auto auto auto;
   background: none;
 }
-
-.grid-item {
-  background-color: var(--md-footer-bg-color);
-  border-left: 4px solid var(--md-footer-bg-color);
-  padding: 10px 18px 10px 18px;
-  text-align: center;
-  transition: ease 0.3s;
-}
-
-.grid-item:hover {
-  border-left: 4px solid var(--md-accent-fg-color);
-  transition: ease 0.3s;
-}
-
-.grid-item h5 {
-  color: var(--md-typeset-color);
-  font-size: 16px;
-  font-weight: 600;
-  transition: ease 0.3s;
-}
-
-.grid-item hr {
-  background-color: var(--md-typeset-color);
-}
-
-.grid-item p {
-  color: var(--md-typeset-color);
-}
 </style>
 
 ## The Anti-Cheat process and You
