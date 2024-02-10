@@ -1,9 +1,18 @@
-@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
-
 :root > * {
-    --md-primary-fg-color: #111111;
-    --md-primary-fg-color--light: #111111;
-    --md-primary-fg-color--dark:#111111;
+    --md-primary-fg-color: #00abba;
+    --md-primary-fg-color--light: #00abba;
+    --md-primary-fg-color--dark: #00abba;
     --md-accent-fg-color: #00abba;
-    font-family: 'Inter', sans-serif;
+}
+
+.md-typeset a {
+    color: #00abba;
+}
+
+.md-typeset a:hover {
+    color: #0060ba;
+}
+
+.md-nav__item .md-nav__link--active, .md-nav__item .md-nav__link--active {
+    color: #00abba;
 }

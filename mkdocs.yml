@@ -13,6 +13,7 @@ repo_name: ozfortress/ozfortress_docs
 repo_url: https://github.com/ozfortress/ozfortress_docs
 copyright: >
   Copyright &copy; 2022 - 2024 ozfortress
+  <a href="#__consent">Change cookie settings</a>
 nav:
     - Home: 'index.md'
     - 'Rulesets':
@@ -52,7 +53,7 @@ nav:
 theme:
   name: 'material'
   custom_dir: overrides
-  favicon: 'img/logo.svg'
+  favicon: 'img/favicon.svg'
   logo: 'img/logo.svg'
   icon:
     repo: fontawesome/brands/github
@@ -69,34 +70,51 @@ theme:
       bug: octicons/bug-16
       example: octicons/beaker-16
       quote: octicons/quote-16
+  font:
+    text: Inter
   palette:
-    # Palette toggle for Light Mode
-    - media: "(prefers-color-scheme: light)"
-      scheme: default
-      #primary: black
+    # Palette toggle for automatic mode
+    - media: "(prefers-color-scheme)"
       toggle:
-        icon: fontawesome/solid/moon
-        name: Switch to Dark Mode
-    # Palette toggle for Dark Mode
+        icon: material/brightness-auto
+        name: Switch to light mode
+        primary: custom
+        accent: custom
+
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default 
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+        primary: custom
+        accent: custom
+
+    # Palette toggle for dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      #primary: black
       toggle:
-        icon: fontawesome/solid/sun
-        name: Switch to Light Mode
+        icon: material/brightness-4
+        name: Switch to system preference
+        primary: custom
+        accent: custom
   features:
+   - announce.dismiss
    - search.highlight
    - search.suggest
    - search.share
    - navigation.instant
    - navigation.tracking
-   - navigation.tabs
-   - navigation.expand
+   #- navigation.tabs
+   #- navigation.expand
    - navigation.top
    - toc.follow
    - content.tooltips
 markdown_extensions:
   - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
   - md_in_html
   - admonition
   - pymdownx.keys
@@ -105,13 +123,26 @@ markdown_extensions:
   - toc:
       permalink: true
 plugins:
+  - privacy
   - search
   - glightbox
   - git-revision-date-localized:
       type: timeago
-      enable_creation_date: false
+      enable_creation_date: true
       fallback_to_build_date: true # remove this prior to launch
 extra:
+  consent:
+    #cookies:
+      #analytics: github
+    #actions:
+      #- accept
+      #- manage
+    #title: Cookie consent
+    #description: >- 
+      #We use cookies to recognize your repeated visits and preferences, as well
+      #as to measure the effectiveness of our documentation and whether users
+      #find what they're searching for. With your consent, you're helping us to
+      #make our documentation better.
   generator: false
   use_directory_urls: true
   social:
@@ -131,15 +162,5 @@ extra:
       link: https://facebook.com/ozfortress
     - icon: fontawesome/brands/github
       link: https://github.com/ozfortress
-#  consent:
-#    title: Hey, we use cookies!
-#    description: >- 
-#      We use cookies to recognize your repeated visits and preferences, as well
-#      as to measure the effectiveness of our documentation and whether players can
-#      find what they're searching for. With your consent, you're helping us to
-#      make our documentation better.
-#  actions:
-#    - accept
-#    - manage
 extra_css:
   - stylesheets/extra.css
