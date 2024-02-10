@@ -10,7 +10,7 @@ summary: docs.ozfortress.com homepage.
   border-left: 4px solid var(--md-footer-bg-color);
   padding: 10px 18px 10px 18px;
   text-align: left;
-  transition: ease 0.5s;
+  transition: ease 0.3s;
 }
 
 .grid-item:hover {
@@ -18,24 +18,19 @@ summary: docs.ozfortress.com homepage.
   transition: ease 0.3s;
 }
 
-.grid-item:hover h5 {
-  color: var(--md-accent-fg-color);
+.grid-item h5 {
+  color: var(--md-typeset-color);
+  font-size: 16px;
+  font-weight: 600;
   transition: ease 0.3s;
 }
 
-.grid-item h5 {
-  color: var(--md-primary-bg-color--light);
-  font-size: 16px;
-  font-weight: 600;
-  transition: ease 0.5s;
-}
-
 .grid-item hr {
-  background-color: var(--md-primary-bg-color--light);
+  background-color: var(--md-typeset-color);
 }
 
 .grid-item p {
-  color: var(--md-primary-bg-color);
+  color: var(--md-typeset-color);
 }
 
 .hero-container h2 {
