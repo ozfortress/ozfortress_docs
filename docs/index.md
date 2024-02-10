@@ -32,10 +32,6 @@ summary: docs.ozfortress.com homepage.
     grid-template-columns: auto;
     background: none;
   }
-
-  .grid-item {
-    text-align: left;
-  }
 }
 
 @media only screen and (min-width: 1220px) {
@@ -55,6 +51,10 @@ summary: docs.ozfortress.com homepage.
     grid-template-columns: auto auto;
     background: none;
   }
+}
+
+.grid-item {
+    text-align: left;
 }
 </style>
 
