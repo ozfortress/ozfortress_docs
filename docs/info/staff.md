@@ -1,4 +1,11 @@
 # Current & Past Staff
+!!!abstract "Staff Tag Disclaimer"
+    ozfortress has seen dozens of staff members over the last couple decades, and without them it would not be where it is today. Below you'll find the current and past staff members listed with contact info. Please note, if a "staff" member is not on this page, they are not a staff member and you should report them to the League Director.
+
+    ozfortress staff are no longer expected to run the "ozfortress" tag in their Steam alias, so this page is the best resource to check if a staff member is who they say they are.
+
+    **If you are found actively trying to impersonate, apply affiliation with, or deceive community members by acting as a member of the ozfortress staff, you will be punished.**
+
 ## Team Leads/Heads
 Have an issue that isn't within the Sixes or Highlander realm? Good chance our Team Leads/Heads will have an answer for you. As always, we ask that you go through either `#sixes-support` / `#highlander-support` / `#ticket-support` within our [Discord](https://discord.gg/7E6kC2H "If you have issues with verification, please contact an administrator via the sidebar in Discord.") first before contacting one of us directly.
 
@@ -36,10 +43,10 @@ There are currently three Behaviour Panel members who are public, with two membe
 
 | Name | Discord |
 | ---- | ------- |
-| [core](https://ozfortress.com/users/491) (Head of Behaviour Panel) | [@coreobs](https://discordapp.com/users/226205616773922816) |
+| [core](https://ozfortress.com/users/491 "Please feel free to reach out to me via Discord @coreobs." ) (Head of Behaviour Panel) | [@coreobs](https://discordapp.com/users/226205616773922816) |
 | [snazzy](https://ozfortress.com/users/37 "Please DO NOT contact panel members, contact the Head of the Behaviour Panel only.") (Panel member) | [@thelampshade22](https://discordapp.com/users/125913179690631169) |
-| [ory](https://ozfortress.com/users/1303 "Please DO NOT contact Advisors, they no longer actively sit on the panel.") (Advisor) | N/A |
-| [samson](https://ozfortress.com/users/205 "Please DO NOT contact Advisors, they no longer actively sit on the panel.") (Advisor) | N/A |
+| [ory](https://ozfortress.com/users/1303 "Please DO NOT contact Advisors, they no longer actively sit on the panel. ory was there at the beginning when the Behaviour Panel (formerly known as the infractions team) was formed, and has been crucial throughout the years. He now sits in an Advisory role.") (Advisor) | N/A |
+| [samson](https://ozfortress.com/users/205 "Please DO NOT contact Advisors, they no longer actively sit on the panel. samson was one of our longest serving Behaviour Panel leads, overseeing years of behaviour management. Thank you for your work legend!") (Advisor) | N/A |
 
 Those above marked with Advisor are only on the panel in an advisory capacity. Advisors are only called upon in difficult/edge cases or when we need another opinion. Those in the Advisor role will only ever be past long-serving panel members, panel leads, Head Admins, etc.
 
@@ -58,11 +65,11 @@ The team that helps make everything media-related for ozfortress happen. Be it o
 ## Development Team
 The team responsible for bringing you Citadel, updates to it, and production of our other services.
 
-| Name | Discord |
+| Role | Name |
 | ---- | ------- |
 | Developer | [/dev/zero](https://ozfortress.com/users/2) | [@.dev.zero](https://discordapp.com/users/131721186869641216) |
 | Developer | [Shigbeard](https://ozfortress.com/users/1395) | [@shigbeard](https://discordapp.com/users/136264506933248000) |
-| Developer | [tetrx](https://ozfortress.com/users/249) | [@tetrix.au](https://discordapp.com/users/89313228194058240) |
+| Front-End Developer | [tetrx](https://ozfortress.com/users/249) | [@tetrix.au](https://discordapp.com/users/89313228194058240) |
 
 ## Past Staff
 
