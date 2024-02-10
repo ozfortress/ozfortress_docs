@@ -1,13 +1,10 @@
+---
+summary: docs.ozfortress.com homepage.
+---
+
 <link rel="stylesheet" href="/stylesheets/extra.css" />
 
 <style>
-.grid-container {
-  display: grid;
-  column-gap: 24px;
-  row-gap: 24px;
-  grid-template-columns: auto auto auto;
-  background: none;
-}
 .grid-item {
   background-color: var(--md-footer-bg-color);
   border-left: 4px solid var(--md-footer-bg-color);
@@ -50,19 +47,8 @@
   color: var(--md-default-fg-color--light);
 }
 
-@media only screen and (min-width: 1220px) {
-  .md-sidebar--primary {
-    display: none;
-  }
-  .md-sidebar--secondary {
-    display: none;
-    order: 0;
-    width: 0%;
-  }
-}
-
 @media only screen and (max-width: 1219px) {
-  .md-sidebar--secondary {
+  /*.md-sidebar--secondary {
     display: none;
     order: 0;
     width: 0%;
@@ -70,6 +56,33 @@
 
   .md-source-file {
     display: none;
+  }*/
+
+  .grid-container {
+    display: grid;
+    column-gap: 24px;
+    row-gap: 24px;
+    grid-template-columns: auto;
+    background: none;
+  }
+}
+
+@media only screen and (min-width: 1220px) {
+  /*.md-sidebar--primary {
+    display: none;
+  }
+  .md-sidebar--secondary {
+    display: none;
+    order: 0;
+    width: 0%;
+  }*/
+
+  .grid-container {
+    display: grid;
+    column-gap: 24px;
+    row-gap: 24px;
+    grid-template-columns: auto auto;
+    background: none;
   }
 }
 </style>
@@ -80,9 +93,6 @@
     <span>A documentation site for <a href="https://ozfortress.com/">ozfortress</a>, Oceania's Premier Competitive Team Fortress league.</span>
   </div>
   <hr>
-  <h2>Are you playing? Why aren't you playing!</h2>
-  <p>Want to up your game? Does playing competitively interest you? Sign up to play at our main website <a href="https://ozfortress.com/">ozfortress.com</a>.</p>
-  <hr>
 </div>
 
 <div class="grid-container">
@@ -90,31 +100,37 @@
   <div class="grid-item">
     <h5>Global Ruleset</h5>
     <hr>
-    <p>The competitive ruleset at large that governs ozfortress competitions.</p>
+    <p>The competitive ruleset at large, used to govern most, if not all ozfortress competitions.</p>
   </div>
   </a>
   <a href="/rules/community_guidelines">
   <div class="grid-item">
     <h5>Community Guidelines</h5>
     <hr>
-    <p>Player conduct guidelines that set our expectations for behaviour within ozfortress.</p>
+    <p>Conduct Guidelines that set our expectations for player behaviour within ozfortress.</p>
   </div>
   </a>
   <a href="/rules/infractions">
   <div class="grid-item">
-    <h5>Infractions Ruleset</h5>
+    <h5>Player Behaviour Infractions</h5>
     <hr>
-    <p>ozfortress' punishment system, used to enforce our rulesets.</p>
+    <p>ozfortress' player behaviour enforcement system, keeping our community safe, accepting and inviting.</p>
+  </div>
+  <a href="/rules/penalties">
+  <div class="grid-item">
+    <h5>League Penalties</h5>
+    <hr>
+    <p>Penalty system used to penalise breaches of competition rulesets via minor, moderate and major penalty tiers.</p>
   </div>
   </a>
   <a href="/faq/landing">
   <div class="grid-item">
-    <h5>ozfortress FAQ</h5>
+    <h5>Frequently Asked Questions</h5>
   </div>
   </a>
   <a href="/support/landing">
   <div class="grid-item">
-    <h5>ozfortress Support</h5>
+    <h5>Support & Reporting Hub</h5>
   </div>
   </a>
   <a href="/guides/landing">

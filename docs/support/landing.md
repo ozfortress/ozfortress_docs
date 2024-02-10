@@ -5,13 +5,26 @@ title: Support & Reporting
 <link rel="stylesheet" href="/stylesheets/extra.css" />
 
 <style>
-.grid-container {
-  display: grid;
-  column-gap: 24px;
-  row-gap: 24px;
-  grid-template-columns: auto auto auto auto;
-  background: none;
+@media only screen and (max-width: 1219px) {
+  .grid-container {
+    display: grid;
+    grid-template-columns: auto;
+    column-gap: 24px;
+    row-gap: 24px;
+  }
 }
+
+@media only screen and (min-width: 1220px) {
+  .grid-container {
+    display: grid;
+    column-gap: 24px;
+    row-gap: 24px;
+    grid-template-columns: auto auto;
+    background: none;
+  }
+}
+
+
 
 .grid-item {
   background-color: var(--md-footer-bg-color);
@@ -45,10 +58,6 @@ title: Support & Reporting
 
 .grid-item p {
   color: var(--md-primary-bg-color);
-}
-
-.md-sidebar--primary {
-  display: none;
 }
 
 h3 {
@@ -135,26 +144,21 @@ We have a Frequently Asked Questions page which may answer your question, if not
 
 ---
 
-## Reporting Misconduct
+## Reporting Player Behaviour
 Not sure where or how to report player/team misconduct? Don't worry, we have the answers you are looking for! We do ask that you peruse through our docs pages before reporting player or team misconduct. These docs may contain information to help you, help us when submitting your report.
 
 <div class="grid-container">
   <a href="/rules/infractions">
   <div class="grid-item">
-    <h5>Infractions ruleset</h5>
-  </div>
-  </a>
-  <a href="/faq/misconduct">
-  <div class="grid-item">
-    <h5>FAQ: Misconduct</h5>
+    <h5>Player Behaviour Infractions</h5>
   </div>
   </a>
 </div><br>
 
-#### Community Behaviour Reporting
-To submit evidence for a Community Behaviour Review, [please make a new thread here](https://ozfortress.com/forums/threads/new?topic=28).
+#### Making a Report
+To submit a report to the Behaviour Panel, [please make a new thread here](https://ozfortress.com/forums/threads/new?topic=28).
 
-!!! warning "ozfortress account required"
+!!! info "ozfortress account required"
     You will need to have an ozfortress.com account and be signed in to make a submission.
 
 ##### Submission Template
@@ -177,11 +181,6 @@ Not sure where or how to report player/team for suspected cheating? Don't worry,
   <a href="/info/anticheat_and_you">
   <div class="grid-item">
     <h5>Anti-Cheat & You</h5>
-  </div>
-  </a>
-  <a href="/faq/anticheat">
-  <div class="grid-item">
-    <h5>FAQ: Anti-Cheat</h5>
   </div>
   </a>
 </div><br>
