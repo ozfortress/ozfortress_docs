@@ -130,6 +130,9 @@ plugins:
       type: timeago
       enable_creation_date: true
       fallback_to_build_date: true # remove this prior to launch
+  - git-committers:
+      repository: ozfortress/ozfortress_docs
+      branch: master
 extra:
   consent:
     #cookies:
