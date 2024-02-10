@@ -12,7 +12,7 @@ Have an issue that isn't within the Sixes or Highlander realm? Good chance our T
 | Media Coordinator | [Sperkle](https://ozfortress.com/users/618) | [@sperkle](https://discordapp.com/users/180875592923611145) |
 
 ## League Admins
-As mentioned in our competitive league rulesets, League Adminis in tandem with each league's Head Admin and League Director, are responsible for the effective running of ozfortress seasonal competitions.
+As mentioned in our competitive league rulesets, League Administrators in tandem with each league's Head Administrator and League Director, are responsible for the effective running of ozfortress seasonal competitions.
 
 | League | Name | Discord |
 | ---- | ---- | ------- |
@@ -27,6 +27,9 @@ As mentioned in our competitive league rulesets, League Adminis in tandem with e
 | Highlander | [Kai](https://ozfortress.com/users/4034) | [@head_empty_no_thoughts](https://discordapp.com/users/213653809937907712) |
 | Highlander | [Oldcustard](https://ozfortress.com/users/4030) | [@oldcustard](https://discordapp.com/users/333896131840966657) |
 | Highlander | [Rainy](https://ozfortress.com/users/3124) | [@rainy26](https://discordapp.com/users/107399782162558976) |
+
+## New Player Experience Team
+Our New Player Experience Team was formed to help us further bridge the gap between competitive TF2 and the casual community. Good chance, if we're running team drives, icebreakers or cups, these guys are involved!
 
 ## Public Behaviour Panel members
 There are currently three Behaviour Panel members who are public, with two members who are not. We leave this decision purely up to the individual, however we do ask that those in an administration role (or those who were) are public-facing if possible. We will always strive to have an equal ratio of staff/non-staff members, if not strive for more members who are not serving in an administration role.
