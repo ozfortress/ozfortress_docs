@@ -353,18 +353,18 @@ Captains of a disbanded team will receive a Tier 2 Infraction and may face a cap
 
 To prevent penalties, team captains and/or team members are encouraged to promptly engage with administrators at the first sign of issues to work towards a solution.
 
-### 4.6. Class Restrictions
-Depending on the skill level of a player and their team, class restrictions may apply. Class restrictions are informed by many factors including, but not limited to, other teams and players within a division. As restrictions are often contextual, a player who shifts teams within a division may encounter a different set of restrictions.
+### 4.6. Player Restrictions
+Depending on the skill level of a player and their team, player restrictions may apply. Player restrictions are informed by many factors including, but not limited to, other teams and players within a division. As restrictions are often contextual, a player who shifts teams within a division may encounter a different set of restrictions.
 
-#### 4.6.1. Class Restriction Limit
+#### 4.6.1. Player Restriction Limit
 The number of players on a roster who can be class restricted is limited based on the format.
 
-|   Format   | Class Restriction Limit |
+|   Format   | Player Restriction Limit |
 | :--------: | :---------------------: |
 |   Sixes    |        3 players        |
-| Highlander |        No limit         |
+| Highlander |        5 players        |
 
-#### 4.6.2. Class Restriction Non-Compliance
+#### 4.6.2. Player Restriction Non-Compliance
 If a player plays a restricted class, this player will receive a Tier 2 Infraction. Additionally, a forfeit win will be awarded to the opposing team. This forfeit loss **does** contribute to the offending team's total forfeit limit.
 
 ---
