@@ -71,7 +71,7 @@ theme:
       example: octicons/beaker-16
       quote: octicons/quote-16
   font:
-    text: Noto Sans
+    text: Poppins
   palette:
     # Palette toggle for automatic mode
     - media: "(prefers-color-scheme)"
