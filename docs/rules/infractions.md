@@ -1,5 +1,42 @@
 <link rel="stylesheet" href="/stylesheets/extra.css" />
 
+<style>
+.grid-container {
+  display: grid;
+  column-gap: 24px;
+  row-gap: 24px;
+  grid-template-columns: auto auto auto auto;
+  background: none;
+}
+
+.grid-item {
+  background-color: var(--md-footer-bg-color);
+  border: 4px solid var(--md-footer-bg-color);
+  border-radius: 3px;
+  padding: 0px 10px 0px 10px;
+  text-align: center;
+  transition: ease 0.5s;
+}
+
+.grid-item:hover {
+  border-left: 4px solid var(--md-accent-fg-color);
+  transition: ease 0.3s;
+}
+
+.grid-item:hover h5 {
+  color: var(--md-accent-fg-color);
+  transition: ease 0.3s;
+}
+
+.grid-item h5 {
+  text-aligenter;
+  color: var(--md-primary-bg-color--light);
+  font-size: 16px;
+  font-weight: 600;
+  transition: ease 0.5s;
+}
+</style>
+
 !!! success "Notice"
     The Behaviour Panel reserves the right to issue infractions and/or ban to a person based on the offence, including offences committed whilst that person is already serving a ban.
 
@@ -96,36 +133,10 @@ Specifically player behaviour not related to in-match play or organisation. Plea
 + General bigotry/use of derogatory slurs against an individual or group
 + Posting of illicit content on ozfortress services or within our community.
 
-## League Infractions
+## League Infractions (now [League Penalties](/rules/penalties))
 
 !!! warning "Recent Change"
-    **League Infractions have been retired** in favour of [League Penalties](/rules/penalties). League Penalties will not contribute to infraction point totals or thresholds like its predecessor, and will also function differently to League Infractions. There are new infractions listed in the lists below, these will be added to League Penalties as well.
-
-Poor organisation, failure to follow format rulesets.
-
-#### Tier 1 Offences - 10 points (6 months expiry)
-+ Repeated delays in Match Organisation, this can include:
-    + Failing to schedule the match time/day multiple times
-    + Failing to post necessary match details multiple times (ie. logs, mercenaries)
-    + Failing to complete Playoff match Pick/Bans 24 hours prior to the scheduled match time/day
-+ Repeated inappropriate or unrelated posting in Match Threads, specifically Match Communications, under the following conditions:
-    + Any inappropriate or unrelated post made **during the organisation of a match**, meaning from attempting to organise a time/day to confirming the match scores and posting other details, will be actionable and will be deleted. On the third instance of this behaviour from a specific player, they will be infracted.
-    + Any inappropriate or unrelated post made after a match has concluded and all organisational details are present will not be actionable, unless it violates our [Community Guidelines](/docs/rules/community_guidelines) or our Behavioural Infractions.
-+ Failure to receive permission from team captains to cast an ozfortress official match.
-> Please note that this infraction does not apply to approved casting organizations, as they do not need to seek permission.
-
-#### Tier 2 Offences - 20 points (1-year expiry)
-+ Interference with an ozfortress match
-+ Disbanding an in-season active roster
-+ Destructive server administration / abuse of server remote control
-+ Destructive in-game play - *including but not limited to*:
-    + Failure to follow format/config limitations
-    + Match Throwing
-+ Any attempt to deceive or mislead players or captains
-+ Breach of Player Restrictions
-
-#### Tier 3 Offences - 30 points (2-year expiry)
-None currently.
+    **League Infractions have been retired** in favour of [League Penalties](/rules/penalties). League Penalties will not contribute to infraction point totals or thresholds like its predecessor, and will also function differently to League Infractions.
 
 ## Public Behaviour Panel members
 Not every member of our Behaviour Panel are currently public, however, you can view the public members [here](/info/staff/#public-behaviour-panel-members). We leave this decision purely up to the individual member.
