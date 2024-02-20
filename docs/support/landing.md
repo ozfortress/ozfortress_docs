@@ -8,7 +8,7 @@ title: Support & Reporting
 @media only screen and (max-width: 1219px) {
   .grid-container {
     display: grid;
-    grid-template-columns: auto;
+    grid-template-columns: auto auto;
     column-gap: 24px;
     row-gap: 24px;
   }
@@ -48,6 +48,10 @@ a.discord-btn {
   text-transform: none;
     color: #ffffff;
 }
+
+a.discord-btn:hover {
+  color: #ffffff;
+}
 </style>
 
 # ozfortress Support & Reporting Hub
@@ -55,7 +59,7 @@ We understand that sometimes it's hard to wrap your head around specific rules, 
 
 That's ok, we can answer those questions and more for you, just keep reading!
 
-### Competition Support
+## Competition Support
 Have a question, issue or dispute with another team? We offer dedicated support for each competition we run through our `#admin-support` channel in Discord. Don't hesitate to ask questions not pertaining to our competitions too! This channel will give you access to our support bot Alfred, who will make you a ticket with our staff. This ticket will be opened for you via Alfred, so make sure to check your Direct Messages on Discord!
 
 <br>
@@ -74,11 +78,6 @@ We have a Frequently Asked Questions page which may answer your question, if not
   <a href="/guides/landing">
     <div class="grid-item">
       <h5>ozfortress Guides</h5>
-    </div>
-  </a>
-  <a href="/rules/community_guidelines">
-    <div class="grid-item">
-      <h5>Community Guidelines</h5>
     </div>
   </a>
   <a href="/rules/global">
@@ -105,8 +104,18 @@ We have a Frequently Asked Questions page which may answer your question, if not
 
 ---
 
-## Reporting Player Behaviour
-Not sure where or how to report player misconduct? We ask that you peruse through our docs pages before reporting player misconduct as these docs may contain information to help you help us when submitting your report.
+## Reporting
+We have reports open to players using our website's forums feature. Below are sections detailing reporting:
+
+- [Poor player behaviour to our Behaviour panel](/support/landing/#reporting-player-behaviour)
+- [Breaches of league rules to League Staff](/support/landing/#reporting-rule-breaches)
+- [Suspect players to our Anti-Cheat panel](/support/landing/#reporting-suspect-players-cheating)
+
+!!!info "ozfortress account required"
+    You will need to have an [ozfortress.com account](https://ozfortress.com) and **be signed in** to make a submission.
+
+### Reporting Player Behaviour
+Not sure where or how to report poor player behaviour? We ask that you peruse through our docs pages before reporting player misconduct as these docs may contain information to help you help us when submitting your report.
 
 <div class="grid-container">
   <a href="/rules/infractions">
@@ -119,13 +128,15 @@ Not sure where or how to report player misconduct? We ask that you peruse throug
       <h5>Community Guidelines</h5>
     </div>
   </a>
-</div><br>
+</div>
 
-### Making a Report
-To submit a report to the Behaviour Panel, [please make a new thread here](https://ozfortress.com/forums/threads/new?topic=28). Please note, we require that the template below is filled out. This template saves us time, and gives you a structured format to submit your report.
+!!!note "Even if you think we may already know, please submit a report!"
+    Many often mistakenly believe we are near-omniscient, but that is rarely the case. While we do not strictly act only on reports, many of our panel members are disconnected from the typical "going-ons" within TF2, and as such may not be aware of *x offender*. This does not mean our panel members aren't actively involved in our community, just that they often do not care to be trawling every chat channel, which we believe gives them a high level of impartiality when handling reports.
 
-##### Submission Template
-Below you'll find the template needed when making a Behaviour Report through [our website](https://ozfortress.com/forums/threads/new?topic=28).
+If you feel a person or group's behaviour violates our Community Guidelines, please make a report following the steps below. 
+
+#### Making a Report
+We require that the template below is filled out for all reports submitted. This template saves us time, and gives you a structured format to submit your report to us. Once you have filled out the template, please make a new report using the "Make a Player Behaviour Report" button.
 
 ```
 Suspect(s) ozfortress.com account(s): 
@@ -135,18 +146,32 @@ If you answered Yes above, provide verification:
 Additional Notes (when it occurred, where, how, etc): 
 ```
 
-!!!danger "Evidence Verification Requirements"
-    If you are submitting evidence such as voice recordings, video evidence, screenshots of messages in in-game chat, or anything else that may need verification, please ensure you provide this verification within your report. For voice recordings, we ask that you screen record and show the account in question, same for video evidence. For screenshots of in-game chat, please provide either logs.tf links or server logs. If your screenshots are from Discord or Steam, we may ask you to provide the context around then, potentially via the Discord/Steam mobile apps as they are harder to manipulate/manufacture.
+<div class="grid-container">
+  <a href="https://ozfortress.com/forums/threads/new?topic=28">
+  <div class="grid-item">
+    <h5>Make a Player Behaviour Report</h5>
+  </div>
+  </a>
+</div>
 
-    For more information, please see the Report Requirements listed on our [Player Behaviour Infractions page](rules/infractions/#report-requirements). **If you are unsure how to verify some of your evidence, please feel free to reach out.**
-
-!!!info "ozfortress account required"
-    You will need to have an ozfortress.com account and be signed in to make a submission.
+!!!danger "Report Requirements & Evidence Verification"
+    Please see the Report Requirements listed on our [Player Behaviour Infractions page](/rules/infractions/#report-requirements-evidence-verification). **If you are unsure how to verify some of your evidence, please feel free to reach out.**
 
 ---
 
-## Reporting Cheating
-Not sure where or how to report a suspect player/team for cheating in one of our competitions? We ask that you peruse through our docs page on Anti-Cheat before reporting a player or team for cheating. These docs may contain information to help you help us when submitting your report.
+### Reporting Rule Breaches
+Has a player in your match, or perhaps even the entire opponent team breached a league rule? If so, we have a few avenues open to report these breaches below.
+
+- If you are not actively in your official match and have noticed a rule breach from a player or team, please make a report via your team's channel in the [Team Captain Discord](/rules/global/#72-team-captain-discord).
+- If you are not a captain, either ask your captain to report it on your team's behalf, or [submit a support ticket in our Discord](https://discord.gg/7E6kC2H)'s `#admin-support` channel, selecting the seasonal league or competition it occured in.
+
+!!!warning "READ ME"
+    If you are currently in your official match, **you are in the wrong place**. Please have your captain reach out to an administrator through the [Team Captain Discord](/rules/global/#72-team-captain-discord).
+
+---
+
+### Reporting Suspect Players ("Cheating")
+Not sure where or how to report a suspect player/team for cheating in one of our competitions? We ask that you peruse through our docs page on Anti-Cheat before reporting a player or team for cheating.
 
 <div class="grid-container">
   <a href="/info/anticheat_and_you">
@@ -154,21 +179,22 @@ Not sure where or how to report a suspect player/team for cheating in one of our
     <h5>Anti-Cheat & You</h5>
   </div>
   </a>
-</div><br>
+</div>
 
-### Anti-Cheat Reporting
-To make an Anti-Cheat Submission, please make a new thread [here](https://ozfortress.com/forums/threads/new?topic=17).
+#### Making a Report
+To make an Anti-Cheat report, please fill out the template below, then submit your report using the button below the template.
 
-!!! warning "ozfortress account required"
-    You will need to have an ozfortress.com account and be signed in to make a submission.
-
-#### Submission Template
-When submitting evidence, use this template:
 ```
 Suspect(s) ozfortress.com account(s):
-Your ozfortress.com account:
-Team:
-Evidence(URL):
-URL(s):
+Suspect(s) ozfortress.com team page(s):
+Evidence (URLs):
 Additional Notes(ticks):
 ```
+
+<div class="grid-container">
+  <a href="https://ozfortress.com/forums/threads/new?topic=17">
+  <div class="grid-item">
+    <h5>Make an Anti-Cheat Report</h5>
+  </div>
+  </a>
+</div>
