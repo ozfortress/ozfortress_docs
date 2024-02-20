@@ -19,7 +19,7 @@
 }
 
 .grid-item:hover {
-  border-left: 4px solid var(--md-accent-fg-color);
+  border: 4px solid var(--md-accent-fg-color);
   transition: ease 0.3s;
 }
 
@@ -37,18 +37,15 @@
 }
 </style>
 
-During ozfortress competitions, teams and players can accrue League Penalties for breaches of league rulesets. The penalty level will vary based on the rule breach, and the number of offences.
-
-!!!note "Please Note"
-    League Penalties are **NOT** [Player Behaviour Infractions](/rules/infractions). Player Behaviour Infractions use their own points system with separate thresholds for bans.
+During ozfortress competitions, both players and teams can receive penalties. The level of penalty will vary based on the rule, and the number of offences.
 
 ## Team Penalties
-Teams can accrue Minor, Moderate, and Major penalties during ozfortress competitions. Minor penalties total up to Moderate penalties, which also then total up to Major penalties. For example:
+Teams can accrue minor, moderate, and major penalties during ozfortress competitions.
 
-+ 3x Minor penalties = 1x Moderate penalty
-+ 3x Moderate penalties = 1x Major penalty
++ three minor penalties = one moderate penalty
++ three moderate penalties = one major penalty
 
-When teams incur a Major penalty, a deduction of 2 match points will be applied to that team. If a team incurs three Major penalties, **their roster will be disbanded**, and the team's captains will be subject to [4.5. Disbanded Teams](http://127.0.0.1:8000/rules/global/#45-disbanded-teams).
+When teams incur a major penalty, they will receive a deduction of 2 match points for that competition. If a team incurs three major penalties, they will be disbanded.
 
 | Rule                                                                                                             | First Offence                            | Second Offence                           | Further Offences                         |
 | :--------------------------------------------------------------------------------------------------------------- | :--------------------------------------- | :--------------------------------------- | :--------------------------------------- |
@@ -62,6 +59,7 @@ When teams incur a Major penalty, a deduction of 2 match points will be applied 
 | [3.4.1. Ping Limit](/rules/global/#341-ping-limit)                                                       | :material-alert-circle-outline: Minor    | :material-close-circle-outline: Moderate | :material-close-circle: Major            |
 | [4.6. Player Restrictions](/rules/global/#46-player-restrictions)                                                  | :material-close-circle-outline: Moderate | :material-close-circle: Major            | :material-close-circle: Major            |
 | [6.2. Mercenary Approval](/rules/global/#62-mercenary-approval)                                                  | :material-close-circle-outline: Moderate | :material-close-circle: Major            | :material-close-circle: Major            |
+| [7.2. Team Captain Discord](/rules/global/#72-team-captain-discord)                                       | Warning    | :material-alert-circle-outline: Minor    | :material-close-circle-outline: Moderate |
 | [7.3.1. Organisation Deadlines](/rules/global/#731-organisation-deadlines)                                       | :material-alert-circle-outline: Minor    | :material-alert-circle-outline: Minor    | :material-close-circle-outline: Moderate |
 | [7.3.4. Reorganising Casted Matches](/rules/global/#734-reorganising-casted-matches)                             | :material-alert-circle-outline: Minor    | :material-alert-circle-outline: Minor    | :material-close-circle-outline: Moderate |
 | [7.4. ozfortress Match Threads](/rules/global/#74-ozfortress-match-threads)                                      | Warning                                  | :material-alert-circle-outline: Minor    | :material-close-circle-outline: Moderate |
@@ -72,4 +70,4 @@ When teams incur a Major penalty, a deduction of 2 match points will be applied 
 | [10.1. SourceTV Settings](/rules/global/#101-sourcetv-settings) | :material-close-circle-outline: Moderate                                  | :material-close-circle-outline: Moderate    | :material-close-circle: Major |
 
 ## Player Penalties
-Player Penalties can be issued in addition to Team Penalties. Player Penalties **do** carry across competitions, and are specific to the player irrespective of the team. The majority of rules listed above have Player Penalties. Player Penalties do not function the same as Team Penalties, with the penalties often being match/round bans.
+Player penalties are issued in addition to team penalties. Player penalties **do** carry across competitions, and are specific to the player irrespective of the team. The majority of rules listed above also have player penalties.

@@ -539,6 +539,14 @@ Team captains are responsible for all match organisation tasks. If they are unab
 ### 7.2. Team Captain Discord
 ozfortress competitions use a Team Captain Discord for **all** communication, including match organisation and contacting League Administration. Teams should not contact League Administration regarding ongoing competitions externally of this Discord, as this may be considered an instance of [1.5. Admin Shopping](/rules/global/#15-admin-shopping).
 
+Communicating externally to the Team Captain Discord **will** result in the following penalties:
+
+|                  | Player Penalty |               Team Penalty               |
+| ---------------: | :------------: | :--------------------------------------: |
+|    First Offence |    Warning     |                 Warning                  |
+|   Second Offence |    Warning     |  :material-alert-circle-outline: Minor   |
+| Further Offences | One Match Ban  | :material-close-circle-outline: Moderate |
+
 ### 7.3. Match Organisation
 After the match is posted on the ozfortress website, a Discord channel is created for Team Captains to communicate available days and times. Playable match days are outlined in [2.4. Playable Match Days](/rules/global/#24-playable-match-days).
 
