@@ -40,10 +40,10 @@
 During ozfortress competitions, both players and teams can receive penalties. The level of penalty will vary based on the rule, and the number of offences.
 
 ## Team Penalties
-Teams can accrue minor, moderate, and major penalties during ozfortress competitions.
+Teams can accrue Minor, Moderate, and Major penalties during ozfortress competitions.
 
-+ three minor penalties = one moderate penalty
-+ three moderate penalties = one major penalty
++ Three Minor penalties = One Moderate penalty
++ Three Moderate penalties = One Major penalty
 
 When teams incur a major penalty, they will receive a deduction of 2 match points for that competition. If a team incurs three major penalties, they will be disbanded.
 
