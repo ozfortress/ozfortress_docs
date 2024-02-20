@@ -52,11 +52,10 @@ An Infraction Threshold ban restricts and/or removes a person from all official 
 
 Infractions themselves are considered warnings, and as such there are no warnings for offences listed below.
 
-## Report Requirements
+## Report Requirements & Evidence Verification
 - Evidence submitted via Reports should be uploaded/hosted on services where the evidence will not expire. If you wish to free up storage wherever it is located, please check with the Behaviour Panel to ensure a copy has been made.
-- For reports made with evidence where it could be difficult for us to verify a person's voice, the authenticity of an account, or the context around a screenshot of a message - we ask that your submission includes proof to support that evidence, for example:
-    - If you have included clips of a person speaking via voice chat, screenshots of a message/messages or other evidence that could be difficult to verify without knowing the account, please provide proof showing the authenticity of the account.
-        - Some ways of doing so would be to show the account that is speaking in the video recording, including logs.tf links if it happened during a game, or the server reservation ID so it can be followed up on.
+- For reports made with evidence where it could be difficult for us to verify a person's voice, the authenticity of an account, or the context around a screenshot of a message - we ask that you include proof to support that evidence, for example:
+    - If you are submitting evidence such as voice recordings, video evidence, screenshots of messages in in-game chat, or anything else that may need verification, please ensure you provide this verification within your report. For voice recordings, we ask that you screen record and show the account in question, same for video evidence. For screenshots of in-game chat, please provide either logs.tf links or server logs. If your screenshots are from Discord or Steam, we may ask you to provide the context around then, potentially via the Discord/Steam mobile apps as they are harder to manipulate/manufacture.
 
 ### Making a Report
 If you want to learn how to make a report, please see our Support & Reporting Hub, linked below.
@@ -64,7 +63,7 @@ If you want to learn how to make a report, please see our Support & Reporting Hu
 <div class="grid-container">
   <a href="/support/landing/#reporting-misconduct">
   <div class="grid-item">
-    <h5>Learn how to make a report here</h5>
+    <h5>Reporting Player Behaviour</h5>
   </div>
   </a>
 </div>
