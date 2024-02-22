@@ -614,7 +614,7 @@ Additionally, the match results must be submitted and confirmed **within 24 hour
 
 In the event of a mercenary being required, this must be posted by the team requesting the mercenary in the match thread **prior** to the commencement of the match. This must include any class locks as described in [6.2.4. Mercenary Class Locking](/rules/global/#624-mercenary-class-locking).
 
-Failing to provide relevant information in Math Threads may result in the following penalties:
+Failing to provide relevant information in Match Threads may result in the following penalties:
 
 |                  | Player Penalty |               Team Penalty               |
 | ---------------: | :------------: | :--------------------------------------: |
