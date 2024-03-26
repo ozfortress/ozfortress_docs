@@ -5,7 +5,7 @@ Rules within this ruleset apply strictly to the Sixes format (6v6). While each r
 
 ## 1. Sixes Format
 ### 1.1. Class Limits
-The following class limits are required on for official matches. Breaking these limits in any way is considered cheating, and depending on administrator discretion could lead to an infraction or a match result being overturned.
+The following class limits are required on for official matches. Breaking these limits in any way is considered cheating, and depending on administrator discretion could lead to league penalties or a match result being overturned.
 
 #### 1.1.1. Core Class Limits
 - 2 Scouts

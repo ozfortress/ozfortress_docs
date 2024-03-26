@@ -5,7 +5,7 @@ Rules within this ruleset apply strictly to the Highlander (HL). While each rule
 
 ## 1. Highlander Format
 ### 1.1. Class Limits
-The following class limits are required on for official matches. Breaking these limits in any way is considered cheating, and depending on administrator discretion could lead to an infraction or a match result being overturned.
+The following class limits are required on for official matches. Breaking these limits in any way is considered cheating, and depending on administrator discretion could lead to league penalties or a match result being overturned.
 
 - 1 Scout
 - 1 Soldier
