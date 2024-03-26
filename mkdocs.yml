@@ -20,6 +20,8 @@ nav:
       - 'Global Ruleset': 'rules/global.md'
       - 'Sixes Ruleset': 'rules/sixes.md'
       - 'Highlander Ruleset': 'rules/highlander.md'
+      - 'Tournament Rulesets':
+        - 'Ultiduo Ruleset': 'rules/ultiduo.md'
       - 'LAN Downunder Ruleset': 'rules/lan.md'
       - 'Community Guidelines': 'rules/community_guidelines.md'
       - 'User Policy': 'rules/user_policy.md'
