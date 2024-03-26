@@ -1,7 +1,7 @@
 # Highlander Ruleset
 
 ## Format Specificity
-Rules within this ruleset apply strictly to the Highlander (HL). While each ruleset may share rules, the specific contents are likely different when listed within a format-specific ruleset rather than the Global ruleset.
+Rules within this ruleset apply strictly to the Highlander (HL). While each ruleset may share rules, the specific contents are likely different when listed within a format-specific ruleset rather than the Global ruleset. Please note this ruleset is authored for our Highlander seasonal leagues, but in the event it is linked on an ozfortress-run Highlander tournament, rules mentioning seasonal specifics should be ignored. If you are not sure whether or not a rule applies to a Highlander tournament run by us, please reach out.
 
 ## 1. Highlander Format
 ### 1.1. Class Limits
