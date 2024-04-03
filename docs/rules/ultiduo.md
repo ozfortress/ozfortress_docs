@@ -1,5 +1,5 @@
 # Ultiduo Ruleset
-This ruleset was last updated for Ultiduo 18 - please consult with the ozfortress league admin team for any future Ultiduo competitions in case there has been any updates.
+This ruleset was created for Ultiduo 18 and future ozfortress Ultiduo competitions.
 
 ## Format Specificity
 Rules within this ruleset apply explicitly to ozfortress Ultiduo competitions.
@@ -26,16 +26,16 @@ Failure to observe weapon whitelisting will result in league penalties. For Ulti
     - Crusader's Crossbow
  
 ### 1.3. Weapon Pickups
-Weapons dropped on the ground by dead players are **allowed** to be picked up by surviving players - including the medigun.
+Dropped weapons can be picked up - including any medigun.
 
 ### 1.4. Map Scoring
 In Ultiduo, all maps are King of the Hill (KOTH) maps, and follow a best of one win condition with a five minute team clock. Different KOTH maps may vary slightly on overtime timers, locked and unlocked timers (when the point is not able to be captured at the start and when it unlocks) as these are built into the map.
 
 ### 1.5 Tie Breakers
-As the KOTH map standard, each map will be placed until a team has scored 3 rounds. No Tie Breaker should be needed for individual maps. 
+As the King of the Hill map standard, each map will be played until a team has scored 3 rounds. If a Tiebreaker is needed, it will follow the Citadel Table Tiebreaker rules found on ozfortress.com 
 
 ### 1.6 Scheduling 
-Due to the time constraints surrounding Ultiduo 18, once the string is sent in the Team Captain Discord, both players must immediately join the server. Failure to have 2 rostered players readied up in the server within five minutes of start time will resolve in a forfeit loss. 
+Due to the time constraints surrounding Ultiduo 18, once the string is sent in the Team Captain Discord, all players must immediately join the server. Failure to have 2 rostered players readied up in the server within five minutes of start time will result in a forfeit loss. 
 
 ## 2. Ultiduo Playoffs
 ### 2.1. Playoff Match Format
@@ -47,7 +47,7 @@ For playoff matches following a best of three (BO3) format, the **higher seeded 
 
 The **higher seeded team** is **Team A**. **Maps must be played in the order in which they were picked.**
 
-Using the Captain Discord Match Thread channel 
+Using the Pick/Ban system on the Citadel Match Thread  
 1. **Team A bans** a map
 2. **Team B bans** a map
 3. **Team A picks** a map
@@ -68,17 +68,17 @@ Each team is allowed two pauses per match, with a combined total time limit of f
 Tactical pauses are allowed but contribute to the pause limits described above. They should not be used to disrupt ongoing plays.
 
 ### 3.3. Pause Command
-To pause a match, teams must open their console and send the command: pause. The same command can be sent to unpause the match.
+To pause a match, teams must open their console and send the command: ``pause``. The same command can be sent to unpause the match.
 
 ### 3.4. Repause Command
-To allow a player to rejoin the server during a pause, use the command: repause. No warning is required to use the repause command.
+To allow a player to rejoin the server during a pause, use the command: ``repause``. No warning is required to use the repause command.
 
-### 3.5. Abuse of Pause function
-If there are any complications or a team is breaching any of the pause rules, a tournament administration must be contacted **immediately.**
+### 3.5. Abuse of the Pause function
+If there are any complications or a team is breaching any of the pause rules, a tournament administrator must be contacted **immediately.**
 
 ## 4. Player Eligibility
 ### 4.1. Ping Requirements //make this not 3 to avoid crossing over with global ruleset numbering conflictions
- Ultiduo will not follow our Global Ruleset Ping or Out of Region rules. Out-of-Region Players intending to join a roster, or play as a mercenary, must meet the in-game ping limit of 120. If you are unsure whether you meet this requirement, prior to the tournament starting, you should contact a League Administrator to undergo a ping check. It is the responsibility of Out-of-Region Players to ensure that they satisfy this ping limit before the beginning of the tournament. 
+ Ultiduo will not follow our Global Ruleset Ping or Out of Region rules. Out-of-Region Players intending to join a roster, or play as a mercenary, must meet the in-game ping limit of 150. If you are unsure whether you meet this requirement, prior to the tournament starting you should contact a League Administrator to undergo a ping check. It is the responsibility of Out-of-Region Players to ensure that they satisfy this ping limit before the beginning of the tournament. 
 
 
  # **FAQ**
