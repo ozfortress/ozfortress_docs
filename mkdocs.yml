@@ -48,6 +48,7 @@ nav:
       - 'Newbie Guide': 'guides/newbie_guide.md'
       - 'Book a Server': 'guides/book_a_server.md'
       - 'Self-managed Servers': 'guides/selfmanaged_servers.md'
+      - 'POV Demo Recording': 'guides/pov_demo_recording.md'
     - 'FAQ': 
       - 'Demo Requests': 'faq/demo_requests.md'
     - 'Support & Reporting': 'support/landing.md'
