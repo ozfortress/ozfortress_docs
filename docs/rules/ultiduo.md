@@ -80,7 +80,7 @@ Playoff matches are almost exclusively played as a best of three (BO3) series wi
 #### 2.2.1. Best of Three Playoff Matches
 For playoff matches following a best of three (BO3) format, the **higher seeded team** is awarded a map pick advantage prior to bans.
 
-The **higher seeded team** is **Team A**. **Maps must be played in the order in which they were picked.**
+**Maps must be played in the order in which they were picked.**
 
 Using the Pick/Ban system on your Match Thread:
 
@@ -88,6 +88,18 @@ Using the Pick/Ban system on your Match Thread:
 2. **Team A picks** a map
 3. **Team A picks** a map
 4. **Team B picks** a map
+
+#### 2.2.2. Best of One Playoff Matches
+For playoff matches following a best of one (BO1) format, the **higher seeded team** is awarded two map bans, with the **lower seeded team** only being awarded one map ban.
+
+**Maps must be played in the order in which they were picked.**
+
+Using the Pick/Ban system on your Match Thread:
+
+1. **Team B bans** a map
+2. **Team A bans** a map
+3. **Team A bans** a map
+4. **Final map is picked by Team A, however there will only be one map in the pool left to pick.**
 
 ## 3. Pausing
 Pauses during a match are allowed for any reason, except for immediately after readying up with the intent of delaying the match.
