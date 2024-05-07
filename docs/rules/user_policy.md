@@ -8,7 +8,10 @@ By signing up to ozfortress, you are agreeing to limited or otherwise zero compl
 - Serious violation of this policy or any of our rulesets or guidelines can lead to indefinite bans from our services.
 - Any criminal activity will lead to indefinite bans from all ozfortress services and reports to relevant authorities.
 
-This User Policy agreement can be updated at any time, but we will endeavour to notify users about any change.
+This User Policy agreement can be updated at any time, but we will endeavour to notify users about any change. In addition to the above clauses, you must follow [Steam's Subscriber Agreement](https://store.steampowered.com/subscriber_agreement). 
+
+## Account Conditions
+Users who are serving Valve sanctions may be ineligible to play. Please reach out to us via our Discord's support bot Alfred. The sale of Steam accounts and promotional items (in-game medals/badges) is strictly prohibited by Valve, thus it is strictly by ozfortress. Any sold or bought account found within ozfortress will be permanently barred from our services. In addition, any user found buying or selling medals will also be permanently barred from our services.
 
 ## User Account Deletion
 User Account Deletion is not something that we offer at this time, as it is an entirely manual process. Rest assured, no personally identifiable information is stored without user consent, and the user is within their rights to not include their email in their account.
