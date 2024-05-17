@@ -839,6 +839,20 @@ cp_snakewater_final1
 ### Tournaments/Cups by our partners
 Below you will find the maps used in each tournament/off-season cup one of our partners has run on our website.
 
+#### The LAN Downunder 2024 (Online Qualifiers)
+```
+koth_bagel_rc7
+koth_clearcut_b16a
+cp_gullywash_f9
+koth_product_final
+cp_process_f12
+cp_reckoner
+cp_snakewater_final1
+cp_sultry_b8a
+cp_sunshine
+```
+---
+
 #### CappingTV Summer Brawl 2024 (LAN)
 ```
 koth_bagel_rc7
