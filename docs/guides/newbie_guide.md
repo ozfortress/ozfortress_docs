@@ -43,22 +43,55 @@ Most competitive TF2 teams use VoIP programs to communicate with one another in-
 If you want to see some high-level Highlander action for yourself, you can check out the [KritzKast](https://twitch.tv/KritzKast) and [CappingTV](https://www.youtube.com/channel/UCgot1MKjG8nVkP8sjhkN4Rg) for coverage of ozfortress matches and [KritzKast](https:/twitch.tv/KritzKast)for coverage of European matches, and [RGL](https://www.twitch.tv/rglgg) for North American matches.
 
 ## Getting Started in ozfortress
-So now you understand the fundamentals of the Sixes / Highlander format, it’s time to get started! First, pick a main class, usually the class that you are best at or have the most fun with. Mastering a single class is much more efficient and satisfying, however, some people enjoy changing classes every season in order to gain experience in multiple classes.
+So now you understand the fundamentals of the Sixes / Highlander format, it’s time to get started! First, pick a main class, usually the class that you are best at or have the most fun with. Mastering a single class is much more efficient and satisfying, however, some people enjoy changing classes each season in order to gain experience in multiple classes.
 
-Next, join our Discord by clicking the widget to the right! The ozfortress Discord is used to find scrims, book servers, join a team, or even just chill out and talk about TF2. Each channel has a specific purpose including general TF2 chat, recruitment, and scrim requests.
+Next, join our Discord by clicking the widget to the right! The ozfortress Discord is used to find scrims, join and create teams, or even just chill out and talk about TF2. Each channel has a specific purpose including general TF2 chat, recruitment, and scrim requests.
 
-The recruitment channels are your destination for making or joining a team. There is *#format-lft* (looking-for-team) channel for both Sixes and Highlander, for players like yourself who are looking for a team to join. Likewise, there is a channel for teams looking for players, aptly named *#format-lfp*, and they just might be looking for you! Have a scroll through the channel to see if there is a team suited for your preferences. If not, use the template in a pinned message in #format-lft and show the community who you are!
+The recruitment channels are your destination for making or joining a team. There are *#format-lft* (looking-for-team) channels for both Sixes and Highlander, for players like yourself who are looking for a team to join. Likewise, there is a channel for teams looking for players, aptly named *#format-lfp*, and they just might be looking for you! Have a scroll through the channels to see if there is a team suited for your preferences. If not, use the template pinned in #format-lft and show the community who you are!
 
-If you haven’t already, make an account by clicking the green Sign in with Steam button in the top right. All ozfortress tournaments are run through the ozfortress website, so you will need to make an account if you intend to join a team and compete!
+If you haven’t already, make an account by clicking the green `Sign in with Steam` button in the top right. All ozfortress tournaments are run through the ozfortress website, so you will need to make an account if you intend to join a team and compete!
 
 Scrims, also known as scrimmages - are practice games played between two teams in order to improve as a team. The results do not count toward any league total and thus can be used as a great way for teams to try new things and hone their understanding of the game or format. Find scrims for your team in the #scrim channel in Discord! Typically scrims (and ozfortress official matches) are played between 8 - 10 PM AEST/AEDT (Sydney/Melbourne time).
 
-Another way to practice is through PUGs (pickup games) and lobbies. These are hosted on community websites or through ozfortress servers! These are also a good way to make yourself known in the community and meet new people while practising sixes.
+Another way to practice is through PUGs (pickup games) and lobbies. These are hosted on community websites or through ozfortress servers! These are also a good way to make yourself known in the community and meet new people.
 
-For more information about booking servers to play on and setting them up, visit Book a Server and Server Configs within the Help tab above! At the end of every game, a statistics page is generated at [logs.tf](http://logs.tf/) and details kill, damage and more for each player!
+For more information about booking servers to play on and setting them up, visit Book a Server guide or Server Configs page! At the end of every game, a statistics page is generated at [logs.tf](http://logs.tf/) and details kill, damage and more for each player!
 
 Want more information on what we just talked about? Visit [playcomp.tf](http://playcomp.tf/) and [comp.tf](http://comp.tf/)!
 
 Have any other questions? You may want to check out our FAQ section or feel free to ask in Discord.
 
-**We hope to see you in ozfortress soon!**
+### Finding a Team
+If you're new and not sure how to get started, don't fret! Check out the Recruitment category of the [ozfortress Discord](https://discord.gg/dyudcxB) where you can express your interest in joining a team, or peruse potential players to form a team of your own (remember to get the recruiting roles in the "channels and roles" part of the discord, otherwise you will not be able to see these channels). Highlander teams are comprised of one of each class totalling nine players. If you're new to the competitive scene, [click here](https://docs.ozfortress.com/guides/newbie_guide) for an introduction to ozfortress!
+
+Once you've signed up your team or have joined one, your part is done. Don't worry if you didn't find or join a team in time, you can always be transferred onto a team in one of the Transfer Windows. See the [Transfers information page](https://docs.ozfortress.com/info/transfers/) for more info on Transfers. You can find the Transfer Windows listed in the season's schedule page!
+
+### Creating a Team
+On the ozfortress website, captains can create Teams using the "Start Team" button on the [Teams page](https://ozfortress.com/teams). Once created, captains can invite players to the team. Team invites are shown on a player's profile, which can be accessed by clicking on your name next to the bell on the top right-hand corner of your screen. Teams provide a pool of players that can be signed up for a tournament. Players may be in the pool for multiple teams but only one active roster for any given tournament. Captains may sign up a roster for tournaments under the league page.
+
+By signing up, you acknowledge that **you may be placed in any division** the **administrators deem fit** for your roster, and thus **your entire team should be reasonable in their expectations on division placement**. We will endeavour to let teams know of changes in initial seedings before the final release. Please ensure you **specify the division you truly believe your team should be in**, this will make it easier for administrators to consult with you on your seeding. Along with selecting your desired division, please also **list who you expect to play, and what class/role**. We've left templates for each format below, please include your completed template in your signup application's description.
+
+#### Sixes
+`Combo Scout: ` 
+`Flank Scout: ` 
+`Pocket Soldier: ` 
+`Roamer Soldier: ` 
+`Demoman: ` 
+`Medic: ` 
+`Captain Discord Handles:`
+
+#### Highlander
+`Scout: ` 
+`Soldier: ` 
+`Pyro: ` 
+`Demoman: ` 
+`Heavy: ` 
+`Engineer: ` 
+`Medic: ` 
+`Sniper: ` 
+`Spy: ` 
+`Captain Discord Handles:`
+
+Once you've signed up your team, your part is done. Don't worry if you didn't find backups in time, you can always transfer one onto your team in one of the Transfer Windows. See the [Transfers information page](https://docs.ozfortress.com/info/transfers/) for more info on Transfers. You can find the Transfer Windows listed in the season's schedule page!
+
+**Please ensure you have enough backups to last the entire season**.
