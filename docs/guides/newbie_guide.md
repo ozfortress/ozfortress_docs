@@ -72,25 +72,31 @@ On the ozfortress website, captains can create Teams using the "Start Team" butt
 By signing up, you acknowledge that **you may be placed in any division** the **administrators deem fit** for your roster, and thus **your entire team should be reasonable in their expectations on division placement**. We will endeavour to let teams know of changes in initial seedings before the final release. Please ensure you **specify the division you truly believe your team should be in**, this will make it easier for administrators to consult with you on your seeding. Along with selecting your desired division, please also **list who you expect to play, and what class/role**. We've left templates for each format below, please include your completed template in your signup application's description.
 
 #### Sixes
-`Combo Scout: ` 
-`Flank Scout: ` 
-`Pocket Soldier: ` 
-`Roamer Soldier: ` 
-`Demoman: ` 
-`Medic: ` 
-`Captain Discord Handles:`
+
+```
+Combo Scout: 
+Flank Scout: 
+Pocket Soldier: 
+Roamer Soldier: 
+Demoman: 
+Medic: 
+Captain Discord Handles: 
+```
 
 #### Highlander
-`Scout: ` 
-`Soldier: ` 
-`Pyro: ` 
-`Demoman: ` 
-`Heavy: ` 
-`Engineer: ` 
-`Medic: ` 
-`Sniper: ` 
-`Spy: ` 
-`Captain Discord Handles:`
+
+```
+Scout: 
+Soldier: 
+Pyro: 
+Demoman: 
+Heavy: 
+Engineer: 
+Medic: 
+Sniper: 
+Spy: 
+Captain Discord Handles: 
+```
 
 Once you've signed up your team, your part is done. Don't worry if you didn't find backups in time, you can always transfer one onto your team in one of the Transfer Windows. See the [Transfers information page](https://docs.ozfortress.com/info/transfers/) for more info on Transfers. You can find the Transfer Windows listed in the season's schedule page!
 
