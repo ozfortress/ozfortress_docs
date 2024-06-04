@@ -111,40 +111,19 @@ Seasonal leagues are divided into skill brackets, referred to as divisions. Thes
 ### 2.3. Map Pool
 Each season features a pool of maps which are played in both regular season and playoff matches. You can find the map pool for a season on its seasonal league page.
 
-### 2.4. Playable Match Days
-Matches can be played at any point **during** a round.
-
-#### 2.4.1. Primary Match Days
-**Primary** match days are the intended days for which matches are played.
-
-|   Format   | Primary Match Days |
-| :--------: | :----------------: |
-|   Sixes    | Sunday - Thursday  |
-| Highlander | Wednesday - Sunday |
-
-#### 2.4.2. Secondary Match Days
-**Secondary** match days were previously days common for extensions. Now, teams may agree to play their match on a secondary match day without administrator approval, however opposing teams are not obligated to agree to do so. 
-
-|   Format   | Secondary Match Days |
-| :--------: | :------------------: |
-|   Sixes    |   Friday - Sunday    |
-| Highlander |   Monday & Tuesday   |
-
-If there are match scheduling conflicts, availability on primary match days trumps availability on secondary match days.
-
-### 2.5. Regular Season
+### 2.4. Regular Season
 Rounds within a regular season are completed at weekly intervals; teams compete in one match each week featuring two maps from the map pool. Regular seasons are typically run using Round-Robin, however, depending on signup numbers, the Swiss System may be used. The system used will be clearly stated on the seasonal league page.
 
-#### 2.5.1. Round-Robin
+#### 2.4.1. Round-Robin
 The Round-Robin system guarantees that every team within a division compete against each other once. You can find more information about Round-Robin [here](https://en.wikipedia.org/wiki/Round-robin_tournament).
 
-#### 2.5.2. Swiss System
+#### 2.4.2. Swiss System
 The Swiss System allows a greater number of competitors to compete against each other in a smaller number of rounds. The first round is scheduled based on seedings, and subsequent rounds are generated according to previous team results, pairing teams with comparable records. You can find more information about the Swiss System [here](https://en.wikipedia.org/wiki/Swiss-system_tournament).
 
-#### 2.5.3. Match Scoring
+#### 2.4.3. Match Scoring
 During the regular season, teams compete in one match each week featuring two maps. The winner of each map will be awarded two league points, while the loser is awarded zero. Regular season matches can result in a draw when each team wins one map.
 
-#### 2.5.4. Map Draws
+#### 2.4.4. Map Draws
 Draws on individual maps are not possible in ozfortress matches.
 
 Please refer to the respective ruleset for more information:
@@ -152,7 +131,7 @@ Please refer to the respective ruleset for more information:
 - Sixes: [1.3.5. 5CP map draws](/rules/sixes/#135-5cp-map-draws)
 - Highlander: [1.5.4. 5CP map draws](/rules/highlander/#154-5cp-map-draws)
 
-#### 2.5.5. League Ranking
+#### 2.4.5. League Ranking
 League rankings will be initially determined by match points; in the event of point draws, tiebreakers will be applied in the following order:
 
 1. Match wins vs. tied participants (Direct Encounter)
@@ -160,7 +139,7 @@ League rankings will be initially determined by match points; in the event of po
 3. Total map wins
 4. Win difference (Total points earned minus total points lost)
 
-### 2.6. Playoffs
+### 2.5. Playoffs
 Following the conclusion of the regular season, Playoffs are played to determine the overall winner of the competition.
 
 Typically, the top four teams in each division progress to the playoffs which adhere to the Page Playoff system. You can find more information about the Page Playoff system [here](https://en.wikipedia.org/wiki/Page_playoff_system).
@@ -170,7 +149,7 @@ Please refer to the respective ruleset for more information:
 - Sixes: [3. Sixes Playoffs](/rules/sixes/#3-sixes-playoffs)
 - Highlander: [2. Highlander Playoffs](/rules/highlander/#2-highlander-playoffs)
 
-#### 2.6.1. Page Playoffs
+#### 2.5.1. Page Playoffs
 
 !!! warning "Please Note"
     In Page Playoffs, certain teams may participate in more matches than others. Consequently, the league standings displayed on the league page may not accurately reflect the final team placements for the season.
@@ -189,7 +168,7 @@ Page Playoffs have three rounds:
 	* The loser is eliminated and is awarded third place.
 3. Grand Final: The remaining two teams compete to determine the overall winner for the season.
 
-### 2.7. Minimum Players in Matches
+### 2.6. Minimum Players in Matches
 In matches, teams are expected to play with the required total players at all times. If a team is unable to meet this requirement with rostered players, they must utilise mercenaries.
 
 |   Format   | Minimum Rostered Players | Required Total Players |
@@ -199,13 +178,13 @@ In matches, teams are expected to play with the required total players at all ti
 
 If a team fields fewer than the required total players, or fewer than the required minimum rostered players, the opposing team will be awarded a forfeit win.
 
-#### 2.7.1. Change in Team Circumstances
+#### 2.6.1. Change in Team Circumstances
 Team captains must **promptly** contact League Administrators through the [Team Captain Discord](/rules/global/#72-team-captain-discord) in the event of any change in circumstance that might impact the team's ability to meet these requirements, even in the case of temporary issues.
 
-#### 2.7.2. Player Disconnects During Matches
+#### 2.6.2. Player Disconnects During Matches
 If a player disconnects during a match, teams may elect to play with one fewer player **with admin approval**. In such instances, teams must still satisfy the required minimum rostered players.
 
-### 2.8. Forfeits
+### 2.7. Forfeits
 Forfeits occur when teams are unable to field the required number of players, during dispute resolutions, or as part of team-based punishments. Forfeiting a single map will result in the entire match being forfeited. Generally, non-seasonal formats such as cups do not allow any forfeits.
 
 Forfeiting a match **will** result in the following penalties:
@@ -215,7 +194,7 @@ Forfeiting a match **will** result in the following penalties:
 |  First Offence |       -        |         :material-alert-circle-outline: Minor         |
 | Second Offence |       -        | [Team Disbandment](/rules/global/#45-disbanded-teams) |
 
-#### 2.8.1. Forfeit Win
+#### 2.7.1. Forfeit Win
 Forfeit wins are most commonly awarded when a team is unable to field the required number of players at the scheduled start time of the match. In such instances, it is expected that the team unable to field the required number of players forfeit the match unless they secure substitute players or mercenaries within fifteen minutes of the scheduled start time of the match.
 
 If your opponent has not fielded the required number of players within fifteen minutes of the scheduled start time of the match, promptly contact a League Administrator. To claim a forfeit, ensure you have the following prepared:
@@ -231,20 +210,20 @@ A forfeit win may also be awarded for a variety of other reasons, including:
 
 A forfeit win will be recorded as a match win worth four league points.
 
-#### 2.8.2. Mutual Forfeit
+#### 2.7.2. Mutual Forfeit
 Mutual forfeits will be implemented when both teams are at fault, such as when neither team have made an effort to organise the match within a reasonable timeframe or neither team has sufficient availability to support match organisation.  
 
 These mutual forfeits will be recorded as match losses for both teams, each worth zero league points. It's important to note that mutual forfeits contribute to a team's forfeit limit.
 
-#### 2.8.3. Technical Forfeit
+#### 2.7.3. Technical Forfeit
 Technical issues, such as those caused by game client updates or item server disruptions, can cause issues with the smooth operation of matches. If there is a technical issue affecting your match and there is not already an advised solution, team captains should contact League Administrators through the [Team Captain Discord](/rules/global/#72-team-captain-discord).
 
 In the event that technical issues beyond the teams' control prevents both teams from playing the match, a technical forfeit will be awarded. A technical forfeit will be recorded as a match draw worth two league points for each team.
 
-#### 2.8.4. Playoffs Forfeits
+#### 2.7.4. Playoffs Forfeits
 **Any forfeit during Playoffs will result in immediate removal from the league and incur heavier penalties.** The remaining playoff teams below the disbanded team will move up one rank. If feasible, the playoff matches involving the disbanded team may be replayed.
 
-### 2.9. Match Throwing
+### 2.8. Match Throwing
 Match Throwing is a punishable offence in ozfortress to maintain integrity in match play.
 
 Match Throwing includes, but is not limited to, the following:
@@ -262,7 +241,7 @@ Accusations of Match Throwing are taken seriously, and application of this claus
 |   Second Offence | Three round match ban |      :material-close-circle: Major       |
 | Further Offences |  Six month match ban  |      :material-close-circle: Major       |
 
-#### 2.9.1. Match Fixing
+#### 2.8.1. Match Fixing
 Match Fixing, although similar to Match Throwing, typically involves premeditation, planning or communication with other parties. Any effort to compromise the integrity of match play, whether involving monetary incentives or otherwise, will be reviewed and punished at the discretion of the ozfortress staff team.
 
 ---
@@ -547,7 +526,21 @@ Communicating externally to the Team Captain Discord **will** result in the foll
 |   Second Offence |    Warning     |  :material-alert-circle-outline: Minor   |
 | Further Offences | One Match Ban  | :material-close-circle-outline: Moderate |
 
-### 7.3. Match Organisation
+### 7.3. Playable Match Days
+Matches can be played at any point **during** a round.
+
+#### 7.3.1. Primary Match Days
+**Primary** match days are the intended days for which matches are played.
+
+|   Format   | Primary Match Days |
+| :--------: | :----------------: |
+|   Sixes    | Sunday - Thursday  |
+| Highlander | Wednesday - Sunday |
+
+#### 7.3.2. Secondary Match Days
+**Secondary** match days are no longer allowed unless an administrator approves a match extension.
+
+### 7.4. Match Organisation
 After the match is posted on the ozfortress website, a Discord channel is created for Team Captains to communicate available days and times. Playable match days are outlined in [2.4. Playable Match Days](/rules/global/#24-playable-match-days).
 
 We encourage all teams to set their match date/time, but in the case of a dispute an administrator may enforce the default match day and/or times.
@@ -557,7 +550,7 @@ We encourage all teams to set their match date/time, but in the case of a disput
 |   Sixes    |     Thursday      | 8PM or 9PM AEST/AEDT |
 | Highlander |      Sunday       | 8PM or 9PM AEST/AEDT |
 
-#### 7.3.1. Organisation Deadlines
+#### 7.4.1. Organisation Deadlines
 Teams should aim to have their match organised by the following deadlines.
 
 |   Format   | Match date/time organised |
@@ -575,10 +568,10 @@ Showing insufficient effort in meeting these deadlines may result in the followi
 |   Second Offence |       -        |  :material-alert-circle-outline: Minor   |
 | Further Offences |       -        | :material-close-circle-outline: Moderate |
 
-#### 7.3.2. Scheduling Issues
+#### 7.4.2. Scheduling Issues
 If the other team is unresponsive in the Team Captain Discord, or not making a reasonable effort, contact Division Administrators through the [Team Captain Discord](/rules/global/#72-team-captain-discord) immediately.
 
-#### 7.3.3. Reorganising Casted Matches
+#### 7.4.3. Reorganising Casted Matches
 Matches being cast by Approved Casting Organisations must adhere to the agreed-upon match time. If rescheduling a match is necessary, this must be done **at least** twenty-four hours in advance to support the casting organisation.
 
 Showing insufficient effort in meeting this requirement may result in the following penalties:
@@ -589,10 +582,10 @@ Showing insufficient effort in meeting this requirement may result in the follow
 |   Second Offence |       -        | :material-alert-circle-outline: Minor |
 | Further Offences |       -        | :material-close-circle-outline: Moderate |
 
-#### 7.3.4. Emergency Extensions
+#### 7.4.4. Emergency Extensions
 If required, teams may seek an **emergency** extension by contacting their Division Administrators through the [Team Captain Discord](/rules/global/#72-team-captain-discord). Opposing teams are not obligated to accept a request for an extension, although compromise and sportsmanship between teams are encouraged. Missing core players is **not** grounds for extension; a backup player or mercenary should be used.
 
-### 7.4. ozfortress Match Threads
+### 7.5. ozfortress Match Threads
 Match Threads on the ozfortress website are used to communicate the essential details of matches. It is expected that until the completion of an official match, players do not post anything non-essential to the flow of the match.
 
 Inappropriate or unrelated posting in Match Threads may result in the following penalties:
@@ -603,7 +596,7 @@ Inappropriate or unrelated posting in Match Threads may result in the following 
 |   Second Offence | One round match ban |  :material-alert-circle-outline: Minor   |
 | Further Offences | One round match ban | :material-close-circle-outline: Moderate |
 
-#### 7.4.1. Match Thread Requirements
+#### 7.5.1. Match Thread Requirements
 The following **must** be posted in the match thread by the **Home Team**:
 
  1. The agreed-upon day and time **immediately** after confirmation.
@@ -622,17 +615,17 @@ Failing to provide relevant information in Match Threads may result in the follo
 |   Second Offence |       -        |  :material-alert-circle-outline: Minor   |
 | Further Offences |       -        | :material-close-circle-outline: Moderate |
 
-#### 7.4.2. Match Log Issues
+#### 7.5.2. Match Log Issues
 If logs are unavailable, the **Home Team** must take a screenshot of the score for each map and upload them to the match thread **within 24 hours** of a match's conclusion. If this is not possible, demos may be requested to validate match results.
 
-### 7.5. Map Selection
+### 7.6. Map Selection
 #### 7.5.1. Regular Season Map Selection
 For regular season matches, two maps are determined by League Administrators and can be found on the seasonal league page.
 
 In Sixes, certain divisions in certain competitions may employ a map selection system as outlined in [2.2. Regular Season Map Selection Order](/rules/sixes/#22-regular-season-map-selection-order).
 
-#### 7.5.2. Playoff Map Selection
-For playoff matches, the selection of maps is the responsibility of the team captains. This process should be completed at least 24 hours prior to the agreed-upon match time. **In the event of a playoff match being casted, this process must be completed at least 24 hours prior.**
+#### 7.6.2. Playoff Map Selection
+For playoff matches, the selection of maps is the responsibility of the team captains. This process should be completed at least 24 hours prior to the agreed-upon match time. **In the event of a playoff match being cast, this process must be completed at least 24 hours prior.**
 
 For playoff map selection order, please refer to the respective ruleset for more information:
 
@@ -660,7 +653,7 @@ If there are issues with the Home team's server selection, the Away team may con
 Please see [10. Servers](/rules/global/#10-servers) for more information, including the default server provider and server location.
 
 ### 8.2. Team Starting Side
-In Regular Season matches, the Away team selects their team colour. In Playoff matches, the team that did not pick the map will choose their team color.
+In Regular Season matches, the Away team selects their team colour. In Playoff matches, the team that did not pick the map will choose their team colour.
 
 ### 8.3. Match Disputes
 To lodge a dispute or report misconduct within a match, please contact a League Administrator as soon as possible. Please do not bring the debate to the public while it is being resolved.
@@ -668,7 +661,7 @@ To lodge a dispute or report misconduct within a match, please contact a League 
 ### 8.4. Aliasing / Distinct Aliases
 Aliasing is allowed in matches. However, all players must have distinct aliases.
 
-Failing to do will result in the following penalties:
+Failing to do so will result in the following penalties:
 
 |                  | Player Penalty |               Team Penalty               |
 | ---------------: | :------------: | :--------------------------------------: |
