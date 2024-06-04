@@ -12,7 +12,7 @@ Have an issue that isn't within the Sixes or Highlander realm? Good chance our T
 | Role | Name | Discord |
 | ---- | ---- | ------- |
 | League Director | [core](https://ozfortress.com/users/491 "Please contact me via Discord only.") | [@coreobs](https://discordapp.com/users/226205616773922816) |
-| Sixes Head Admin | [multi](https://ozfortress.com/users/781) | [@canyouprovethatimdriving](https://discordapp.com/users/125870207897042944) |
+| Sixes Head Admin | [Hawk](https://ozfortress.com/users/233) | [@hawk_33](https://discord.com/users/83079514917175296) |
 | Highlander Head Admin | [Sperkle](https://ozfortress.com/users/618) | [@sperkle](https://discordapp.com/users/180875592923611145) |
 | Head of Anti-Cheat | [catfish](https://ozfortress.com/users/96) | [@catfishau](https://discordapp.com/users/129062149640159232) |
 | Head of Behaviour Panel | [core](https://ozfortress.com/users/491 "Please contact me via Discord only.") | [@coreobs](https://discordapp.com/users/226205616773922816) |
@@ -24,16 +24,14 @@ As mentioned in our competitive league rulesets, League Administrators in tandem
 | League | Name | Discord |
 | ---- | ---- | ------- |
 | Sixes | [Celph](https://ozfortress.com/users/4285) | [@celph](https://discordapp.com/users/131180625649467392) |
-| Sixes | [down](https://ozfortress.com/users/299) | [@down11](https://discordapp.com/users/139166437754273792) |
 | Sixes | [emgee](https://ozfortress.com/users/76) | [@emgee](https://discordapp.com/users/86424530871910400) |
-| Sixes | [Hawk](https://ozfortress.com/users/233) | [@hawk_33](https://discordapp.com/users/83079514917175296) |
+| Sixes | [inStinct](https://ozfortress.com/users/934) | [@in5tinct_](https://discordapp.com/users/239294726128271361) |
 | Sixes | [HUNGRY4EGGS](https://ozfortress.com/users/1484) | [@hungry4eggs](https://discordapp.com/users/215383613439606784) |
-| Sixes | [raina](https://ozfortress.com/users/1729) | [@raina_exe](https://discordapp.com/users/712785948047441921) |
-| Sixes | [wils](https://ozfortress.com/users/598) | [@wils](https://discordapp.com/users/200809127549730816) |
 | Highlander | [hive](https://ozfortress.com/users/4274) | [@hive_au](https://discordapp.com/users/769469567272878110) |
-| Highlander | [Kai](https://ozfortress.com/users/4034) | [@head_empty_no_thoughts](https://discordapp.com/users/213653809937907712) |
-| Highlander | [Oldcustard](https://ozfortress.com/users/4030) | [@oldcustard](https://discordapp.com/users/333896131840966657) |
+| Highlander | [Kai](https://ozfortress.com/users/4034) | [@head_empty_no_thoughts](https://discordapp.com/users/213653809937907712) |    
 | Highlander | [Rainy](https://ozfortress.com/users/3124) | [@rainy26](https://discordapp.com/users/107399782162558976) |
+| Highlander | [redja](https://ozfortress.com/users/14) | [@redja](https://discordapp.com/users/182413965207273473) |
+| Highlander | [woozy](https://ozfortress.com/users/4054) | [@w.oozy](https://discordapp.com/users/757143916553306142) |
 
 ## New Player Experience Team
 Our New Player Experience Team was formed to help us further bridge the gap between competitive TF2 and the casual community. Good chance, if we're running team drives, icebreakers or cups, these guys are involved!
@@ -87,6 +85,7 @@ The team responsible for bringing you Citadel, updates to it, and production of 
 + catfish (Leaague Director)
 + chimes
 + Cole
++ Down
 + ferelah
 + fez
 + Fozzlm (Media Coordinator)
@@ -97,20 +96,23 @@ The team responsible for bringing you Citadel, updates to it, and production of 
 + hcaz
 + Ishanu
 + Jump!
-+ Kenneth (Leaague Director)
++ Kenneth (League Director)
 + kam
 + kocka
 + lammy
 + LiquidAlchemy
 + mercury (Co-Founder of ozfortress)
 + micko
++ Multi (Sixes Head Admin)
 + munz
 + No Mercy
 + nsk
 + obla (Leaague Director)
++ Oldcustard
 + OnionS
 + Platinum/shy
 + Psyfox
++ raina
 + ravelizard
 + RynoCerus
 + samson (Head of Behaviour Panel)
@@ -130,6 +132,7 @@ The team responsible for bringing you Citadel, updates to it, and production of 
 + Varris
 + warbot
 + wiggin
++ wills
 + wm
 + wolfeh
 + yauch
