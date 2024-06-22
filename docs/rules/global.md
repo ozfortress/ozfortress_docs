@@ -736,8 +736,8 @@ Failure to provide POV demo files upon request for any match requested will resu
 | ---------------: | :-----------------: | :--------------------------------------: |
 |    Offences (That isn't an official match) | Warning |  N/A   |
 |    First Offence | Two round match ban |  :material-alert-circle-outline: Minor   |
-|   Second Offence | One year match ban  | :material-close-circle-outline: Moderate |
-| Further Offences | Two year match ban  |      :material-close-circle: Major       |
+|   Second Offence | Six month league ban  | :material-close-circle-outline: Moderate |
+| Further Offences | Two year league ban  |      :material-close-circle: Major       |
 
 ---
 
