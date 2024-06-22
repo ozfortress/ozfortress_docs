@@ -829,12 +829,10 @@ This is commonly treated as akin to cheating when malicious, as it is direct gam
 + Sound-based exploits (spy decloak modifiers, footstep modifiers, audio mixers or equalizers, etc).
 + Sniper scope transparency/removal of the sniper scope.
 + Large shadows and/or box shadows.
-+ Entering the player model default pose (“civilian pose”).
 + Removal/replacement of weapon sounds or particles (eg. transparent flame particles)
 + Removing map objects/props or making them transparent.
 + Malicious use of the retry command.
-+ Uber Pause bug
-    - A bug where medics continue to build Uber during a pause while healing a player. This bug should be prevented by server plugins, but in the event it does happen, both teams should be made aware and an administrator should be contacted.
++ Editing the player HUD to see team medigun info such as ubercharge percentage.
 
 A general rule of thumb for whether or not something is or isn't allowed is this:
 > "Is the mod/custom file/change against a general sense of competitive integrity and fairness?" **If so it is likely prohibited.**
@@ -883,6 +881,9 @@ Game Mechanic exploits are typically map, client or server exploits used to gain
 > When a sniper scopes in whilst crouched, it is possible to obscure up to or above 50% of that sniper's character model whilst still maintaining vision around the objects obscuring their model.
 >
 > **We understand that this is potentially difficult to police, however, it will often be very clear when someone is intentionally abusing this mechanical oversight.** We will be reviewing each reported case of this behaviour individually, and not blanket banning any instance that could be purposeful exploitation.
++ Uber Pause bug
+    - A bug where medics continue to build Uber during a pause while healing a player. This bug should be prevented by server plugins, but in the event it does happen, both teams should be made aware and an administrator should be contacted.
+- Using an exploit as an Engineer to be able to hit players twice without a delay with melees
 
 ##### Explicitly Allowed Game Mechanic exploits
 
