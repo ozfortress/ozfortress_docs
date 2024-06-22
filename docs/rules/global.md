@@ -411,6 +411,9 @@ Captains of disbanded teams **will** face the following penalties:
 |    First Offence | Two season captaincy ban |      -       |
 | Further Offences |   Six month league ban   |      -       |
 
+#### 4.5.1. Undisbanding Teams
+Teams who previously disband will not be undisbanded. Once a team is disbanded, they are penalized - this process will not be reversed.
+
 ### 4.6. Player Restrictions
 Depending on the skill level of a player and their team, player restrictions may apply. Player restrictions are informed by many factors including, but not limited to, other teams and players within a division. As restrictions are often contextual, a player who shifts teams within a division may encounter a different set of restrictions. If you are unsure about a player's restrictions, you should contact your Division Administrators through the [Team Captain Discord](/rules/global/#72-team-captain-discord). **It is the responsibility of players to ensure that they are familiar with their restrictions.**
 
