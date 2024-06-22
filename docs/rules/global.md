@@ -112,25 +112,12 @@ Seasonal leagues are divided into skill brackets, referred to as divisions. Thes
 Each season features a pool of maps which are played in both regular season and playoff matches. You can find the map pool for a season on its seasonal league page.
 
 ### 2.4. Playable Match Days
-Matches can be played at any point **during** a round.
+Matches can be played at any point **during** a round. The days below are not the only possible days matches can be played on, however, any days outside those below will require approval from your division administrator. See [7.3.4. Emergency Extensions for more info](/rules/global/#734-emergency-extensions).
 
-#### 2.4.1. Primary Match Days
-**Primary** match days are the intended days for which matches are played.
-
-|   Format   | Primary Match Days |
+| **Format** |   **Match Days**   |
 | :--------: | :----------------: |
 |   Sixes    | Sunday - Thursday  |
 | Highlander | Wednesday - Sunday |
-
-#### 2.4.2. Secondary Match Days
-**Secondary** match days were previously days common for extensions. Now, teams may agree to play their match on a secondary match day without administrator approval, however opposing teams are not obligated to agree to do so. 
-
-|   Format   | Secondary Match Days |
-| :--------: | :------------------: |
-|   Sixes    |   Friday - Sunday    |
-| Highlander |   Monday & Tuesday   |
-
-If there are match scheduling conflicts, availability on primary match days trumps availability on secondary match days.
 
 ### 2.5. Regular Season
 Rounds within a regular season are completed at weekly intervals; teams compete in one match each week featuring two maps from the map pool. Regular seasons are typically run using Round-Robin, however, depending on signup numbers, the Swiss System may be used. The system used will be clearly stated on the seasonal league page.
