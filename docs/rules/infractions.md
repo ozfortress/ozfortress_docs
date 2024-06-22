@@ -72,17 +72,28 @@ If you want to learn how to make a report, please see our Support & Reporting Hu
 We observe a 6-month "statute of limitations" for all evidence submitted via reports. There are a few reasons we observe this reporting window, but chief among them is to allow players to improve upon their behaviour without late intervention. We believe everyone deserves the opportunity to change, and by enforcing this 6-month reporting window, we prevent any form of malicious reporting. In rare circumstances, typically due to the severity of the offence, we may make an exception to this rule. However, these exceptions are exceedingly rare. Simply put, we will very rarely accept reports containing evidence over 6 months in age.
 
 ## Infraction Threshold Ban Levels
-+ 30 points = 3-Round Match Ban
-+ 60 points = 1-Year Infraction Threshold Ban
-+ 90 points = 2-Year Infraction Threshold Ban
++ 20 points: 
+    + 3-Round Match Ban.
++ 40 points:
+    + 6-Round Match Ban.
++ 60 points:
+    + 1-Year Infraction Threshold Ban.
+    + 9-Month Game Server Ban.
+    > Ban ends early to allow players to begin reintegrating into the league.
+    + 12-Month Game Server Mute.
+    > Prevents talking via voice or text.
 
-Whilst we don't list it above, every 30 points above 90 is another year added to the ban.
+!!! info "Please Note"
+    Every 30 points above the 60 point ban level will result in another year added to the ban.
 
-!!! warning "Recent Change"
-    The 3-Round Match Ban was recently lowered from 40 points, read our news post [here](https://ozfortress.com/forums/threads/1230) for more information.
+!!! warning "Recent Change - 23/06/2024"
+    - The 2-Year Infraction Threshold Ban has been delisted.
+    - The 3-Round Match Ban has been lowered from 30 points to 20 points.
+    - A new 6-Round Match Ban has been introduced as a middle of the road punishment.
+    - Read more about these changes here.
 
-#### 3-Round Match Ban
-The 3-Round Match Ban carries across competitions, so if it is received during the offseason or at the end of your season, it will continue at the start of the next regular season or competition you play.
+#### 3-Round & 6-Round Match Bans
+The 3-Round and 6-Round Match Bans carry across competitions, so if it is received during the offseason or at the end of your season, it will continue at the start of the next regular season or competition you play.
 
 #### Infraction Point Expiry & Bans
 Infraction points do **not** expire after a person's ban ends, Infraction points expire depending on their own expiry. Infraction expiries are listed with the offences below.
@@ -91,51 +102,47 @@ Infraction points do **not** expire after a person's ban ends, Infraction points
 Probations are applied after a person's ban expires, and said probation will remain for a 12-month period after their ban. Within this probation period, offences will incur penalties of a higher severity, depending on the tier of the offence.
 
 + Tier 1 infractions are multiplied by 2x, and will incur 20 points. 
-+ Tier 2 infractions are multiplied by 1.5x, and will incur 30 points.
++ Tier 2 infractions are multiplied by 2x, and will incur 40 points.
 + Tier 3 infractions are multiplied by 2x, and will instantly incur 60 points.
 
 ## Ban Resets
 Infractions accrued whilst serving a ban can result in a person's ban being reset back to its original length. We have set point thresholds to dictate when a ban will be reset, or when a person has too many points for their ban to be reset and a Ban Extension may be considered.
 
-- Minimum Ban Reset point threshold: 30 points
-- Maximum Ban Reset point threshold: 90 points
+- Minimum Ban Reset point threshold:
+    - 30 points.
+- Maximum Ban Reset point threshold:
+    - 60 points.
 
 The Ban Reset thresholds are not subject to the increased penalties of Probations. The Behaviour Panel reserves the right to reset a person's ban for any offence.
 
 ### Ban Extensions
 Whilst Ban Extensions have been mostly retired by Ban Resets, the Behaviour Panel will still reserve the right to use Ban Extensions in more severe cases, or where someone breaches the maximum point threshold for a Ban Reset.
 
-!!! warning "Recent Change"
-    In the past, Infractions accrued during an active ban would be upped in severity due to Probations as detailed above. With these higher penalties, offenders could see ban extensions of two years or higher. Whilst not all would believe it, we don't want to be banning anyone for periods of longer than two years, it just doesn't allow those people to reflect, change and then return. In the spirit of this, we have set a point threshold for those serving bans and if it is breached, their ban is reset back to the length their ban was previously.
-
 ## Player Behaviour Infractions
 Specifically player behaviour not related to in-match play or organisation. Please note that something a player says in match communications can be subject to Behavioural Infractions.
 
 ##### Tier 1 Offences - 10 points (6-Month Point Expiry)
-+ Excessive trash talk, flaming, or repeated abuse/harassment (beyond that which can reasonably be considered banter)
++ Excessive trash talk, flaming, or repeated abuse/harassment.
+  > Beyond that which can reasonably be considered banter.
 
 ##### Tier 2 Offences - 20 points (1-Year Point Expiry)
-+ Impersonating ozfortress players without permission
++ Malicious impersonation of ozfortress players.
 
 ##### Tier 3 Offences - 30 points (2-Year Point Expiry)
-+ Attempting to impersonate, imply affiliation with members of the ozfortress staff, or deceive community members by impersonating a member of ozfortress staff
-+ Repeated serious abuse and/or harassment of any kind, including but not limited to;
-    - Witch-hunting
-+ Sharing personal, identifiable information without permission/consent from that individual. Sharing of personal/identifiable information sourced from outside of what is considered our community and/or the Team Fortress space;
-    - An individual’s personal social media is under assumed privacy and anonymity; and therefore is something we consider outside of our community *unless* voluntarily shared by the individual.
-+ Threats of violence/harm against an individual or group
-+ Discrimination of any kind; some examples are;
-    - Homophobia
-    - Racism
-    - Sexism
-    - Transphobia
-+ General bigotry/use of derogatory slurs against an individual or group
++ Malicious impersonation or implied affiliation with ozfortress staff, or malicious attempts to impersonate or imply affiliation with ozfortress staff.
++ Repeated serious abuse and/or harassment against an individual or group.
++ Sharing personal, identifiable information without permission/consent from that individual. 
+  > Sharing of personal/identifiable information sourced from outside of what is considered our community and/or the Team Fortress space is prohibited. An individual’s personal social media is under assumed privacy and anonymity; and therefore is something we consider outside of our community *unless* voluntarily shared by the individual.
++ Threats of violence/harm against an individual or group.
++ Bigoted, derogatory or discriminatory remarks of any kind.
+  > Some examples are racism, sexism, homophobia or transphobia.
 + Posting of illicit content on ozfortress services or within our community.
 
-## League Infractions (now [League Penalties](/rules/penalties))
+!!! warning "Recent Change - 23/06/2024"
+    Infraction offences have been reworded and updated. Please see the news post for more information.
 
-!!! warning "Recent Change"
-    **League Infractions have been retired** in favour of [League Penalties](/rules/penalties). League Penalties will not contribute to infraction point totals or thresholds like its predecessor, and will also function differently to League Infractions.
+## League Infractions (now [League Penalties](/rules/penalties))
+**League Infractions have been retired** in favour of [League Penalties](/rules/penalties). League Penalties will not contribute to infraction point totals or thresholds like its predecessor, and will also function differently to League Infractions.
 
 ## Public Behaviour Panel members
 Not every member of our Behaviour Panel are currently public, however, you can view the public members [here](/info/staff/#public-behaviour-panel-members). We leave this decision purely up to the individual member.
