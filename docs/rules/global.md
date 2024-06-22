@@ -112,7 +112,7 @@ Seasonal leagues are divided into skill brackets, referred to as divisions. Thes
 Each season features a pool of maps which are played in both regular season and playoff matches. You can find the map pool for a season on its seasonal league page.
 
 ### 2.4. Playable Match Days
-Playable Match Days has been moved to [7.3. Match Organisation & Playable Match Days](/rules/global/?h=playable#73-match-organisation-playable-match-days)
+Playable Match Days has been moved to [7.3. Match Organisation & Playable Match Days](/rules/global/?h=playable#73-match-organisation-playable-match-days).
 
 ### 2.5. Regular Season
 Rounds within a regular season are completed at weekly intervals; teams compete in one match each week featuring two maps from the map pool. Regular seasons are typically run using Round-Robin, however, depending on signup numbers, the Swiss System may be used. The system used will be clearly stated on the seasonal league page.
