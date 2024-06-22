@@ -39,13 +39,13 @@ For Lower division playoffs, Stopwatch is played to one round. Two lower divison
 In Highlander, all King of the Hill (KOTH) maps follow a best of five win condition with a three minute team clock. Different KOTH maps may vary slightly on overtime timers, locked and unlocked timers (when the point is not able to be captured at the start and when it unlocks) as these are built into the map.
 
 ### 1.5. Control Point (5CP)
-#### 1.5.1. 5CP map timer
+##### 1.5.1. 5CP map timer
 The map timer for 5CP maps is 30 minutes. 
 
-#### 1.5.2. 5CP round timer
+##### 1.5.2. 5CP round timer
 The round timer for 5CP maps is 10 minutes.
 
-#### 1.5.3. 5CP round win limit
+##### 1.5.3. 5CP round win limit
 The round timer for 5CP maps is 5 rounds.
 
 ### 1.5.4. 5CP map draws
