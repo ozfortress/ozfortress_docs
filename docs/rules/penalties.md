@@ -37,7 +37,7 @@
 }
 </style>
 
-During ozfortress competitions, both players and teams can receive penalties. The level of penalty will vary based on the rule, and the number of offences.
+During ozfortress competitions, both players and teams can receive penalties. The level of penalty will vary based on the rule, and the number of offences. Team captains who do not co-operate with administrator requests, especially when it involves a potential team disband, may face severe penalties.  
 
 ## Team Penalties
 Teams can accrue Minor, Moderate, and Major penalties during ozfortress competitions.
