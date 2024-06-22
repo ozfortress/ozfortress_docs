@@ -49,64 +49,59 @@ In Sixes, all King of the Hill (KOTH) maps follow a best of five win condition w
 
 ## 2. Sixes Playoffs
 ### 2.1. Playoff Match Format
-Playoff matches are almost exclusively played as a best of three (BO3) series with maps selected from the map pool. Upper division Grand Final matches are played as a best of five (BO5) series. 
+Playoff matches are almost exclusively played as a best of three (BO3) series with maps selected from the map pool. Premier and High Grand Final matches are played as a best of five (BO5) series. 
 
 #### 2.1.1. High Grand Finals
-High teams are expected to play Grand Final matches as a best of five (BO5) series. However, two High teams can agree to play a best of three (BO3) series instead.
+High teams are expected to play Grand Final matches as a best of five (BO5) series. However, two High teams can agree to play a best of three (BO3) series instead, but they do need to consult their division administrator before doing so.
 
-#### 2.1.2. Upper Division Grand Final Scheduling
+#### 2.1.2. Premier & High Grand Final Scheduling
 The Premier Grand Final match occurs on a predetermined date as communicated on the seasonal league page. The High Grand Final match does not occur on a predetermined date, however may not be scheduled on the same night as the Premier Grand Final.
 
-### 2.2. Upper Division Playoffs
-Upper Division Playoffs follow the AFL final eight system as described [here](https://en.wikipedia.org/wiki/AFL_final_eight_system).
+### 2.2. Playoffs Bracket
+The top four teams of the Regular Season participate in Page Playoffs as described [here](/rules/global/#261-page-playoffs).
 
-### 2.3. Lower Division Playoffs
-In the Lower Divisions of Sixes, the top four team of the Regular Season participate in Page Playoffs as described [here](/rules/global/#261-page-playoffs).
+### 2.3. Premier & High Regular Season Map Selection
+For Premier and High seasonal matches following our two map format, there will be four maps to choose from. The **home team** is awarded the first map pick.
 
-### 2.4. Playoff Map Selection Order
-#### 2.4.1. Upper Division BO3 Playoff Matches
-For **Upper Division** Playoff matches following a best of three (BO3) format, the **higher seeded team** is awarded a map pick advantage prior to bans.
+1. **Home Team bans** a map.
+2. **Away Team bans** a map.
+3. **Home Team picks** a map.
+4. The remaining map is played.
 
-The **higher seeded team** is **Team A**. **Maps must be played in the order in which they were picked.**
+Please note all other divisions will have their maps pre-selected for that round by league adminstrators prior to the season starting.
 
-![Sixes Upper Division BO3 Pick/Ban Order](https://i.ibb.co/gTB25FW/sixesupperbo3.png){: style="height:75px;" }
-
-1. **Team A picks** a map
-2. **Team A bans** a map
-3. **Team B bans** a map
-4. **Team A bans** a map
-5. **Team B bans** a map
-6. **Team A picks** a map
-6. **Team B picks** a map
-
-#### 2.4.2. Upper Division BO5 Playoff Matches
-For **Upper Division** Playoff matches following a best of five (BO5) format, neither team is awarded an advantage. 
+### 2.4. Playoff Map Selection
+#### 2.4.1. BO3 Playoff Matches
+For Playoff matches following a best of three (BO3) format, the **higher seeded team** is awarded a map pick advantage prior to bans.
 
 The **higher seeded team** is **Team A**. **Maps must be played in the order in which they were picked.**
 
-![Sixes Upper Division BO5 Pick/Ban Order](https://i.ibb.co/28FhMbz/sixesupperbo5.png){: style="height:75px;" }
+1. **Team A bans** a map.
+2. **Team B bans** a map.
+3. **Team A picks** a map.
+4. **Team B picks** a map.
+5. **Team B bans** a map.
+6. **Team A picks** a map.
 
-1. **Team A picks** a map
-2. **Team B picks** a map
-3. **Team A bans** a map
-4. **Team B bans** a map
-5. **Team A picks** a map
-6. **Team B picks** a map
-7. **Team A bans** a map
-8. **Team B bans** a map
-9. The remaining map is picked
+| **Team A** | Ban |     | Pick |      | Ban |      |
+|------------|-----|-----|------|------|-----|------|
+| **Team B** |     | Ban |      | Pick |     | Pick |
 
-#### 2.4.3. Lower Division BO3 Playoff Matches
-For **Lower Division** Playoff matches following a best of three (BO3) format, the **higher seeded team** is awarded the final map pick.
+#### 2.4.2. BO5 Playoff Matches
+The Premier Grand Final and High Grand Final Playoff matches are a best of five (BO5) series where neither team is awarded an advantage. 
 
 The **higher seeded team** is **Team A**. **Maps must be played in the order in which they were picked.**
 
-![Sixes Lower Division BO3 Pick/Ban Order](https://i.ibb.co/HnHCd3z/sixeslowerbo3.png){: style="height:75px;" }
+1. **Team A picks** a map.
+2. **Team B picks** a map.
+3. **Team A bans** a map.
+4. **Team B bans** a map.
+5. **Team A picks** a map.
+6. **Team B picks** a map.
+7. **Team A bans** a map.
+8. **Team B bans** a map.
+9. The remaining map is picked.
 
-1. **Team A bans** a map
-2. **Team B bans** a map
-3. **Team A picks** a map
-4. **Team B picks** a map
-5. **Team A bans** a map
-6. **Team B bans** a map
-7. **Team A picks** a map
+| **Team A** | Pick |      | Ban |     | Pick |      | Ban |     | Decider |
+|------------|------|------|-----|-----|------|------|-----|-----|---------|
+| **Team B** |      | Pick |     | Ban |      | Pick |     | Ban | Decider |
