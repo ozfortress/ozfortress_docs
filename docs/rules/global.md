@@ -490,6 +490,8 @@ Fielding a mercenary without approval **will** result in the following penalties
 #### 6.2.1. Reasonable Mercenary Denial
 Teams have the right to deny players from the same division, but reasonable requests should be accommodated. We recommend contacting a League Administrator if you are unsure of the skill level of the requested mercenary.
 
+When a League Administrator is required to step in to solve a mercenary dispute, the level of the requested mercenary will be compared to the player they are replacing. This is not a requirement for teams when negotiating mercenaries between each other, but will be the primary consideration for us when resolving disputes.
+
 #### 6.2.2. Requesting Players From Lower Divisions
 A player who is completely unrestricted in a division below that in which a match is being played should be approved without any restrictions. If a team is concerned about the impact of such a player, team captains are encouraged to contact their Division Administrators through the [Team Captain Discord](/rules/global/#72-team-captain-discord).
 
