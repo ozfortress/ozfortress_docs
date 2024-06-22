@@ -33,23 +33,13 @@ The map timer for 5CP maps is 25 minutes.
 #### 1.3.2. 5CP round timer
 The round timer for 5CP maps is 4 minutes (through the usage of the [Progressive Ruleset Timer](/info/server_configs/#progressive-ruleset-timer-plugin)).
 
-#### 1.3.3. Upper Division 5CP round win limit
-ozfortress has adopted the Progressive Ruleset that creates a dynamic win condition for 5CP maps. In the **Upper Divisions**:
+#### 1.3.3. Progressive Ruleset 5CP round win limit
+ozfortress has adopted the Progressive Ruleset that creates a dynamic win condition for 5CP maps for all divisions. 
 
  1. If a team reaches a total of 5 rounds before the end of the map timer, they win the map.
 
- 2. If, once the map timer runs out, neither team has reached a total of 5 rounds, the round win limit is set to the current highest round score +1. The match continues until one team meets this new round win limit.
-    - for example, if the score is currently 2-3, the round win limit is set at 4.
-
-#### 1.3.4. Lower Division 5CP round win limit
-ozfortress has adopted the Progressive Ruleset that creates a dynamic win condition for 5CP maps. In the **Lower Divisions**:
-
- 1. If a team reaches a total of 5 rounds before the end of the map timer, they win the map.
-
- 2. If, once the map timer runs out, a team has more rounds than the other, they win the map.
-
- 2. If, once the map timer runs out, both teams are tied, the round win limit is set to the tied round score +1. The match continues until one team meets this new round win limit.
-    - for example, if the score is currently 2-2, the round win limit is set at 3.
+ 2. If, once the map timer runs out, neither team has reached a total of 5 rounds, the round win limit is set to the current highest round score + 1. The match continues until one team meets this new round win limit.
+    - For example, if the score is currently 2-3, the round win limit is set at 4.
 
 #### 1.3.5. 5CP map draws
 Map draws are currently not possible due to the dynamic win condition described above.
