@@ -712,19 +712,27 @@ To pause a match, teams must open their console and send the command: `pause`. T
 To allow a player to rejoin the server during a pause, use the command: `repause`. No warning is required to use the repause command.
 
 ### 8.9. Demo Recording
-POV demo files must be recorded for all matches and provided upon request by an ozfortress administrator. **Players must retain their POV demo files for at least two seasons.**
+POV demo files must be recorded for all matches played on ozfortress servers or using ozfortress configs, and provided upon request by an ozfortress administrator. 
 
-For further details, visit the [Demo Requests FAQ page](/faq/demo_requests/).
+When playing on an ozfortress server or are using an ozfortress config, you are required to record:
+
+- Official ozfortress matches.
+- Scrimmage/practise matches.
+- Pickup game/"Pug" matches.
+- Any other match type playing an ozfortress format.
+
+**Players must retain their POV demo files for at 6 months.** For further details, visit the [Demo Requests FAQ page](/faq/demo_requests/).
 
 #### 8.9.1. Demo Checking
 POV demo files may be requested for resolving match disputes, ensuring competitive play integrity, or random checks. All players in a match, including mercenaries, may have their demos requested.
 
 POV demo files may be requested by an administrator as a tool for resolving match disputes, ensuring competitive play integrity, or as a part of a random demo check. All players in a match can have their demos requested, including mercenaries.
 
-Failure to provide POV demo files upon request will result in the following penalties:
+Failure to provide POV demo files upon request for any match requested will result in the following penalties:
 
-|                  |   Player Penalty    |               Team Penalty               |
+|     Offence      |   Player Penalty    |               Team Penalty               |
 | ---------------: | :-----------------: | :--------------------------------------: |
+|    Offences (That isn't an official match) | Warning |  N/A   |
 |    First Offence | Two round match ban |  :material-alert-circle-outline: Minor   |
 |   Second Offence | One year match ban  | :material-close-circle-outline: Moderate |
 | Further Offences | Two year match ban  |      :material-close-circle: Major       |

@@ -32,8 +32,9 @@ No, ozfortress only accepts POV demo files. No other form of match replay is acc
 ## Failure to submit POV demo files penalty
 Players or teams who fail to submit their POV demo files upon request by an administrator **within 72 hours of receiving the message** or **prior to your next official match** (whichever occurs first) will result in one of the penalties below.
 
+- First instance (that isn't an official): Warning
 - First instance: Two (2) Round ban
-- Second instance: Two (2) Year ban
+- Second instance: One (1) Year ban
 - Further instances: Two (2) Year ban
 
 ## Further questions, concerns or issues?
