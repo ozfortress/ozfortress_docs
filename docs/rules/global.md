@@ -310,7 +310,7 @@ Outlined below are reasonable checks players should undertake to avoid penalties
 While ozfortress primarily caters to players from Australia and New Zealand, we also welcome players from Asia.
 
 #### 3.4.1. Ping Limit
-Out-of-Region Players intending to join a roster, or play as a mercenary, must meet the **in-game ping limit of 180**. If you are unsure whether you meet this requirement, you should contact a League Administrator to undergo a ping check. **It is the responsibility of Out-of-Region Players to ensure that they satisfy this ping limit.**
+Out-of-Region Players intending to join a roster, or play as a mercenary, must meet the **in-game ping limit of 180**. If you are unsure whether you meet this requirement, you should contact a League Administrator to undergo a ping check. **It is the responsibility of Out-of-Region Players to ensure that they satisfy this ping limit.** However, if you live in a neighbouring region such as somewhere in Asia, please reach out to league administration as you may be eligible to play without needing to abide by the ping limit.
 
 !!! warning "Ping Limit Breaches"
     In the event that a match is played featuring a player who fails to meet the ping limit requirements, League Administrators may penalise the offending team, including awarding a forfeit win.
@@ -327,7 +327,7 @@ Fielding a player who does not meet the ping limit can result in the following p
 We understand that ping fluctuations do occur and that this can result in players experiencing far greater ping than what would normally be expected. Experiencing bad network conditions in an individual instance **does not invalidate previous ping checks**. You may, however, be requested to redemonstrate that you satisfy the ping limit by a League Administrator.
 
 #### 3.4.3. Exceptions
-Some players who previously participated in our competitions may no longer meet the new limit described above. Teams hoping to roster such players should speak to a League Administrator to get an exception approved. Mercenaries are not eligible for exceptions.
+Some players who previously participated in our competitions may no longer meet the new limit described above. Teams hoping to roster such players should speak to a League Administrator to get an exception approved. Mercenaries are not eligible for exceptions. As mentioned in [3.4.1. Ping Limit](/rules/global/#341-ping-limit), if you live in a neighbouring region to Australia or New Zealand, you may be eligible to play without needing to abide by the ping limit.
 
 **Exceptions are competition-dependent. As such, teams must get exceptions re-approved for each competition.**
 
@@ -410,6 +410,8 @@ Captains of disbanded teams **will** face the following penalties:
 | ---------------: | :----------------------: | :----------: |
 |    First Offence | Two season captaincy ban |      -       |
 | Further Offences |   Six month league ban   |      -       |
+
+In addition to the penalties listed above, captains who are seemingly unwilling to make an effort to save their roster, or who actively hinder the process of saving or running their roster will receive additional penalties.
 
 #### 4.5.1. Undisbanding Teams
 Teams who previously disband will not be undisbanded. Once a team is disbanded, they are penalized - this process will not be reversed.
@@ -873,6 +875,13 @@ Game Mechanic exploits are typically map, client or server exploits used to gain
 + Exploiting the map design to enter areas that aren’t within regular bounds, for any means or use excluding Wallbugs and Edgebugs as documented in [Explicitly Allowed Game Mechanic exploits](/rules/global/#explicitly-allowed-game-mechanic-exploits).
 + Map-based exploits (water jump scoping, etc).
 + Hiding sticky grenades (AKA "stickies") or engineer buildings inside of props or geometry **where they cannot be destroyed by normal means** (any class, out of the map, etc) due to differences in their visual and physical collisions is **considered an exploit**.
++ Any form of complete animation break, including but not limited to:
+  + T-Posing or "Civilian" mode.
+  + Contracker exploitation.
++ Purposeful Sniper scoped-in crouch exploitation is prohibited.
+> When a sniper scopes in whilst crouched, it is possible to obscure up to or above 50% of that sniper's character model whilst still maintaining vision around the objects obscuring their model.
+>
+> **We understand that this is potentially difficult to police, however, it will often be very clear when someone is intentionally abusing this mechanical oversight.** We will be reviewing each reported case of this behaviour individually, and not blanket banning any instance that could be purposeful exploitation.
 
 ##### Explicitly Allowed Game Mechanic exploits
 
