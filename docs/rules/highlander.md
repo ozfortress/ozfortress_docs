@@ -60,12 +60,14 @@ For Playoff matches, the **higher seeded team** is awarded the final map pick.
 
 The **higher seeded team** is **Team A**. They can, however, choose to be **Team B** by deferring the first ban. **Maps must be played in the order in which they were picked.**
 
-![Highlander BO3 Pick/Ban Order](https://i.ibb.co/GFHzNDT/hlbo3.png){: style="height:75px;" }
-
+##### Pick/Ban Order
 1. **Team A bans** a map
 2. **Team B bans** a map
-3. **Team A bans** a map
-4. **Team B bans** a map
-5. **Team A picks** a map
-6. **Team B picks** a map
-7. **Team A picks** a map
+3. **Team A picks** a map
+4. **Team B picks** a map
+5. **Team B bans** a map
+6. **Team A picks** a map
+
+| **Team A** | Ban |     | Pick |      | Ban |      |
+|------------|-----|-----|------|------|-----|------|
+| **Team B** |     | Ban |      | Pick |     | Pick |
