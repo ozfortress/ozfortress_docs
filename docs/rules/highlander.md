@@ -27,13 +27,16 @@ The Highlander whitelist can be found [here](https://whitelist.tf/ozfortress_hl)
 Payload and Attack/Defend maps are played using a Stopwatch. There is no timelimit for Stopwatch maps other than what is set by the Stopwatch timer itself.
 
 #### 1.3.1. Regular Season Stopwatch
-During the regular season, stopwatch maps are played to one round, with each side attacking and defending once. 
+During the regular season, stopwatch maps are played to one round, with each side attacking and defending once. On occassion, league administrators may decide prior to the season to include a "ABBA week", typically on a staple map. For more information on ABBA, see [1.3.4. ABBA](/rules/highlander/#134-abba).
 
 #### 1.3.2. Upper Division Playoffs Stopwatch
-For Upper division playoffs, Stopwatch is played using the A.B.B.A system (ABBA). In ABBA, Stopwatch maps are played in a best of three scenario, requiring one team to win two full rounds. Two upper division teams can agree to play to one round instead of ABBA.
+For Upper division playoffs, Stopwatch is played under ABBA conditions. Two Upper Division teams can agree to play to one round win instead of ABBA. For more information on ABBA, see [1.3.4. ABBA](/rules/highlander/#134-abba).
 
 #### 1.3.3. Lower Division Playoffs Stopwatch
-For Lower division playoffs, Stopwatch is played to one round. Two lower divison teams can agree to play ABBA as described in [1.3.2. Upper Division Playoffs Stopwatch]().
+For Lower division playoffs, Stopwatch maps require one round to be won. Two Lower Divison teams can agree to play ABBA as described in [1.3.4. ABBA](/rules/highlander/#134-abba).
+
+#### 1.3.4. ABBA
+The ABBA system is fairly simple, even though it was coined by the wizards of old. Its name is literal, and dictates the order how a 2-0 scoreline of rounds won, is won. Take A as the "Attacking" side, a team starting on attack who would eventually go on to win the match would end up playing in order; one attack half, one defense half, another defense half, and ending with another attack half. Typically in ozfortress Highlander, the regular season wouldn't see any Stopwatch maps played as ABBA, meaning the victor of the one and only round played is the victor of that map. However when playing a Stopwatch map under ABBA conditions, to win the map, a team would need to win two rounds (also known as a best-of-three scenario).
 
 ### 1.4. King of the Hill (KOTH)
 In Highlander, all King of the Hill (KOTH) maps follow a best of five win condition with a three minute team clock. Different KOTH maps may vary slightly on overtime timers, locked and unlocked timers (when the point is not able to be captured at the start and when it unlocks) as these are built into the map.
