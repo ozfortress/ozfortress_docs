@@ -112,12 +112,7 @@ Seasonal leagues are divided into skill brackets, referred to as divisions. Thes
 Each season features a pool of maps which are played in both regular season and playoff matches. You can find the map pool for a season on its seasonal league page.
 
 ### 2.4. Playable Match Days
-Matches can be played at any point **during** a round. The days below are not the only possible days matches can be played on, however, any days outside those below will require approval from your division administrator. See [7.3.4. Emergency Extensions for more info](/rules/global/#734-emergency-extensions).
-
-| **Format** |   **Match Days**   |
-| :--------: | :----------------: |
-|   Sixes    | Sunday - Thursday  |
-| Highlander | Wednesday - Sunday |
+Playable Match Days has been moved to [7.3. Match Organisation & Playable Match Days](/rules/global/?h=playable#73-match-organisation-playable-match-days)
 
 ### 2.5. Regular Season
 Rounds within a regular season are completed at weekly intervals; teams compete in one match each week featuring two maps from the map pool. Regular seasons are typically run using Round-Robin, however, depending on signup numbers, the Swiss System may be used. The system used will be clearly stated on the seasonal league page.
@@ -540,7 +535,7 @@ Communicating externally to the Team Captain Discord **will** result in the foll
 |   Second Offence |    Warning     |  :material-alert-circle-outline: Minor   |
 | Further Offences | One Match Ban  | :material-close-circle-outline: Moderate |
 
-### 7.3. Match Organisation
+### 7.3. Match Organisation & Playable Match Days
 After the match is posted on the ozfortress website, a Discord channel is created for Team Captains to communicate available days and times. Playable match days are outlined in [2.4. Playable Match Days](/rules/global/#24-playable-match-days).
 
 We encourage all teams to set their match date/time, but in the case of a dispute an administrator may enforce the default match day and/or times.
@@ -549,6 +544,13 @@ We encourage all teams to set their match date/time, but in the case of a disput
 | :--------: | :---------------: | :------------------: |
 |   Sixes    |     Thursday      | 8PM or 9PM AEST/AEDT |
 | Highlander |      Sunday       | 8PM or 9PM AEST/AEDT |
+
+Matches can be played at any point **during** a round. The days below are not the only possible days matches can be played on, however, any days outside those below will require approval from your division administrator. See [7.3.4. Emergency Extensions for more info](/rules/global/#734-emergency-extensions).
+
+| **Format** |   **Match Days**   |
+| :--------: | :----------------: |
+|   Sixes    | Sunday - Thursday  |
+| Highlander | Wednesday - Sunday |
 
 #### 7.3.1. Organisation Deadlines
 Teams should aim to have their match organised by the following deadlines.
