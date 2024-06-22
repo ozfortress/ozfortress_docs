@@ -396,6 +396,8 @@ The number of players on an active roster is limited based on the format.
 |   Sixes    | 6 players | 10 players |
 | Highlander | 9 players | 15 players |
 
+In addition to the limits above, Highlander currently restricts maximum roster size during the signups process prior to the season to 12 players. This limit is then raised after the season has started. This change is being tested as a potential deterrent for teams rostering unreliable substitute players (or players who just won't play at all).
+
 #### 4.3.2. Player Verification
 If necessary, the [ozfortress Roster Verification Tool](https://verify.ozfortress.com/) may be used to quickly verify all players before a match. The tool will process your inputs and validate all players, displaying any roster inconsistencies.
 
@@ -565,6 +567,9 @@ Showing insufficient effort in meeting these deadlines may result in the followi
 |    First Offence |       -        |  :material-alert-circle-outline: Minor   |
 |   Second Offence |       -        |  :material-alert-circle-outline: Minor   |
 | Further Offences |       -        | :material-close-circle-outline: Moderate |
+
+##### 7.3.1.1. Map Veto / Pick & Ban Process Completion Deadline
+In addition to the deadlines above, all match set/map veto or pick and ban processes need to be completed by 7pm AEST/AEDT the day prior to the agreed upon/scheduled match time.
 
 #### 7.3.2. Scheduling Issues
 If the other team is unresponsive in the Team Captain Discord, or not making a reasonable effort, contact Division Administrators through the [Team Captain Discord](/rules/global/#72-team-captain-discord) immediately.
