@@ -51,6 +51,13 @@ The round timer for 5CP maps is 5 rounds.
 ### 1.5.4. 5CP map draws
 In the event that two teams draw at the end of a 5CP map, they are required to play a golden cap. Golden Cap rounds are played till the first capture of the last point with no time limit. You can find more details on the Server Configs page [here](/info/server_configs/#golden-cap).
 
+### 1.6. Highlander Tiebreaking Measures
+These measures are only in place for Highlander.
+
+1. Team will have all of their KOTH rounds won throughout the regular season tallied with the highest total being the winner of the tied teams.
+2. If the above fails, Direct Encounter will be used with the winner of said match being the winner of the tied teams.
+3. If the above fails, a Best of 3 tiebreaker match will need to be played. This match will feature the two maps from the Direct Encounter match with the final map being determined after each team bans two maps. Teams need to play on opposite sides they started on in the Direct Encounter match.
+
 ## 2. Highlander Playoffs
 ### 2.1. Playoff Match Format
 Playoff matches are exclusively played as a best of three (BO3) series with maps selected from the map pool.

@@ -147,6 +147,10 @@ League rankings will be initially determined by match points; in the event of po
 3. Total map wins
 4. Win difference (Total points earned minus total points lost)
 
+#### 2.5.6. Tiebreaking Measures
+Some formats may require additional tiebreaking measures to ensure fair and competitive scoring.
+    - [Highlander Tiebreaking Measures](/rules/highlander/#16-highlander-tiebreaking-measures)
+
 ### 2.6. Playoffs
 Following the conclusion of the regular season, Playoffs are played to determine the overall winner of the competition.
 
