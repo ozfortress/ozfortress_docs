@@ -878,6 +878,7 @@ Game Mechanic exploits are typically map, client or server exploits used to gain
 + Any form of complete animation break, including but not limited to:
   + T-Posing or "Civilian" mode.
   + Contracker exploitation.
+  + Ragdoll "mods" that break the intended effect of a Spy's Dead Ringer item.
 + Purposeful Sniper scoped-in crouch exploitation is prohibited.
 > When a sniper scopes in whilst crouched, it is possible to obscure up to or above 50% of that sniper's character model whilst still maintaining vision around the objects obscuring their model.
 >
