@@ -3,6 +3,35 @@
 ### Sixes (6v6) Map History
 Below you will find the maps used in each season of ozfortress Sixes. Only Season 16 onwards can be found on this website (formerly known as "warzone"); seasons prior to this were on the old ozfortress forums, which we will look to get back up and running at a later date.
 
+#### ozfortress Sixes Winter '24
+```
+koth_bagel_rc9b
+cp_clearcut_b16a
+cp_gullywash_f9
+koth_product_final
+cp_process_f12
+cp_reckoner
+cp_snakewater_final1
+cp_sunshine
+cp_metalworks_f5
+```
+---
+
+#### ozfortress Sixes Autumn '24
+```
+koth_bagel_rc7
+cp_clearcut_b16a
+cp_gullywash_f9
+koth_product_final
+cp_process_f12
+cp_reckoner
+cp_snakewater_final1
+cp_granary_pro_rc16f
+cp_sunshine
+cp_metalworks_f5
+```
+---
+
 #### ozfortress Sixes Spring '23
 ```
 koth_bagel_rc7
