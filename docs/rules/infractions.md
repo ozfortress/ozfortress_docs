@@ -122,21 +122,21 @@ Whilst Ban Extensions have been mostly retired by Ban Resets, the Behaviour Pane
 Specifically player behaviour not related to in-match play or organisation. Please note that something a player says in match communications can be subject to Behavioural Infractions.
 
 ##### Tier 1 Offences - 10 points (6-Month Point Expiry)
-+ Excessive trash talk, flaming, or repeated abuse/harassment.
++ #101: Excessive trash talk, flaming, or repeated abuse/harassment.
   > Beyond that which can reasonably be considered banter.
 
 ##### Tier 2 Offences - 20 points (1-Year Point Expiry)
-+ Malicious impersonation of ozfortress players.
++ #201: Malicious impersonation of ozfortress players.
 
 ##### Tier 3 Offences - 30 points (2-Year Point Expiry)
-+ Malicious impersonation or implied affiliation with ozfortress staff, or malicious attempts to impersonate or imply affiliation with ozfortress staff.
-+ Repeated serious abuse and/or harassment against an individual or group.
-+ Sharing personal, identifiable information without permission/consent from that individual. 
++ #301: Malicious impersonation or implied affiliation with ozfortress staff, or malicious attempts to impersonate or imply affiliation with ozfortress staff.
++ #302: Repeated serious abuse and/or harassment against an individual or group.
++ #303: Sharing personal, identifiable information without permission/consent from that individual. 
   > Sharing of personal/identifiable information sourced from outside of what is considered our community and/or the Team Fortress space is prohibited. An individual’s personal social media is under assumed privacy and anonymity; and therefore is something we consider outside of our community *unless* voluntarily shared by the individual.
-+ Threats of violence/harm against an individual or group.
-+ Bigoted, derogatory or discriminatory remarks of any kind.
++ #304: Threats of violence/harm against an individual or group.
++ #305: Bigoted, derogatory or discriminatory remarks of any kind.
   > Some examples are racism, sexism, homophobia or transphobia.
-+ Posting of illicit content on ozfortress services or within our community.
++ #306: Posting of illicit content on ozfortress services or within our community.
 
 !!! warning "Recent Change - 23/06/2024"
     Infraction offences have been reworded and updated. Please see the news post for more information.
