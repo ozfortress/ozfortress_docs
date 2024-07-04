@@ -507,6 +507,32 @@ cp_yukon
 ### Highlander (HL) Map History
 Below you will find the maps used in each season of ozfortress Highlander found on this website. ozfortress Highlander is a continuation of Respawn League's own Highlander seasons, which discontinued in 2022.
 
+#### ozfortress Highlander Winter '24
+```
+koth_ashville_final
+koth_warmtic_f10
+koth_product_final
+cp_steel_f12
+pl_swiftwater_final1
+pl_upward_f10
+pl_vigil_rc10
+```
+---
+
+#### ozfortress Highlander Autumn '24
+```
+koth_ashville_final
+koth_warmtic_f10
+pl_borneo_f2
+koth_product_final
+koth_proot_b6c-alt2
+cp_steel_f12
+pl_swiftwater_final1
+pl_upward_f10
+pl_vigil_rc10
+```
+---
+
 #### ozfortress Highlander Spring '23
 ```
 koth_ashville_final
