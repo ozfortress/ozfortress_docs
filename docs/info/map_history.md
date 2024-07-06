@@ -897,7 +897,7 @@ Below you will find the maps used in each tournament/off-season cup one of our p
 #### The LAN Downunder 2024 (LAN)
 ```
 koth_bagel_rc9b
-cp_prolands_rc2ta
+cp_prolands_rc2p
 cp_gullywash_f9
 koth_product_final
 cp_process_f12
