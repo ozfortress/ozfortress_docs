@@ -77,7 +77,7 @@ Currently, four distinct teams of staff support ozfortress and its competitions.
 For any competition-specific issues, team captains should contact League Administrators through the [Team Captain Discord](/rules/global/#72-team-captain-discord). For all other issues, League Administrators can be contacted through the #admin-support channel in the ozfortress Discord.
 
 #### 1.8.2. Anti-Cheat
-All cheating-related matters should be reported to the Anti-Cheat team. You can read more about this process [here](/info/anticheat_and_you/), as well as in [11. Cheating, Exploits and Bans](/rules/global/#11-cheating-exploits-and-bans)
+All cheating-related matters should be reported to the Anti-Cheat team. You can read more about this process [here](/info/anticheat_and_you/), as well as in [11. Cheating, Exploits and Bans](/rules/global/#12-cheating-exploits-and-bans)
 
 #### 1.8.3. Behaviour Panel
 All behaviour matters, including those covered in [1.7. Sportsmanship](/rules/global/#17-sportsmanship), should be reported to the Behaviour Panel. You can read more about this process [here](/rules/infractions/).
