@@ -4,6 +4,11 @@ Bans within ozfortress typically come as a result of poor player conduct, use of
 !!! abstract "Please Note"
     Ban reasoning is not always limited to just the aforementioned reasons, administration reserves the right to make decisions for any case they deem necessary, but this is typically left to cases which are outliers or uncommon.
 
+### Game Server Bans
+All ozfortress bans excluding Permanent Bans are subject to the following:
+
+- All users receiving any ban below will be banned from ozfortress bookable servers for most of their ban. However, in the last three months of their ban, they will be able to join ozfortress servers again, but will be unable to use the in-game chat or voice chat. This has been done in an attempt to allow banned players to begin to reintegrate into the community.
+
 ### League Bans
 League Bans are issued as a result of serious breaches in our competitive rulesets. These may be Round Bans, or 6-Month/1-Year/2-Year League Bans.
 
