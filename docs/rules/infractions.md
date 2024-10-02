@@ -121,7 +121,7 @@ Infraction Modifiers act as a 2x modifier for some select infractions. Modifiers
 By doubling the points of certain infractions (#101, #302 & #304) when perpetrated against a staff member, these penalties will instantly incur a 3-Round Match Ban, or 1-Year League Ban, the latter of which we understand is incredibly harsh. We want to reassure everyone that the usage of Infraction Modifiers will be limited only to offences against members of our staff team, and will be limited to cases of more severe abuse, stalking, threats of harm - the bizarre stuff.
 
 !!! warning "Recent Change - 03/10/2024"
-    Infraction offences have been reworded and updated. Please see the news post for more information.
+    We will be closely watching the usage of Infraction Modifiers and evaluating if they will remain long term.
 
 ## Player Behaviour Infractions
 Specifically player behaviour not related to in-match play or organisation. Please note that something a player says in match communications can be subject to Behavioural Infractions.
