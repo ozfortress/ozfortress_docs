@@ -57,13 +57,13 @@ In the event that two teams draw at the end of a 5CP map, they are required to p
 ### 1.6. Highlander Tiebreaking Measures
 These measures are only in place for Highlander.
 
-1. Team will have all of their KOTH rounds won throughout the regular season tallied with the highest total being the winner of the tied teams.
+1. Teams will have all their Map Points from throughout the season tallied with the highest total being the winner of the tied teams.
 2. If the above fails, Direct Encounter will be used with the winner of said match being the winner of the tied teams.
-3. If the above fails, a Best of 3 tiebreaker match will need to be played. This match will feature the two maps from the Direct Encounter match with the final map being determined after each team bans two maps. Teams need to play on opposite sides they started on in the Direct Encounter match.
+3. If the above fails, an external calculation will be done comparing team's total winrate across their season to their potential win rate.
 
 ## 2. Highlander Playoffs
 ### 2.1. Playoff Match Format
-Playoff matches are exclusively played as a best of three (BO3) series with maps selected from the map pool.
+Playoff matches are exclusively played as a Best of Three (BO3) series with maps selected from the map pool.
 
 #### 2.2.1. Playoff Map Selection Order
 For Playoff matches, the **higher seeded team** is awarded the final map pick.
@@ -81,3 +81,15 @@ The **higher seeded team** is **Team A**. They can, however, choose to be **Team
 | **Team A** | Ban |     | Pick |      | Ban |      |
 |------------|-----|-----|------|------|-----|------|
 | **Team B** |     | Ban |      | Pick |     | Pick |
+
+#### 2.3.2. Expanded Playoffs
+Expanded Playoffs is our own playoff format, allowing the top 6 teams of a division to participate. 
+Expanded Playoffs has three rounds:
+
+1. **Quarter Finals**: Upper Match (4th vs 5th Place) and Lower Match (3rd vs 6th Place)
+  > - Teams who lose the Upper Match and Lower Match are knocked out of the season.
+  > - Winners move on to Semi Finals
+2. **Semi-Finals**: The winner of the Upper Match plays in Semi-Final #1 against the 1st place team, the winner of the Lower Page Match plays in Semi-Final #2 against the 2nd place team.
+  > - Winners of their respective match progress to the Grand Finals
+  > - Losers of their respective match progress to the Bronze Final.
+3. **Grand/Bronze Final**: Winners of Semi Finals 1 and 2 vs each other in the Grand Final. The losers of Semi Finals 1 and 2 vs each other in the Bronze Final.
