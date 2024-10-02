@@ -154,19 +154,22 @@ Additional Notes (when it occurred, where, how, etc):
   </a>
 </div>
 
+!!! info "Please Note"
+    **It is the responsibility of the reporter to submit their report via the appropriate avenue, of which can be found in the link below. ozfortress staff are not responsible for passing on your report for you. Administrators have been explicitly told to direct you to this page for a reason.**
+
 !!!danger "Report Requirements & Evidence Verification"
     Please see the Report Requirements listed on our [Player Behaviour Infractions page](/rules/infractions/#report-requirements-evidence-verification). **If you are unsure how to verify some of your evidence, please feel free to reach out.**
 
 ---
 
 ### Reporting Rule Breaches
+!!!warning "READ ME"
+    If you are currently in your official match, **you are in the wrong place**. Please have your captain reach out to an administrator through the [Team Captain Discord](/rules/global/#72-team-captain-discord) **without delay**.
+
 Has a player in your match, or perhaps even the entire opponent team breached a league rule? If so, we have a few avenues open to report these breaches below.
 
 - If you are not actively in your official match and have noticed a rule breach from a player or team, please make a report via your team's channel in the [Team Captain Discord](/rules/global/#72-team-captain-discord).
 - If you are not a captain, either ask your captain to report it on your team's behalf, or [submit a support ticket in our Discord](https://discord.gg/7E6kC2H)'s `#admin-support` channel, selecting the seasonal league or competition it occured in.
-
-!!!warning "READ ME"
-    If you are currently in your official match, **you are in the wrong place**. Please have your captain reach out to an administrator through the [Team Captain Discord](/rules/global/#72-team-captain-discord).
 
 ---
 
@@ -198,3 +201,6 @@ Additional Notes(ticks):
   </div>
   </a>
 </div>
+
+!!! info "Please Note"
+    **It is the responsibility of the reporter to submit their report via the appropriate avenue, of which can be found in the link below. ozfortress staff are not responsible for passing on your report for you. Administrators have been explicitly told to direct you to this page for a reason.**

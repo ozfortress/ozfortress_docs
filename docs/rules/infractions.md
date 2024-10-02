@@ -60,6 +60,9 @@ Infractions themselves are considered warnings, and as such there are no warning
 ### Making a Report
 If you want to learn how to make a report, please see our Support & Reporting Hub, linked below.
 
+!!! info "Please Note"
+    **It is the responsibility of the reporter to submit their report via the appropriate avenue, of which can be found in the link below. ozfortress staff are not responsible for passing on your report for you. Administrators have been explicitly told to direct you to this page for a reason.**
+
 <div class="grid-container">
   <a href="/support/landing/#reporting-misconduct">
   <div class="grid-item">
@@ -132,7 +135,8 @@ Specifically player behaviour not related to in-match play or organisation. Plea
 + `#301` Malicious impersonation or implied affiliation with ozfortress staff, or malicious attempts to impersonate or imply affiliation with ozfortress staff.
 + `#302` Repeated serious abuse and/or harassment against an individual or group.
 + `#303` Sharing personal, identifiable information without permission/consent from that individual. 
-  > Sharing of personal/identifiable information sourced from outside of what is considered our community and/or the Team Fortress space is prohibited. An individual’s personal social media is under assumed privacy and anonymity; and therefore is something we consider outside of our community *unless* voluntarily shared by the individual.
+    + Unauthorized sharing of personal information or media **needs to have occured outside of Private/Direct Messages before we will take any action**.
+      > Sharing of personal/identifiable information sourced from outside of what is considered our community and/or the Team Fortress space is prohibited. An individual’s personal social media is under assumed privacy and anonymity; and therefore is something we consider outside of our community *unless* voluntarily shared by the individual.
 + `#304` Threats of violence/harm against an individual or group.
 + `#305` Bigoted, derogatory or discriminatory remarks of any kind.
   > Some examples are racism, sexism, homophobia or transphobia.
