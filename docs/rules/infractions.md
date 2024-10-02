@@ -89,12 +89,6 @@ We observe a 6-month "statute of limitations" for all evidence submitted via rep
 !!! info "Please Note"
     Every 30 points above the 60 point ban level will result in another year added to the ban.
 
-!!! warning "Recent Change - 23/06/2024"
-    - The 2-Year Infraction Threshold Ban has been delisted.
-    - The 3-Round Match Ban has been lowered from 30 points to 20 points.
-    - A new 6-Round Match Ban has been introduced as a middle of the road punishment.
-    - Read more about these changes here.
-
 #### 3-Round & 6-Round Match Bans
 The 3-Round and 6-Round Match Bans carry across competitions, so if it is received during the offseason or at the end of your season, it will continue at the start of the next regular season or competition you play.
 
@@ -121,12 +115,21 @@ The Ban Reset thresholds are not subject to the increased penalties of Probation
 ### Ban Extensions
 Whilst Ban Extensions have been mostly retired by Ban Resets, the Behaviour Panel will still reserve the right to use Ban Extensions in more severe cases, or where someone breaches the maximum point threshold for a Ban Reset.
 
+### Infraction Modifiers
+Infraction Modifiers act as a 2x modifier for some select infractions. Modifiers were added as a way to increase the penalty of some infractions when perpetrated against a member of our staff team. To be clear, we never want to introduce harmful segregation in our punishment of bad actors within ozfortress, but the goal of Infraction Modifiers is to introduce a more effective way of punishing severe breaches in our Infractions Ruleset/Community Guidelines that are perpetrated against members of our staff.
+
+By doubling the points of certain infractions (#101, #302 & #304) when perpetrated against a staff member, these penalties will instantly incur a 3-Round Match Ban, or 1-Year League Ban, the latter of which we understand is incredibly harsh. We want to reassure everyone that the usage of Infraction Modifiers will be limited only to offences against members of our staff team, and will be limited to cases of more severe abuse, stalking, threats of harm - the bizarre stuff.
+
+!!! warning "Recent Change - 03/10/2024"
+    Infraction offences have been reworded and updated. Please see the news post for more information.
+
 ## Player Behaviour Infractions
 Specifically player behaviour not related to in-match play or organisation. Please note that something a player says in match communications can be subject to Behavioural Infractions.
 
 ##### Tier 1 Offences - 10 points (6-Month Point Expiry)
 + `#101` Excessive trash talk, flaming, or repeated abuse/harassment.
   > Beyond that which can reasonably be considered banter.
+  + Infraction Modifiers can be applied to this infraction.
 
 ##### Tier 2 Offences - 20 points (1-Year Point Expiry)
 + `201` Malicious impersonation of ozfortress players.
@@ -137,13 +140,12 @@ Specifically player behaviour not related to in-match play or organisation. Plea
 + `#303` Sharing personal, identifiable information without permission/consent from that individual. 
     + Unauthorized sharing of personal information or media **needs to have occured outside of Private/Direct Messages before we will take any action**.
       > Sharing of personal/identifiable information sourced from outside of what is considered our community and/or the Team Fortress space is prohibited. An individual’s personal social media is under assumed privacy and anonymity; and therefore is something we consider outside of our community *unless* voluntarily shared by the individual.
+    + Infraction Modifiers can be applied to this infraction.
 + `#304` Threats of violence/harm against an individual or group.
+    + Infraction Modifiers can be applied to this infraction.
 + `#305` Bigoted, derogatory or discriminatory remarks of any kind.
   > Some examples are racism, sexism, homophobia or transphobia.
 + `#306` Posting of illicit content on ozfortress services or within our community.
-
-!!! warning "Recent Change - 23/06/2024"
-    Infraction offences have been reworded and updated. Please see the news post for more information.
 
 ## League Infractions (now [League Penalties](/rules/penalties))
 **League Infractions have been retired** in favour of [League Penalties](/rules/penalties). League Penalties will not contribute to infraction point totals or thresholds like its predecessor, and will also function differently to League Infractions.
