@@ -388,8 +388,6 @@ The number of players on an active roster is limited based on the format.
 |   Sixes    | 6 players | 10 players |
 | Highlander | 9 players | 15 players |
 
-In addition to the limits above, Highlander currently restricts maximum roster size during the signups process prior to the season to 12 players. This limit is then raised after the season has started. This change is being tested as a potential deterrent for teams rostering unreliable substitute players (or players who just won't play at all).
-
 #### 4.3.2. Player Verification
 If necessary, the [ozfortress Roster Verification Tool](https://verify.ozfortress.com/) may be used to quickly verify all players before a match. The tool will process your inputs and validate all players, displaying any roster inconsistencies.
 
@@ -444,7 +442,7 @@ There are limits on the number of inbound transfers based on the format.
 
 |                    |   Sixes   | Highlander |
 | -----------------: | :-------: | :--------: |
-|  Inbound per round | 1 player  | 3 players  |
+|  Inbound per round | 1 player  | 2 players  |
 | Inbound per season | 4 players | 6 players  |
 
 There are no limits on outbound transfers.
