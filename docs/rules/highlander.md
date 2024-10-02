@@ -33,7 +33,7 @@ During the regular season, stopwatch maps are played to one round, with each sid
 For Upper division playoffs, Stopwatch is played under ABBA conditions. Two Upper Division teams can agree to play to one round win instead of ABBA. For more information on ABBA, see [1.3.4. ABBA](/rules/highlander/#134-abba).
 
 #### 1.3.3. Lower Division Playoffs Stopwatch
-For Lower division playoffs, Stopwatch maps require one round to be won. Two Lower Divison teams can agree to play ABBA as described in [1.3.4. ABBA](/rules/highlander/#134-abba).
+For Lower division playoffs, Stopwatch is played under ABBA conditions. Two Lower Divison teams can agree to play ABBA as described in [1.3.4. ABBA](/rules/highlander/#134-abba).
 
 #### 1.3.4. ABBA
 The ABBA system is fairly simple, even though it was coined by the wizards of old. Its name is literal, and dictates the order how a 2-0 scoreline of rounds won, is won. Take A as the "Attacking" side, a team starting on attack who would eventually go on to win the match would end up playing in order; one attack half, one defense half, another defense half, and ending with another attack half. Typically in ozfortress Highlander, the regular season wouldn't see any Stopwatch maps played as ABBA, meaning the victor of the one and only round played is the victor of that map. However when playing a Stopwatch map under ABBA conditions, to win the map, a team would need to win two rounds (also known as a best-of-three scenario).

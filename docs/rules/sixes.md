@@ -61,7 +61,7 @@ The Premier Grand Final match occurs on a predetermined date as communicated on 
 The top four teams of the Regular Season participate in Page Playoffs as described [here](/rules/global/#261-page-playoffs).
 
 ### 2.3. Premier & High Regular Season Map Selection
-For Premier and High seasonal matches following our two map format, there will be four maps to choose from. The **home team** is awarded the first map pick.
+For Premier and High seasonal matches following our two map format, there will be four maps to choose from. The **Home Team** is awarded the first map pick.
 
 1. **Home Team bans** a map.
 2. **Away Team bans** a map.

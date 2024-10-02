@@ -538,7 +538,7 @@ Communicating externally of the Team Captain Discord **will** result in the foll
 | Further Offences | One Match Ban  | :material-close-circle-outline: Moderate |
 
 ### 7.3. Match Organisation & Playable Match Days
-After the match is posted on the ozfortress website, a Discord channel is created for Team Captains to communicate available days and times. Playable Match Days are outlined in [2.4. Playable Match Days](/rules/global/#24-playable-match-days).
+After the match is posted on the ozfortress website, a Discord channel is created for Team Captains to communicate available days and times. Playable Match Days are outlined below.
 
 We encourage all teams to set their match date/time, but in the case of a dispute an administrator may enforce the default match day and/or times.
 
@@ -573,7 +573,7 @@ Showing insufficient effort in meeting these deadlines may result in the followi
 | Further Offences |       -        | :material-close-circle-outline: Moderate |
 
 ##### 7.3.1.1. Map Veto / Pick & Ban Process Completion Deadline
-In addition to the deadlines above, all match set/map veto or pick and ban processes need to be completed by 7pm AEST/AEDT the day prior to the agreed upon/scheduled match time.
+In addition to the deadlines above, all match set/map veto or pick/ban processes need to be completed 24 hours prior to the agreed upon/scheduled match time.
 
 #### 7.3.2. Scheduling Issues
 If the other team is unresponsive in the Team Captain Discord, or not making a reasonable effort, contact Division Administrators through the [Team Captain Discord](/rules/global/#72-team-captain-discord) immediately.
