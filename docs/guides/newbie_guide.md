@@ -62,7 +62,7 @@ Want more information on what we just talked about? Visit [playcomp.tf](http://p
 Have any other questions? You may want to check out our FAQ section or feel free to ask in Discord.
 
 ### Finding a Team
-If you're new and not sure how to get started, don't fret! Check out the Recruitment category of the [ozfortress Discord](https://discord.gg/dyudcxB) where you can express your interest in joining a team, or peruse potential players to form a team of your own (remember to get the recruiting roles in the "channels and roles" part of the discord, otherwise you will not be able to see these channels). Highlander teams are comprised of one of each class totalling nine players. If you're new to the competitive scene, [click here](https://docs.ozfortress.com/guides/newbie_guide) for an introduction to ozfortress!
+If you're new and not sure how to get started, don't fret! Check out the Recruitment category of the [ozfortress Discord](https://discord.gg/dyudcxB) where you can express your interest in joining a team, or peruse potential players to form a team of your own (remember to get the recruiting roles in the "channels and roles" part of the discord, otherwise you will not be able to see these channels). Highlander teams are comprised of one of each class totalling nine players.
 
 Once you've signed up your team or have joined one, your part is done. Don't worry if you didn't find or join a team in time, you can always be transferred onto a team in one of the Transfer Windows. See the [Transfers information page](https://docs.ozfortress.com/info/transfers/) for more info on Transfers. You can find the Transfer Windows listed in the season's schedule page!
 
