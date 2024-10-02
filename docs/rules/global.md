@@ -10,11 +10,10 @@
 
     ozfortress both does not condone, nor allow betting on ozfortress matches in any form. Failure to abide by this condition will result in serious penalties and/or legal action.
 
-## 1. Ruleset Information
-### 1.1. Global Ruleset
+## 1. Global Ruleset
 The purpose of this ruleset is to collate rule clauses that are typically used for all competitions and are considered by League Administration as universal. It is the responsibility of each player to be informed of the contents of the current ruleset. **Ignorance of clauses within this ruleset is not an excuse.**
 
-#### 1.1.1. Format Rulesets
+### 1.1. Format Rulesets
 Rules in this ruleset that don't mention Sixes or Highlander should be considered general competitive rules. Specific format rules, such as class limits, whitelists, map pools, and game mode rules (like 5CP for Sixes or Stopwatch for Highlander), are detailed in the [Sixes ruleset](/rules/sixes/) and the [Highlander ruleset](/rules/highlander/).
 
 Failure to meet format rules, such as class limits and whitelists, may result in the following penalties:
@@ -86,7 +85,7 @@ All behaviour matters, including those covered in [1.7. Sportsmanship](/rules/gl
 The New Player Experience team exists with the sole focus of making it easier for new players to join the competitive scene.
 
 #### 1.8.5. ozfortress Representation
-ozfortress staff may, on occasion, represent themselves using an ozfortress tag. Players not part of ozfortress staff who change their alias to contain the ozfortress tag may be infracted as outlined [here](/rules/infractions/).
+Players not part of ozfortress staff who change their alias to contain the ozfortress tag with malicious intent may be infracted, outlined as impersonation [here](/rules/infractions/).
 
 ### 1.9. Staff as Players
 Many members of ozfortress staff actively participate in our competitions. In both matches and scrims, we expect that players refrain from engaging with ozfortress staff beyond their roles as players. If players have any issues which need to be addressed, they are encouraged to seek support through the appropriate Discord channels.
@@ -230,26 +229,8 @@ In the event that technical issues beyond the teams' control prevents both teams
 #### 2.8.4. Playoffs Forfeits
 **Any forfeit during Playoffs will result in immediate removal from the league and incur heavier penalties.** The remaining playoff teams below the disbanded team will move up one rank. If feasible, the playoff matches involving the disbanded team may be replayed.
 
-### 2.9. Match Throwing
-Match Throwing is a punishable offence in ozfortress to maintain integrity in match play.
-
-Match Throwing includes, but is not limited to, the following:
-
-- deliberate non-participation in a match, including AFKing or idling
-- deliberate lack of effort, such as adopting nonsensical team compositions or use of mercenaries far below a team's skill level
-- deliberate disregard of format objectives, such as refusing to capture a point
-- actively throwing one's life away to impede the performance of the team
-
-Accusations of Match Throwing are taken seriously, and application of this clause is at the discretion of the ozfortress staff team.
-
-|                  |    Player Penalty     |               Team Penalty               |
-| ---------------: | :-------------------: | :--------------------------------------: |
-|    First Offence |    One round match    | :material-close-circle-outline: Moderate |
-|   Second Offence | Three round match ban |      :material-close-circle: Major       |
-| Further Offences |  Six month match ban  |      :material-close-circle: Major       |
-
-#### 2.9.1. Match Fixing
-Match Fixing, although similar to Match Throwing, typically involves premeditation, planning or communication with other parties. Any effort to compromise the integrity of match play, whether involving monetary incentives or otherwise, will be reviewed and punished at the discretion of the ozfortress staff team.
+### 2.9. Match Fixing
+Match Fixing typically involves premeditation, planning or communication with other parties. Any effort to compromise the integrity of match play, whether involving monetary incentives or otherwise, will be reviewed and punished at the discretion of the ozfortress staff team.
 
 ---
 
@@ -257,33 +238,40 @@ Match Fixing, although similar to Match Throwing, typically involves premeditati
 ### 3.1. Player Requirements
 To be eligible to play in ozfortress competitions, either as a member of a roster or as a mercenary, a player must:
 
-- have an ozfortress.com account
-- have a minimum of 500 hours, or be verified by contacting an ozfortress administrator
-- not be under any current competition exclusion penalties, including:
+- Have an ozfortress.com account.
+- Have a minimum of 500 hours, or be verified by contacting an ozfortress administrator.
+- Not be under any current competition exclusion penalties, including:
 
-    - league bans
-    - infraction threshold bans
-    - Anti-Cheat bans 
-    - VAC bans
+    - League Bans.
+    - Infraction Threshold Bans.
+    - Anti-Cheat Bans .
+    - VAC Bans.
 
-- satisfy the [Ping Limit](/rules/global/#341-ping-limit) or have an exception approved as outlined in [3.4.3. Exceptions](/rules/global/#343-exceptions)
-- have a maximum interpolation value either at the default `0.100ms` that ships with the game or lower
+- Satisfy the [Ping Limit](/rules/global/#341-ping-limit) or have an exception approved as outlined in [3.4.3. Exceptions](/rules/global/#343-exceptions).
+- Have a maximum interpolation value either at the default `0.100ms` that ships with the game or lower.
 
-    - any value above the default interpolation value is considered an exploit
-    - see [12.1. Exploits](/rules/global/#121-exploits) for more information
+    - Any value above the default interpolation value is considered an exploit.
+    - See [12.1. Exploits](/rules/global/#121-exploits) for more information.
 
 ### 3.2. Player Aliases and Avatars
 All player aliases and avatars (both in-game on and the ozfortress website) must be appropriate and will be contextually reviewed by ozfortress administrators. Player alias requests can be made through a player's ozfortress profile settings, and these requests will **not** be processed until the conclusion of any active ozfortress competition.
 
-#### 3.2.1. Player Alias Guidelines
-Player aliases may not contain the following:
+#### 3.2.1. Player Alias & Profile Guidelines
+Player aliases and profiles on ozfortress.com cannot contain the following:
 
-- emojis or special characters
-- blank characters or characters to otherwise break the name field
-- links/URLs
-- anything that violates our Community Guidelines
+- Emojis or special characters.
+- Blank characters or characters to otherwise break the name field.
+- Links or URLs.
+- A person's name or likeness. This excludes celebrities and political figures.
+    - ozfortress staff reserve the right to make contradictory rulings to this on a case-by-case basis.
+- Anything that violates our Community Guidelines.
 
-#### 3.3. Alternative Accounts
+To be eligible for an alias change, players must:
+
+- Use their desired alias, or show a genuine attempt to swap to their desired alias for a majority of the competition prior to their name change.
+    - This is to limit the amount of less serious name changes, as it is expected that your ozfortress alias is your most well known alias.
+
+#### 3.3. Alternative Accounts & Account Sharing
 **The use of alternative accounts is strictly forbidden.** Player registration and participation in ozfortress leagues must occur exclusively through one Steam account. If a player wishes to change their registered account, they must contact an ozfortress administrator. However, it is unlikely that the account will be changed without good reasoning.
 
 !!! danger "Ban Circumvention"
@@ -305,6 +293,12 @@ Outlined below are reasonable checks players should undertake to avoid penalties
     - moving to Australia having participated in overseas competitions
 
 **Players should proactively inform admins of any suspicions regarding players.** Failure to perform these basic checks may result in both player and team punishments if an alternative account is discovered.
+
+### 3.3.2. Account Sharing
+Sharing your login details with a third party for use in an ozfortress match, or to provide anonymity for others to disrupt or be abusive, is strictly prohibited and will result in lengthy bans for all involved parties.
+
+!!! danger "Ban Penalty"
+    **Account Sharing will incur a two year competitive ban**. Those found helping players who are currently banned evade their ban using either an Alternate Account or sharing someone else's account will receive the same penalty.
 
 ### 3.4. Out-of-Region Players
 While ozfortress primarily caters to players from Australia and New Zealand, we also welcome players from Asia.
@@ -352,13 +346,16 @@ Permanently banned players or players banned for cheating-related offenses shoul
 ### 4.1. Team Aliases and Avatars
 All team aliases and avatars must be appropriate and will be contextually reviewed by ozfortress administrators. Team aliases or avatars referencing an established company or brand without explicit approval are not permitted.
 
-#### 4.1.1. Team Alias Guidelines
-Team aliases may not contain the following:
+#### 4.1.1. Team Alias & Profile Guidelines
+Team aliases and profiles cannot contain the following:
 
-- emojis or special characters
-- blank characters or characters to otherwise break the name field
-- links/URLs
-- anything that violates our Community Guidelines
+- Emojis or special characters.
+- Blank characters or characters to otherwise break the name field.
+- Links or URLs.
+- A person's name or likeness. This excludes celebrities and political figures.
+    - ozfortress staff reserve the right to make contradictory rulings to this on a case-by-case basis.
+- Copyrighted names or branding that the team does not have express permission to use.
+- Anything that violates our Community Guidelines.
 
 #### 4.1.2. Premier Team Aliases
 Premier teams will have their aliases held to a higher standard befitting the division's status as the highest level of Australian competitive play.
@@ -373,7 +370,7 @@ Captains have the ultimate responsibility for their team, representing them in o
 **Teams must nominate two or three captains** and, if a captain is unavailable or departs a roster, the team is expected to nominate another captain. **All** team captains are required to join the [Team Captain Discord](/rules/global/#72-team-captain-discord).
 
 #### 4.2.2. Captaincy Bans
-Captains who fail to fulfil their required responsibilities, particularly when it impacts other teams within their division, will receive a captaincy ban. The duration of the captaincy ban is determined by ozfortress administrators based on the specific context of the situation.
+Captains who fail to fulfil their required responsibilities, particularly when it impacts other teams within their division, will receive a Captaincy Ban. The duration of the Captaincy Ban is determined by ozfortress administrators based on the situation.
 
 #### 4.2.3. Mutiny Rule
 At any point of the season, a two-thirds majority of players on an Active Roster may elect to nominate a new captain or remove a captain entirely. To initiate this process, a team member should contact a League Administrator. If necessary, emergency transfers may be granted as outlined in [5.4. Emergency Transfers](/rules/global/#54-emergency-transfers).
@@ -526,7 +523,7 @@ Teams can only make use of the same mercenary within **two matches per season**.
 ---
 
 ## 7. Match Organisation
-All time scheduling follows AEST (if daylight savings is not in effect) or AEDT (if daylight savings is in effect). Times stated below do not change based on daylight savings, meaning "7PM AEST/AEDT" refers to 7PM for both AEST and AEDT.
+All scheduling follows AEST (if [Daylight Saving](https://www.nsw.gov.au/about-nsw/daylight-saving) is not in effect) or AEDT (if [Daylight Saving](https://www.nsw.gov.au/about-nsw/daylight-saving) is in effect). Times stated below do not change based on daylight savings, meaning "7PM AEST/AEDT" refers to 7PM for both AEST and AEDT.
 
 ### 7.1. Organisation Responsibility
 Team captains are responsible for all match organisation tasks. If they are unable to complete these tasks or ensure these tasks are completed, they must nominate another team member to ensure their completion.
@@ -534,7 +531,7 @@ Team captains are responsible for all match organisation tasks. If they are unab
 ### 7.2. Team Captain Discord
 ozfortress competitions use a Team Captain Discord for **all** communication, including match organisation and contacting League Administration. Teams should not contact League Administration regarding ongoing competitions externally of this Discord, as this may be considered an instance of [1.5. Admin Shopping](/rules/global/#15-admin-shopping).
 
-Communicating externally to the Team Captain Discord **will** result in the following penalties:
+Communicating externally of the Team Captain Discord **will** result in the following penalties:
 
 |                  | Player Penalty |               Team Penalty               |
 | ---------------: | :------------: | :--------------------------------------: |
@@ -543,7 +540,7 @@ Communicating externally to the Team Captain Discord **will** result in the foll
 | Further Offences | One Match Ban  | :material-close-circle-outline: Moderate |
 
 ### 7.3. Match Organisation & Playable Match Days
-After the match is posted on the ozfortress website, a Discord channel is created for Team Captains to communicate available days and times. Playable match days are outlined in [2.4. Playable Match Days](/rules/global/#24-playable-match-days).
+After the match is posted on the ozfortress website, a Discord channel is created for Team Captains to communicate available days and times. Playable Match Days are outlined in [2.4. Playable Match Days](/rules/global/#24-playable-match-days).
 
 We encourage all teams to set their match date/time, but in the case of a dispute an administrator may enforce the default match day and/or times.
 
@@ -608,24 +605,25 @@ Inappropriate or unrelated posting in Match Threads may result in the following 
 |   Second Offence | One round match ban |  :material-alert-circle-outline: Minor   |
 | Further Offences | One round match ban | :material-close-circle-outline: Moderate |
 
-#### 7.4.1. Match Thread Requirements
-The following **must** be posted in the match thread by the **Home Team**:
+#### 7.4.1. Match Info Requirements
+The following **must** be posted in the match thread/match page for each official match:
 
- 1. The agreed-upon day and time **immediately** after confirmation.
+ 1. The agreed-upon day and time **after confirmation**. If the match time is changed, or the match is rescheduled, this update should be posted in the match thread as well.
  2. A link to each map's logs.tf page **within 24 hours** of the match's conclusion.
  3. Any other match details **within 24 hours** of the match's conclusion.
+ 4. In the event of a mercenary being required, this must be posted by the team requesting the mercenary in the match thread **prior** to the commencement of the match. This must include any class locks as described in [6.2.4. Mercenary Class Locking](/rules/global/#624-mercenary-class-locking). This does not mean you need to request the mercenary via the match page, you can do this via the match channel in the Team Captain Discord.
+ 5. Once the match has finished, submit the match scores on the match page **within 24 hours of the matchs' conclusion**.
 
-Additionally, the match results must be submitted and confirmed **within 24 hours** of the match's conclusion.
-
-In the event of a mercenary being required, this must be posted by the team requesting the mercenary in the match thread **prior** to the commencement of the match. This must include any class locks as described in [6.2.4. Mercenary Class Locking](/rules/global/#624-mercenary-class-locking).
-
-Failing to provide relevant information in Match Threads may result in the following penalties:
+Failing to all required information in/on Match Threads/Pages may result in the following penalties:
 
 |                  | Player Penalty |               Team Penalty               |
 | ---------------: | :------------: | :--------------------------------------: |
 |    First Offence |       -        |                 Warning                  |
-|   Second Offence |       -        |  :material-alert-circle-outline: Minor   |
+|   Second Offence |       -        |                 Warning                  |
 | Further Offences |       -        | :material-close-circle-outline: Moderate |
+
+!!! warning "Please Note"
+    League Administrators will use their discretion when penalising teams for failing to post all required match info. If a team consistently fails to post this information, we will act. But if it's just some info here and there, League Administrators may opt to post it themselves. **Please note however, it is not their responsibility to do so.**
 
 #### 7.4.2. Match Log Issues
 If logs are unavailable, the **Home Team** must take a screenshot of the score for each map and upload them to the match thread **within 24 hours** of a match's conclusion. If this is not possible, demos may be requested to validate match results.
@@ -664,14 +662,23 @@ If there are issues with the Home team's server selection, the Away team may con
 
 Please see [10. Servers](/rules/global/#10-servers) for more information, including the default server provider and server location.
 
+#### 8.1.1. Match Invasion
+Joining a match server where you are not rostered on either team's roster is considered as Match Invasion. Malicious Match Invasion will be penalised heavily within ozfortress.
+
+|                  | Player Penalty |               Team Penalty               |
+| ---------------: | :------------: | :--------------------------------------: |
+|    First Offence |       :material-close-circle: Major         |   -   |
+|   Second Offence |       -        |   -   |
+| Further Offences |       :material-close-circle: Major         |   -   |
+
 ### 8.2. Team Starting Side
 In Regular Season matches, the Away team selects their team colour. In Playoff matches, the team that did not pick the map will choose their team color.
 
 ### 8.3. Match Disputes
 To lodge a dispute or report misconduct within a match, please contact a League Administrator as soon as possible. Please do not bring the debate to the public while it is being resolved.
 
-### 8.4. Aliasing / Distinct Aliases
-Aliasing is allowed in matches. However, all players must have distinct aliases.
+### 8.4. Distinct Aliases
+Aliasing is allowed in matches. However, all players must have distinct aliases. ozfortress defines Distinct Aliases as a player's most recognizable alias, or current ozfortress.com alias.
 
 Failing to do will result in the following penalties:
 
@@ -726,18 +733,15 @@ When playing on an ozfortress server or are using an ozfortress config, you are 
 **Players must retain their POV demo files for at 6 months.** For further details, visit the [Demo Requests FAQ page](/faq/demo_requests/).
 
 #### 8.9.1. Demo Checking
-POV demo files may be requested for resolving match disputes, ensuring competitive play integrity, or random checks. All players in a match, including mercenaries, may have their demos requested.
-
-POV demo files may be requested by an administrator as a tool for resolving match disputes, ensuring competitive play integrity, or as a part of a random demo check. All players in a match can have their demos requested, including mercenaries.
+POV demo files may be requested by staff as a tool for resolving match disputes or for ensuring competitive integrity. All players in a match can have their demos requested, including substitutes and mercenaries.
 
 Failure to provide POV demo files upon request for any match requested will result in the following penalties:
 
-|     Offence      |   Player Penalty    |               Team Penalty               |
+|     Offence      |   Failing a Demo Request    |               Failing an Anti-Cheat Demo Request               |
 | ---------------: | :-----------------: | :--------------------------------------: |
-|    Offences (That isn't an official match) | Warning |  N/A   |
-|    First Offence | Two round match ban |  :material-alert-circle-outline: Minor   |
-|   Second Offence | Six month league ban  | :material-close-circle-outline: Moderate |
-| Further Offences | Two year league ban  |      :material-close-circle: Major       |
+|    First Offence | Warning | Warning |
+|   Second Offence | 6-Month League Ban | 1-Year League Ban |
+| Further Offences | 2-Year League Ban | 2-Year League Ban |
 
 ---
 
@@ -758,11 +762,26 @@ The current Approved Casting Organisations are:
 
 Upon request, Approved Casting Organizations must be provided with server details and an updated list of participating players and mercenaries.
 
-#### 9.2.1. Becoming an Approved Casting Organisation
-Casting Organisations may contact the League Director or Media Coordinator to become an Approved Casting Organisation. Approval will only be granted once it is determined by ozfortress that the coverage meets approved standards.
+#### 9.2.1. Team Responsibilities
+Teams who are in a match being casted by an Approved Casting Organization need to follow all of that organizations directives in regards to when each map starts. This is to ensure they are ready to go live.
 
-### 9.3. Unapproved Casting Organisations
-Unapproved Casting Organisations, including individuals, **must secure approval from both teams to broadcast a match**. Casting priority for matches is given to Approved Casting Organisations.
+#### 9.2.2. Becoming an Approved Casting Organization
+Casting Organizations may contact the League Director or Media Coordinator to become an Approved Casting Organization. Approval will only be granted once it is determined by ozfortress that the coverage meets approved standards.
+
+### 9.3. Unapproved Casting Organizations
+Unapproved Casting Organizations, including individuals, **must secure approval from both teams to broadcast a match**. Casting priority for matches is given to Approved Casting Organizations.
+
+#### 9.3.1. Failing to seek permission
+Unapproved Casting Organisations (or individuals) who fail to seek permission to cast a match from the captains of both teams involved in that official match will receive penalties.
+
+|                  | Player Penalty |               Team Penalty               |
+| ---------------: | :------------: | :--------------------------------------: |
+|    First Offence |       Warning         |   -   |
+|   Second Offence |       -        |   -   |
+| Further Offences |       1-Round Match Ban         |   -   |
+
+#### 9.3.2. Banned Players covering official matches
+Anyone with an active ozfortress ban, is prohibited from covering any official match on their own channels. Banned players are allowed to appear on, or cast for Approved Casting Organizations.
 
 ### 9.4. Player Stream Delay
 **Stream sniping is not an actionable offence** so players are responsible for setting a stream delay such that they do not impact their team.
@@ -865,7 +884,7 @@ Please note this does not serve as a rule, and you should check with a League Ad
     + This includes stickybomb projectiles, a medic's current medi-gun percentage and charge, an engineer's buildings, etc.
 
 #### 12.1.2. Game Mechanic Exploits
-Game Mechanic exploits are typically map, client or server exploits used to gain an unfair advantage.
+Game Mechanic exploits are typically map, client or server exploits used to gain an unfair advantage. **The following exploits are banned**:
 
 + Placing the Engineer’s buildings outside of the map, in indestructible locations or anywhere where it is not visible.
 + Entering areas that are “out of bounds” or not in playable space.
@@ -884,6 +903,7 @@ Game Mechanic exploits are typically map, client or server exploits used to gain
 + Uber Pause bug
     - A bug where medics continue to build Uber during a pause while healing a player. This bug should be prevented by server plugins, but in the event it does happen, both teams should be made aware and an administrator should be contacted.
 - Using an exploit as an Engineer to be able to hit players twice without a delay with melees
++ Pyro reflect spam visual bug.
 
 ##### Explicitly Allowed Game Mechanic exploits
 
@@ -897,14 +917,19 @@ The lists above are not exhaustive. **If you are unsure if something is consider
 ### 12.2. Third-Party Software
 The use of any third-party addons, hooks, programs or wrappers that interact with or alter the Team Fortress 2 client, its appearance or behaviour to gain an unfair advantage is a bannable offence. This includes usage of such programs on alternative accounts not registered with ozfortress.
 
-### 12.3. Malicious Server Administration
+### 12.3. Malicious Server Administration & Server Abuse
 The use of any server commands, variables, or plugins to gain an unfair advantage or to interfere with an ozfortress match is prohibited. Once the match is underway, the server administrator must let the match run its course and not make any changes without the consent of both teams.
 
-### 12.4. Account Sharing
-Sharing your login details with a third party for use in an ozfortress match is strictly prohibited and will result in lengthy bans for all involved parties.
+Some examples of what we consider malicious:
 
-!!! danger "Ban Penalty"
-    **Account Sharing will incur a two year competitive ban**. Those found helping players who are currently banned evade their ban using either an Alternate Account or sharing someone else's account will receive the same penalty.
+- Using server commands to gain an unfair advantage, or "cheat".
+- Prematurely ending the game via config execution without the approval of both teams.
+- Breaking of config or format limitations.
 
-### 12.5. ozfortress Bans
-Members banned on the ozfortress website are also banned from leading teams in ozfortress competitions. Players banned from the ozfortress website may also be subject to competition bans and are considered under probation. It is standard for those serving Competitive, Anti-Cheat or Infraction Threshold to be banned from our Discord server as well as being barred from using some bookable server services. Please contact an ozfortress administrator for further clarification.
+!!! info "Server Abuse from those outside of the official match"
+    If you happen upon the connect info or RCON info of a server actively being used in an official match, it is ozfortress' expectation that you report it to the teams and/or an ozfortress League Administrator.
+
+    Use of that RCON info to disrupt a match will incur even heavier penalties.
+
+### 12.4. ozfortress Bans
+Members banned on the ozfortress website are also banned from leading teams in ozfortress competitions. Players banned from the ozfortress website may also be subject to competition bans and are considered under probation. It is standard for those serving Competitive, Anti-Cheat or Infraction Threshold bans to be banned from our Discord server as well as being barred from using some bookable server services. Please contact an ozfortress administrator for further clarification.
