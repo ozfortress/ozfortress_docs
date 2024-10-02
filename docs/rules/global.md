@@ -4,7 +4,7 @@
 
     **The sale of in-game ozfortress medals, as well as any other medals, is strictly prohibited.**
     
-    **Valve maintains a strict policy that league and tournament runners should never sell/allow the sale of Medals/Promotional**, and this policy extends to players seeking to acquire such Medals/Promotional Items, whether through in-game currency, real money, or other means. Individuals or parties caught engaging in the sale or trade of medals will be reported directly to Valve.
+    **Valve maintains a strict policy that league and tournament runners should never sell/allow the sale of Medals/Promotional Items**, and this policy extends to players seeking to acquire such Medals/Promotional Items, whether through in-game currency, real money, or other means. Individuals or parties caught engaging in the sale or trade of these items will be reported directly to Valve.
 
     Selling a slot on an active roster for in-game items or money is also **strictly prohibited** by ozfortress. 
 
