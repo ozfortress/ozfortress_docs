@@ -23,29 +23,29 @@ Poor player conduct and/or team conduct. You can find more information on these 
 Cheating related bans, issued typically for usage of third-party programs to gain an unfair advantage, exploit usage, or outlier cheating cases that do not uphold the spirit of competitive play and sportsmanship. Exploit bans are also covered under Evidence Bans, but are typically of a shorter duration.
 
 !!! danger "Ban Penalty for Evidence Bans"
-    **24-Month/2-Year Ban** for typical Evidence Bans, **3-Month/6-Month Ban** for Evidence Bans pertaining to Exploits.
+    **24-Months/2-Year Ban** for typical Evidence Bans, **3-Month/6-Month Ban** for Evidence Bans pertaining to Exploits.
 
 ### VAC Bans
 
 No Conclusive Evidence of cheating in TF2. Entering a VAC Secured TF2 server with an administrator can revoke this ban. Players listed here are typically inactive and/or were unable to prove their VAC ban did not originate from TF2.
 
 !!! danger "Ban Penalty for VAC Bans"
-    **24-Month/2-Year Ban**, entering a VAC Secured TF2 server with an administrator can revoke this ban.
+    **12-Months/1-Year Ban**, entering a VAC Secured TF2 server with an administrator can revoke this ban.
 
 ### Alternate Account Ban
 Bans awarded to those who use an account not approved as their main ozfortress.com account.
 
 !!! danger "Ban Penalty for Alternate Account Usage"
-    **24-Month/2-Year Ban**.
+    **24-Months/2-Year Ban**.
 
 ### Account Sharing Ban
 Bans awarded to those who share a single account/one players account. These bans are typically two year bans.
 
 !!! danger "Ban Penalty for Account Sharing"
-    **24-Month/2-Year Ban**.
+    **24-Months/2-Year Ban**.
 
 ### Evasion Assistance Ban
 Bans awarded to those who thought it was a good idea to help a banned player evade their ban. These bans are typically two year bans.
 
 !!! danger "Ban Penalty for Evasion Assistance"
-    **24-Month/2-Year Ban**.
+    **24-Months/2-Year Ban**.
