@@ -738,8 +738,8 @@ Failure to provide POV demo files upon request for any match requested will resu
 |     Offence      |   Failing a Demo Request    |               Failing an Anti-Cheat Demo Request               |
 | ---------------: | :-----------------: | :--------------------------------------: |
 |    First Offence | Warning | Warning |
-|   Second Offence | 6-Month League Ban | 1-Year League Ban |
-| Further Offences | 2-Year League Ban | 2-Year League Ban |
+|   Second Offence | 3-Month League Ban | 1-Year League Ban |
+| Further Offences | 1-Year League Ban | 2-Year League Ban |
 
 ---
 
