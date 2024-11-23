@@ -271,13 +271,26 @@ To be eligible for an alias change, players must:
 - Use their desired alias, or show a genuine attempt to swap to their desired alias for a majority of the competition prior to their name change.
     - This is to limit the amount of less serious name changes, as it is expected that your ozfortress alias is your most well known alias.
 
-#### 3.3. Alternative Accounts & Account Sharing
+#### 3.3. Alternative Accounts, Account Sharing & 
 **The use of alternative accounts is strictly forbidden.** Player registration and participation in ozfortress leagues must occur exclusively through one Steam account. If a player wishes to change their registered account, they must contact an ozfortress administrator. However, it is unlikely that the account will be changed without good reasoning.
 
 !!! danger "Ban Circumvention"
     If an alternative account is used to circumvent an existing ban, all matches they participated in during the season will be overturned and will result in harsh penalties determined by ozfortress administration.
 
-#### 3.3.1. Team Due Diligence
+#### 3.3.1. Account Transfers
+ozfortress on occasion may perform Account Transfers - replacing the Steam account associated with an ozfortress player's main Steam account, to a new Steam account. This can only occur when a player loses access to their main Steam account due to factors outside of their control. 
+
+The application of this process is at the discretion of ozfortress staff, and is used sparingly.
+
+If you need to have a new Steam account replace the Steam account assigned to your ozfortress account, please fill out [this form](https://forms.gle/HRnWkg8QbPwUh9BH8) and inform an ozfortress Head Administrator or League Director directly via Discord DMs once you have filled the form out.
+
+### 3.3.2. Account Sharing
+Sharing your login details with a third party for use in an ozfortress match, or to provide anonymity for others to disrupt or be abusive, is strictly prohibited and will result in lengthy bans for all involved parties.
+
+!!! danger "Ban Penalty"
+    **Account Sharing will incur a two year competitive ban**. Those found helping players who are currently banned evade their ban using either an Alternate Account or sharing someone else's account will receive the same penalty.
+
+#### 3.3.3. Team Due Diligence
 When recruiting new players, captains and other team members are expected to practice due diligence to avoid penalties if an alternative account is discovered. 
 
 Outlined below are reasonable checks players should undertake to avoid penalties:
@@ -293,12 +306,6 @@ Outlined below are reasonable checks players should undertake to avoid penalties
     - moving to Australia having participated in overseas competitions
 
 **Players should proactively inform admins of any suspicions regarding players.** Failure to perform these basic checks may result in both player and team punishments if an alternative account is discovered.
-
-### 3.3.2. Account Sharing
-Sharing your login details with a third party for use in an ozfortress match, or to provide anonymity for others to disrupt or be abusive, is strictly prohibited and will result in lengthy bans for all involved parties.
-
-!!! danger "Ban Penalty"
-    **Account Sharing will incur a two year competitive ban**. Those found helping players who are currently banned evade their ban using either an Alternate Account or sharing someone else's account will receive the same penalty.
 
 ### 3.4. Out-of-Region Players
 While ozfortress primarily caters to players from Australia and New Zealand, we also welcome players from Asia.
