@@ -26,7 +26,7 @@ The purpose of Discord is for players of ozfortress to discuss TF2 related thing
 If you are banned on any ozfortress medium, you may be subject to restrictions/bans on Discord at the discretion of the ozfortress administration team.
 
 ### Discord Rules
-Breaking the following rules may result in punishment:
+Breaking the following rules may result in punishment befitting that specific breach:
 
 + No abuse/harassment. This includes but is not limited to:
     - Do not harass, abuse or threaten any members.
@@ -37,9 +37,13 @@ Breaking the following rules may result in punishment:
     - Posting the same message in multiple channels.
 + No posting of illicit/illegal content including [NSFW](http://en.wikipedia.org/wiki/Not_safe_for_work) material. Please note that the following are included:
     + Piracy discussion. This does not include discussing safe torrenting practises, but anything that blurs into sharing piracy links or tools will be removed.
++ No posting of links that "joke" about, allude to, or otherwise make reference to illicit/illegal content, including what ozfortress deems as illicit/illegal, such as:
+    + Cheating, cheat clients, or the sale of cheat clients.
 + No advertising other servers, communities, netwoks, organizations or leagues without express permission from the [ozfortress League Director or Media Coordinator](/info/staff/).
 + Do not attempt to bypass Moderation filters, Discord bot moderation tools or any Terms of Service applicable.
 + Abuse of ozfortress staff will NOT be tolerated and is treated as a serious offence.
++ Heed the instructions of ozfortress staff. This one should be pretty clearly in the realm of common sense, but since it's stated here - someone has already tested this. The notion of "fuck around and find out" applies here.
+    + If it's not already very clear, our staff volunteer their time, their energy, whole parts of their lives - because they love the game and love our community. This doesn't exclude them from fair criticism, but it does exclude them from the stupidity of those who want to waste their time over debating Discord rules, all of which in our case are very much common sense in civilized society.
 
 ### Punishments
 Punishments for breaches of rules are dealt with via a system of infraction points. Details of infractions that can be issued can be found [here](https://docs.ozfortress.com/rules/infractions).

@@ -271,7 +271,7 @@ To be eligible for an alias change, players must:
 - Use their desired alias, or show a genuine attempt to swap to their desired alias for a majority of the competition prior to their name change.
     - This is to limit the amount of less serious name changes, as it is expected that your ozfortress alias is your most well known alias.
 
-#### 3.3. Alternative Accounts, Account Sharing & 
+### 3.3. Alternative Accounts, Account Sharing & Player Accounts
 **The use of alternative accounts is strictly forbidden.** Player registration and participation in ozfortress leagues must occur exclusively through one Steam account. If a player wishes to change their registered account, they must contact an ozfortress administrator. However, it is unlikely that the account will be changed without good reasoning.
 
 !!! danger "Ban Circumvention"
@@ -284,7 +284,7 @@ The application of this process is at the discretion of ozfortress staff, and is
 
 If you need to have a new Steam account replace the Steam account assigned to your ozfortress account, please fill out [this form](https://forms.gle/HRnWkg8QbPwUh9BH8) and inform an ozfortress Head Administrator or League Director directly via Discord DMs once you have filled the form out.
 
-### 3.3.2. Account Sharing
+#### 3.3.2. Account Sharing
 Sharing your login details with a third party for use in an ozfortress match, or to provide anonymity for others to disrupt or be abusive, is strictly prohibited and will result in lengthy bans for all involved parties.
 
 !!! danger "Ban Penalty"
@@ -296,14 +296,14 @@ When recruiting new players, captains and other team members are expected to pra
 Outlined below are reasonable checks players should undertake to avoid penalties:
 
 - Be cautious of players who:
-    - perform well despite lacking traceable competitive experience
-    - have limited experience in TF2 or utilise newer Steam accounts
-    - claim to not own a microphone
+    - Perform well despite lacking traceable competitive experience.
+    - Have limited experience in TF2 or utilise newer Steam accounts.
+    - Claim to not own a microphone.
 
 - Verify claims made by players of:
-    - being a "pro" in other games
-    - returning from a prolonged absence
-    - moving to Australia having participated in overseas competitions
+    - Being a "pro" in other games.
+    - Returning from a prolonged absence.
+    - Moving to Australia having participated in overseas competitions.
 
 **Players should proactively inform admins of any suspicions regarding players.** Failure to perform these basic checks may result in both player and team punishments if an alternative account is discovered.
 
