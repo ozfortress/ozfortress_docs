@@ -39,6 +39,8 @@ Breaking the following rules may result in punishment befitting that specific br
     + Piracy discussion. This does not include discussing safe torrenting practises, but anything that blurs into sharing piracy links or tools will be removed.
 + No posting of links that "joke" about, allude to, or otherwise make reference to illicit/illegal content, including what ozfortress deems as illicit/illegal, such as:
     + Cheating, cheat clients, or the sale of cheat clients.
++ ozfortress staff will not verify the safety of links within Discord. If we suspect a link is dangerous or harmful (or is reported as being such), we will remove it and time out the user at minimum. We urge everyone when clicking a link anywhere to be safe, be that on any ozfortress service or just whilst on the internet.
+    + If it's not already clear, we won't expose anyone to the dangers of harmful links, even our staff.
 + No advertising other servers, communities, netwoks, organizations or leagues without express permission from the [ozfortress League Director or Media Coordinator](/info/staff/).
 + Do not attempt to bypass Moderation filters, Discord bot moderation tools or any Terms of Service applicable.
 + Abuse of ozfortress staff will NOT be tolerated and is treated as a serious offence.
