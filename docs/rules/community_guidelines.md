@@ -44,7 +44,7 @@ Breaking the following rules may result in punishment befitting that specific br
 + No advertising other servers, communities, netwoks, organizations or leagues without express permission from the [ozfortress League Director or Media Coordinator](/info/staff/).
 + Do not attempt to bypass Moderation filters, Discord bot moderation tools or any Terms of Service applicable.
 + Abuse of ozfortress staff will NOT be tolerated and is treated as a serious offence.
-+ Heed the instructions of ozfortress staff. This one should be pretty clearly in the realm of common sense, but since it's stated here - someone has already tested this. The notion of "fuck around and find out" applies here.
++ Heed the instructions of ozfortress staff. This one should be pretty clearly in the realm of common sense, but since it's stated here - someone has already tested this.
     + If it's not already very clear, our staff volunteer their time, their energy, whole parts of their lives - because they love the game and love our community. This doesn't exclude them from fair criticism, but it does exclude them from the stupidity of those who want to waste their time over debating Discord rules, all of which in our case are very much common sense and exist in all online communities.
 
 ### Punishments
