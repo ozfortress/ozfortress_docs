@@ -3,6 +3,20 @@
 ### Sixes (6v6) Map History
 Below you will find the maps used in each season of ozfortress Sixes. Only Season 16 onwards can be found on this website (formerly known as "warzone"); seasons prior to this were on the old ozfortress forums, which we will look to get back up and running at a later date.
 
+#### ozfortress Sixes Spring '24
+```
+koth_bagel_rc10
+cp_clearcut_b16a
+cp_gullywash_f9
+koth_product_final
+cp_process_f12
+cp_reckoner
+cp_snakewater_final1
+cp_sunshine
+cp_metalworks_f5
+```
+---
+
 #### ozfortress Sixes Winter '24
 ```
 koth_bagel_rc9b
@@ -507,6 +521,19 @@ cp_yukon
 ### Highlander (HL) Map History
 Below you will find the maps used in each season of ozfortress Highlander found on this website. ozfortress Highlander is a continuation of Respawn League's own Highlander seasons, which discontinued in 2022.
 
+#### ozfortress Highlander Spring '24
+```
+koth_ashville_final
+pl_summercoast_rc8e
+koth_product_final
+cp_steel_f12
+pl_swiftwater_final1
+pl_upward_f12
+pl_vigil_rc10
+koth_proot_b6c-alt2
+```
+---
+
 #### ozfortress Highlander Winter '24
 ```
 koth_ashville_final
@@ -893,6 +920,20 @@ cp_snakewater_final1
 
 ### Tournaments/Cups by our partners
 Below you will find the maps used in each tournament/off-season cup one of our partners has run on our website.
+
+#### CappingTV Summer Brawl 2025 (LAN)
+```
+koth_bagel_rc10
+cp_clearcut_b16a
+cp_gullywash_f9
+koth_product_final
+cp_process_f12
+cp_reckoner
+cp_snakewater_final1
+cp_sunshine
+cp_metalworks_f5
+```
+---
 
 #### The LAN Downunder 2024 (LAN)
 ```
