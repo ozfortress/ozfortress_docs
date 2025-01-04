@@ -5,10 +5,13 @@ This ruleset has been created in part with CappingTV and ozfortress to service s
 ### 1.1. Round Robin
 In the first portion of the tournament, each team competes against each other once, playing a best-of-one series picked out of a nine (9) map pool (this can be found in our [League Info](/info/map_history/)). This map pool is chosen by the tournament administration prior to the start of the event. Each match is typically expected to last an average of thirty minutes, but team's should always be ready to play longer.
 
-### 1.2. Playoffs Stage
+### 1.2. Swiss Stage
+Depending on the tournament's size and duration, a Swiss bracket format may replace the Round Robin stage. In the first round, teams will be paired for a single best-of-one match. After these matches, teams will be grouped with others sharing the same win-loss record for the next round. This process will repeat until each team has either achieved three match wins or been eliminated. Tournament administration will pre-select the map for each round before the event begins. While each match is expected to last approximately 30 minutes, teams should be prepared for longer durations if necessary.
+
+### 1.3. Playoffs Stage
 In Playoffs, each team competes in a single elimination bracket and starts in the first round (play-ins), playing a best-of-one series picked by tournament administration. From Semi-finals onwards, each match or round is a best-of-three series, picked and banned from the nine (9) map pool found in the Round Robin stage (this can be found in our [League Info section](/info/map_history/)). Playoffs fixtures are almost always expected to last at least thirty minutes per map, for an average runtime of ninety minutes to two hours. Once all but two teams are eliminated, a best-of-five Grand Final series is played, as such teams should expect a runtime of anywhere between two to three hours.
 
-### 1.3. Bracket Systems used
+### 1.4. Bracket Systems used
 LAN tournament formats vary depending on the length of the event. The first stage of the tournament (depending on signup numbers, format and event length) will typically be run on a Round Robin format, where each team plays each other once. The second stage will typically be run on a single elimination format, where teams play till they're eliminated once.
 
 ## 2. Teams
