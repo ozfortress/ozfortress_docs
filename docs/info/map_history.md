@@ -924,7 +924,7 @@ Below you will find the maps used in each tournament/off-season cup one of our p
 #### CappingTV Summer Brawl 2025 (LAN)
 ```
 koth_bagel_rc10
-cp_clearcut_b16a
+koth_clearcut_b16a
 cp_gullywash_f9
 koth_product_final
 cp_process_f12
