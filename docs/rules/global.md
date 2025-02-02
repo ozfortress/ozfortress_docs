@@ -110,6 +110,9 @@ Seasonal leagues are divided into skill brackets, referred to as divisions. Thes
 ### 2.3. Map Pool
 Each season features a pool of maps which are played in both regular season and playoff matches. You can find the map pool for a season on its seasonal league page.
 
+### 2.3.1. Map Play Order
+Maps must be played in top-to-bottom order as seen on that match's match page, for both regular season and playoff matches (including playoff matches without pick/bans). Teams are not permitted to change this order, even if both rosters agree.
+
 ### 2.4. Playable Match Days
 Playable Match Days has been moved to [7.3. Match Organisation & Playable Match Days](/rules/global/?h=playable#73-match-organisation-playable-match-days).
 
