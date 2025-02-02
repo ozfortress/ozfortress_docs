@@ -12,7 +12,7 @@ Have an issue that isn't within the Sixes or Highlander realm? Good chance our T
 | Role | Name | Discord |
 | ---- | ---- | ------- |
 | League Director | [core](https://ozfortress.com/users/491 "Please contact me via Discord only.") | [@coreobs](https://discordapp.com/users/226205616773922816) |
-| Sixes Head Admin | [Hawk](https://ozfortress.com/users/233) | [@hawk_33](https://discord.com/users/83079514917175296) |
+| Sixes Head Admin | [Chili](https://ozfortress.com/users/233) | [@hawk_33](https://discord.com/users/83079514917175296) |
 | Highlander Head Admin | [Sperkle](https://ozfortress.com/users/618) | [@sperkle](https://discordapp.com/users/180875592923611145) |
 | Head of Anti-Cheat | [catfish](https://ozfortress.com/users/96) | [@catfishau](https://discordapp.com/users/129062149640159232) |
 | Head of Behaviour Panel | [core](https://ozfortress.com/users/491 "Please contact me via Discord only.") | [@coreobs](https://discordapp.com/users/226205616773922816) |
@@ -25,13 +25,13 @@ As mentioned in our competitive league rulesets, League Administrators in tandem
 | ---- | ---- | ------- |
 | Sixes | [Celph](https://ozfortress.com/users/4285) | [@celph](https://discordapp.com/users/131180625649467392) |
 | Sixes | [emgee](https://ozfortress.com/users/76) | [@emgee](https://discordapp.com/users/86424530871910400) |
-| Sixes | [inStinct](https://ozfortress.com/users/934) | [@in5tinct_](https://discordapp.com/users/239294726128271361) |
 | Sixes | [HUNGRY4EGGS](https://ozfortress.com/users/1484) | [@hungry4eggs](https://discordapp.com/users/215383613439606784) |
-| Highlander | [hive](https://ozfortress.com/users/4274) | [@hive_au](https://discordapp.com/users/769469567272878110) |
+| Sixes | [inStinct](https://ozfortress.com/users/934) | [@in5tinct_](https://discordapp.com/users/239294726128271361) |
+| Sixes (Trial Admin) | [mashiro](https://ozfortress.com/users/350) | [@mashirotf](https://discordapp.com/users/193374387179749376) |
 | Highlander | [Kai](https://ozfortress.com/users/4034) | [@head_empty_no_thoughts](https://discordapp.com/users/213653809937907712) |    
-| Highlander | [Rainy](https://ozfortress.com/users/3124) | [@rainy26](https://discordapp.com/users/107399782162558976) |
 | Highlander | [redja](https://ozfortress.com/users/14) | [@redja](https://discordapp.com/users/182413965207273473) |
 | Highlander | [woozy](https://ozfortress.com/users/4054) | [@w.oozy](https://discordapp.com/users/757143916553306142) |
+| Highlander (Trial Admin) | [Pulse](https://ozfortress.com/users/4915) | [@bigpulsey](https://discordapp.com/users/134543404460802048) |
 
 ## New Player Experience Team
 Our New Player Experience Team was formed to help us further bridge the gap between competitive TF2 and the casual community. Good chance, if we're running team drives, icebreakers or cups, these guys are involved!
@@ -65,9 +65,14 @@ The team responsible for bringing you Citadel, updates to it, and production of 
 
 | Role | Name |
 | ---- | ------- |
-| Developer | [/dev/zero](https://ozfortress.com/users/2) | [@.dev.zero](https://discordapp.com/users/131721186869641216) |
-| Developer | [Shigbeard](https://ozfortress.com/users/1395) | [@shigbeard](https://discordapp.com/users/136264506933248000) |
-| Front-End Developer | [tetrx](https://ozfortress.com/users/249) | [@tetrix.au](https://discordapp.com/users/89313228194058240) |
+| Development Team Lead | [/dev/zero](https://ozfortress.com/users/2) | No contact lised. |
+| Development Team Lead | [Shigbeard](https://ozfortress.com/users/1395) | [@shigbeard](https://discordapp.com/users/136264506933248000) |
+| Developer | a team of ants in their prime | No contact lised. |
+| Developer | Amatorii | No contact lised. |
+| Developer | arbabf | No contact lised. |
+| Developer | nano | No contact lised. |
+| Developer | silent | No contact lised. |
+| Developer | tetrx | No contact lised. |
 
 ## Past Staff
 
@@ -82,10 +87,10 @@ The team responsible for bringing you Citadel, updates to it, and production of 
 + bladez (Livelogs and ozfortress booker)
 + blitzen
 + Brodogs
-+ catfish (Leaague Director)
++ catfish (League Director)
 + chimes
 + Cole
-+ Down
++ down
 + ferelah
 + fez
 + Fozzlm (Media Coordinator)
@@ -94,6 +99,7 @@ The team responsible for bringing you Citadel, updates to it, and production of 
 + hatchet
 + Hawk (Head of Behaviour Panel)
 + hcaz
++ hive
 + Ishanu
 + Jump!
 + Kenneth (League Director)
@@ -103,23 +109,24 @@ The team responsible for bringing you Citadel, updates to it, and production of 
 + LiquidAlchemy
 + mercury (Co-Founder of ozfortress)
 + micko
-+ Multi (Sixes Head Admin)
++ multi (Sixes Head Admin)
 + munz
 + No Mercy
 + nsk
-+ obla (Leaague Director)
++ obla (League Director)
 + Oldcustard
 + OnionS
 + Platinum/shy
 + Psyfox
 + raina
++ Rainy
 + ravelizard
 + RynoCerus
 + samson (Head of Behaviour Panel)
 + Seraphim
 + sage
 + shrak
-+ skaz
++ skaz/SKRATCHLE
 + snazzy
 + Solus
 + stv!
@@ -132,7 +139,7 @@ The team responsible for bringing you Citadel, updates to it, and production of 
 + Varris
 + warbot
 + wiggin
-+ wills
++ wils
 + wm
 + wolfeh
 + yauch
