@@ -31,13 +31,15 @@ The plugins listed below are required for league play compliance, regardless of 
 
 * [SourceMod](https://www.sourcemod.net/)
 * [MetaMod](https://www.metamodsource.net/)
+* [SrcTV+](https://github.com/drunderscore/srctvplus)
 * [TF2 Competitive Fixes by twiikuu](https://github.com/ldesgoui/tf2-comp-fixes)
-* [All of F2's plugins](https://github.com/F2/F2s-sourcemod-plugins)
-* [Improved Round Timer plugin](https://github.com/b4nnyBot/TF2-Improved-Round-Timer-Plugin)
+* [Enhanced Round Timer plugin](https://github.com/ozfortress/Enhanced-Match-Timer)
 * [StAC/STeph's AntiCheat](https://github.com/sapphonie/StAC-tf2)
+* [Demo Checker Plugin](https://github.com/ozfortress/demo_check_plugin)
+* [All of F2's plugins](https://github.com/F2/F2s-sourcemod-plugins)
 
 !!! Warning "Please Note"
-    StAC/STeph's AntiCheat is needed for its client interpolation fix. If you wish to setup monitoring to your own Discord server, please feel free - however we will not accept it's logging as an Anti-Cheat report alone. StAC should be configured so it **will not kick/ban/notify players, with the exception of the interp settings which should kick the user from the server** until they correct their interpolation values. The values ozfortress requires are found [here](/info/server_configs).
+    StAC/STeph's AntiCheat is needed only for its client interpolation fix. If you wish to setup monitoring to your own Discord server, please feel free - however we will not accept it's logging as an Anti-Cheat report alone. StAC should be configured so it **will not kick/ban/notify players, with the exception of the interp settings which should kick the user from the server** until they correct their interpolation values. The values ozfortress requires are found [here](/info/server_configs).
 
 ### Non-Plugin Requirements
 In addition to server plugins, there are other specific requirements.
