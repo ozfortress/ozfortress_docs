@@ -136,10 +136,11 @@ Please refer to the respective ruleset for more information:
 #### 2.5.5. League Ranking
 League rankings will be initially determined by match points; in the event of point draws, tiebreakers will be applied in the following order:
 
-1. Match wins vs. tied participants (Direct Encounter)
-2. Median Buchholz
-3. Total map wins
-4. Win difference (Total points earned minus total points lost)
+1. Median Buchholz (Sum of opponent scores times your score, ignoring the highest and lowest).
+2. Direct Encounter (Match wins vs. tied participants).
+3. Total Score (Sum of scores of all rounds).
+4. Score Difference (Total score difference of all rounds).
+5. Wins (Total number of rounds won).
 
 #### 2.5.6. Tiebreaking Measures
 Some formats may require additional tiebreaking measures to ensure fair and competitive scoring.
@@ -434,7 +435,7 @@ The number of players on a roster who can be restricted is limited based on the 
 
 |   Format   | Player Restriction Limit |
 | :--------: | :---------------------: |
-|   Sixes    |        3 players        |
+|   Sixes    |        No limit.        |
 | Highlander |        5 players        |
 
 ---
