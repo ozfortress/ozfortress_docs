@@ -64,8 +64,8 @@ stac_work_with_sv_cheats "0"
 !!! Note "Please Note"
     The only commands that should kick a player are the interp enforcement commands, the rest should only log/be switched off.
 
-### Progressive Ruleset Timer plugin
-This plugin is used exclusively for Control Point maps (5CP maps in particular), and is also used in [North America](https://github.com/b4nnyBot/Progressive-Ruleset-Timer-Plugins). You can download the version of the [plugin we use here](https://github.com/b4nnyBot/Progressive-Ruleset-Timer-Plugins).
+### Enhanced Match Timer plugin
+This plugin is used exclusively for Control Point maps (5CP maps in particular), and an older version is also used in [North America](https://github.com/b4nnyBot/Progressive-Ruleset-Timer-Plugins). You can download the version of the [plugin we use here](https://github.com/ozfortress/Enhanced-Match-Timer).
 
 You can find information, convars and the round timer value in the 5 Control Points sections below.
 
