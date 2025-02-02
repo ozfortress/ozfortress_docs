@@ -805,13 +805,13 @@ Failing to meet these requirements will result in the following penalties:
 | Further Offences |       -        |      :material-close-circle: Major       |
 
 ### 10.2. Server Providers
-For matches (and in the case of disputes), **au.serveme.tf** serves as the default server provider. However, if both teams agree, alternative services like **Rhizome** or **Qixalite** may be used.
+For matches (and in the case of disputes), **au.serveme.tf** serves as the default server provider. However, if both teams agree, **Matcha Bookable** servers can be used.
 
 #### 10.2.1. Third-Party Servers
 For those interested in running their own servers, please refer to the required server configurations and plugins [here](/guides/selfmanaged_servers/). An ozfortress administrator must review your server configs to ensure they meet the match-ready standard.
 
 ### 10.3. Server Locations
-For matches (and in case of disputes), **Sydney** is the default server location. While teams can opt for alternative server locations such as Melbourne, Perth, or Guam, opposing teams are not obligated to agree to a server location change.
+For matches (and in case of disputes), **Sydney** is the default server location. While teams can opt for other server providers (see [10.2. Server Providers](/rules/global/?h=server#102-server-providers)) who can offer other locations, opposing teams are not obligated to agree to a server location change.
 
 ### 10.4. Server Interruptions
 In the event of an ongoing match being interrupted, the match must resume from the point at which the last round was completed. Any ongoing rounds will be restarted, while completed rounds will remain as is.
