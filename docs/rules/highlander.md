@@ -61,6 +61,17 @@ These measures are only in place for Highlander.
 2. If the above fails, Direct Encounter will be used with the winner of said match being the winner of the tied teams.
 3. If the above fails, an external calculation will be done comparing team's total winrate across their season to their potential win rate.
 
+!!! info "External Calculation"
+    The teams total KOTH rounds won during the regular season (including rounds won on maps eventually lost) is divided by the maximum possible KOTH rounds the team could have won - this gives a percentage of KOTH rounds won. The same calculation is done for Stopwatch maps played during the regular season and the two results are added, then divided by two to give a final winrate percentage for the team.
+
+    Examples:
+
+    - 15 (koth rounds won) / 15 (maximum possible wins) + 7 (stopwatch rounds won) / 7 (maximum possible wins) = 100% winrate
+    - 14 / 15 + 7 / 7 = 96.7% winrate
+    - 15 / 15 + 6 / 7 = 92.9% winrate
+
+    ![highlander-tiebreaker-externalcalc](/img/highlander-tiebreaker-externalcalc.png)
+
 ## 2. Highlander Playoffs
 ### 2.1. Playoff Match Format
 Playoff matches are exclusively played as a Best of Three (BO3) series with maps selected from the map pool.
