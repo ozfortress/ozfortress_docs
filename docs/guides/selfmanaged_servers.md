@@ -19,12 +19,8 @@ You can rent a server from a game server provider or "game server hosting" provi
 
 ##### Essential:
 
-* [Valve guide: Windows server setup](https://wiki.teamfortress.com/wiki/Windows_dedicated_server)
-* [Valve guide: Linux server setup](https://wiki.teamfortress.com/wiki/Linux_dedicated_server) (Most solutions will be running some form of Linux)
-
-##### Recommended:
-
-* spiretf Docker image: Competitive Server (contains logs.tf, demos.tf, twiikuu's comp-fixes and every other essential plugin)
+* [Valve guide: Windows server setup](https://wiki.teamfortress.com/wiki/Windows_dedicated_server).
+* [Valve guide: Linux server setup](https://wiki.teamfortress.com/wiki/Linux_dedicated_server) (Most solutions will be running some form of Linux, also the **recommended option**).
 
 ### Required Server Plugins
 The plugins listed below are required for league play compliance, regardless of whatever hosting option you choose. 
