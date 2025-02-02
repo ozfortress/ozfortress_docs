@@ -19,7 +19,7 @@ Poor player conduct and/or team conduct. You can find more information on these 
     **These will vary depending on the offense, please see the Player Behaviour Infractions ruleset linked above**.
 
 ### Unfair Play Bans (Cheating Bans)
-Unfair Play Bans are typically issued for usage of third-party programs to gain an unfair advantage, Banned Game Modifications, Map or Game Mechanic Exploits, or outlier cheating cases that do not uphold the spirit of competitive play and sportsmanship within ozfortress.
+Unfair Play Bans are typically issued for usage of third-party programs to gain an unfair advantage, usage of banned Game Modifications, Map Exploits or Game Mechanic Exploits, or outlier cheating cases that do not uphold the spirit of competitive play and sportsmanship within ozfortress.
 
 !!! danger "Ban Penalty for "Exploit" Usage" (now known as Banned Game Modifications, Map or Game Mechanic Exploits)"
     Previously, we have had lower ban durations for those using Banned Game Modifications, Map or Game Mechanic Exploits, however we have changed our policy on this. From Season 42 of Sixes/Season 9 of Highlander onward, these breaches will be treated as Unfair Play Bans, and will incur the full penalty listed below.
