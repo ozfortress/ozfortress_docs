@@ -1,14 +1,33 @@
-#### Burning Aces
+## Current Unfair Play (Anti-Cheat) Bans
+
+### General Anti-Cheat Bans
++ Burning Aces
  + *[Multiple SteamIDs]*
  + **Permanent**
 
-#### [shuujokyo](https://ozfortress.com/users/4229)
- + [STEAM_0:1:721789526](http://steamcommunity.com/profiles/76561199403844781)
- + 30/10/2024
+For past bans, please see our [Past Bans page](/info/past_bans/).
 
-#### [terror](https://ozfortress.com/users/1814)
- + [STEAM_0:1:66944560](http://steamcommunity.com/profiles/76561198094154849)
- + 10/12/2024
+### Usage of Third-Party Cheating Clients
++ [jyydn](https://ozfortress.com/users/4921)
+ + [STEAM_0:1:89233758](http://steamcommunity.com/profiles/76561198138733245)
+ + 23/11/2026
+
+For past bans, please see our [Past Bans page](/info/past_bans/).
+
+### Usage of Banned Game Modifications
+No current bans.
+
+For past bans, please see our [Past Bans page](/info/past_bans/).
+
+### Usage of Map/Game Mechanic Exploits
+No current bans.
+
+For past bans, please see our [Past Bans page](/info/past_bans/).
+
+### VAC Bans
+No current bans.
+
+For past bans, please see our [Past Bans page](/info/past_bans/).
 
 --- 
 
