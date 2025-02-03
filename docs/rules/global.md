@@ -940,5 +940,8 @@ Some examples of what we consider malicious:
 
     Use of that RCON info to disrupt a match will incur even heavier penalties.
 
-### 12.4. ozfortress Bans
-Members banned on the ozfortress website are also banned from leading teams in ozfortress competitions. Players banned from the ozfortress website may also be subject to competition bans and are considered under probation. It is standard for those serving Competitive, Anti-Cheat or Infraction Threshold bans to be banned from our Discord server as well as being barred from using some bookable server services. Please contact an ozfortress administrator for further clarification.
+### 12.4. Disbanding of Teams with "Cheaters"
+Teams who are found to be playing with someone cheating in season competitions will have all their matches overturned and will be disbanded. If we determine the rest of the roster was unaware of their teammate's unfair play, they will not be barred from joining other existing rosters for the remainder of the season, and will remain eligible to receive medals at the conclusion of that season.
+
+## 13. ozfortress Bans
+Members banned on the ozfortress website are also banned from leading teams in ozfortress competitions. Players banned from the ozfortress website may also be subject to competition bans. It is standard for those serving any ban with a duration above 6 months to be banned from our Discord server as well as being barred from using bookable server services.
