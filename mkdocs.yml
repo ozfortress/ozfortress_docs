@@ -32,9 +32,8 @@ nav:
       - 'Anti-Cheat & You': 'info/anticheat_and_you.md'
       - 'Bans': 'info/bans.md'
       - 'Ban History': 
-        - 'Anti-Cheat Bans': 'info/anticheat_bans.md'
-        - 'VAC Bans': 'info/vac_bans.md'
-        - 'Infraction Threshold Bans': 'info/infraction_bans.md'
+        - 'Unfair Play (Anti-Cheat) Bans': 'info/anticheat_bans.md'
+        - 'Player Behaviour Infraction Bans': 'info/infraction_bans.md'
         - 'Other Bans': 'info/other_bans.md'
         - 'Past Bans': 'info/past_bans.md'
       - 'Staff':
