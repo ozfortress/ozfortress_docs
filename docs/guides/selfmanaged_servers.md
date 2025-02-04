@@ -32,6 +32,7 @@ The plugins listed below are required for league play compliance, regardless of 
 * [Enhanced Round Timer plugin](https://github.com/ozfortress/Enhanced-Match-Timer)
 * [StAC/STeph's AntiCheat](https://github.com/sapphonie/StAC-tf2)
 * [Demo Checker Plugin](https://github.com/ozfortress/demo_check_plugin)
+* [ozfortress Ban Enforcement Plugin](https://github.com/ozfortress/ozf-bans-enforcement)
 * [All of F2's plugins](https://github.com/F2/F2s-sourcemod-plugins)
 
 !!! Warning "Please Note"

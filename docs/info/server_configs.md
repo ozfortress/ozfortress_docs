@@ -64,6 +64,41 @@ stac_work_with_sv_cheats "0"
 !!! Note "Please Note"
     The only commands that should kick a player are the interp enforcement commands, the rest should only log/be switched off.
 
+### ozfortress Demo Checker Plugin
+ozfortress now operates [this plugin](https://github.com/ozfortress/demo_check_plugin) on all of its servers, and requires all server operators to run this plugin as well. This plugin will check if a user's in-game POV demo recording settings match the league requirements:
+```
+ds_enable 2/3
+ds_autodelete 0
+```
+
+You can find more information on what these commands and values do [here](/guides/pov_demo_recording/). For now, ozfortress has this plugin set to only warn the user (and notify all users in server) on join if that player's settings are inadequate. We also log these notifications to both a file and an internal Discord channel. We ask that when you set up this plugin on your server and reach out to get approval for your server to be used for officials, that you use the Discord Webhook we provide, so we can log demo setting notifications from your server to our internal Discord. This will prevent us from ever needing to reach out to you for the log files. We require the following settings to be on for all servers:
+```
+sm_democheck_enabled 1
+sm_democheck_warn 1
+sm_democheck_announce 1
+sm_democheck_announce_textfile 1
+```
+
+The following settings can be set as you see fit:
+```
+sm_democheck_onreadyup <0/1> // Requires SOAPDM to function, hence why it is optional.
+sm_democheck_announce_discord 1 // Technically optional, but setting it up means we never need to bug you for your log files!
+```
+
+In addition, our league configs make use of the following setting to check every player in server when the `ozfortress.cfg` base config is executed (which happens every time a format/gamemode config file is executed).
+
+### ozfortress Ban Enforcement Plugin
+If you wish to use your server for official ozfortress matches, you will need [this plugin](https://github.com/ozfortress/ozf-bans-enforcement). The following commands are already set in our league configs.
+```
+ozf_bans_warn 1
+ozf_bans_enforce 1
+```
+
+If you wish to turn off this plugin after a match, please feel free to, whilst we don't provide it in our configs by default, you can set put this alias command in your server.cfg, that way you can invoke it whenever you wish to turn bans off.
+```
+alias bans-off "ozf_bans_enforce 0"
+```
+
 ### Enhanced Match Timer plugin
 This plugin is used exclusively for Control Point maps (5CP maps in particular), and an older version is also used in [North America](https://github.com/b4nnyBot/Progressive-Ruleset-Timer-Plugins). You can download the version of the [plugin we use here](https://github.com/ozfortress/Enhanced-Match-Timer).
 
