@@ -57,7 +57,7 @@ In Ultiduo, all maps are King of the Hill (KOTH) maps, and follow a best of one 
 Each map will be played until a team has scored a round. As Ultiduo maps are King of the Hill (KOTH) maps, no Golden Caps or Tiebreakers are needed.
 
 ### 1.5. Scheduling 
-Due to the time constraints surrounding Ultiduo 18, once the server connect string is sent, all players must immediately join the server. Failure to have two rostered players readied up in the server within five minutes of the match start time will result in a forfeit loss. 
+Due to the time constraints surrounding Ultiduo, once the server connect string is sent, all players must immediately join the server. Failure to have two rostered players readied up in the server within five minutes of the match start time will result in a forfeit loss. 
 
 ### 1.6. Substitutes & Mercenaries
 Substitutes and mercenaries are not allowed for Ultiduo. If one player on the roster becomes unavailable, please contact an administrator as soon as possible to replace them with another player for the remainder/entirety of the competition, or to disband your team.

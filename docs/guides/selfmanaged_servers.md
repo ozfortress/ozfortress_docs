@@ -2,7 +2,7 @@
 ###### Guide Difficulty: Intermediate / Some technical knowledge required.
 It is important to preface this documentation with the following note. **You MUST seek league administrator approval for usage of a self-hosted server for official matches. Failure to do so will result in a penalty.**
 
-We have received a plethora of questions over the past few years regarding how to set up a game server, what the requirements are and if you can "self-host" your own server. Below are some basic guidelines on server requirements when not using a bookable game server from an existing bookable provider (**au.serveme.tf**, **Rhizome** or **Qixalite**):
+We have received a plethora of questions over the past few years regarding how to set up a game server, what the requirements are and if you can "self-host" your own server. Below are some basic guidelines on server requirements when not using a bookable game server from an existing bookable provider (**au.serveme.tf** or **Matcha Bookable**):
 
 * Servers should not be hosted on a residential connection, no matter how good. The issue isn't always the available bandwidth or network speed, but the fact that residential connections typically aren't protected from DOS attacks or other forms of malicious activity.
 * The server should be hosted within the region you play in.
