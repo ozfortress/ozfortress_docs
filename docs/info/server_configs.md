@@ -209,7 +209,7 @@ BBall maps are played with two Soldiers on each team. There is a winlimit of 20 
 mp_timelimit 0
 mp_winlimit 1
 ```
-Load this configuration using `rcon exec ozfortress_ultiduo` or simply `rcon ultiduo` on au.serveme.tf servers.
+Load this configuration using `rcon exec ozfortress_bball` or simply `rcon bball` on au.serveme.tf servers.
 
 ---
 
