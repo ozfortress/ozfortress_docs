@@ -22,6 +22,7 @@ nav:
       - 'Highlander Ruleset': 'rules/highlander.md'
       - 'Tournament Rulesets':
         - 'Ultiduo Ruleset': 'rules/ultiduo.md'
+        - 'BBall Ruleset': 'rules/bball.md'
       - 'LAN Downunder Ruleset': 'rules/lan.md'
       - 'Community Guidelines': 'rules/community_guidelines.md'
       - 'User Policy': 'rules/user_policy.md'
