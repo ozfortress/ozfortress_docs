@@ -34,7 +34,7 @@ The following class limits are expected to be observed for official matches. Bre
 ### 1.2. Unlocks (Whitelist)
 The BBall whitelist can be found [here](https://whitelist.tf/ozfortress_bball).
 
-Failure to observe weapon whitelisting will result in league penalties. For BBall, the following weapons are also allowed:
+Failure to observe weapon whitelisting will result in league penalties. For BBall, all stock weapons are allowed, including:
 
 - **Soldier**
     - Shotgun
