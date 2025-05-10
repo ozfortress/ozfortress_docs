@@ -116,3 +116,7 @@ If a team is breaching any of the pause rules, a tournament administrator must b
 ## 4. Player Eligibility
 ### 4.1. Ping Requirements
  BBall will not follow our Global Ruleset Ping or Out of Region rules. Out-of-Region Players intending to join a roster, or play as a mercenary, must meet the in-game ping limit of 150. If you are unsure whether you meet this requirement, prior to the tournament starting you should contact a League Administrator to undergo a ping check. It is the responsibility of Out-of-Region Players to ensure that they satisfy this ping limit before the beginning of the tournament. 
+
+## 5. BBall Play Rules
+### 5.1. Hoop Guarding
+Hoop "Guarding" in BBall is the act of physically sitting on the hoop, preventing the enemy team from capturing the intel. In ozfortress BBall competitions, this act is **prohibited**. Any deliberate instance of this found will result in a match forfeit.
