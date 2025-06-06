@@ -276,7 +276,7 @@ To be eligible for an alias change, players must:
     - This is to limit the amount of less serious name changes, as it is expected that your ozfortress alias is your most well known alias.
 
 ### 3.3. Alternative Accounts, Account Sharing & Player Accounts
-**The use of alternative accounts is strictly forbidden.** Player registration and participation in ozfortress leagues must occur exclusively through one Steam account. If a player wishes to change their registered account, they must contact an ozfortress administrator. However, it is unlikely that the account will be changed without good reasoning.
+**The use of alternative accounts is strictly forbidden** on any official ozfortress server, regardless of a person's ban status (banned or unbanned) Player registration and participation in ozfortress leagues must occur exclusively through one Steam account. If a player wishes to change their registered account, they must contact an ozfortress administrator. However, it is unlikely that the account will be changed without good reasoning.
 
 !!! danger "Ban Circumvention"
     If an alternative account is used to circumvent an existing ban, all matches they participated in during the season will be overturned and will result in harsh penalties determined by ozfortress administration.
@@ -396,8 +396,8 @@ The number of players on an active roster is limited based on the format.
 
 |   Format   |  Minimum  |  Maximum   |
 | :--------: | :-------: | :--------: |
-|   Sixes    | 6 players | 10 players |
-| Highlander | 9 players | 15 players |
+|   Sixes    | 6 players | 9 players |
+| Highlander | 9 players | 13 players |
 
 #### 4.3.2. Player Verification
 If necessary, the [ozfortress Roster Verification Tool](https://verify.ozfortress.com/) may be used to quickly verify all players before a match. The tool will process your inputs and validate all players, displaying any roster inconsistencies.
@@ -465,8 +465,7 @@ A player may only change rosters a maximum of two times per season.
 Before the conclusion of the regular season, teams may no longer change their roster. This information will be found on seasonal league pages.
 
 ### 5.4. Emergency Transfers
-League Administrators can approve Emergency Transfers for unavoidable player losses, even if it exceeds regular transfer limits. If an Emergency Transfer is needed, notify your Division Administrators immediately through the [Team Captain Discord](/rules/global/#72-team-captain-discord).
-
+League Administrators can approve Emergency Transfers for unavoidable player losses, even if it exceeds regular transfer limits. Players transferred out during the Emergency Transfer process **cannot** be transferred back into the same roster they have been removed from. If an Emergency Transfer is needed, notify your Division Administrators immediately through the [Team Captain Discord](https://docs.ozfortress.com/rules/global/#72-team-captain-discord).
 
 ---
 
@@ -482,9 +481,13 @@ Out-of-Region mercenaries are not eligible for exceptions as outlined in [3.4.3.
 ### 6.2. Mercenary Approval
 Mercenaries **must be approved by an opposing team captain**. When requesting a mercenary, captains should provide the following information to the opposing team:
 
-- a link to the mercenary's ozfortress profile
-- which class(es) they intend for the mercenary to play
-- which player the mercenary is replacing
+- A link to the mercenary's ozfortress profile.
+- Which class(es) they intend for the mercenary to play.
+- Which player the mercenary is replacing.
+
+'Mercenary Bargaining' (offering mercenaries in return for other mercenaries) is **prohibited**.
+
+Teams and captains are **prohibited** from walking back mercenary approval. **Once a mercenary is approved, that mercenary is approved**. This limitation does not to extend to a mercenary no longer being able to play, in that scenario teams can renegotiate another mercenary. In that event, we ask that you contact your Division Administrator. League administrators are the only party that are permitted to unapprove an already approved mercenary. 
 
 Once a mercenary is approved, it **must** be stated in the match thread.
 
@@ -538,7 +541,9 @@ All scheduling follows AEST (if [Daylight Saving](https://www.nsw.gov.au/about-n
 Team captains are responsible for all match organisation tasks. If they are unable to complete these tasks or ensure these tasks are completed, they must nominate another team member to ensure their completion.
 
 ### 7.2. Team Captain Discord
-ozfortress competitions use a Team Captain Discord for **all** communication, including match organisation and contacting League Administration. Teams should not contact League Administration regarding ongoing competitions externally of this Discord, as this may be considered an instance of [1.5. Admin Shopping](/rules/global/#15-admin-shopping).
+ozfortress competitions use a Team Captain Discord for **all** communication, including match organisation and contacting League Administration. Teams should not contact League Administration regarding ongoing competitions externally of this Discord, as this may be considered an instance of [1.5. Admin Shopping](https://docs.ozfortress.com/rules/global/#15-admin-shopping).
+
+This Discord's primary use is for the organization of ozfortress matches and communicating with fellow Captains. Consistent posting of unrelated content not pertaining to match communication **will** result in repercussions if deemed necessary by League Administration. 
 
 Communicating externally of the Team Captain Discord **will** result in the following penalties:
 
@@ -704,7 +709,19 @@ During matches cast by Approved Casting Organisations, players must use an alias
 Players in spectator are strictly prohibited during any match. League Administrators are allowed to remain in server spectator for any reason.
 
 #### 8.5.1. Live Coaching
-In-match coaching by **any** means is strictly prohibited. This includes during pauses or before the commencement of a golden cap tiebreaker. This clause excludes coaching **outside** of an official match, such as demo reviewing or strategy sessions.
+In-match coaching by **any** means is strictly prohibited. This pertains to the following:
+- Messaging a player via a chat service such as Discord or Steam.
+- Messaging a player and providing them guidance via a livestream chat.
+- Providing vocal coaching in a voice chat with the parties playing the game.
+
+This includes during pauses. This clause excludes coaching **around** and **outside** of an official match, such as before, after and between maps during an on going match or demo reviewing/ strategy sessions. 
+Failing to adhere to this **will** result in the following penalties:
+
+|                  | Player Penalty |               Team Penalty               |
+| ---------------: | :------------: | :--------------------------------------: |
+|    First Offence |       2 Round Ban        |                 :material-alert-circle-outline: Moderate (Match FF)                  |
+|   Second Offence |       6 Round Ban        |   -   |
+| Further Offences |       Season Ban        | :material-close-circle-outline: Major (Match FF) (Team Disband) |
 
 ### 8.6. Player Swaps
 Teams may swap players on their Active Roster during the match. To switch a player, the replaced player must leave the server before the new player joins.
@@ -718,7 +735,7 @@ Pauses during a match are allowed for any reason, except for immediately after r
 The match may only be unpaused by the team who initiated the pause, with confirmation from the opposing teams. Unpausing initiates a five-second countdown.
 
 #### 8.8.1. Pause Limits
-Each team is allowed two pauses per match, with a combined total time limit of ten minutes. However, the pause limit can be extended if agreed upon by team captains.
+Each team is allowed one pause per map, with a combined total time limit of ten minutes. However, the pause limit can be extended if agreed upon by team captains.
 
 #### 8.8.2. Tactical Pauses
 Tactical pauses *are* allowed but contribute to the pause limits described above. They should not be used to disrupt ongoing plays.
@@ -886,6 +903,7 @@ Please note this does not serve as a rule, and you should check with a League Ad
 + Mask uber script.
 + Say scripts (for example, class swap messages).
 + Loadout changing scripts.
++ Medic Radar/Medic Radar scripts.
 + Viewmodel / Crosshair switchers.
 + FOV toggle & Zoom scripts.
 + No explosions/particles smoke script.
@@ -913,6 +931,10 @@ Game Mechanic exploits are typically map, client or server exploits used to gain
     - A bug where medics continue to build Uber during a pause while healing a player. This bug should be prevented by server plugins, but in the event it does happen, both teams should be made aware and an administrator should be contacted.
 - Using an exploit as an Engineer to be able to hit players twice without a delay with melees
 + Pyro reflect spam visual bug.
++ Rocket Trail scripts.
++ Engineer multiple melee hit building exploit.
++ Heavy lunch box item health exploits.
++ Commands that create egregious shadows like box or blob shadows, far larger than standard shadows, or glitching shadows.
 
 ##### Explicitly Allowed Game Mechanic exploits
 

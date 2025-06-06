@@ -74,7 +74,7 @@ Please note all other divisions will have their maps pre-selected for that round
 #### 2.4.1. BO3 Playoff Matches
 For Playoff matches following a best of three (BO3) format, the **higher seeded team** is awarded a map pick advantage prior to bans.
 
-The **higher seeded team** is **Team A**. **Maps must be played in the order in which they were picked.**
+**The higher seeded team** is **Team A**. They can, however, choose to be **Team B** by deferring the first ban. **Maps must be played in the order in which they were picked.**
 
 1. **Team A bans** a map.
 2. **Team B bans** a map.
@@ -90,7 +90,7 @@ The **higher seeded team** is **Team A**. **Maps must be played in the order in 
 #### 2.4.2. BO5 Playoff Matches
 The Premier Grand Final and High Grand Final Playoff matches are a best of five (BO5) series where neither team is awarded an advantage. 
 
-The **higher seeded team** is **Team A**. **Maps must be played in the order in which they were picked.**
+**The higher seeded team** is **Team A**. They can, however, choose to be **Team B** by deferring the first ban. **Maps must be played in the order in which they were picked.**
 
 1. **Team A picks** a map.
 2. **Team B picks** a map.
