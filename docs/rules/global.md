@@ -20,9 +20,9 @@ Failure to meet format rules, such as class limits and whitelists, may result in
 
 |                  |    Player Penalty     |               Team Penalty               |
 | ---------------: | :-------------------: | :--------------------------------------: |
-|    First Offence |  One round match ban  | :material-close-circle-outline: Moderate |
-|   Second Offence | Three round match ban | :material-close-circle-outline: Moderate |
-| Further Offences |    One season ban     |      :material-close-circle: Major       |
+|    First Offence | 1-Round Match Ban     | :material-close-circle-outline: Moderate |
+|   Second Offence | 3-Round Match Ban     | :material-close-circle-outline: Moderate |
+| Further Offences | 1-Season Ban          | :material-close-circle: Major            |
 
 ### 1.2. Ruleset Changes
 ozfortress reserves the right to modify its rulesets as deemed appropriate to uphold and maintain a spirit of overall fairness and good sportsmanship. Any changes will be clearly announced through a news post on the ozfortress front page.
@@ -43,9 +43,9 @@ Instances of Admin Shopping may result in the following penalties:
 
 |                  |    Player Penalty     |               Team Penalty               |
 | ---------------: | :-------------------: | :--------------------------------------: |
-|    First Offence |        Warning        |                 Warning                  |
-|   Second Offence |  One round match ban  | :material-close-circle-outline: Moderate |
-| Further Offences | Three round match ban |      :material-close-circle: Major       |
+|    First Offence | Warning               | :material-alert-circle-outline: Minor    |
+|   Second Offence | 1-Round Match Ban     | :material-close-circle-outline: Moderate |
+| Further Offences | 3-Round Match Ban     | :material-close-circle-outline: Moderate |
 
 ### 1.6. Player Integrity
 Players and teams participating in ozfortress competitions are expected to conduct themselves with integrity. Any attempt to deceive or mislead players, captains, or administrators is strictly prohibited.
@@ -54,20 +54,20 @@ Instances of misleading players, captains, or administrators may result in the f
 
 |                  |    Player Penalty     |               Team Penalty               |
 | ---------------: | :-------------------: | :--------------------------------------: |
-|    First Offence |        Warning        | :material-close-circle-outline: Moderate |
-|   Second Offence |  One round match ban  | :material-close-circle-outline: Moderate |
-| Further Offences | Three round match ban |      :material-close-circle: Major       |
+|    First Offence | Warning               | :material-close-circle-outline: Minor    |
+|   Second Offence | 1-Round Match Ban     | :material-close-circle-outline: Moderate |
+| Further Offences | 1-Round Match Ban     | :material-close-circle-outline: Moderate |
 
 ### 1.7. Sportsmanship
 Players and teams participating in ozfortress competitions are expected to maintain sportsmanship in all communications, with global chat allowing light and friendly banter. Discrimination based on factors such as race, nationality, religion, disability, gender, sexual orientation, or age is considered an extreme breach of sportsmanship, resulting in penalties determined by ozfortress administration or the Behaviour Panel.
 
 In addition to any punishments determined by the Behaviour Panel, excessive toxicity during matches may result in the following penalties:
 
-|                  |    Player Penalty     |               Team Penalty               |
-| ---------------: | :-------------------: | :--------------------------------------: |
-|    First Offence |        Warning        |  :material-alert-circle-outline: Minor   |
-|   Second Offence |  One round match ban  | :material-close-circle-outline: Moderate |
-| Further Offences | Three round match ban | :material-close-circle-outline: Moderate |
+|                  |       Player Penalty        |               Team Penalty               |
+| ---------------: | :-------------------------: | :--------------------------------------: |
+|    First Offence | Referred to Behaviour Panel | :material-alert-circle-outline: Minor    |
+|   Second Offence | Referred to Behaviour Panel | :material-close-circle-outline: Moderate |
+| Further Offences | Referred to Behaviour Panel | :material-close-circle-outline: Moderate |
 
 ### 1.8. Staff
 Currently, four distinct teams of staff support ozfortress and its competitions. You can see our current and active staff for all areas of ozfortress on our [staff page](/info/staff/).
@@ -92,11 +92,11 @@ Many members of ozfortress staff actively participate in our competitions. In bo
 
 Failing to adhere to this expectation will result in the following penalties:
 
-|                  |   Player Penalty    |               Team Penalty               |
-| ---------------: | :-----------------: | :--------------------------------------: |
-|    First Offence |       Warning       |                 Warning                  |
-|   Second Offence |       Warning       |  :material-alert-circle-outline: Minor   |
-| Further Offences | One round match ban | :material-close-circle-outline: Moderate |
+|                  |   Player Penalty  |               Team Penalty               |
+| ---------------: | :---------------: | :--------------------------------------: |
+|    First Offence | Warning           | :material-alert-circle-outline: Minor    |
+|   Second Offence | 1-Round Match Ban | :material-alert-circle-outline: Minor    |
+| Further Offences | 1-Round Match Ban | :material-close-circle-outline: Moderate |
 
 ---
 
@@ -199,10 +199,10 @@ Forfeits occur when teams are unable to field the required number of players, du
 
 Forfeiting a match **will** result in the following penalties:
 
-|                | Player Penalty |                     Team Penalty                      |
-| -------------: | :------------: | :---------------------------------------------------: |
-|  First Offence |       -        |         :material-alert-circle-outline: Minor         |
-| Second Offence |       -        | [Team Disbandment](/rules/global/#45-disbanded-teams) |
+|                | Player Penalty |                    Team Penalty                     |
+| -------------: | :------------: | :-------------------------------------------------: |
+|  First Offence |       -        | :material-alert-circle-outline: Minor               |
+| Second Offence |       -        | [Roster Disband](/rules/global/#45-disbanded-teams) |
 
 #### 2.8.1. Forfeit Win
 Forfeit wins are most commonly awarded when a team is unable to field the required number of players at the scheduled start time of the match. In such instances, it is expected that the team unable to field the required number of players forfeit the match unless they secure substitute players or mercenaries within fifteen minutes of the scheduled start time of the match.
@@ -235,6 +235,11 @@ In the event that technical issues beyond the teams' control prevents both teams
 
 ### 2.9. Match Fixing
 Match Fixing typically involves premeditation, planning or communication with other parties. Any effort to compromise the integrity of match play, whether involving monetary incentives or otherwise, will be reviewed and punished at the discretion of the ozfortress staff team.
+
+|                |         Player Penalty        |                        Team Penalty                         |
+| -------------: | :---------------------------: | :---------------------------------------------------------: |
+|  First Offence | :material-close-circle: Major | :material-close-circle-outline: Moderate (& Match Overturn) |
+| Second Offence | :material-close-circle: Major | [Roster Disband](/rules/global/#45-disbanded-teams)         |
 
 ---
 
@@ -324,9 +329,9 @@ Fielding a player who does not meet the ping limit can result in the following p
 
 |                  |    Player Penalty     |               Team Penalty               |
 | ---------------: | :-------------------: | :--------------------------------------: |
-|    First Offence |        Warning        |  :material-alert-circle-outline: Minor   |
-|   Second Offence |  One round match ban  | :material-close-circle-outline: Moderate |
-| Further Offences | Three round match ban |      :material-close-circle: Major       |
+|    First Offence | Warning               | :material-alert-circle-outline: Minor    |
+|   Second Offence | 1-Season Ban          | :material-close-circle-outline: Moderate |
+| Further Offences | 1-Year Ban            | :material-close-circle-outline: Moderate |
 
 #### 3.4.2. Ping Fluctuations
 We understand that ping fluctuations do occur and that this can result in players experiencing far greater ping than what would normally be expected. Experiencing bad network conditions in an individual instance **does not invalidate previous ping checks**. You may, however, be requested to redemonstrate that you satisfy the ping limit by a League Administrator.
@@ -414,8 +419,8 @@ Captains of disbanded teams **will** face the following penalties:
 
 |                  |      Player Penalty      | Team Penalty |
 | ---------------: | :----------------------: | :----------: |
-|    First Offence | Two season captaincy ban |      -       |
-| Further Offences |   Six month league ban   |      -       |
+|    First Offence | 2-Season Captaincy Ban   |      -       |
+| Further Offences | 6-Month League Ban       |      -       |
 
 In addition to the penalties listed above, captains who are seemingly unwilling to make an effort to save their roster, or who actively hinder the process of saving or running their roster will receive additional penalties.
 
@@ -429,9 +434,9 @@ Breaching player restrictions will result in the following penalties:
 
 |                  |    Player Penalty     |               Team Penalty               |
 | ---------------: | :-------------------: | :--------------------------------------: |
-|    First Offence |    One round match    | :material-close-circle-outline: Moderate |
-|   Second Offence | Three round match ban |      :material-close-circle: Major       |
-| Further Offences |  Six month match ban  |      :material-close-circle: Major       |
+|    First Offence | 2-Round Match Ban     | :material-close-circle-outline: Moderate |
+|   Second Offence | 4-Round Match Ban     | :material-close-circle: Major            |
+| Further Offences | 6-Round Match Ban     | :material-close-circle: Disband          |
 
 #### 4.6.1. Player Restriction Limit
 The number of players on a roster who can be restricted is limited based on the format.
@@ -547,11 +552,11 @@ This Discord's primary use is for the organization of ozfortress matches and com
 
 Communicating externally of the Team Captain Discord **will** result in the following penalties:
 
-|                  | Player Penalty |               Team Penalty               |
-| ---------------: | :------------: | :--------------------------------------: |
-|    First Offence |    Warning     |                 Warning                  |
-|   Second Offence |    Warning     |  :material-alert-circle-outline: Minor   |
-| Further Offences | One Match Ban  | :material-close-circle-outline: Moderate |
+|                  |    Player Penalty    |               Team Penalty               |
+| ---------------: | :------------------: | :--------------------------------------: |
+|    First Offence | Warning              | :material-alert-circle-outline: Minor    |
+|   Second Offence | Warning              | :material-alert-circle-outline: Minor    |
+| Further Offences | 1-Year Captaincy Ban | :material-close-circle-outline: Moderate |
 
 ### 7.3. Match Organisation & Playable Match Days
 After the match is posted on the ozfortress website, a Discord channel is created for Team Captains to communicate available days and times. Playable Match Days are outlined below.
@@ -584,9 +589,9 @@ Showing insufficient effort in meeting these deadlines may result in the followi
 
 |                  | Player Penalty |               Team Penalty               |
 | ---------------: | :------------: | :--------------------------------------: |
-|    First Offence |       -        |  :material-alert-circle-outline: Minor   |
-|   Second Offence |       -        |  :material-alert-circle-outline: Minor   |
-| Further Offences |       -        | :material-close-circle-outline: Moderate |
+|    First Offence |       -        | :material-alert-circle-outline: Minor    |
+|   Second Offence |       -        | :material-alert-circle-outline: Minor    |
+| Further Offences |       -        | :material-alert-circle-outline: Minor    |
 
 ##### 7.3.1.1. Map Veto / Pick & Ban Process Completion Deadline
 In addition to the deadlines above, all match set/map veto or pick/ban processes need to be completed 24 hours prior to the agreed upon/scheduled match time.
@@ -599,10 +604,10 @@ Matches being cast by Approved Casting Organisations must adhere to the agreed-u
 
 Showing insufficient effort in meeting this requirement may result in the following penalties:
 
-|                  | Player Penalty |             Team Penalty              |
-| ---------------: | :------------: | :-----------------------------------: |
-|    First Offence |       -        | :material-alert-circle-outline: Minor |
-|   Second Offence |       -        | :material-alert-circle-outline: Minor |
+|                  | Player Penalty |               Team Penalty               |
+| ---------------: | :------------: | :--------------------------------------: |
+|    First Offence |       -        | :material-alert-circle-outline: Minor    |
+|   Second Offence |       -        | :material-close-circle-outline: Moderate |
 | Further Offences |       -        | :material-close-circle-outline: Moderate |
 
 #### 7.3.4. Emergency Extensions
@@ -615,9 +620,9 @@ Inappropriate or unrelated posting in Match Threads may result in the following 
 
 |                  |   Player Penalty    |               Team Penalty               |
 | ---------------: | :-----------------: | :--------------------------------------: |
-|    First Offence |       Warning       |                 Warning                  |
-|   Second Offence | One round match ban |  :material-alert-circle-outline: Minor   |
-| Further Offences | One round match ban | :material-close-circle-outline: Moderate |
+|    First Offence | Warning             | :material-alert-circle-outline: Minor    |
+|   Second Offence | 1-Round Match Ban   | :material-alert-circle-outline: Minor    |
+| Further Offences | 2-Round Match Ban   | :material-close-circle-outline: Moderate |
 
 #### 7.4.1. Match Info Requirements
 The following **must** be posted in the match thread/match page for each official match:
@@ -632,8 +637,8 @@ Failing to all required information in/on Match Threads/Pages may result in the 
 
 |                  | Player Penalty |               Team Penalty               |
 | ---------------: | :------------: | :--------------------------------------: |
-|    First Offence |       -        |                 Warning                  |
-|   Second Offence |       -        |                 Warning                  |
+|    First Offence |       -        | :material-alert-circle-outline: Minor    |
+|   Second Offence |       -        | :material-alert-circle-outline: Minor    |
 | Further Offences |       -        | :material-close-circle-outline: Moderate |
 
 !!! warning "Please Note"
@@ -660,9 +665,9 @@ Showing insufficient effort in meeting this deadline may result in the following
 
 |                  | Player Penalty |               Team Penalty               |
 | ---------------: | :------------: | :--------------------------------------: |
-|    First Offence |       -        |                 Warning                  |
-|   Second Offence |       -        |  :material-alert-circle-outline: Minor   |
-| Further Offences |       -        | :material-close-circle-outline: Moderate |
+|    First Offence |       -        | Pick Overturned                          |
+|   Second Offence |       -        | Pick Overturned                          |
+| Further Offences |       -        | Pick Overturned                          |
 
 ---
 
@@ -679,11 +684,11 @@ Please see [10. Servers](/rules/global/#10-servers) for more information, includ
 #### 8.1.1. Match Invasion
 Joining a match server where you are not rostered on either team's roster is considered as Match Invasion. Malicious Match Invasion will be penalised heavily within ozfortress.
 
-|                  | Player Penalty |               Team Penalty               |
-| ---------------: | :------------: | :--------------------------------------: |
-|    First Offence |       :material-close-circle: Major         |   -   |
-|   Second Offence |       -        |   -   |
-| Further Offences |       :material-close-circle: Major         |   -   |
+|                  |         Player Penalty        |               Team Penalty               |
+| ---------------: | :---------------------------: | :--------------------------------------: |
+|    First Offence | 3-Round Match Ban             | -                                        |
+|   Second Offence | 6-Round Match Ban             | -                                        |
+| Further Offences | 6-Month Ban                   | -                                        |
 
 ### 8.2. Team Starting Side
 In Regular Season matches, the Away team selects their team colour. In Playoff matches, the team that did not pick the map will choose their team color.
@@ -696,11 +701,11 @@ Aliasing is allowed in matches. However, all players must have distinct aliases.
 
 Failing to do will result in the following penalties:
 
-|                  | Player Penalty |               Team Penalty               |
-| ---------------: | :------------: | :--------------------------------------: |
-|    First Offence |       -        |                 Warning                  |
-|   Second Offence |       -        |  :material-alert-circle-outline: Minor   |
-| Further Offences |       -        | :material-close-circle-outline: Moderate |
+|                  |   Player Penalty  |               Team Penalty               |
+| ---------------: | :---------------: | :--------------------------------------: |
+|    First Offence | Warning           | :material-alert-circle-outline: Minor    |
+|   Second Offence | 1-Round Match Ban | :material-alert-circle-outline: Minor    |
+| Further Offences | 2-Round Match Ban | :material-close-circle-outline: Moderate |
 
 #### 8.4.1. Correct Aliases Upon Request
 During matches cast by Approved Casting Organisations, players must use an alias matching their ozfortress profile upon request. Whilst an exact match is not required, player aliases should be immediately recognisable to casters and viewers.
@@ -717,11 +722,11 @@ In-match coaching by **any** means is strictly prohibited. This pertains to the 
 This includes during pauses. This clause excludes coaching **around** and **outside** of an official match, such as before, after and between maps during an on going match or demo reviewing/ strategy sessions. 
 Failing to adhere to this **will** result in the following penalties:
 
-|                  | Player Penalty |               Team Penalty               |
-| ---------------: | :------------: | :--------------------------------------: |
-|    First Offence |       2 Round Ban        |                 :material-alert-circle-outline: Moderate (Match FF)                  |
-|   Second Offence |       6 Round Ban        |   -   |
-| Further Offences |       Season Ban        | :material-close-circle-outline: Major (Match FF) (Team Disband) |
+|                  |   Player Penalty  |                           Team Penalty                          |
+| ---------------: | :---------------: | :-------------------------------------------------------------: |
+|    First Offence | 2-Round Match Ban | :material-alert-circle-outline: Moderate (& Match Overturn)     |
+|   Second Offence | 6-Round Match Ban | :material-close-circle-outline: Major (& Roster Disband)        |
+| Further Offences | 1-Season Ban      | -                                                               |
 
 ### 8.6. Player Swaps
 Teams may swap players on their Active Roster during the match. To switch a player, the replaced player must leave the server before the new player joins.
@@ -764,10 +769,10 @@ POV demo files may be requested by staff as a tool for resolving match disputes 
 Failure to provide POV demo files upon request for any match requested will result in the following penalties:
 
 |     Offence      |   Failing a Demo Request    |               Failing an Anti-Cheat Demo Request               |
-| ---------------: | :-----------------: | :--------------------------------------: |
-|    First Offence | Warning | Warning |
-|   Second Offence | 3-Month League Ban | 1-Year League Ban |
-| Further Offences | 1-Year League Ban | 2-Year League Ban |
+| ---------------: | :-------------------------: | :------------------------------------------------------------: |
+|    First Offence | Warning                     | Warning                                                        |
+|   Second Offence | 3-Month League Ban          | 1-Year League Ban                                              |
+| Further Offences | 1-Year League Ban           | 2-Year League Ban                                              |
 
 ---
 
@@ -820,10 +825,11 @@ A match server **must** have an STV Delay (stv_delay) of **at least 90 seconds**
 
 Failing to meet these requirements will result in the following penalties:
 
-|                  | Player Penalty |               Team Penalty               |
-| ---------------: | :------------: | :--------------------------------------: |
-|    First Offence |       -        | :material-close-circle-outline: Moderate |
-| Further Offences |       -        |      :material-close-circle: Major       |
+|                  |   Player Penalty  |               Team Penalty               |
+| ---------------: | :---------------: | :--------------------------------------: |
+|    First Offence | Warning           | :material-close-circle-outline: Moderate |
+|   Second Offence | 1-Round Match Ban | :material-close-circle-outline: Moderate |
+| Further Offences | 3-Round Match Ban | :material-close-circle: Major            |
 
 ### 10.2. Server Providers
 For matches (and in the case of disputes), **au.serveme.tf** serves as the default server provider. However, if both teams agree, **Matcha Bookable** servers can be used.

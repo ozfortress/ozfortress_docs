@@ -45,7 +45,7 @@ Teams can accrue Minor, Moderate, and Major penalties during ozfortress competit
 + Two Minor penalties = One Moderate penalty
 + Two Moderate penalties = One Major penalty
 
-When teams incur a major penalty, they will receive a deduction of 2 match points for that competition. If a team incurs three major penalties, they will be disbanded.
+If a team incurs two major penalties, they will be disbanded.
 
 | Rule                                                                                  | First Offence                            | Second Offence                           | Further Offences                         |
 | :------------------------------------------------------------------------------------ | :--------------------------------------- | :--------------------------------------- | :--------------------------------------- |
@@ -55,7 +55,7 @@ When teams incur a major penalty, they will receive a deduction of 2 match point
 | [1.7. Sportsmanship](/rules/global/#17-sportsmanship)                                 | :material-alert-circle-outline: Minor    | :material-close-circle-outline: Moderate | :material-close-circle-outline: Moderate |
 | [1.9. Staff as Players](/rules/global/#19-staff-as-players)                           | :material-alert-circle-outline: Minor    | :material-alert-circle-outline: Minor    | :material-close-circle-outline: Moderate |
 | [2.8. Forfeits](/rules/global/#28-forfeits)                                           | :material-alert-circle-outline: Minor    | :material-close-circle: Disband          | -                                        |
-| [2.9. Match Fixing](/rules/global/#29-match-fixing)                                   | :material-close-circle-outline: Moderate (& Match Overturn) | :material-close-circle: Major  | :material-close-circle: Major   |
+| [2.9. Match Fixing](/rules/global/#29-match-fixing)                                   | :material-close-circle-outline: Moderate (& Match Overturn) | :material-close-circle: Disband | -                              |
 | [3.4.1. Ping Limit](/rules/global/#341-ping-limit)                                    | :material-alert-circle-outline: Minor    | :material-close-circle-outline: Moderate | :material-close-circle-outline: Moderate |
 | [4.6. Player Restrictions](/rules/global/#46-player-restrictions)                     | :material-close-circle-outline: Moderate | :material-close-circle: Major            | :material-close-circle: Disband          |
 | [6.2. Mercenary Approval](/rules/global/#62-mercenary-approval)                       | :material-close-circle-outline: Moderate | :material-close-circle: Major            | :material-close-circle: Disband          |
@@ -84,6 +84,7 @@ Player penalties are issued in addition to team penalties. Player penalties **do
 | [4.6. Player Restrictions](/rules/global/#46-player-restrictions)                     | 2-Round Match Ban                        | 4-Round Match Ban                        | 6-Round Match Ban                        |
 | [7.2. Team Captain Discord](/rules/global/#72-team-captain-discord)                   | Warning                                  | Warning                                  | 1-Year Captaincy Ban                     |
 | [7.4. ozfortress Match Threads](/rules/global/#74-ozfortress-match-threads)           | Warning                                  | 1-Round Match Ban                        | 2-Round Match Ban                        |
+| [8.1.1. Match Invasion](/rules/global/#811-match-invasion)                            | 3-Round Match Ban                        | 6-Round Match Ban                        | 6-Month Ban                              |
 | [8.4. Aliasing / Distinct Aliases](/rules/global/#84-aliasing-distinct-aliases)       | Warning                                  | 1-Round Match Ban                        | 2-Round Match Ban                        |
 | [8.5.1. Live Coaching](/rules/global/#851-live-coaching)                              | 2-Round Match Ban                        | 6-Round Match Ban                        | 1-Season Ban                             |
 | [10.1. SourceTV Settings](/rules/global/#101-sourcetv-settings)                       | Warning                                  | 1-Round Match Ban                        | 3-Round Match Ban                        |

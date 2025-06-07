@@ -90,10 +90,7 @@ We observe a 6-month "statute of limitations" for all evidence submitted via rep
     Every 30 points above the 60 point ban level will result in another year added to the ban.
 
 #### 3-Round & 6-Round Match Bans
-The 3-Round and 6-Round Match Bans carry across competitions, so if it is received during the offseason or at the end of your season, it will continue at the start of the next regular season or competition you play.
-
-#### Infraction Point Expiry & Bans
-Infraction points do **not** expire after a person's ban ends, Infraction points expire depending on their own expiry. Infraction expiries are listed with the offences below.
+Round Match Bans carry across competitions, so if it is received during the offseason or at the end of your season, it will continue at the start of the next regular season or competition you play. Round Match Bans are applied immedietly and are to take effect as soon as they are applied. However, if Match Round Ban player is scheduled to play a match within 48 hours of the Match Round Ban being applied they will be permitted to play the match and will start their Match Round Ban the subsequent round. 
 
 ## Probations
 Probations are applied after a person's ban expires, and said probation will remain for a 12-month period after their ban. Within this probation period, offences will incur penalties of a higher severity, depending on the tier of the offence.
