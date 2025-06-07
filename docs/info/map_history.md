@@ -6,7 +6,7 @@ Below you will find the maps used in each season of ozfortress Sixes. Only Seaso
 #### ozfortress Sixes Spring '24
 ```
 koth_bagel_rc10
-cp_clearcut_b16a
+koth_clearcut_b16a
 cp_gullywash_f9
 koth_product_final
 cp_process_f12
@@ -20,7 +20,7 @@ cp_metalworks_f5
 #### ozfortress Sixes Winter '24
 ```
 koth_bagel_rc9b
-cp_clearcut_b16a
+koth_clearcut_b16a
 cp_gullywash_f9
 koth_product_final
 cp_process_f12
@@ -34,7 +34,7 @@ cp_metalworks_f5
 #### ozfortress Sixes Autumn '24
 ```
 koth_bagel_rc7
-cp_clearcut_b16a
+koth_clearcut_b16a
 cp_gullywash_f9
 koth_product_final
 cp_process_f12
