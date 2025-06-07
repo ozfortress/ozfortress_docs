@@ -96,7 +96,7 @@ Failing to adhere to this expectation will result in the following penalties:
 | ---------------: | :---------------: | :--------------------------------------: |
 |    First Offence | Warning           | :material-alert-circle-outline: Minor    |
 |   Second Offence | 1-Round Match Ban | :material-alert-circle-outline: Minor    |
-| Further Offences | 1-Round Match Ban | :material-close-circle-outline: Moderate |
+| Further Offences | 3-Round Match Ban | :material-close-circle-outline: Moderate |
 
 ---
 
@@ -236,10 +236,11 @@ In the event that technical issues beyond the teams' control prevents both teams
 ### 2.9. Match Fixing
 Match Fixing typically involves premeditation, planning or communication with other parties. Any effort to compromise the integrity of match play, whether involving monetary incentives or otherwise, will be reviewed and punished at the discretion of the ozfortress staff team.
 
-|                |         Player Penalty        |                        Team Penalty                         |
-| -------------: | :---------------------------: | :---------------------------------------------------------: |
-|  First Offence | :material-close-circle: Major | :material-close-circle-outline: Moderate (& Match Overturn) |
-| Second Offence | :material-close-circle: Major | [Roster Disband](/rules/global/#45-disbanded-teams)         |
+|                  |   Player Penalty  |                        Team Penalty                         |
+| ---------------: | :---------------: | :---------------------------------------------------------: |
+|    First Offence | 3-Round Match Ban | :material-close-circle-outline: Moderate (& Match Overturn) |
+|   Second Offence | 6-Round Match Ban | [Roster Disband](/rules/global/#45-disbanded-teams)         |
+| Further Offences | 1-Season Ban      | -                                                           |
 
 ---
 
@@ -829,7 +830,7 @@ Failing to meet these requirements will result in the following penalties:
 | ---------------: | :---------------: | :--------------------------------------: |
 |    First Offence | Warning           | :material-close-circle-outline: Moderate |
 |   Second Offence | 1-Round Match Ban | :material-close-circle-outline: Moderate |
-| Further Offences | 3-Round Match Ban | :material-close-circle: Major            |
+| Further Offences | 3-Round Match Ban | :material-close-circle-outline: Moderate |
 
 ### 10.2. Server Providers
 For matches (and in the case of disputes), **au.serveme.tf** serves as the default server provider. However, if both teams agree, **Matcha Bookable** servers can be used.

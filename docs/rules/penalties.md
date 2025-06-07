@@ -49,7 +49,7 @@ If a team incurs two major penalties, they will be disbanded.
 
 | Rule                                                                                  | First Offence                            | Second Offence                           | Further Offences                         |
 | :------------------------------------------------------------------------------------ | :--------------------------------------- | :--------------------------------------- | :--------------------------------------- |
-| [1.1.1. Format Rulesets](/rules/global/#111-format-rulesets)                          | :material-close-circle-outline: Moderate | :material-close-circle-outline: Moderate | :material-close-circle: Major            |
+| [1.1. Format Rulesets](/rules/global/#11-format-rulesets)                             | :material-close-circle-outline: Moderate | :material-close-circle-outline: Moderate | :material-close-circle: Major            |
 | [1.5. Admin Shopping](/rules/global/#15-admin-shopping)                               | :material-alert-circle-outline: Minor    | :material-close-circle-outline: Moderate | :material-close-circle-outline: Moderate |
 | [1.6. Player Integrity](/rules/global/#16-player-integrity)                           | :material-close-circle-outline: Minor    | :material-close-circle-outline: Moderate | :material-close-circle-outline: Moderate |
 | [1.7. Sportsmanship](/rules/global/#17-sportsmanship)                                 | :material-alert-circle-outline: Minor    | :material-close-circle-outline: Moderate | :material-close-circle-outline: Moderate |
@@ -63,9 +63,9 @@ If a team incurs two major penalties, they will be disbanded.
 | [7.3.1. Organisation Deadlines](/rules/global/#731-organisation-deadlines)            | :material-alert-circle-outline: Minor    | :material-alert-circle-outline: Minor    | :material-alert-circle-outline: Minor    |
 | [7.3.3. Reorganising Casted Matches](/rules/global/#733-reorganising-casted-matches)  | :material-alert-circle-outline: Minor    | :material-close-circle-outline: Moderate | :material-close-circle-outline: Moderate |
 | [7.4. ozfortress Match Threads](/rules/global/#74-ozfortress-match-threads)           | :material-alert-circle-outline: Minor    | :material-alert-circle-outline: Minor    | :material-close-circle-outline: Moderate |
-| [7.4.1. Match Thread Requirements](/rules/global/#741-match-thread-requirements)      | :material-alert-circle-outline: Minor    | :material-alert-circle-outline: Minor    | :material-close-circle-outline: Moderate |
+| [7.4.1. Match Info Requirements](/rules/global/#741-match-info-requirements)          | :material-alert-circle-outline: Minor    | :material-alert-circle-outline: Minor    | :material-close-circle-outline: Moderate |
 | [7.5.2. Playoff Map Selection](/rules/global/#752-playoff-map-selection)              | Pick Overturned                          | Pick Overturned                          | Pick Overturned                          |
-| [8.4. Aliasing / Distinct Aliases](/rules/global/#84-aliasing-distinct-aliases)       | :material-alert-circle-outline: Minor    | :material-alert-circle-outline: Minor    | :material-close-circle-outline: Moderate |
+| [8.4. Aliasing / Distinct Aliases](/rules/global/#84-distinct-aliases)                | :material-alert-circle-outline: Minor    | :material-alert-circle-outline: Minor    | :material-close-circle-outline: Moderate |
 | [8.5.1. Live Coaching](/rules/global/#851-live-coaching)                              | :material-close-circle-outline: Moderate (& Match Overturn) | :material-close-circle: Major  | -                               |
 | [10.1. SourceTV Settings](/rules/global/#101-sourcetv-settings)                       | :material-close-circle-outline: Moderate | :material-close-circle-outline: Moderate | :material-close-circle-outline: Moderate |
 
@@ -74,7 +74,7 @@ Player penalties are issued in addition to team penalties. Player penalties **do
 
 | Rule                                                                                  | First Offence                            | Second Offence                           | Further Offences                         |
 | :------------------------------------------------------------------------------------ | :--------------------------------------- | :--------------------------------------- | :--------------------------------------- |
-| [1.1.1. Format Rulesets](/rules/global/#111-format-rulesets)                          | 1-Round Match Ban                        | 3-Round Match Ban                        | Season Ban                               |
+| [1.1. Format Rulesets](/rules/global/#11-format-rulesets)                             | 1-Round Match Ban                        | 3-Round Match Ban                        | Season Ban                               |
 | [1.5. Admin Shopping](/rules/global/#15-admin-shopping)                               | Warning                                  | 1-Round Match Ban                        | 3-Round Match Ban                        |
 | [1.6. Player Integrity](/rules/global/#16-player-integrity)                           | Warning                                  | 1-Round Match Ban                        | 1-Round Match Ban                        |
 | [1.7. Sportsmanship](/rules/global/#17-sportsmanship)                                 | Referred to Behaviour Panel              | Referred to Behaviour Panel              | Referred to Behaviour Panel              |
@@ -85,6 +85,6 @@ Player penalties are issued in addition to team penalties. Player penalties **do
 | [7.2. Team Captain Discord](/rules/global/#72-team-captain-discord)                   | Warning                                  | Warning                                  | 1-Year Captaincy Ban                     |
 | [7.4. ozfortress Match Threads](/rules/global/#74-ozfortress-match-threads)           | Warning                                  | 1-Round Match Ban                        | 2-Round Match Ban                        |
 | [8.1.1. Match Invasion](/rules/global/#811-match-invasion)                            | 3-Round Match Ban                        | 6-Round Match Ban                        | 6-Month Ban                              |
-| [8.4. Aliasing / Distinct Aliases](/rules/global/#84-aliasing-distinct-aliases)       | Warning                                  | 1-Round Match Ban                        | 2-Round Match Ban                        |
+| [8.4. Aliasing / Distinct Aliases](/rules/global/#84-distinct-aliases)                | Warning                                  | 1-Round Match Ban                        | 2-Round Match Ban                        |
 | [8.5.1. Live Coaching](/rules/global/#851-live-coaching)                              | 2-Round Match Ban                        | 6-Round Match Ban                        | 1-Season Ban                             |
 | [10.1. SourceTV Settings](/rules/global/#101-sourcetv-settings)                       | Warning                                  | 1-Round Match Ban                        | 3-Round Match Ban                        |
