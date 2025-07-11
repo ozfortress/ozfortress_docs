@@ -129,7 +129,7 @@ Specifically player behaviour not related to in-match play or organisation. Plea
   + Infraction Modifiers can be applied to this infraction.
 
 ##### Tier 2 Offences - 20 points (1-Year Point Expiry)
-+ `201` Malicious impersonation of ozfortress players.
++ `#201` Malicious impersonation of ozfortress players.
 
 ##### Tier 3 Offences - 30 points (2-Year Point Expiry)
 + `#301` Malicious impersonation or implied affiliation with ozfortress staff, or malicious attempts to impersonate or imply affiliation with ozfortress staff.
