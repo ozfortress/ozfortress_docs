@@ -978,5 +978,14 @@ Like any administrative ruling, league administration reserves the right to take
 ### 12.4. Disbanding of Teams with "Cheaters"
 Teams who are found to be playing with someone cheating in season competitions will have all their matches overturned and will be disbanded. If we determine the rest of the roster was unaware of their teammate's unfair play, they will not be barred from joining other existing rosters for the remainder of the season, and will remain eligible to receive medals at the conclusion of that season.
 
+### 12.5. Malicious Use of Site Permissions – Captaincy and Roster Interference
+Players found abusing league site permissions - such as captaincy or administrative privileges - to modify, remove, or otherwise interfere with a team roster they are not actively rostered on, will face penalties. This includes, but is not limited to:
+
+- Altering captaincy roles or transferring ownership without proper authorization.
+- Removing or adding players to rosters the player is not a member of.
+- Circumventing roster locks or eligibility rules via unauthorized access.
+
+Any person found to be in breach of this rule will have their permissions revoked without warning and will be suspended, with further penalties awarded at the discretion of league administration.
+
 ## 13. ozfortress Bans
 Members banned on the ozfortress website are also banned from leading teams in ozfortress competitions. Players banned from the ozfortress website may also be subject to competition bans. It is standard for those serving any ban with a duration above 6 months to be banned from our Discord server as well as being barred from using bookable server services.
