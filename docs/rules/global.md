@@ -445,7 +445,7 @@ The number of players on a roster who can be restricted is limited based on the 
 |   Format   | Player Restriction Limit |
 | :--------: | :---------------------: |
 |   Sixes    |        No limit.        |
-| Highlander |        5 players        |
+| Highlander |        4 players        |
 
 ---
 
@@ -535,8 +535,11 @@ The number of mercenaries per team allowed at any moment is limited based on the
 |   Sixes    |  2 mercenaries  |
 | Highlander |  3 mercenaries  |
 
-### 6.4. Reusing Mercenaries
+### 6.4. Reusing Mercenaries - Rule Removed Spring 2025
 Teams can only make use of the same mercenary within **two matches per season**. There is **no limit** on the amount of mercenaries used per season, only on one specific player.
+
+!!! warning "Rule Removed"
+    Rule was removed for the Spring 2025 Sixes and Highlander seasons. The rule hasn't been deleted from the ruleset yet to preserve/prevent dead hyperlinks.
 
 ---
 
@@ -634,7 +637,7 @@ The following **must** be posted in the match thread/match page for each officia
  4. In the event of a mercenary being required, this must be posted by the team requesting the mercenary in the match thread **prior** to the commencement of the match. This must include any class locks as described in [6.2.4. Mercenary Class Locking](/rules/global/#624-mercenary-class-locking). This does not mean you need to request the mercenary via the match page, you can do this via the match channel in the Team Captain Discord.
  5. Once the match has finished, submit the match scores on the match page **within 24 hours of the matchs' conclusion**.
 
-Failing to all required information in/on Match Threads/Pages may result in the following penalties:
+Failing to provide all required information in/on Match Threads/Pages may result in the following penalties:
 
 |                  | Player Penalty |               Team Penalty               |
 | ---------------: | :------------: | :--------------------------------------: |
@@ -643,7 +646,7 @@ Failing to all required information in/on Match Threads/Pages may result in the 
 | Further Offences |       -        | :material-close-circle-outline: Moderate |
 
 !!! warning "Please Note"
-    League Administrators will use their discretion when penalising teams for failing to post all required match info. If a team consistently fails to post this information, we will act. But if it's just some info here and there, League Administrators may opt to post it themselves. **Please note however, it is not their responsibility to do so.**
+    League Administrators will use their discretion when penalising teams for failing to post all required match info. If a team consistently fails to post this information, we will act. But if it's just some info here and there, League Administrators may opt to post it themselves. **Please note however, it is not their responsibility to do so**. **It is the responsibility of both team's to ensure all required information is submitted**.
 
 #### 7.4.2. Match Log Issues
 If logs are unavailable, the **Home Team** must take a screenshot of the score for each map and upload them to the match thread **within 24 hours** of a match's conclusion. If this is not possible, demos may be requested to validate match results.
@@ -948,6 +951,7 @@ Game Mechanic exploits are typically map, client or server exploits used to gain
 + Wallbugs.
 + Edgebugs.
 + C-taps.
+  + 1-tick C-taps.
 
 Reports made regarding exploitation are **reviewed on a case-by-case basis**.
 The lists above are not exhaustive. **If you are unsure if something is considered an exploit**, **please contact an administrator** and request a ruling be made. Usage of any banned exploit or exploit with malicious intent **will** result in punishments. Punishments will range between **3 months** to **24 months** depending on multiple factors, including but not limited to **severity**, **intent**, **maliciousness**, etc.
@@ -956,13 +960,15 @@ The lists above are not exhaustive. **If you are unsure if something is consider
 The use of any third-party addons, hooks, programs or wrappers that interact with or alter the Team Fortress 2 client, its appearance or behaviour to gain an unfair advantage is a bannable offence. This includes usage of such programs on alternative accounts not registered with ozfortress.
 
 ### 12.3. Malicious Server Administration & Server Abuse
-The use of any server commands, variables, or plugins to gain an unfair advantage or to interfere with an ozfortress match is prohibited. Once the match is underway, the server administrator must let the match run its course and not make any changes without the consent of both teams.
+The use of any server commands, variables, or plugins to gain an unfair advantage or to interfere with an ozfortress match is prohibited. Once the match is underway, the server administrator must let the match run its course and not make any changes without the consent of both teams and league administration.
 
 Some examples of what we consider malicious:
 
 - Using server commands to gain an unfair advantage, or "cheat".
 - Prematurely ending the game via config execution without the approval of both teams.
 - Breaking of config or format limitations.
+
+Like any administrative ruling, league administration reserves the right to take discretionary action against violations.
 
 !!! info "Server Abuse from those outside of the official match"
     If you happen upon the connect info or RCON info of a server actively being used in an official match, it is ozfortress' expectation that you report it to the teams and/or an ozfortress League Administrator.
