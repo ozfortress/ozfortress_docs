@@ -49,6 +49,7 @@ nav:
       - 'Book a Server': 'guides/book_a_server.md'
       - 'Self-managed Servers': 'guides/selfmanaged_servers.md'
       - 'POV Demo Recording': 'guides/pov_demo_recording.md'
+      - 'Linking your Discord Account to ozfortress.com': 'guides/discord_linking_for_users.md'
     - 'FAQ': 
       - 'Demo Requests': 'faq/demo_requests.md'
     - 'Support & Reporting': 'support/landing.md'
