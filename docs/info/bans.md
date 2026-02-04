@@ -42,6 +42,13 @@ Bans awarded to those who use an account not approved as their main ozfortress.c
 !!! danger "Ban Penalty for Alternate Account Usage"
     **24-Month/2-Year Ban**.
 
+### Alting Assistance Ban
+Alting Assistance Bans are given to those who assist another player with playing on an Alternate Account within ozfortress, or have knowledge of a person on their roster playing on an Alternate Account within ozfortress.
+
+!!! danger "Ban Penalty for Alting Assistance"
+    **6-Month Ban**.
+    **12-Month/1-Year Ban for those who are Captains of the roster where an Alternate Account is found**.
+
 ### Account Sharing Ban
 Bans awarded to those who share a single account/one individual's account. These bans are typically 24 month bans.
 
