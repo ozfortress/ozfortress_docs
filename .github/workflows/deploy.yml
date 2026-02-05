@@ -10,12 +10,19 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
-        uses: actions/checkout@v6.0.2
+        uses: actions/checkout@v6.0.2 # Or @v6.0.2
+        with:
+          fetch-depth: 0  # This fetches the full history for git-revision-date
 
       - name: Set up Python
         uses: actions/setup-python@v6.2.0
         with:
           python-version: '3.x'
+
+      - name: Install System Dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y libcairo2 libpango-1.0-0 libpangocairo-1.0-0 libgdk-pixbuf2.0-0 libffi-dev shared-mime-info
 
       - name: Install MkDocs and Plugins
         run: |
@@ -23,7 +30,11 @@ jobs:
           pip install mkdocs-material \
                       mkdocs-minify-plugin \
                       mkdocs-git-revision-date-localized-plugin \
-                      mkdocs-awesome-pages-plugin
+                      mkdocs-awesome-pages-plugin \
+                      mkdocs-glightbox \
+                      mkdocs-git-committers-plugin-2 \
+                      mkdocs-static-i18n \
+                      "mkdocs-material[privacy]"
 
       - name: Build documentation
         run: mkdocs build
