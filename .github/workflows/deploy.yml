@@ -10,9 +10,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
-        uses: actions/checkout@v6.0.2 # Or @v6.0.2
+        uses: actions/checkout@v6.0.2
         with:
-          fetch-depth: 0  # This fetches the full history for git-revision-date
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v6.2.0
