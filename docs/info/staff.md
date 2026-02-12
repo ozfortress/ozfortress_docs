@@ -60,7 +60,7 @@ The team responsible for bringing you Citadel, updates to it, and production of 
 ## Past Staff
 
 + /dev/zero (Citadel and Source Server Controller)
-+ a team of ants in their prime (Sixes Heaad Admin & Head of Behaviour Panel)
++ a team of ants in their prime (Sixes Head Admin & Head of Behaviour Panel)
 + amd
 + Aragon
 + arnold
