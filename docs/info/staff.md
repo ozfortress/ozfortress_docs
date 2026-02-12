@@ -12,8 +12,8 @@ Have an issue that isn't within the Sixes or Highlander realm? Good chance our T
 | Role | Name | Discord |
 | ---- | ---- | ------- |
 | League Director | [core](https://ozfortress.com/users/491 "Please contact me via Discord only.") | [@coreobs](https://discordapp.com/users/226205616773922816) |
-| Sixes Head Admin | [Chili](https://ozfortress.com/users/233) | [@hawk_33](https://discord.com/users/83079514917175296) |
-| Highlander Head Admin | [Sperkle](https://ozfortress.com/users/618) | [@sperkle](https://discordapp.com/users/180875592923611145) |
+| Sixes Head Admin | [inStinct]([https://ozfortress.com/users/233](https://ozfortress.com/users/934) | [@in5tinct_](https://discord.com/users/239294726128271361) |
+| Highlander Head Admin | [Sylvie]([https://ozfortress.com/users/618](https://ozfortress.com/users/1654) | [@evelynntf](https://discordapp.com/users/688322987920851256) |
 | Head of Anti-Cheat | [catfish](https://ozfortress.com/users/96) | [@catfishau](https://discordapp.com/users/129062149640159232) |
 | Head of Behaviour Panel | [core](https://ozfortress.com/users/491 "Please contact me via Discord only.") | [@coreobs](https://discordapp.com/users/226205616773922816) |
 | Media Coordinator | [Sperkle](https://ozfortress.com/users/618) | [@sperkle](https://discordapp.com/users/180875592923611145) |
@@ -23,15 +23,13 @@ As mentioned in our competitive league rulesets, League Administrators in tandem
 
 | League | Name | Discord |
 | ---- | ---- | ------- |
-| Sixes | [Celph](https://ozfortress.com/users/4285) | [@celph](https://discordapp.com/users/131180625649467392) |
+| Sixes | [sirgy](https://ozfortress.com/users/2386) | [@sirgy](https://discordapp.com/users/312795457501921281) |
 | Sixes | [emgee](https://ozfortress.com/users/76) | [@emgee](https://discordapp.com/users/86424530871910400) |
-| Sixes | [HUNGRY4EGGS](https://ozfortress.com/users/1484) | [@hungry4eggs](https://discordapp.com/users/215383613439606784) |
-| Sixes | [inStinct](https://ozfortress.com/users/934) | [@in5tinct_](https://discordapp.com/users/239294726128271361) |
-| Sixes (Trial Admin) | [mashiro](https://ozfortress.com/users/350) | [@mashirotf](https://discordapp.com/users/193374387179749376) |
-| Highlander | [Kai](https://ozfortress.com/users/4034) | [@head_empty_no_thoughts](https://discordapp.com/users/213653809937907712) |    
-| Highlander | [redja](https://ozfortress.com/users/14) | [@redja](https://discordapp.com/users/182413965207273473) |
+| Sixes | [whitefang2360](https://ozfortress.com/users/5100) | [@whitefang2360](https://discordapp.com/users/517561624245305346) |
+| Sixes | [mashiro](https://ozfortress.com/users/350) | [@mashirotf](https://discordapp.com/users/193374387179749376) |  
+| Highlander | [indy and her jones](https://ozfortress.com/users/1874) | [@indyandherjones](https://discordapp.com/users/221542616557289472) |
 | Highlander | [woozy](https://ozfortress.com/users/4054) | [@w.oozy](https://discordapp.com/users/757143916553306142) |
-| Highlander (Trial Admin) | [Pulse](https://ozfortress.com/users/4915) | [@bigpulsey](https://discordapp.com/users/134543404460802048) |
+| Highlander | [Pulse](https://ozfortress.com/users/4915) | [@bigpulsey](https://discordapp.com/users/134543404460802048) |
 
 ## New Player Experience Team
 Our New Player Experience Team was formed to help us further bridge the gap between competitive TF2 and the casual community. Good chance, if we're running team drives, icebreakers or cups, these guys are involved!
@@ -42,9 +40,6 @@ There are currently three Behaviour Panel members who are public, with two membe
 | Name | Discord |
 | ---- | ------- |
 | [core](https://ozfortress.com/users/491 "Please feel free to reach out to me via Discord @coreobs." ) (Head of Behaviour Panel) | [@coreobs](https://discordapp.com/users/226205616773922816) |
-| [snazzy](https://ozfortress.com/users/37 "Please DO NOT contact panel members, contact the Head of the Behaviour Panel only.") (Panel member) | [@thelampshade22](https://discordapp.com/users/125913179690631169) |
-| [ory](https://ozfortress.com/users/1303 "Please DO NOT contact Advisors, they no longer actively sit on the panel. ory was there at the beginning when the Behaviour Panel (formerly known as the infractions team) was formed, and has been crucial throughout the years. He now sits in an Advisory role.") (Advisor) | N/A |
-| [samson](https://ozfortress.com/users/205 "Please DO NOT contact Advisors, they no longer actively sit on the panel. samson was one of our longest serving Behaviour Panel leads, overseeing years of behaviour management. Thank you for your work legend!") (Advisor) | N/A |
 
 Those above marked with Advisor are only on the panel in an advisory capacity. Advisors are only called upon in difficult/edge cases or when we need another opinion. Those in the Advisor role will only ever be past long-serving panel members, panel leads, Head Admins, etc.
 
@@ -59,6 +54,9 @@ The team that helps make everything media-related for ozfortress happen. Be it o
 | [Beater](https://ozfortress.com/users/2031) | [@beater](https://discordapp.com/users/105311959636791296) |
 | [Brady](https://ozfortress.com/users/140) | [@bradyyyy.](https://discordapp.com/users/179839476053311489) |
 | [joshrofllmao](https://ozfortress.com/users/1188) | [@joshroflmao](https://discordapp.com/users/170138245819138048) |
+| Avo | No contact lised. |
+| Catfish | No contact lised. |
+| Mitch | No contact lised. |
 
 ## Development Team
 The team responsible for bringing you Citadel, updates to it, and production of our other services.
@@ -70,8 +68,7 @@ The team responsible for bringing you Citadel, updates to it, and production of 
 | Developer | a team of ants in their prime | No contact lised. |
 | Developer | Amatorii | No contact lised. |
 | Developer | arbabf | No contact lised. |
-| Developer | nano | No contact lised. |
-| Developer | silent | No contact lised. |
+| Developer | Aurora | No contact lised. |
 | Developer | tetrx | No contact lised. |
 
 ## Past Staff
@@ -143,3 +140,9 @@ The team responsible for bringing you Citadel, updates to it, and production of 
 + wm
 + wolfeh
 + yauch
++ kai
++ hungry4eggs
++ sperkle
++ chilli
++ celph
++ redja
