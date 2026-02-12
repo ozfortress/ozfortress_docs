@@ -12,8 +12,8 @@ Have an issue that isn't within the Sixes or Highlander realm? Good chance our T
 | Role | Name | Discord |
 | ---- | ---- | ------- |
 | League Director | [core](https://ozfortress.com/users/491 "Please contact me via Discord only.") | [@coreobs](https://discordapp.com/users/226205616773922816) |
-| Sixes Head Admin | [inStinct]([https://ozfortress.com/users/233](https://ozfortress.com/users/934) | [@in5tinct_](https://discord.com/users/239294726128271361) |
-| Highlander Head Admin | [Sylvie]([https://ozfortress.com/users/618](https://ozfortress.com/users/1654) | [@evelynntf](https://discordapp.com/users/688322987920851256) |
+| Sixes Head Admin | [inStinct](https://ozfortress.com/users/934) | [@in5tinct_](https://discord.com/users/239294726128271361) |
+| Highlander Head Admin | [Sylvie](https://ozfortress.com/users/1654) | [@evelynntf](https://discordapp.com/users/688322987920851256) |
 | Head of Anti-Cheat | [catfish](https://ozfortress.com/users/96) | [@catfishau](https://discordapp.com/users/129062149640159232) |
 | Head of Behaviour Panel | [core](https://ozfortress.com/users/491 "Please contact me via Discord only.") | [@coreobs](https://discordapp.com/users/226205616773922816) |
 | Media Coordinator | [Sperkle](https://ozfortress.com/users/618) | [@sperkle](https://discordapp.com/users/180875592923611145) |
@@ -35,7 +35,6 @@ As mentioned in our competitive league rulesets, League Administrators in tandem
 Our New Player Experience Team was formed to help us further bridge the gap between competitive TF2 and the casual community. Good chance, if we're running team drives, icebreakers or cups, these guys are involved!
 
 ## Public Behaviour Panel members
-There are currently three Behaviour Panel members who are public, with two members who are not. We leave this decision purely up to the individual, however we do ask that those in an administration role (or those who were) are public-facing if possible. We will always strive to have an equal ratio of staff/non-staff members, if not strive for more members who are not serving in an administration role.
 
 | Name | Discord |
 | ---- | ------- |
@@ -45,26 +44,13 @@ Those above marked with Advisor are only on the panel in an advisory capacity. A
 
 **Please DO NOT contact panel members or advisors directly**. The only public point of contact should ever be the Head of the Behaviour Panel or League Director. This is so all reports, queries, etc - go through the appropriate avenues and processes.
 
-## Media Team
-The team that helps make everything media-related for ozfortress happen. Be it our socials, YouTube, or coordinating other PR tasks, it's one of these brilliant people.
-
-| Name | Discord |
-| ---- | ------- |
-| [Sperkle](https://ozfortress.com/users/618) (Media Coordinator) | [@sperkle](https://discordapp.com/users/180875592923611145) |
-| [Beater](https://ozfortress.com/users/2031) | [@beater](https://discordapp.com/users/105311959636791296) |
-| [Brady](https://ozfortress.com/users/140) | [@bradyyyy.](https://discordapp.com/users/179839476053311489) |
-| [joshrofllmao](https://ozfortress.com/users/1188) | [@joshroflmao](https://discordapp.com/users/170138245819138048) |
-| Avo | No contact lised. |
-| Catfish | No contact lised. |
-| Mitch | No contact lised. |
-
 ## Development Team
 The team responsible for bringing you Citadel, updates to it, and production of our other services.
 
 | Role | Name |
 | ---- | ------- |
-| Development Team Lead | [/dev/zero](https://ozfortress.com/users/2) | No contact lised. |
-| Development Team Lead | [Shigbeard](https://ozfortress.com/users/1395) | [@shigbeard](https://discordapp.com/users/136264506933248000) |
+| Developer | [/dev/zero](https://ozfortress.com/users/2) | No contact lised. |
+| Developer | [Shigbeard](https://ozfortress.com/users/1395) | [@shigbeard](https://discordapp.com/users/136264506933248000) |
 | Developer | a team of ants in their prime | No contact lised. |
 | Developer | Amatorii | No contact lised. |
 | Developer | arbabf | No contact lised. |
@@ -85,6 +71,8 @@ The team responsible for bringing you Citadel, updates to it, and production of 
 + blitzen
 + Brodogs
 + catfish (League Director)
++ Celph
++ Chili
 + chimes
 + Cole
 + down
@@ -96,9 +84,11 @@ The team responsible for bringing you Citadel, updates to it, and production of 
 + hatchet
 + Hawk (Head of Behaviour Panel)
 + hcaz
++ HUNGRY4EGGS
 + hive
 + Ishanu
 + Jump!
++ Kai
 + Kenneth (League Director)
 + kam
 + kocka
@@ -118,6 +108,7 @@ The team responsible for bringing you Citadel, updates to it, and production of 
 + raina
 + Rainy
 + ravelizard
++ redja
 + RynoCerus
 + samson (Head of Behaviour Panel)
 + Seraphim
@@ -126,6 +117,7 @@ The team responsible for bringing you Citadel, updates to it, and production of 
 + skaz/SKRATCHLE
 + snazzy
 + Solus
++ Sperkle (Highlander Head Admin & Media Coordinator)
 + stv!
 + tempest (Co-Founder of ozfortress)
 + Thyme
@@ -140,9 +132,3 @@ The team responsible for bringing you Citadel, updates to it, and production of 
 + wm
 + wolfeh
 + yauch
-+ kai
-+ hungry4eggs
-+ sperkle
-+ chilli
-+ celph
-+ redja
