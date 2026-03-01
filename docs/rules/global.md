@@ -20,8 +20,8 @@ Failure to meet format rules, such as class limits and whitelists, may result in
 
 |                  |    Player Penalty     |               Team Penalty               |
 | ---------------: | :-------------------: | :--------------------------------------: |
-|    First Offence | 1-Round Match Ban     | :material-close-circle-outline: Moderate |
-|   Second Offence | 3-Round Match Ban     | :material-close-circle-outline: Moderate |
+|    First Offence | 1-Round Match Suspension     | :material-close-circle-outline: Moderate |
+|   Second Offence | 3-Round Match Suspension     | :material-close-circle-outline: Moderate |
 | Further Offences | 1-Season Ban          | :material-close-circle: Major            |
 
 ### 1.2. Ruleset Changes
@@ -44,19 +44,30 @@ Instances of Admin Shopping may result in the following penalties:
 |                  |    Player Penalty     |               Team Penalty               |
 | ---------------: | :-------------------: | :--------------------------------------: |
 |    First Offence | Warning               | :material-alert-circle-outline: Minor    |
-|   Second Offence | 1-Round Match Ban     | :material-close-circle-outline: Moderate |
-| Further Offences | 3-Round Match Ban     | :material-close-circle-outline: Moderate |
+|   Second Offence | 1-Round Match Suspension     | :material-close-circle-outline: Moderate |
+| Further Offences | 3-Round Match Suspension     | :material-close-circle-outline: Moderate |
 
 ### 1.6. Player Integrity
 Players and teams participating in ozfortress competitions are expected to conduct themselves with integrity. Any attempt to deceive or mislead players, captains, or administrators is strictly prohibited.
 
 Instances of misleading players, captains, or administrators may result in the following penalties:
 
+##### Misleading Players/Captains
+
 |                  |    Player Penalty     |               Team Penalty               |
 | ---------------: | :-------------------: | :--------------------------------------: |
 |    First Offence | Warning               | :material-close-circle-outline: Minor    |
-|   Second Offence | 1-Round Match Ban     | :material-close-circle-outline: Moderate |
-| Further Offences | 1-Round Match Ban     | :material-close-circle-outline: Moderate |
+|   Second Offence | 1-Round Match Suspension     | :material-close-circle-outline: Moderate |
+| Further Offences | 1-Round Match Suspension     | :material-close-circle-outline: Moderate |
+
+##### Misleading Administrators
+Misleading league staff will result in higher penalties.
+
+|                  |    Player Penalty     |               Team Penalty               |
+| ---------------: | :-------------------: | :--------------------------------------: |
+|    First Offence | 2-Round Match Suspension     | :material-close-circle-outline: Moderate |
+|   Second Offence | 2-Round Match Suspension     | :material-close-circle-outline: Moderate |
+| Further Offences | 1-Season Match Suspension    | :material-close-circle: Major |
 
 ### 1.7. Sportsmanship
 Players and teams participating in ozfortress competitions are expected to maintain sportsmanship in all communications, with global chat allowing light and friendly banter. Discrimination based on factors such as race, nationality, religion, disability, gender, sexual orientation, or age is considered an extreme breach of sportsmanship, resulting in penalties determined by ozfortress administration or the Behaviour Panel.
@@ -95,8 +106,8 @@ Failing to adhere to this expectation will result in the following penalties:
 |                  |   Player Penalty  |               Team Penalty               |
 | ---------------: | :---------------: | :--------------------------------------: |
 |    First Offence | Warning           | :material-alert-circle-outline: Minor    |
-|   Second Offence | 1-Round Match Ban | :material-alert-circle-outline: Minor    |
-| Further Offences | 3-Round Match Ban | :material-close-circle-outline: Moderate |
+|   Second Offence | 1-Round Match Suspension | :material-alert-circle-outline: Minor    |
+| Further Offences | 3-Round Match Suspension | :material-close-circle-outline: Moderate |
 
 ---
 
@@ -238,8 +249,8 @@ Match Fixing typically involves premeditation, planning or communication with ot
 
 |                  |   Player Penalty  |                        Team Penalty                         |
 | ---------------: | :---------------: | :---------------------------------------------------------: |
-|    First Offence | 3-Round Match Ban | :material-close-circle-outline: Moderate (& Match Overturn) |
-|   Second Offence | 6-Round Match Ban | [Roster Disband](/rules/global/#45-disbanded-teams)         |
+|    First Offence | 3-Round Match Suspension | :material-close-circle-outline: Moderate (& Match Overturn) |
+|   Second Offence | 6-Round Match Suspension | [Roster Disband](/rules/global/#45-disbanded-teams)         |
 | Further Offences | 1-Season Ban      | -                                                           |
 
 ---
@@ -292,7 +303,15 @@ ozfortress on occasion may perform Account Transfers - replacing the Steam accou
 
 The application of this process is at the discretion of ozfortress staff, and is used sparingly.
 
-If you need to have a new Steam account replace the Steam account assigned to your ozfortress account, please fill out [this form](https://forms.gle/HRnWkg8QbPwUh9BH8) and inform an ozfortress Head Administrator or League Director directly via Discord DMs once you have filled the form out.
+If you need to have a new Steam account replace the Steam account assigned to your ozfortress account, please fill out [this form](https://forms.gle/HRnWkg8QbPwUh9BH8) and inform an ozfortress Head Administrator or League Director directly via Discord DMs once you have filled the form out. 
+
+Requests for account transfers will be considered on a case-by-case basis, with approval only being granted under one of the following two conditions:
+
+1. Loss of account access with no recovery option available from steam support.
+
+2. Severe account issues that would impede competitive play  (eg. Hijacking/Malicious Access, Account Restrictions, etc.).
+
+In either case, the account holder must be able to show evidence of the issue. 
 
 #### 3.3.2. Account Sharing
 Sharing your login details with a third party for use in an ozfortress match, or to provide anonymity for others to disrupt or be abusive, is strictly prohibited and will result in lengthy bans for all involved parties.
@@ -372,13 +391,16 @@ Team aliases and profiles cannot contain the following:
 - A person's name or likeness. This excludes celebrities and political figures.
     - ozfortress staff reserve the right to make contradictory rulings to this on a case-by-case basis.
 - Copyrighted names or branding that the team does not have express permission to use.
+- Making your team name an acronym hinting or alluding at something inappropriate or in breach of our guidelines.
 - Anything that violates our Community Guidelines.
 
+Violations of these guidelines can, and will result in punishment. It is the responsibility of teams to choose an appropriate team name/alias.
+
 #### 4.1.2. Premier Team Aliases
-Premier teams will have their aliases held to a higher standard befitting the division's status as the highest level of Australian competitive play.
+Premier teams will have their aliases held to a higher standard befitting the division's status as the highest level of competitive play in our league.
 
 #### 4.1.3. Team and Sponsorship Tags
-Team organisation and sponsorship tags are permitted but must be both appropriate and reasonable.
+Team organisation and sponsorship tags are permitted but must be both appropriate and reasonable (not too many characters so broadcasts can include it in your names).
 
 ### 4.2. Team Captains
 Captains have the ultimate responsibility for their team, representing them in organising matches and communicating with ozfortress administrators. In the event of any team-related offenses, captains will be held responsible and will be subject to punishment.
@@ -412,7 +434,7 @@ If necessary, the [ozfortress Roster Verification Tool](https://verify.ozfortres
 There is no limit to the number of Out-of-Region players that may be on a roster. However, Out-of-Region players must satisfy the [3.2.1. Ping Limit](/rules/global/#341-ping-limit) or have an exception approved as outlined in [3.2.3. Exceptions](/rules/global/#323-exceptions).
 
 ### 4.5. Disbanded Teams
-Captains of a disbanded team will receive a captaincy ban. Furthermore, all players on the Active Roster of a disbanded team will be barred from play for the remainder of that season. **Disbanded Teams are not awarded in-game medals.**
+Captains of a disbanded team will receive a Captaincy Ban. Furthermore, all players on the Active Roster of a disbanded team will be barred from play for the remainder of that season in both Sixes and Highlander. **Disbanded Teams are not awarded in-game medals.**
 
 To prevent penalties, team captains and/or team members are encouraged to promptly engage with administrators at the first sign of issues to work towards a solution.
 
@@ -435,9 +457,9 @@ Breaching player restrictions will result in the following penalties:
 
 |                  |    Player Penalty     |               Team Penalty               |
 | ---------------: | :-------------------: | :--------------------------------------: |
-|    First Offence | 2-Round Match Ban     | :material-close-circle-outline: Moderate |
-|   Second Offence | 4-Round Match Ban     | :material-close-circle: Major            |
-| Further Offences | 6-Round Match Ban     | :material-close-circle: Disband          |
+|    First Offence | 2-Round Match Suspension     | :material-close-circle-outline: Moderate |
+|   Second Offence | 4-Round Match Suspension     | :material-close-circle: Major            |
+| Further Offences | 6-Round Match Suspension     | :material-close-circle: Disband          |
 
 #### 4.6.1. Player Restriction Limit
 The number of players on a roster who can be restricted is limited based on the format.
@@ -535,12 +557,6 @@ The number of mercenaries per team allowed at any moment is limited based on the
 |   Sixes    |  2 mercenaries  |
 | Highlander |  3 mercenaries  |
 
-### 6.4. Reusing Mercenaries - Rule Removed Spring 2025
-Teams can only make use of the same mercenary within **two matches per season**. There is **no limit** on the amount of mercenaries used per season, only on one specific player.
-
-!!! warning "Rule Removed"
-    Rule was removed for the Spring 2025 Sixes and Highlander seasons. The rule hasn't been deleted from the ruleset yet to preserve/prevent dead hyperlinks.
-
 ---
 
 ## 7. Match Organisation
@@ -625,8 +641,8 @@ Inappropriate or unrelated posting in Match Threads may result in the following 
 |                  |   Player Penalty    |               Team Penalty               |
 | ---------------: | :-----------------: | :--------------------------------------: |
 |    First Offence | Warning             | :material-alert-circle-outline: Minor    |
-|   Second Offence | 1-Round Match Ban   | :material-alert-circle-outline: Minor    |
-| Further Offences | 2-Round Match Ban   | :material-close-circle-outline: Moderate |
+|   Second Offence | 1-Round Match Suspension   | :material-alert-circle-outline: Minor    |
+| Further Offences | 2-Round Match Suspension   | :material-close-circle-outline: Moderate |
 
 #### 7.4.1. Match Info Requirements
 The following **must** be posted in the match thread/match page for each official match:
@@ -690,8 +706,8 @@ Joining a match server where you are not rostered on either team's roster is con
 
 |                  |         Player Penalty        |               Team Penalty               |
 | ---------------: | :---------------------------: | :--------------------------------------: |
-|    First Offence | 3-Round Match Ban             | -                                        |
-|   Second Offence | 6-Round Match Ban             | -                                        |
+|    First Offence | 3-Round Match Suspension             | -                                        |
+|   Second Offence | 6-Round Match Suspension             | -                                        |
 | Further Offences | 6-Month Ban                   | -                                        |
 
 ### 8.2. Team Starting Side
@@ -701,18 +717,18 @@ In Regular Season matches, the Away team selects their team colour. In Playoff m
 To lodge a dispute or report misconduct within a match, please contact a League Administrator as soon as possible. Please do not bring the debate to the public while it is being resolved.
 
 ### 8.4. Distinct Aliases
-Aliasing is allowed in matches. However, all players must have distinct aliases. ozfortress defines Distinct Aliases as a player's most recognizable alias, or current ozfortress.com alias.
+Aliasing is allowed in official matches. However, all players must have distinct aliases. ozfortress defines Distinct Aliases as aliases different from each player's alias, meaning no shared aliases. In addition, players should not be aliasing as their teammate - each player needs to be their own recognizable entity.
 
 Failing to do will result in the following penalties:
 
 |                  |   Player Penalty  |               Team Penalty               |
 | ---------------: | :---------------: | :--------------------------------------: |
 |    First Offence | Warning           | :material-alert-circle-outline: Minor    |
-|   Second Offence | 1-Round Match Ban | :material-alert-circle-outline: Minor    |
-| Further Offences | 2-Round Match Ban | :material-close-circle-outline: Moderate |
+|   Second Offence | 1-Round Match Suspension | :material-alert-circle-outline: Minor    |
+| Further Offences | 2-Round Match Suspension | :material-close-circle-outline: Moderate |
 
 #### 8.4.1. Correct Aliases Upon Request
-During matches cast by Approved Casting Organisations, players must use an alias matching their ozfortress profile upon request. Whilst an exact match is not required, player aliases should be immediately recognisable to casters and viewers.
+During matches cast by Approved Casting Organizations, players must use an alias matching their ozfortress profile upon request. Whilst an exact match is not required, player aliases should be immediately recognisable to casters and viewers.
 
 ### 8.5. Spectators
 Players in spectator are strictly prohibited during any match. League Administrators are allowed to remain in server spectator for any reason.
@@ -728,8 +744,8 @@ Failing to adhere to this **will** result in the following penalties:
 
 |                  |   Player Penalty  |                           Team Penalty                          |
 | ---------------: | :---------------: | :-------------------------------------------------------------: |
-|    First Offence | 2-Round Match Ban | :material-alert-circle-outline: Moderate (& Match Overturn)     |
-|   Second Offence | 6-Round Match Ban | :material-close-circle-outline: Major (& Roster Disband)        |
+|    First Offence | 2-Round Match Suspension | :material-alert-circle-outline: Moderate (& Match Overturn)     |
+|   Second Offence | 6-Round Match Suspension | :material-close-circle-outline: Major (& Roster Disband)        |
 | Further Offences | 1-Season Ban      | -                                                               |
 
 ### 8.6. Player Swaps
@@ -786,6 +802,8 @@ Official matches may be broadcasted on any live stream platform, provided the co
 ### 9.1. ozfortress Representation
 ozfortress asks that all match broadcasts by both casting organisations and individuals follow a fairly simple philosophy: represent our community as one that is open and accepting. We feel this is fair, and doesn't impact anyone's right to voice their own opinion, even of ozfortress.
 
+Additionally, all content on any cast coverage of an ozfortress Official Match should not be in breach of our [Community Guidelines](/rules/community_guidelines/).
+
 ### 9.2. Approved Casting Organisations
 Approved Casting Organisations may broadcast matches without requiring team approval. This status is reserved for casting organisations maintaining high production and coverage standards and contributing positively to talent development.
 
@@ -793,7 +811,6 @@ The current Approved Casting Organisations are:
 
 - KritzKast
 - CappingTV
-- BearCasts
 
 Upon request, Approved Casting Organizations must be provided with server details and an updated list of participating players and mercenaries.
 
@@ -801,24 +818,34 @@ Upon request, Approved Casting Organizations must be provided with server detail
 Teams who are in a match being casted by an Approved Casting Organization need to follow all of that organizations directives in regards to when each map starts. This is to ensure they are ready to go live.
 
 #### 9.2.2. Becoming an Approved Casting Organization
-Casting Organizations may contact the League Director or Media Coordinator to become an Approved Casting Organization. Approval will only be granted once it is determined by ozfortress that the coverage meets approved standards.
+Casting Organizations may contact the League Director or Media Coordinator to become an Approved Casting Organization. Approval will only be granted once it is determined by ozfortress that the coverage meets approved standards, demonstrates a history of professional coverage and shows ozfortress can trust and/or rely on this coverage.
 
 ### 9.3. Unapproved Casting Organizations
 Unapproved Casting Organizations, including individuals, **must secure approval from both teams to broadcast a match**. Casting priority for matches is given to Approved Casting Organizations.
 
 #### 9.3.1. Failing to seek permission
-Unapproved Casting Organisations (or individuals) who fail to seek permission to cast a match from the captains of both teams involved in that official match will receive penalties.
+Unapproved Casting Organisations (or individuals) who fail to seek permission to cast a match from the captains of both teams involved in an official match will receive penalties.
 
 |                  | Player Penalty |               Team Penalty               |
 | ---------------: | :------------: | :--------------------------------------: |
 |    First Offence |       Warning         |   -   |
 |   Second Offence |       -        |   -   |
-| Further Offences |       1-Round Match Ban         |   -   |
+| Further Offences |       3-Round Match Suspension & Removal of Casting Roles         |   -   |
 
-#### 9.3.2. Banned Players covering official matches
-Anyone with an active ozfortress ban, is prohibited from covering any official match on their own channels. Banned players are allowed to appear on, or cast for Approved Casting Organizations.
+#### 9.3.2. Banned Players Casting Official Matches
+Anyone with an active ozfortress ban, is prohibited from covering any official match on their own channels. Banned players are allowed to appear on, or cast for Approved or Unapproved Casting Organizations, but their actions are also the responsibility of those platforming them, reviewed on a case-by-case basis.
 
-### 9.4. Player Stream Delay
+### 9.4. Casting Organization Responsibility
+Both Approved and Unapproved Casting Organizations must adhere to the following guidelines (and if not dictated specifically Approved or Unapproved, clause applies to both):
+
+1. Organizations must not interfere with the play of an official match, with exception to Approved Organizations being allowed to dictate when a match starts.
+   - This includes manipulation of the game server, deliberate or malicious interruption of gameplay, or unneeded involvement or interference in Staff and Captain discussion, mercenary processes, or disputes. If you are seeing a problem in the match, contact staff. You are not staff.
+2. Be aware of who you are platforming - if their on-stream conduct is consistently in poor taste or breaches our Community Guidelines, punishments may arise.
+   - Example: Platforming banned players.
+3. Criticism of ozfortress is fine, fair criticism of players and their play is fine, harassment, bullying or continued focus on specific players in an overly unfair or negative light, is not.
+4. If you are casting ozfortress matches, we want you to be as professional as you want to be. We don't require professional esports production, but effort reflects well on you, us and our scene. We want to work with you to promote you, your brand, your content, regardless of status. 
+
+### 9.5. Player Stream Delay
 **Stream sniping is not an actionable offence** so players are responsible for setting a stream delay such that they do not impact their team.
 
 ---
@@ -832,8 +859,8 @@ Failing to meet these requirements will result in the following penalties:
 |                  |   Player Penalty  |               Team Penalty               |
 | ---------------: | :---------------: | :--------------------------------------: |
 |    First Offence | Warning           | :material-close-circle-outline: Moderate |
-|   Second Offence | 1-Round Match Ban | :material-close-circle-outline: Moderate |
-| Further Offences | 3-Round Match Ban | :material-close-circle-outline: Moderate |
+|   Second Offence | 1-Round Match Suspension | :material-close-circle-outline: Moderate |
+| Further Offences | 3-Round Match Suspension | :material-close-circle-outline: Moderate |
 
 ### 10.2. Server Providers
 For matches (and in the case of disputes), **au.serveme.tf** serves as the default server provider. However, if both teams agree, **Matcha Bookable** servers can be used.

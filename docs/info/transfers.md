@@ -4,8 +4,8 @@ Players who did not join a team prior to signups closing can still participate u
 There are factors that could prevent a player being eligible for transfer, these factors are:
 
 1. Your roster has reached it's maximum roster size limit:
-      - For Sixes, this limit is 10 players on the active roster.
-      - For Highlander, this limit is 15 players on the active roster.
+      - For Sixes, this limit is 9 players on the active roster.
+      - For Highlander, this limit is 13 players on the active roster.
 2. To prevent roster stacking
 3. If a player is ineligible for play within the division:
       - Player's own skill does not correlate with the division they are trying to participate in.

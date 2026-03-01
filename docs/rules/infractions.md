@@ -76,12 +76,12 @@ We observe a 6-month "statute of limitations" for all evidence submitted via rep
 
 ## Infraction Threshold Ban Levels
 + 20 points: 
-    + 3-Round Match Ban.
+    + 3-Round Match Suspension.
 + 40 points:
-    + 6-Round Match Ban.
+    + 6-Round Match Suspension.
 + 60 points:
     + 1-Year Infraction Threshold Ban.
-    + 9-Month Game Server Ban.
+    + 9-Month Game Server Block.
     > Ban ends early to allow players to begin reintegrating into the league.
     + 12-Month Game Server Mute.
     > Prevents talking via voice or text.
@@ -89,8 +89,8 @@ We observe a 6-month "statute of limitations" for all evidence submitted via rep
 !!! info "Please Note"
     Every 30 points above the 60 point ban level will result in another year added to the ban.
 
-#### 3-Round & 6-Round Match Bans
-Round Match Bans carry across competitions, so if it is received during the offseason or at the end of your season, it will continue at the start of the next regular season or competition you play. Round Match Bans are applied immedietly and are to take effect as soon as they are applied. However, if Match Round Ban player is scheduled to play a match within 48 hours of the Match Round Ban being applied they will be permitted to play the match and will start their Match Round Ban the subsequent round. 
+#### 3-Round & 6-Round Match Suspensions
+Round Match Suspensions carry across competitions, so if it is received during the offseason or at the end of your season, it will continue at the start of the next regular season or competition you play. Round Match Suspensions are applied immedietly and are to take effect as soon as they are applied. However, if Match Round Suspended players are scheduled to play a match within 48 hours of the Match Round Suspension being applied, they will be permitted to play the match and will start their Match Round Suspension the subsequent round. Any offences during this play allowance will result in heavier punishment.
 
 ## Probations
 Probations are applied after a person's ban expires, and said probation will remain for a 12-month period after their ban. Within this probation period, offences will incur penalties of a higher severity, depending on the tier of the offence.
@@ -140,8 +140,7 @@ Specifically player behaviour not related to in-match play or organisation. Plea
     + Infraction Modifiers can be applied to this infraction.
 + `#304` Threats of violence/harm against an individual or group.
     + Infraction Modifiers can be applied to this infraction.
-+ `#305` Bigoted, derogatory or discriminatory remarks of any kind.
-  > Some examples are racism, sexism, homophobia or transphobia.
++ `#305` Bigoted, derogatory or discriminatory remarks, content or other posting of any kind is prohibited.
 + `#306` Posting of illicit content on ozfortress services or within our community.
 
 ## League Infractions (now [League Penalties](/rules/penalties))
