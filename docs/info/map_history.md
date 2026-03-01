@@ -3,6 +3,62 @@
 ### Sixes (6v6) Map History
 Below you will find the maps used in each season of ozfortress Sixes. Only Season 16 onwards can be found on this website (formerly known as "warzone"); seasons prior to this were on the old ozfortress forums, which we will look to get back up and running at a later date.
 
+#### ozfortress Sixes Autumn '26
+```
+koth_bagel_rc11
+koth_clearcut_b18
+koth_product_final
+cp_gullywash_f9
+cp_process_f12
+cp_reckoner_rc6
+cp_snakewater_final1
+cp_sultry_b8a
+cp_sunshine
+```
+---
+
+#### ozfortress Sixes Spring '25
+```
+koth_bagel_rc11
+koth_clearcut_b18
+koth_product_final
+cp_granary_pro_rc17a3
+cp_gullywash_f9
+cp_metalworks_f7
+cp_process_f12
+cp_snakewater_final1
+cp_sunshine
+```
+---
+
+#### ozfortress Sixes Winter '25
+```
+koth_bagel_rc10
+koth_clearcut_b17
+cp_granary_pro_rc17a3
+cp_gullywash_f9
+cp_metalworks_f5
+cp_process_f12
+koth_product_final
+cp_snakewater_final1
+cp_sunshine
+```
+---
+
+#### ozfortress Sixes Autumn '25
+```
+koth_bagel_rc10
+koth_clearcut_b17
+cp_gullywash_f9
+cp_metalworks_f5
+cp_process_f12
+koth_product_final
+cp_reckoner
+cp_snakewater_final1
+cp_sunshine
+```
+---
+
 #### ozfortress Sixes Spring '24
 ```
 koth_bagel_rc10
@@ -521,6 +577,61 @@ cp_yukon
 ### Highlander (HL) Map History
 Below you will find the maps used in each season of ozfortress Highlander found on this website. ozfortress Highlander is a continuation of Respawn League's own Highlander seasons, which discontinued in 2022.
 
+#### ozfortress Highlander Autumn '26
+```
+pl_upward_f12
+koth_product_final
+pl_swiftwater_final1
+pl_eruption_b15
+cp_steel_f12
+pl_vigil_rc10
+koth_ashville_final1
+koth_proot_b6c-alt2
+koth_warmtic_f10
+```
+---
+
+#### ozfortress Highlander Spring '25
+```
+pl_upward_f12
+koth_product_final
+pl_swiftwater_final1
+pl_eruption_b15
+cp_steel_f12
+pl_vigil_rc10
+koth_ashville_final1
+koth_proot_b6c-alt2
+koth_warmtic_f10
+```
+---
+
+#### ozfortress Highlander Winter '25
+```
+pl_upward_f12
+koth_product_final
+pl_swiftwater_final1
+pl_eruption_b14
+cp_steel_f12
+pl_vigil_rc10
+koth_ashville_final1
+koth_proot_b6c-alt2
+koth_proside_v1
+```
+---
+
+#### ozfortress Highlander Autumn '25
+```
+pl_upward_f12
+koth_product_final
+pl_swiftwater_final1
+pl_eruption_b14
+cp_steel_f12
+pl_vigil_rc10
+koth_ashville_final1
+koth_proot_b6c-alt2
+```
+---
+
 #### ozfortress Highlander Spring '24
 ```
 koth_ashville_final
@@ -678,46 +789,112 @@ cp_well
 ### ozfortress Tournaments/Cups
 Below you will find the maps used in each tournament/off-season cup ozfortress has run on our new website.
 
-#### Ultiduo 17
+#### Ultiduo 19: May Madness '25
 ```
-ctf_bball_ozone_ozf
+ultiduo_ozf_r
+ultiduo_baloo_v2
+ultiduo_swine_b06
+ultiduo_fira_b2a
 ```
+
+#### Ultiduo 18: May Madness '24
+```
+ultiduo_ozf_r
+ultiduo_baloo_v2
+ultiduo_swine_b06
+ultiduo_champions_b1
+```
+
+#### Ultiduo 17: Autumn Action Part 1
+```
+ultiduo_ozf_r
+```
+
 ---
 #### Ultiduo 16
 ```
 ultiduo_ozf_r
 ```
+
 ---
 #### Ultiduo 15
 ```
 koth_ultiduo_r_b7
 ```
+
 ---
 #### Ultiduo 14
 ```
 koth_ultiduo_r_b7
 ```
+
 ---
 #### Ultiduo 13
 ```
 koth_ultiduo_r_b7
 ```
+
 ---
 #### Ultiduo 12
 ```
 koth_ultiduo_r_b7
 ```
+
 ---
 #### Ultiduo 11
 ```
 koth_ultiduo_r_b7
 ```
+
+---
+#### BBall 2: May Madness '25
+```
+ctf_bball_ozone_ozf
+```
+
 ---
 #### BBall 1
 ```
 ctf_bball_ozone_ozf
 ```
+
+#### Dodgeball: May Madness '25
+```
+tfdb_spacebox_a2
+tfdb_octagon_odb_a1
+tfdb_box_space_a6
+tfdb_rocketbucks_v2
+```
+
 ---
+
+#### ozfortress' A Midsummer Night's Sixes Cup 2026
+```
+cp_process_f12
+cp_sunshine
+koth_product_final
+cp_snakewater_final1
+```
+
+#### ozfortress Experimental Cup 4
+```
+koth_valor_rc1
+koth_govan_b9
+koth_keylog_rc1
+pl_bumblefumble
+pl_divulgence_b4b
+pl_cerana_b3c
+```
+
+#### ozfortress Experimental Cup 3
+```
+cp_croissant_fix_b1
+cp_sultry_b8a
+koth_proplant_v8
+koth_daenam_b12
+pl_summercoast_rc8e
+pl_problitz_rc2
+```
 
 #### ozfortress Experimental Cup 2
 ```
@@ -920,6 +1097,57 @@ cp_snakewater_final1
 
 ### Tournaments/Cups by our partners
 Below you will find the maps used in each tournament/off-season cup one of our partners has run on our website.
+
+#### LAN Downunder 2026 (LAN)
+```
+TBD
+```
+
+#### CappingTV Summer Brawl 2026 (LAN)
+```
+koth_product_final
+cp_gullywash_f9
+cp_process_f12
+cp_snakewater_final1
+cp_sunshine
+cp_reckoner
+koth_clearcut_b18
+cp_metalworks_f7
+```
+
+#### noob pugs Olympics
+```
+bball_ozone_ozf
+tfdb_box_space_a6
+ultitrio_dockport_final6
+jump_beef
+mge_triumph_beta7_rc1
+```
+
+#### LAN Downunder 2025 (LAN)
+```
+koth_bagel_rc10
+koth_clearcut_b17
+cp_gullywash_f9
+cp_metalworks_f5
+cp_process_f12
+koth_product_final
+cp_sunshine
+cp_snakewater_final1
+```
+
+#### LAN Downunder 2025: Online Qualifiers 
+```
+koth_bagel_rc10
+koth_clearcut_b17
+cp_gullywash_f9
+cp_metalworks_f5
+cp_process_f12
+koth_product_final
+cp_reckoner
+cp_snakewater_final1
+cp_sunshine
+```
 
 #### CappingTV Summer Brawl 2025 (LAN)
 ```
