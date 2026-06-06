@@ -12,11 +12,10 @@ Have an issue that isn't within the Sixes or Highlander realm? Good chance our T
 | Role | Name | Discord |
 | ---- | ---- | ------- |
 | League Director | [core](https://ozfortress.com/users/491 "Please contact me via Discord only.") | [@coreobs](https://discordapp.com/users/226205616773922816) |
-| Sixes Head Admin | [inStinct](https://ozfortress.com/users/934) | [@in5tinct_](https://discord.com/users/239294726128271361) |
+| Sixes Head Admin | [whitefang2360](https://ozfortress.com/users/5100) | [@whitefang2360](https://discordapp.com/users/517561624245305346) |
 | Highlander Head Admin | [Sylvie](https://ozfortress.com/users/1654) | [@evelynntf](https://discordapp.com/users/688322987920851256) |
 | Head of Anti-Cheat | [catfish](https://ozfortress.com/users/96) | [@catfishau](https://discordapp.com/users/129062149640159232) |
 | Head of Behaviour Panel | [core](https://ozfortress.com/users/491 "Please contact me via Discord only.") | [@coreobs](https://discordapp.com/users/226205616773922816) |
-| Media Coordinator | [Sperkle](https://ozfortress.com/users/618) | [@sperkle](https://discordapp.com/users/180875592923611145) |
 
 ## League Admins
 As mentioned in our competitive league rulesets, League Administrators in tandem with each league's Head Administrator and League Director, are responsible for the effective running of ozfortress seasonal competitions.
@@ -24,11 +23,12 @@ As mentioned in our competitive league rulesets, League Administrators in tandem
 | League | Name | Discord |
 | ---- | ---- | ------- |
 | Sixes | [sirgy](https://ozfortress.com/users/2386) | [@sirgy](https://discordapp.com/users/312795457501921281) |
-| Sixes | [emgee](https://ozfortress.com/users/76) | [@emgee](https://discordapp.com/users/86424530871910400) |
-| Sixes | [whitefang2360](https://ozfortress.com/users/5100) | [@whitefang2360](https://discordapp.com/users/517561624245305346) |
-| Sixes | [mashiro](https://ozfortress.com/users/350) | [@mashirotf](https://discordapp.com/users/193374387179749376) |  
+| Sixes | [ozone](https://ozfortress.com/users/4050) | [@ozone_au](https://discordapp.com/users/735785392132849737) |
+| Sixes | [Cab](https://ozfortress.com/users/4382) | [@cab36](https://discordapp.com/users/700343505096015964) |
+| Sixes | [Rill](https://ozfortress.com/users/1630) | [@rillau](https://discordapp.com/users/121488964971528197) |
+| Sixes | [Matty](https://ozfortress.com/users/705) | [@au_matty](https://discordapp.com/users/83546438386061312) |  
 | Highlander | [indy and her jones](https://ozfortress.com/users/1874) | [@indyandherjones](https://discordapp.com/users/221542616557289472) |
-| Highlander | [woozy](https://ozfortress.com/users/4054) | [@w.oozy](https://discordapp.com/users/757143916553306142) |
+| Highlander | [woozy](https://ozfortress.com/users/4054) | [@moonkittyx.](https://discordapp.com/users/757143916553306142) |
 | Highlander | [Pulse](https://ozfortress.com/users/4915) | [@bigpulsey](https://discordapp.com/users/134543404460802048) |
 
 ## New Player Experience Team
@@ -72,28 +72,30 @@ The team responsible for bringing you Citadel, updates to it, and production of 
 + Brodogs
 + catfish (League Director)
 + Celph
-+ Chili
++ Chili/Hawk (Head of Behaviour Panel & Sixes Head Admin)
 + chimes
 + Cole
++ Cryo
 + down
++ emgee
 + ferelah
 + fez
 + Fozzlm (Media Coordinator)
 + frydog
 + gabbo
 + hatchet
-+ Hawk (Head of Behaviour Panel)
 + hcaz
 + HUNGRY4EGGS
 + hive
 + Ishanu
 + Jump!
-+ Kai
++ Kai (The Goat)
 + Kenneth (League Director)
 + kam
 + kocka
 + lammy
 + LiquidAlchemy
++ mashiro
 + mercury (Co-Founder of ozfortress)
 + micko
 + multi (Sixes Head Admin)
@@ -102,6 +104,7 @@ The team responsible for bringing you Citadel, updates to it, and production of 
 + nsk
 + obla (League Director)
 + Oldcustard
++ omni
 + OnionS
 + Platinum/shy
 + Psyfox
