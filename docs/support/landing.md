@@ -2,42 +2,11 @@
 title: Support & Reporting
 ---
 
-<link rel="stylesheet" href="/stylesheets/extra.css" />
-
 <style>
-@media only screen and (max-width: 1219px) {
-  .grid-container {
-    display: grid;
-    grid-template-columns: auto auto;
-    column-gap: 24px;
-    row-gap: 24px;
-  }
-}
-
-@media only screen and (min-width: 1220px) {
-  .grid-container {
-    display: grid;
-    column-gap: 24px;
-    row-gap: 24px;
-    grid-template-columns: auto auto;
-    background: none;
-  }
-}
-
-h3 {
-  text-transform: none;
-  color: var(--md-default-fg-color--light);
-}
-
-h2 {
-  text-transform: none;
-  color: var(--md-default-fg-color--light);
-}
-
 .discord-btn {
   background-color: #738adb;
-  border-radius: 3px;
-  padding: 10px 15px 10px 15px;
+  border-radius: 12px;
+  padding: 18px;
   text-align: center;
   transition: ease 0.5s;
   display: inline;
@@ -46,7 +15,8 @@ h2 {
 
 a.discord-btn {
   text-transform: none;
-    color: #ffffff;
+  color: #ffffff;
+  text-decoration: none;    
 }
 
 a.discord-btn:hover {

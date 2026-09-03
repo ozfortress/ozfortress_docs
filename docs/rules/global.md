@@ -1,6 +1,6 @@
 # Global Ruleset
 !!! failure "Disclaimer"
-    **ozfortress is not affiliated with or sponsored by Valve Corporation.**
+    **ozfortress is not affiliated with, or sponsored by the Valve Corporation/Steam.**
 
     **The sale of in-game ozfortress medals, as well as any other medals, is strictly prohibited.**
     
@@ -388,8 +388,9 @@ Team aliases and profiles cannot contain the following:
 - Emojis or special characters.
 - Blank characters or characters to otherwise break the name field.
 - Links or URLs.
-- A person's name or likeness. This excludes celebrities and political figures.
+- A person's legal or brand name/likeness. This excludes celebrities and political figures.
     - ozfortress staff reserve the right to make contradictory rulings to this on a case-by-case basis.
+    - The names/likeness/brand of those banned from ozfortress cannot be used in the name, image or description of team profiles. This includes references/allusions to these names.
 - Copyrighted names or branding that the team does not have express permission to use.
 - Making your team name an acronym hinting or alluding at something inappropriate or in breach of our guidelines.
 - Anything that violates our Community Guidelines.
@@ -535,7 +536,7 @@ When a League Administrator is required to step in to solve a mercenary dispute,
 A player who is completely unrestricted in a division below that in which a match is being played should be approved without any restrictions. If a team is concerned about the impact of such a player, team captains are encouraged to contact their Division Administrators through the [Team Captain Discord](/rules/global/#72-team-captain-discord).
 
 #### 6.2.3. Contesting Mercenary Denials
-If three reasonable mercenaries are denied, you may contact your Division Administrators through the [Team Captain Discord](/rules/global/#72-team-captain-discord).
+If two reasonable mercenaries are denied, you may contact your Division Administrators through the [Team Captain Discord](/rules/global/#72-team-captain-discord).
 
 #### 6.2.4. Mercenary Class Locking
 **Teams may lock mercenaries to specific classes**. Unless mercenaries have been explicitly locked to a class, they can play any class of their choosing. **Any class locks placed on mercenaries must be stated in the match thread.**
@@ -1015,4 +1016,4 @@ Players found abusing league site permissions - such as captaincy or administrat
 Any person found to be in breach of this rule will have their permissions revoked without warning and will be suspended, with further penalties awarded at the discretion of league administration.
 
 ## 13. ozfortress Bans
-Members banned on the ozfortress website are also banned from leading teams in ozfortress competitions. Players banned from the ozfortress website may also be subject to competition bans. It is standard for those serving any ban with a duration above 6 months to be banned from our Discord server as well as being barred from using bookable server services.
+Members banned on the ozfortress website are also banned from leading teams in ozfortress competitions. Players banned from the ozfortress website may also be subject to competition bans. It is standard for those serving any ban with a duration above 6 months to be banned/muted/restricted from our Discord server as well as being barred from using bookable game server services. For more information on Game Server Bans, or ozfortress Bans in general, see our [Bans](/info/bans) page.

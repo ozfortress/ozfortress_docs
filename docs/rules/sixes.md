@@ -1,7 +1,9 @@
 # Sixes Ruleset
 
-## Format Specificity
-Rules within this ruleset apply strictly to the Sixes format (6v6). While each ruleset may share rules, the specific contents are likely different when listed within a format-specific ruleset rather than the Global ruleset. Please note this ruleset is authored for our Sixes seasonal leagues, but in the event it is linked on an ozfortress-run Sixes tournament, rules mentioning seasonal specifics should be ignored. If you are not sure whether or not a rule applies to a Sixes tournament run by us, please reach out.
+!!! warning "Format Specificity"
+    Rules within this ruleset apply strictly to the Sixes format (6v6). While each ruleset may share rules, the specific contents are likely different when listed within a format-specific ruleset. Please note this ruleset is authored for our Sixes seasonal leagues, but in the event it is linked on an ozfortress-run Sixes tournament, rules mentioning seasonal specifics should be ignored. If you are not sure whether or not a rule applies to a Sixes tournament run by us, please reach out.
+
+    All rules from our [Global Ruleset](/rules/global) apply unless stated otherwise.
 
 ## 1. Sixes Format
 ### 1.1. Class Limits
