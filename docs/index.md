@@ -61,10 +61,15 @@ summary: docs.ozfortress.com homepage.
 <div class="hero-container">
   <h1>ozfortress Docs</h1>
   <div class="hero-span">
-    <span>A documentation site for <a href="https://ozfortress.com/">ozfortress</a>, Oceania's Premier Competitive Team Fortress league.</span>
+    <span><a href="https://ozfortress.com/">ozfortress</a> is Asia-Pacific's Premier Competitive Team Fortress 2 league, volunteer-run community esports founded in 2001, providing Team Fortress competitions for over twenty-five years.</span><br /><br />
+    <span>Our documentation site houses our competitive rulesets, service information, guides, and more.</span>
   </div>
-  <hr>
 </div>
+
+!!! info "Want to help us write guides for newbies?"
+    **We're looking for talented and driven players who want to contribute to our newbie guides!** If you're interested, contact core (@coreobs) on Discord.
+
+<hr>
 
 <div class="grid-container">
   <a href="/rules/global">

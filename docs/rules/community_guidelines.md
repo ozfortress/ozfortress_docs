@@ -21,7 +21,7 @@ The following rules are strictly enforced throughout any medium through which oz
 + No accusations of deviancy. If you feel a member of the community should no longer be a member of our community, make a report [here](/support/landing/#reporting-player-behaviour).
 
 ## Discord
-The purpose of Discord is for players of ozfortress to discuss TF2 related things as well as other game-related topics. It is a meeting point for members and as such is moderated to a lesser extent than other areas of the community however not exempt from our Community Guidelines or Discord Rules.
+The purpose of Discord is for players of ozfortress to discuss TF2 related topics as well as other game-related topics. It is a meeting point for members and as such is moderated to a lesser extent than other areas of the community however not exempt from our Community Guidelines or Discord Rules.
 
 If you are banned on any ozfortress medium, you may be subject to restrictions/bans on Discord at the discretion of the ozfortress administration team.
 

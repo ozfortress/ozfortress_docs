@@ -1,42 +1,5 @@
 <link rel="stylesheet" href="/stylesheets/extra.css" />
 
-<style>
-.grid-container {
-  display: grid;
-  column-gap: 24px;
-  row-gap: 24px;
-  grid-template-columns: auto auto auto auto;
-  background: none;
-}
-
-.grid-item {
-  background-color: var(--md-footer-bg-color);
-  border: 4px solid var(--md-footer-bg-color);
-  border-radius: 3px;
-  padding: 0px 10px 0px 10px;
-  text-align: center;
-  transition: ease 0.5s;
-}
-
-.grid-item:hover {
-  border: 4px solid var(--md-accent-fg-color);
-  transition: ease 0.3s;
-}
-
-.grid-item:hover h5 {
-  color: var(--md-accent-fg-color);
-  transition: ease 0.3s;
-}
-
-.grid-item h5 {
-  text-aligenter;
-  color: var(--md-primary-bg-color--light);
-  font-size: 16px;
-  font-weight: 600;
-  transition: ease 0.5s;
-}
-</style>
-
 During ozfortress competitions, both players and teams can receive penalties. The level of penalty will vary based on the rule, and the number of offences. Team captains who do not co-operate with administrator requests, especially when it involves a potential team disband, may face severe penalties.  
 
 ## Team Penalties
