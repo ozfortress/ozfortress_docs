@@ -153,3 +153,6 @@ Players are more than welcome to broadcast their POVs on their own Twitch/YouTub
 Server selection follows our [Global Ruleset server selection rules](#applicable-global-ruleset-rules) mentioned in the [Applicable Global Ruleset Rules](#applicable-global-ruleset-rules) section closely, with some additional rules specific to AHH. 
 
 Server region will always default to Sydney Australia. If two international teams are playing together, they are welcome to book an NA/EU/SEA serveme server of acceptable/comparable ping for both teams. If an OZF team is playing an international team, the default server region must be used.
+
+!!! danger "Server Region Rules"
+    AHH staff reserve the right to select the server to ensure the best competitive environment for the match if an agreement cannot be reached. Players should always attempt to resolve server-related issues amongst themselves before escalating to the admin team, as the default rulebook server will likely be selected in order to avoid wasting time. Matches are to be played on Sydney serveme.tf servers by default.
