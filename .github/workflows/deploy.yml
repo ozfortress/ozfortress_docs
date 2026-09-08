@@ -24,20 +24,13 @@ jobs:
           sudo apt-get update
           sudo apt-get install -y libcairo2 libpango-1.0-0 libpangocairo-1.0-0 libgdk-pixbuf2.0-0 libffi-dev shared-mime-info
 
-      - name: Install MkDocs and Plugins
+      - name: Install Zensical and Dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install mkdocs-material \
-                      mkdocs-minify-plugin \
-                      mkdocs-git-revision-date-localized-plugin \
-                      mkdocs-awesome-pages-plugin \
-                      mkdocs-glightbox \
-                      mkdocs-git-committers-plugin-2 \
-                      mkdocs-static-i18n \
-                      "mkdocs-material[privacy]"
+          pip install zensical
 
       - name: Build documentation
-        run: mkdocs build
+        run: zensical build
 
       - name: Deploy to VPS via rsync
         uses: Burnett01/rsync-deployments@v8
