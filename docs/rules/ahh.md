@@ -5,7 +5,7 @@ This ruleset was created for the Australian Hightower Highjinx. Please note that
     **This ruleset is still under construction!** We will post publicly when it is ready.
 
 ## Format Specificity
-Rules within this ruleset apply explicitly to Australian Hightower Highjinx. **It is safe to ignore most of the Global Ruleset, as any governing rule needed from the Global Ruleset for Ultiduo is listed below.**
+Rules within this ruleset apply explicitly to Australian Hightower Highjinx. **It is safe to ignore most of the Global Ruleset, as any governing rule needed from the Global Ruleset for Australian Hightower Highjinx is listed below.**
 
 ### Applicable Global Ruleset rules
 
