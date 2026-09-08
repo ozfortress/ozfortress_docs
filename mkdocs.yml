@@ -15,7 +15,7 @@ copyright: >
   Copyright &copy; 2026 ozfortress
 #  <a href="#__consent">Change cookie settings</a>
 nav:
-    - Home: 'index.md'
+    - 'Home': 'index.md'
     - 'Rulesets':
       - 'Global Ruleset': 'rules/global.md'
       - 'Sixes Ruleset': 'rules/sixes.md'
@@ -23,6 +23,7 @@ nav:
       - 'Tournament Rulesets':
         - 'Ultiduo Ruleset': 'rules/ultiduo.md'
         - 'BBall Ruleset': 'rules/bball.md'
+        - 'Australian Hightower Highjinx': 'rules/ahh.md'
       - 'LAN Downunder Ruleset': 'rules/lan.md'
       - 'Community Guidelines': 'rules/community_guidelines.md'
       - 'User Policy': 'rules/user_policy.md'
