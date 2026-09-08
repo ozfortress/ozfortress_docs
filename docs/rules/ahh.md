@@ -62,15 +62,18 @@ For AHH, both PLR and KOTH maps should be scored as 1-0/0-1 on match pages. When
 ### 1.4. Match Win Conditions & Tiebreakers
 Each map will be played until a team has pushed the cart to a win/run their KOTH timer down to zero.
 
-For PLR (Hightower and Helltower), if neither team manages to push the cart to a win, the match will end by map timelimit, and the team who pushed the their cart the furthest at the end of the map timelimit will win. If cart progress is tied at the end of the map timelimit, the match will be decided by the team who scored the most kills according to logs.tf logs.
+For PLR (Hightower and Helltower), if neither team manages to push the cart to a win, the match will end by map timelimit, and the team who pushed the their cart the furthest at the end of the map timelimit will win. If cart progress is tied at the end of the map timelimit, the match will be decided by the team who scored the most kills according to logs.tf logs. Please note, unlike typical Payload/Stopwatch matches, PLR is not played in any form of halves, it is "one and done".
 
 For KOTH (Snowtower), a team wins when their KOTH timer reaches zero, and the match ends.
 
 ### 1.5. Scheduling 
 Due to the time constraints surrounding AHH, once the server connect string is sent by one of the teams (preferably the Home team, but teams can decide between eachother), all players must immediately join the server. Failure to have nine players readied up in the server within five minutes of the match start time will result in a forfeit loss. Please contact an administrator via your Captains Discord match channel to claim your forfeit. Please note, administrators will use their discretion when awarding a forfeit.
 
-### 1.6. Substitutes & Mercenaries
-Substitutes and mercenaries are allowed for AHH. If a player on the roster becomes unavailable and you need to source a mercenary/ringer (and cannot make use of a substitute from your roster), please contact an administrator as soon as possible.
+### 1.6. Substitutes & Mercenaries/Ringers
+Substitutes and mercenaries/ringers are allowed for AHH. If a player on the roster becomes unavailable and you need to source a mercenary/ringer (and cannot make use of a substitute from your roster), please contact an administrator as soon as possible.
+
+!!! note "Medals for Substitutes & Mercenaries/Ringers"
+    Substitutes players will receive medals. Mercenaries/ringers will not receive medals.
 
 ### 1.7. Rosters
 #### 1.7.1. Roster Size
@@ -158,3 +161,6 @@ Teams should use au.serveme.tf or other serveme.tf regions for their matches. If
 
 !!! danger "Server Region Rules"
     AHH staff reserve the right to select the server to ensure the best competitive environment for the match if an agreement cannot be reached. Players should always attempt to resolve server-related issues amongst themselves before escalating to the admin team, as the default rulebook server will likely be selected in order to avoid wasting time. Matches are to be played on Sydney serveme.tf servers by default.
+
+### 6.2. Server or Map Issues/Crashes
+In the event teams experience significant server or map issues, teams should contact AHH staff via their Captains Discord match channel. Alternative providers can be used if absolutely needed, especially for ping/routing related issues.
