@@ -154,5 +154,7 @@ Server selection follows our [Global Ruleset server selection rules](#applicable
 
 Server region will always default to Sydney Australia. If two international teams are playing together, they are welcome to book an NA/EU/SEA serveme server of acceptable/comparable ping for both teams. If an OZF team is playing an international team, the default server region must be used.
 
+Teams should use au.serveme.tf or other serveme.tf regions for their matches. If needed, matcha.tf & TF2 Quickserver servers can be used.
+
 !!! danger "Server Region Rules"
     AHH staff reserve the right to select the server to ensure the best competitive environment for the match if an agreement cannot be reached. Players should always attempt to resolve server-related issues amongst themselves before escalating to the admin team, as the default rulebook server will likely be selected in order to avoid wasting time. Matches are to be played on Sydney serveme.tf servers by default.
