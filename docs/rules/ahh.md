@@ -59,12 +59,12 @@ For AHH, both PLR and KOTH maps should be scored as 1-0/0-1 on match pages. When
 !!! danger "IF YOUR MATCH WAS DETERMINED BY/NEEDS TO BE DETERMINED BY A TIEBREAKER"
     **Notify an administrator via your Captains Discord match channel immediately to help ensure your match is processed correctly.**
 
-### 1.4. Tiebreakers
-Each map will be played until a team has pushed the cart to a win.
+### 1.4. Match Win Conditions & Tiebreakers
+Each map will be played until a team has pushed the cart to a win/run their KOTH timer down to zero.
 
-In the event neither team manages to push the cart to a win, the match will end by map timelimit, and the team who pushed the their cart the furthest at the end of the map timelimit will win.
+For PLR (Hightower and Helltower), if neither team manages to push the cart to a win, the match will end by map timelimit, and the team who pushed the their cart the furthest at the end of the map timelimit will win. If cart progress is tied at the end of the map timelimit, the match will be decided by the team who scored the most kills according to logs.tf logs.
 
-If cart progress is tied at the end of the map timelimit, the match will be decided by the team who scored the most kills according to logs.tf logs.
+For KOTH (Snowtower), a team wins when their KOTH timer reaches zero, and the match ends.
 
 ### 1.5. Scheduling 
 Due to the time constraints surrounding AHH, once the server connect string is sent by one of the teams (preferably the Home team, but teams can decide between eachother), all players must immediately join the server. Failure to have nine players readied up in the server within five minutes of the match start time will result in a forfeit loss. Please contact an administrator via your Captains Discord match channel to claim your forfeit. Please note, administrators will use their discretion when awarding a forfeit.
@@ -81,6 +81,9 @@ Teams are not allowed to forfeit a match within AHH. If you can no longer play i
 
 #### 1.8.1. Claiming a Forfeit
 If the team hasn't communicated with you within three minutes, or is more than five minutes late, contact an administrator via your Captains Discord match channel to claim a forfeit win. Do not wait longer than this as it will affect the remainder of the event. 
+
+#### 1.8.2. Medals & Forfeits
+Teams who forfeit a match, or are forfeited by AHH staff, will not receive any participation/placement medals.
 
 ## 2. AHH Playoffs
 ### 2.1. Playoff Match Format
@@ -144,3 +147,9 @@ Any casting organization not listed as the official broadcaster is considered un
 
 ### 5.3. Streaming Player POVs/Player Streams
 Players are more than welcome to broadcast their POVs on their own Twitch/YouTube channels. Please note, if you are invited onto the official broadcast, please follow their instructions, and do not broadcast behind the scenes of their broadcast.
+
+## 6. Servers
+### 6.1. Server Selection
+Server selection follows our [Global Ruleset server selection rules](#applicable-global-ruleset-rules) mentioned in the [Applicable Global Ruleset Rules](#applicable-global-ruleset-rules) section closely, with some additional rules specific to AHH. 
+
+Server region will always default to Sydney Australia. If two international teams are playing together, they are welcome to book an NA/EU/SEA serveme server of acceptable/comparable ping for both teams. If an OZF team is playing an international team, the default server region must be used.
