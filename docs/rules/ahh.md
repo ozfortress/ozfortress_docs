@@ -51,7 +51,7 @@ The AHH whitelist can be found [here](https://whitelist.tf/ozfortress_ahh). This
 Dropped weapons can be picked up - including any medigun.
 
 ### 1.3. Scoring
-For AHH, both PLR and KOTH maps should be scored as 1-0/0-1 on match pages. When submitting scores, please ensure you also submit the logs.tf link of your match/each map in your match in the Match Comms section, as well as a link to the ozfortress profile/s of any mercenaries/ringers used.
+For AHH, PLR (Payload Race) maps should be scored as 1-0 to the winning team on match pages. For KOTH (King of the Hill) maps, the score should be 3-0/3-1/3-2 to the winning team. When submitting scores, please ensure you also submit the logs.tf link of your match/each map in your match in the Match Comms section, as well as a link to the ozfortress profile/s of any mercenaries/ringers used.
 
 !!! warning "Submitting scores if your match used a Tiebreaker"
     Please note, if your match score was determined by a Tiebreaker as detailed in [1.4. Tiebreakers](#14-tiebreakers), you will need to take a screenshot of the cart capture/push progress shown on your HUD. If your match was determined by a kill tiebreaker, you will need to make note of that when submitting the logs.tf links. 
@@ -64,7 +64,7 @@ Each map will be played until a team has pushed the cart to a win/run their KOTH
 
 For PLR (Hightower and Helltower), if neither team manages to push the cart to a win, the match will end by map timelimit, and the team who pushed the their cart the furthest at the end of the map timelimit will win. If cart progress is tied at the end of the map timelimit, the match will be decided by the team who scored the most kills according to logs.tf logs. Please note, unlike typical Payload/Stopwatch matches, PLR is not played in any form of halves, it is "one and done".
 
-For KOTH (Snowtower), a team wins when their KOTH timer reaches zero, and the match ends.
+For KOTH (Snowtower), a team wins when their KOTH timer reaches zero, and the match ends when one team has won three (3) rounds.
 
 ### 1.5. Scheduling 
 Due to the time constraints surrounding AHH, once the server connect string is sent by one of the teams (preferably the Home team, but teams can decide between eachother), all players must immediately join the server. Failure to have nine players readied up in the server within five minutes of the match start time will result in a forfeit loss. Please contact an administrator via your Captains Discord match channel to claim your forfeit. Please note, administrators will use their discretion when awarding a forfeit.
