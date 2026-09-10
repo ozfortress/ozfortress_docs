@@ -11,7 +11,7 @@ Linking your Discord account to ozfortress.com can be done in just a few clicks:
 ![Discord Linking #3](/img/discord_linking_3.png)
 4. Once you click Authorise, your account will be linked to our website! You should see a "Discord account linked" notification at the top of your User settings page. There is one more step however.
 ![Discord Linking #4](/img/discord_linking_4.png)
-5. In any channel in our Team Captains Discord, you will need to run the `/sync` command. This links your Discord to ozfortress.com!
+5. Go to the `#setup` channel in our Team Captains Discord and click the "Sync with ozfortress" button. This will sync with the bot that runs this Discord, and you should all be setup and ready to receive roles when they are made, if you don't already have them.
 
 !!! warning "Please Note"
     **You're Discord ID will show on your user profile.** We are currently looking into hiding this to users who aren't logged in to ozfortress.com.
